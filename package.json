@@ -1,0 +1,56 @@
+{
+  "name": "@uhpenry/icons",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf ./dist && rollup -c --bundleConfigAsCjs",
+    "gen": "node ./package/gen/src/index.mjs",
+    "publish": "npm run build && npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uhpenry/icons.git"
+  },
+  "keywords": [
+    "uhpenry",
+    "icons",
+    "developer-icons",
+    "tech-icons",
+    "language-icons",
+    "framework-icons",
+    "colored-icons",
+    "typescript-icons",
+    "react-icons",
+    "open-source-icons",
+    "frontend-tools",
+    "ui-icons"
+  ],
+  "author": "Uhpenry",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/uhpenry/icons/issues"
+  },
+  "homepage": "https://github.com/uhpenry/icons#readme",
+  "description": "A modern, high-quality icon collection for developers, featuring vibrant technology, programming language, and framework icons designed for use across Uhpenry projects and beyond.",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-terser": "^0.4.4",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "@types/node": "^24.7.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "rimraf": "^6.0.1",
+    "rollup": "^4.29.1",
+    "rollup-plugin-dts": "^6.1.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
+  }
+}
