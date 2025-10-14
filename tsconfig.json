@@ -1,21 +1,21 @@
 {
   "compilerOptions": {
     "strict": true,
-    "baseUrl": ".",
-    "noEmit": true,
-    "jsx": "react",
-    "target": "ES5",
-    "allowJs": true,
-    "module": "esnext",
+    "noEmit": false,
+    "outDir": "dist",
+    "jsx": "react-jsx",
+    "target": "ES2020",
+    "module": "Node16",
+    "declaration": true,
     "skipLibCheck": true,
+    "declarationMap": true,
     "esModuleInterop": true,
     "isolatedModules": true,
     "resolveJsonModule": true,
-    "moduleResolution": "node",
-    "noFallthroughCasesInSwitch": true,
+    "moduleResolution": "Node16",
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true
   },
   "include": ["package"],
-  "exclude": ["node_modules", "package/apps"]
+  "exclude": ["node_modules", "example"]
 }

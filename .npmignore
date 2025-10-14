@@ -6,4 +6,5 @@ tsconfig.json
 app
 gen
 logo-svgs
-/package/apps
+example
+package

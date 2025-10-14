@@ -1,45 +1,47 @@
-# unsource-icons
+# @uhpenry/icons
 
 ## Overview
 
-`unsource-icons` is an open-source package providing developers with a library of beautifully crafted, fully colored, and customizable tech-related icons. The library includes icons for popular frameworks, libraries, programming languages, and more. Each icon represents its respective technology with vibrant and authentic branding colors, making them ideal for enhancing the aesthetics of your project.
+`@uhpenry/icons` is an open-source package providing developers with a library of beautifully crafted, fully colored, and customizable tech-related icons.  
+The library includes icons for popular frameworks, libraries, programming languages, and tools — each designed with authentic brand colors and modern aesthetics.
+
+Perfect for dashboards, landing pages, documentation, or any developer-focused UI.
 
 ---
 
-## Features
+## ✨ Features
 
-- **Extensive Library**: Icons for technologies like React.js, TailwindCSS, Docker, Python, and many more.
-- **Customizable Size**: Easily resize icons to suit your design needs.
-- **Fully Colored**: Icons come with standard colors representing their respective brands.
-- **Ease of Use**: Simple imports and straightforward integration.
+- **Extensive Library** – Icons for React, TailwindCSS, Docker, Python, and many more.
+- **Customizable Size** – Easily resize icons to fit your design.
+- **Fully Colored** – Brand-accurate and vibrant color palettes.
+- **Tree-Shakeable** – Import only what you need.
+- **Simple Integration** – Lightweight, React-friendly components.
 
 ---
 
-## Installation
+## 📦 Installation
 
-To install the package, run:
+Install via npm:
 
 ```bash
-npm install unsource-icons
+npm install @uhpenry/icons
 ```
 
-or
+or with yarn:
 
 ```bash
-yarn add unsource-icons
+yarn add @uhpenry/icons
 ```
 
 ---
 
-## Usage
+## 🧩 Usage
 
-### Basic Usage
-
-To use an icon, import it and render it in your React component:
+### Basic Example
 
 ```jsx
 import React from 'react';
-import { ReactJsIcon, TailwindCSSIcon } from 'unsource-icons';
+import { ReactJsIcon, TailwindCSSIcon } from '@uhpenry/icons';
 
 const App = () => (
   <div>
@@ -51,61 +53,73 @@ const App = () => (
 export default App;
 ```
 
+---
+
 ### Customizing Icons
 
-Icons can be resized and styled using props like `size` and `className`:
+Icons can be styled using `size`, `color`, and `className` props:
 
 ```jsx
-<ReactJsIcon size={60} className='custom-class' />
+<ReactJsIcon size={60} className='text-blue-500' />
 ```
 
 ---
 
-## API
+## 🧠 API
 
-### `Icon Components`
+### Icon Components
 
-All icons are available as individual React components. You can import only the icons you need to optimize bundle size.
+Each icon is available as an individual React component:
+
+```js
+import { DockerIcon, VueJsIcon } from '@uhpenry/icons';
+```
 
 ### `getIcon`
 
-Dynamically fetch an icon by name:
+Dynamically retrieve an icon by name:
 
-```javascript
-import { getIcon } from 'unsource-icons';
+```js
+import { getIcon } from '@uhpenry/icons';
 
-const MyIcon = getIcon('React.js');
+const Icon = getIcon('ReactJs');
 ```
 
 ---
 
-## Available Icons
+## 🗂️ Available Icons
 
-The library includes icons for various categories, such as:
+Includes categories such as:
 
-- **Frameworks**: React.js, Angular.js, Vue.js, Svelte, Next.js
-- **Programming Languages**: JavaScript, Python, Java, Ruby, PHP, Go, Rust
+- **Frameworks**: React, Next.js, Vue, Angular, Svelte
+- **Languages**: JavaScript, Python, Java, PHP, Go, Rust
 - **Tools**: Docker, Webpack, Vite, Rollup, Git
 - **CSS Frameworks**: TailwindCSS, Material UI, Ant Design
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
-We welcome contributions! If you want to add more icons or improve the package, feel free to:
+Contributions are welcome!
+If you’d like to add more icons or improve existing ones:
 
 1. Fork the repository.
 2. Make your changes.
-3. Open a pull request.
+3. Submit a pull request.
 
 ---
 
-## License
+## ⚖️ License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Feedback
+## 💬 Feedback
 
-We’d love to hear your thoughts! Reach out with feedback or feature requests to help us improve the package.
+We’d love to hear from you!
+Share ideas, feedback, or requests via [GitHub Issues](https://github.com/uhpenry/uhpenry-icons/issues).
+
+---
+
+> Built and maintained by the Uhpenry team — empowering developers to build faster and look better.

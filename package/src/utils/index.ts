@@ -110,7 +110,7 @@ import {
   SymfonyIcon,
   TailwindCSSIcon,
   TypeScriptIcon,
-  UnsrcIcon,
+  UhpenryIcon,
   VercelIcon,
   VertXIcon,
   ViteIcon,
@@ -132,160 +132,1160 @@ import {
   PipIcon,
   PoetryIcon,
   VcpkgIcon,
+  AdyenIcon,
+  AmazonPayIcon,
+  ApexChartsIcon,
+  AuthorizeNetIcon,
+  BlueSnapIcon,
+  ChartJsIcon,
+  D3JsIcon,
+  DwollaIcon,
+  HighchartsIcon,
+  PaddleIcon,
+  PayPalIcon,
+  PlotlyIcon,
+  PresetIcon,
+  SamsungPayIcon,
+  SquareIcon,
+  StripeIcon,
+  TwoCheckoutIcon,
+  WorldPayIcon,
 } from '../icons';
-import { IconNameType } from '../types';
+import { IconEntry, IconNameType, IconType } from '../types';
 
-export const library = {
-  'C++': CsharpIcon,
-  Java: JavaIcon,
-  Python: PythonIcon,
-  JavaScript: JavaScriptIcon,
-  Ruby: RubyIcon,
-  Perl: PerlIcon,
-  PHP: PHPIcon,
-  Swift: SwiftIcon,
-  TypeScript: TypeScriptIcon,
-  Kotlin: KotlinIcon,
-  Go: GoLangIcon,
-  Rust: RustIcon,
-  R: RIcon,
-  MATLAB: MATLABIcon,
-  Lua: LuaIcon,
-  Scala: ScalaIcon,
-  Dart: DartIcon,
-  Julia: JuliaIcon,
-  Bash: BashIcon,
-  PowerShell: PowershellIcon,
-  HTML: HTMLIcon,
-  CSS: CSSIcon,
-  XML: XMLIcon,
-  Markdown: MarkdownIcon,
-  'Tailwind CSS': TailwindCSSIcon,
-  'Material UI': MaterialIcon,
-  'Framer Motion': FramerMotionIcon,
-  GSAP: GSAPIcon,
-  Lottie: LottieIcon,
-  'React Spring': ReactSpringIcon,
-  'Shadcn/ui': ShadcnUIIcon,
-  'Radix UI': RadixUIIcon,
-  'Headless UI': HeadlessUIIcon,
-  'Ant Design': AntDesignIcon,
-  'Phosphor Icons': PhosphorIcon,
-  'Lucide Icons': LucideIcon,
-  'Hero Icons': HeroIcon,
-  'Material Icons': MaterialIcon,
-  Storybook: StorybookIcon,
-  'Style Dictionary': StyleDictionaryIcon,
-  'Styled Components': StyledComponentsIcon,
-  Emotion: EmotionCSSIcon,
-  'CSS Modules': CSSIcon,
-  Stitches: StitchesIcon,
-  'API Development': APIIcon,
-  'Alpine.js': AlpineJsIcon,
-  'Angular.js': AngularJsIcon,
-  Astro: AstroIcon,
-  Aurelia: AureliaIcon,
-  'Backbone.js': BackboneJsIcon,
-  'Cycle.js': CycleJsIcon,
-  Elm: ElmIcon,
-  'Ember.js': EmberIcon,
-  Hyperapp: HyperAppIcon,
-  'Knockout.js': KnockoutJsIcon,
-  Lit: LitIcon,
-  Marko: MarkoIcon,
-  Mercury: MercuryIcon,
-  Meteor: MeteorJsIcon,
-  'Mithril.js': MithrilJsIcon,
-  'Moon.js': MoonJsIcon,
-  Preact: PreactIcon,
-  Qwik: QwikIcon,
-  'React.js': ReactJsIcon,
-  'Riot.js': RiotJsIcon,
-  'Solid.js': SolidJsIcon,
-  Stencil: StencilIcon,
-  Stimulus: StimulusIcon,
-  Svelte: SvelteIcon,
-  'Vue.js': VueJsIcon,
-  'Next.js': NextJsIcon,
-  Gatsby: GatsbyIcon,
-  Remix: RemixIcon,
-  'Blitz.js': BlitzJSIcon,
-  Razzle: RazzleIcon,
-  RedwoodJS: RedwoodJSIcon,
-  Refine: RefineIcon,
-  Wasp: WaspIcon,
-  Hydrogen: HydrogenIcon,
-  'Nuxt.js': NuxtJsIcon,
-  Gridsome: GridsomeIcon,
-  Quasar: QuasarIcon,
-  VuePress: VueJsIcon,
-  'Vue Storefront': VueJsIcon,
-  SvelteKit: SvelteIcon,
-  SolidStart: SolidJsIcon,
-  Scully: ScullyIcon,
-  'Angular Universal': AngularJsIcon,
-  Docker: DockerIcon,
-  'Docker Swarm': DockerIcon,
-  'Docker Hub': DockerIcon,
-  MAMP: MAMPIcon,
-  XAMPP: XAMPPIcon,
-  Webpack: WebpackIcon,
-  Vite: ViteIcon,
-  Rollup: RollupIcon,
-  Vercel: VercelIcon,
-  Netlify: NetlifyIcon,
-  'Cloudflare Pages': CloudflareIcon,
-  npm: NpmIcon,
-  yarn: YarnIcon,
-  pnpm: PnpmIcon,
-  'Express.js': ExpressJsIcon,
-  Django: DjangoIcon,
-  'Ruby on Rails': RubyOnRailsIcon,
-  Laravel: LaravelIcon,
-  'Spring Boot': SpringBootIcon,
-  'ASP.NET Core': ASPNETCoreIcon,
-  FastAPI: FastAPIIcon,
-  NestJS: NestJsIcon,
-  Flask: FlaskIcon,
-  Phoenix: PhoenixIcon,
-  Symfony: SymfonyIcon,
-  Gin: GinIcon,
-  CodeIgniter: CodeIgniterIcon,
-  Echo: EchoIcon,
-  Fiber: FiberIcon,
-  'Hapi.js': HapiIcon,
-  Fastify: FastifyIcon,
-  AdonisJS: AdonisJSIcon,
-  CakePHP: CakePHPIcon,
-  Rocket: RocketIcon,
-  Actix: ActixIcon,
-  'Play Framework': PlayScalaIcon,
-  Quarkus: QuarkusIcon,
-  'Vert.x': VertXIcon,
-  Grails: GrailsIcon,
-  Loopback: LoopbackIcon,
-  'Feathers.js': FeathersJsIcon,
-  default: UnsrcIcon,
+export const ICON_LIBRARY = [
+  {
+    main: 'C++',
+    aliases: ['c++', 'cpp', 'c-plus-plus', 'cplus', 'cplusplus'],
+    icon: CsharpIcon,
+  },
+  {
+    main: 'Adyen',
+    aliases: ['adyen', 'adyen-payment', 'adyen-gateway', 'ady', 'adyen-pay'],
+    icon: AdyenIcon,
+  },
+  {
+    main: 'Amazon Pay',
+    aliases: [
+      'amazon-pay',
+      'amazonpay',
+      'amazon-payment',
+      'amz-pay',
+      'amazon-payments',
+    ],
+    icon: AmazonPayIcon,
+  },
+  {
+    main: 'ApexCharts',
+    aliases: ['apexcharts', 'apex-charts', 'apex', 'apex-js', 'apex-charts-js'],
+    icon: ApexChartsIcon,
+  },
+  {
+    main: 'Authorize.Net',
+    aliases: [
+      'authorize-net',
+      'authorizenet',
+      'authorize',
+      'auth-net',
+      'authorize-payment',
+    ],
+    icon: AuthorizeNetIcon,
+  },
+  {
+    main: 'BlueSnap',
+    aliases: [
+      'bluesnap',
+      'blue-snap',
+      'bluesnap-payment',
+      'bsnap',
+      'blue-snap-pay',
+    ],
+    icon: BlueSnapIcon,
+  },
+  {
+    main: 'Chart.js',
+    aliases: ['chartjs', 'chart-js', 'charts', 'chart-javascript', 'cjs'],
+    icon: ChartJsIcon,
+  },
+  {
+    main: 'D3.js',
+    aliases: ['d3js', 'd3-js', 'd3', 'd3-javascript', 'd3-data'],
+    icon: D3JsIcon,
+  },
+  {
+    main: 'Dwolla',
+    aliases: [
+      'dwolla',
+      'dwolla-payment',
+      'dwolla-gateway',
+      'dwl',
+      'dwolla-pay',
+    ],
+    icon: DwollaIcon,
+  },
+  {
+    main: 'Highcharts',
+    aliases: ['highcharts', 'high-charts', 'hcharts', 'highcharts-js', 'hc-js'],
+    icon: HighchartsIcon,
+  },
+  {
+    main: 'Paddle',
+    aliases: [
+      'paddle',
+      'paddle-payment',
+      'paddle-gateway',
+      'pad',
+      'paddle-pay',
+    ],
+    icon: PaddleIcon,
+  },
+  {
+    main: 'PayPal',
+    aliases: ['paypal', 'paypal-payment', 'paypal-gateway', 'ppay', 'pay-pal'],
+    icon: PayPalIcon,
+  },
+  {
+    main: 'Plotly',
+    aliases: ['plotly', 'plotly-js', 'plotly-charts', 'plot', 'plotly-data'],
+    icon: PlotlyIcon,
+  },
+  {
+    main: 'Preset',
+    aliases: ['preset', 'preset-js', 'preset-charts', 'prs', 'preset-data'],
+    icon: PresetIcon,
+  },
+  {
+    main: 'Samsung Pay',
+    aliases: [
+      'samsung-pay',
+      'samsungpay',
+      'samsung-payment',
+      'spay',
+      'samsung-payments',
+    ],
+    icon: SamsungPayIcon,
+  },
+  {
+    main: 'Square',
+    aliases: [
+      'square',
+      'square-payment',
+      'square-gateway',
+      'sqr',
+      'square-pay',
+    ],
+    icon: SquareIcon,
+  },
+  {
+    main: 'Stripe',
+    aliases: [
+      'stripe',
+      'stripe-payment',
+      'stripe-gateway',
+      'str',
+      'stripe-pay',
+    ],
+    icon: StripeIcon,
+  },
+  {
+    main: '2Checkout',
+    aliases: [
+      '2checkout',
+      'two-checkout',
+      '2co',
+      '2checkout-payment',
+      'two-co',
+    ],
+    icon: TwoCheckoutIcon,
+  },
+  {
+    main: 'WorldPay',
+    aliases: [
+      'worldpay',
+      'world-pay',
+      'wpay',
+      'worldpay-payment',
+      'world-pay-gateway',
+    ],
+    icon: WorldPayIcon,
+  },
+  {
+    main: 'Java',
+    aliases: ['java', 'jvm', 'java-lang', 'javax', 'java-language'],
+    icon: JavaIcon,
+  },
+  {
+    main: 'Python',
+    aliases: ['python', 'py', 'python3', 'py3', 'python-lang'],
+    icon: PythonIcon,
+  },
+  {
+    main: 'JavaScript',
+    aliases: ['javascript', 'js', 'java-script', 'ecmascript', 'es'],
+    icon: JavaScriptIcon,
+  },
+  {
+    main: 'Ruby',
+    aliases: ['ruby', 'rb', 'ruby-lang', 'ruby-language', 'rubylang'],
+    icon: RubyIcon,
+  },
+  {
+    main: 'Perl',
+    aliases: ['perl', 'pl', 'perl-lang', 'perl5', 'perl-language'],
+    icon: PerlIcon,
+  },
+  {
+    main: 'PHP',
+    aliases: ['php', 'php-lang', 'hypertext-preprocessor', 'php7', 'php8'],
+    icon: PHPIcon,
+  },
+  {
+    main: 'Swift',
+    aliases: ['swift', 'swift-lang', 'swift-language', 'apple-swift', 'swift5'],
+    icon: SwiftIcon,
+  },
+  {
+    main: 'TypeScript',
+    aliases: ['typescript', 'ts', 'type-script', 'ts-lang', 'typescript-lang'],
+    icon: TypeScriptIcon,
+  },
+  {
+    main: 'Kotlin',
+    aliases: ['kotlin', 'kt', 'kotlin-lang', 'kotlin-language', 'kot'],
+    icon: KotlinIcon,
+  },
+  {
+    main: 'Go',
+    aliases: ['go', 'golang', 'go-lang', 'golang-lang', 'go-language'],
+    icon: GoLangIcon,
+  },
+  {
+    main: 'Rust',
+    aliases: ['rust', 'rs', 'rust-lang', 'rust-language', 'rustlang'],
+    icon: RustIcon,
+  },
+  {
+    main: 'R',
+    aliases: ['r', 'r-lang', 'r-language', 'rstats', 'r-programming'],
+    icon: RIcon,
+  },
+  {
+    main: 'MATLAB',
+    aliases: ['matlab', 'mat-lab', 'matlab-lang', 'mathlab', 'matlab-language'],
+    icon: MATLABIcon,
+  },
+  {
+    main: 'Lua',
+    aliases: ['lua', 'lua-lang', 'lua-language', 'lualang', 'lua-script'],
+    icon: LuaIcon,
+  },
+  {
+    main: 'Scala',
+    aliases: [
+      'scala',
+      'scala-lang',
+      'scala-language',
+      'scalalang',
+      'scala-script',
+    ],
+    icon: ScalaIcon,
+  },
+  {
+    main: 'Dart',
+    aliases: ['dart', 'dart-lang', 'dart-language', 'dartlang', 'dart-script'],
+    icon: DartIcon,
+  },
+  {
+    main: 'Julia',
+    aliases: [
+      'julia',
+      'julia-lang',
+      'julia-language',
+      'julialang',
+      'julia-script',
+    ],
+    icon: JuliaIcon,
+  },
+  {
+    main: 'Bash',
+    aliases: ['bash', 'sh', 'bash-script', 'shell', 'bash-shell'],
+    icon: BashIcon,
+  },
+  {
+    main: 'PowerShell',
+    aliases: ['powershell', 'ps', 'power-shell', 'psh', 'powershell-script'],
+    icon: PowershellIcon,
+  },
+  {
+    main: 'HTML',
+    aliases: [
+      'html',
+      'html5',
+      'hypertext-markup',
+      'html-lang',
+      'html-language',
+    ],
+    icon: HTMLIcon,
+  },
+  {
+    main: 'CSS',
+    aliases: [
+      'css',
+      'css3',
+      'cascading-style-sheets',
+      'css-lang',
+      'css-language',
+    ],
+    icon: CSSIcon,
+  },
+  {
+    main: 'XML',
+    aliases: [
+      'xml',
+      'extensible-markup',
+      'xml-lang',
+      'xml-language',
+      'xml-data',
+    ],
+    icon: XMLIcon,
+  },
+  {
+    main: 'Markdown',
+    aliases: ['markdown', 'md', 'mark-down', 'md-lang', 'markdown-lang'],
+    icon: MarkdownIcon,
+  },
+  {
+    main: 'Tailwind CSS',
+    aliases: [
+      'tailwind',
+      'tailwindcss',
+      'tailwind-css',
+      'twcss',
+      'tailwind-styles',
+    ],
+    icon: TailwindCSSIcon,
+  },
+  {
+    main: 'Material UI',
+    aliases: ['material-ui', 'mui', 'materialui', 'material-design', 'mui-ui'],
+    icon: MaterialIcon,
+  },
+  {
+    main: 'Framer Motion',
+    aliases: [
+      'framer-motion',
+      'framer',
+      'framermotion',
+      'framer-anim',
+      'motion-ui',
+    ],
+    icon: FramerMotionIcon,
+  },
+  {
+    main: 'GSAP',
+    aliases: [
+      'gsap',
+      'greensock',
+      'gsap-animation',
+      'greensock-anim',
+      'gsap-js',
+    ],
+    icon: GSAPIcon,
+  },
+  {
+    main: 'Lottie',
+    aliases: [
+      'lottie',
+      'lottie-anim',
+      'lottie-animation',
+      'lottie-files',
+      'lottie-js',
+    ],
+    icon: LottieIcon,
+  },
+  {
+    main: 'React Spring',
+    aliases: [
+      'react-spring',
+      'react-spring',
+      'react-spring-anim',
+      'react-animation',
+      'spring-js',
+    ],
+    icon: ReactSpringIcon,
+  },
+  {
+    main: 'Shadcn/ui',
+    aliases: [
+      'shadcn',
+      'shadcn-ui',
+      'shadcnui',
+      'shadcn-components',
+      'ui-shadcn',
+    ],
+    icon: ShadcnUIIcon,
+  },
+  {
+    main: 'Radix UI',
+    aliases: ['radix', 'radix-ui', 'radixui', 'radix-components', 'ui-radix'],
+    icon: RadixUIIcon,
+  },
+  {
+    main: 'Headless UI',
+    aliases: [
+      'headless',
+      'headless-ui',
+      'headlessui',
+      'headless-components',
+      'ui-headless',
+    ],
+    icon: HeadlessUIIcon,
+  },
+  {
+    main: 'Ant Design',
+    aliases: ['ant-design', 'antd', 'antdesign', 'ant-ui', 'ant-components'],
+    icon: AntDesignIcon,
+  },
+  {
+    main: 'Phosphor Icons',
+    aliases: [
+      'phosphor',
+      'phosphor-icons',
+      'phosphoricons',
+      'phosphor-ui',
+      'icons-phosphor',
+    ],
+    icon: PhosphorIcon,
+  },
+  {
+    main: 'Lucide Icons',
+    aliases: [
+      'lucide',
+      'lucide-icons',
+      'lucideicons',
+      'lucide-ui',
+      'icons-lucide',
+    ],
+    icon: LucideIcon,
+  },
+  {
+    main: 'Hero Icons',
+    aliases: ['hero', 'hero-icons', 'heroicons', 'hero-ui', 'icons-hero'],
+    icon: HeroIcon,
+  },
+  {
+    main: 'Material Icons',
+    aliases: [
+      'material-icons',
+      'materialicons',
+      'material-ui-icons',
+      'icons-material',
+      'mui-icons',
+    ],
+    icon: MaterialIcon,
+  },
+  {
+    main: 'Storybook',
+    aliases: [
+      'storybook',
+      'story-book',
+      'storybook-ui',
+      'storybook-components',
+      'sb',
+    ],
+    icon: StorybookIcon,
+  },
+  {
+    main: 'Style Dictionary',
+    aliases: [
+      'style-dictionary',
+      'styledictionary',
+      'style-dict',
+      'styles-dictionary',
+      'sd',
+    ],
+    icon: StyleDictionaryIcon,
+  },
+  {
+    main: 'Styled Components',
+    aliases: [
+      'styled-components',
+      'styledcomponents',
+      'styled-comp',
+      'styled',
+      'styled-js',
+    ],
+    icon: StyledComponentsIcon,
+  },
+  {
+    main: 'Emotion',
+    aliases: [
+      'emotion',
+      'emotion-css',
+      'emotioncss',
+      'emotion-js',
+      'css-emotion',
+    ],
+    icon: EmotionCSSIcon,
+  },
+  {
+    main: 'CSS Modules',
+    aliases: ['css-modules', 'cssmodules', 'css-mod', 'modules-css', 'cssm'],
+    icon: CSSIcon,
+  },
+  {
+    main: 'Stitches',
+    aliases: [
+      'stitches',
+      'stitches-css',
+      'stitchescss',
+      'stitches-js',
+      'css-stitches',
+    ],
+    icon: StitchesIcon,
+  },
+  {
+    main: 'API Development',
+    aliases: ['api', 'api-dev', 'api-development', 'rest-api', 'api-tools'],
+    icon: APIIcon,
+  },
+  {
+    main: 'Alpine.js',
+    aliases: ['alpine', 'alpinejs', 'alpine-js', 'alpine-javascript', 'alp'],
+    icon: AlpineJsIcon,
+  },
+  {
+    main: 'Angular.js',
+    aliases: ['angular', 'angularjs', 'angular-js', 'angular-javascript', 'ng'],
+    icon: AngularJsIcon,
+  },
+  {
+    main: 'Astro',
+    aliases: ['astro', 'astrojs', 'astro-js', 'astro-framework', 'astro-web'],
+    icon: AstroIcon,
+  },
+  {
+    main: 'Aurelia',
+    aliases: ['aurelia', 'aureliajs', 'aurelia-js', 'aurelia-framework', 'aur'],
+    icon: AureliaIcon,
+  },
+  {
+    main: 'Backbone.js',
+    aliases: [
+      'backbone',
+      'backbonejs',
+      'backbone-js',
+      'backbone-javascript',
+      'bb',
+    ],
+    icon: BackboneJsIcon,
+  },
+  {
+    main: 'Cycle.js',
+    aliases: ['cycle', 'cyclejs', 'cycle-js', 'cycle-javascript', 'cjs'],
+    icon: CycleJsIcon,
+  },
+  {
+    main: 'Elm',
+    aliases: ['elm', 'elm-lang', 'elm-language', 'elmlang', 'elm-script'],
+    icon: ElmIcon,
+  },
+  {
+    main: 'Ember.js',
+    aliases: ['ember', 'emberjs', 'ember-js', 'ember-javascript', 'em'],
+    icon: EmberIcon,
+  },
+  {
+    main: 'Hyperapp',
+    aliases: ['hyperapp', 'hyper-app', 'hyperapp-js', 'hyper-js', 'happ'],
+    icon: HyperAppIcon,
+  },
+  {
+    main: 'Knockout.js',
+    aliases: [
+      'knockout',
+      'knockoutjs',
+      'knockout-js',
+      'knockout-javascript',
+      'ko',
+    ],
+    icon: KnockoutJsIcon,
+  },
+  {
+    main: 'Lit',
+    aliases: ['lit', 'lit-js', 'lit-javascript', 'lit-framework', 'lit-web'],
+    icon: LitIcon,
+  },
+  {
+    main: 'Marko',
+    aliases: ['marko', 'markojs', 'marko-js', 'marko-framework', 'mjs'],
+    icon: MarkoIcon,
+  },
+  {
+    main: 'Mercury',
+    aliases: [
+      'mercury',
+      'mercuryjs',
+      'mercury-js',
+      'mercury-framework',
+      'merc',
+    ],
+    icon: MercuryIcon,
+  },
+  {
+    main: 'Meteor',
+    aliases: ['meteor', 'meteorjs', 'meteor-js', 'meteor-javascript', 'mtr'],
+    icon: MeteorJsIcon,
+  },
+  {
+    main: 'Mithril.js',
+    aliases: [
+      'mithril',
+      'mithriljs',
+      'mithril-js',
+      'mithril-javascript',
+      'mjs',
+    ],
+    icon: MithrilJsIcon,
+  },
+  {
+    main: 'Moon.js',
+    aliases: ['moon', 'moonjs', 'moon-js', 'moon-javascript', 'mjs'],
+    icon: MoonJsIcon,
+  },
+  {
+    main: 'Preact',
+    aliases: ['preact', 'preactjs', 'preact-js', 'preact-javascript', 'pre'],
+    icon: PreactIcon,
+  },
+  {
+    main: 'Qwik',
+    aliases: ['qwik', 'qwikjs', 'qwik-js', 'qwik-framework', 'qwk'],
+    icon: QwikIcon,
+  },
+  {
+    main: 'React.js',
+    aliases: ['react', 'reactjs', 'react-js', 'react-javascript', 'rjs'],
+    icon: ReactJsIcon,
+  },
+  {
+    main: 'Riot.js',
+    aliases: ['riot', 'riotjs', 'riot-js', 'riot-javascript', 'rjs'],
+    icon: RiotJsIcon,
+  },
+  {
+    main: 'Solid.js',
+    aliases: ['solid', 'solidjs', 'solid-js', 'solid-javascript', 'sjs'],
+    icon: SolidJsIcon,
+  },
+  {
+    main: 'Stencil',
+    aliases: ['stencil', 'stenciljs', 'stencil-js', 'stencil-framework', 'stn'],
+    icon: StencilIcon,
+  },
+  {
+    main: 'Stimulus',
+    aliases: [
+      'stimulus',
+      'stimulusjs',
+      'stimulus-js',
+      'stimulus-framework',
+      'stm',
+    ],
+    icon: StimulusIcon,
+  },
+  {
+    main: 'Svelte',
+    aliases: ['svelte', 'sveltejs', 'svelte-js', 'svelte-framework', 'svt'],
+    icon: SvelteIcon,
+  },
+  {
+    main: 'Vue.js',
+    aliases: ['vue', 'vuejs', 'vue-js', 'vue-javascript', 'vjs'],
+    icon: VueJsIcon,
+  },
+  {
+    main: 'Next.js',
+    aliases: ['next', 'nextjs', 'next-js', 'next-javascript', 'njs'],
+    icon: NextJsIcon,
+  },
+  {
+    main: 'Gatsby',
+    aliases: ['gatsby', 'gatsbyjs', 'gatsby-js', 'gatsby-framework', 'gts'],
+    icon: GatsbyIcon,
+  },
+  {
+    main: 'Remix',
+    aliases: ['remix', 'remixjs', 'remix-js', 'remix-framework', 'rmx'],
+    icon: RemixIcon,
+  },
+  {
+    main: 'Blitz.js',
+    aliases: ['blitz', 'blitzjs', 'blitz-js', 'blitz-javascript', 'blz'],
+    icon: BlitzJSIcon,
+  },
+  {
+    main: 'Razzle',
+    aliases: ['razzle', 'razzlejs', 'razzle-js', 'razzle-framework', 'rzl'],
+    icon: RazzleIcon,
+  },
+  {
+    main: 'RedwoodJS',
+    aliases: ['redwood', 'redwoodjs', 'redwood-js', 'redwood-framework', 'rwd'],
+    icon: RedwoodJSIcon,
+  },
+  {
+    main: 'Refine',
+    aliases: ['refine', 'refinejs', 'refine-js', 'refine-framework', 'rfn'],
+    icon: RefineIcon,
+  },
+  {
+    main: 'Wasp',
+    aliases: ['wasp', 'waspjs', 'wasp-js', 'wasp-framework', 'wsp'],
+    icon: WaspIcon,
+  },
+  {
+    main: 'Hydrogen',
+    aliases: [
+      'hydrogen',
+      'hydrogenjs',
+      'hydrogen-js',
+      'hydrogen-framework',
+      'hyd',
+    ],
+    icon: HydrogenIcon,
+  },
+  {
+    main: 'Nuxt.js',
+    aliases: ['nuxt', 'nuxtjs', 'nuxt-js', 'nuxt-javascript', 'nxt'],
+    icon: NuxtJsIcon,
+  },
+  {
+    main: 'Gridsome',
+    aliases: [
+      'gridsome',
+      'gridsomejs',
+      'gridsome-js',
+      'gridsome-framework',
+      'grd',
+    ],
+    icon: GridsomeIcon,
+  },
+  {
+    main: 'Quasar',
+    aliases: ['quasar', 'quasarjs', 'quasar-js', 'quasar-framework', 'qsr'],
+    icon: QuasarIcon,
+  },
+  {
+    main: 'VuePress',
+    aliases: [
+      'vuepress',
+      'vue-press',
+      'vuepress-js',
+      'vuepress-framework',
+      'vpr',
+    ],
+    icon: VueJsIcon,
+  },
+  {
+    main: 'Vue Storefront',
+    aliases: [
+      'vuestorefront',
+      'vue-storefront',
+      'vuestore',
+      'vue-store',
+      'vsf',
+    ],
+    icon: VueJsIcon,
+  },
+  {
+    main: 'SvelteKit',
+    aliases: [
+      'sveltekit',
+      'svelte-kit',
+      'sveltekit-js',
+      'sveltekit-framework',
+      'svk',
+    ],
+    icon: SvelteIcon,
+  },
+  {
+    main: 'SolidStart',
+    aliases: [
+      'solidstart',
+      'solid-start',
+      'solidstart-js',
+      'solidstart-framework',
+      'sst',
+    ],
+    icon: SolidJsIcon,
+  },
+  {
+    main: 'Scully',
+    aliases: ['scully', 'scullyjs', 'scully-js', 'scully-framework', 'scl'],
+    icon: ScullyIcon,
+  },
+  {
+    main: 'Angular Universal',
+    aliases: [
+      'angular-universal',
+      'angularuniversal',
+      'ng-universal',
+      'angular-server',
+      'ngu',
+    ],
+    icon: AngularJsIcon,
+  },
+  {
+    main: 'Docker',
+    aliases: [
+      'docker',
+      'docker-container',
+      'dockerize',
+      'docker-platform',
+      'dkr',
+    ],
+    icon: DockerIcon,
+  },
+  {
+    main: 'Docker Swarm',
+    aliases: ['docker-swarm', 'dockerswarm', 'docker-cluster', 'swarm', 'dsw'],
+    icon: DockerIcon,
+  },
+  {
+    main: 'Docker Hub',
+    aliases: [
+      'docker-hub',
+      'dockerhub',
+      'docker-registry',
+      'dhub',
+      'docker-repo',
+    ],
+    icon: DockerIcon,
+  },
+  {
+    main: 'MAMP',
+    aliases: ['mamp', 'mamp-stack', 'mamp-server', 'mamp-dev', 'mmp'],
+    icon: MAMPIcon,
+  },
+  {
+    main: 'XAMPP',
+    aliases: ['xampp', 'xampp-stack', 'xampp-server', 'xampp-dev', 'xmp'],
+    icon: XAMPPIcon,
+  },
+  {
+    main: 'Webpack',
+    aliases: ['webpack', 'wp', 'webpack-js', 'webpack-bundler', 'wpk'],
+    icon: WebpackIcon,
+  },
+  {
+    main: 'Vite',
+    aliases: ['vite', 'vitejs', 'vite-js', 'vite-bundler', 'vte'],
+    icon: ViteIcon,
+  },
+  {
+    main: 'Rollup',
+    aliases: ['rollup', 'rollupjs', 'rollup-js', 'rollup-bundler', 'rlp'],
+    icon: RollupIcon,
+  },
+  {
+    main: 'Vercel',
+    aliases: [
+      'vercel',
+      'vercel-platform',
+      'vercel-deploy',
+      'vcl',
+      'vercel-host',
+    ],
+    icon: VercelIcon,
+  },
+  {
+    main: 'Netlify',
+    aliases: [
+      'netlify',
+      'netlify-platform',
+      'netlify-deploy',
+      'ntf',
+      'netlify-host',
+    ],
+    icon: NetlifyIcon,
+  },
+  {
+    main: 'Cloudflare Pages',
+    aliases: [
+      'cloudflare',
+      'cloudflare-pages',
+      'cf-pages',
+      'cloudflare-host',
+      'cfp',
+    ],
+    icon: CloudflareIcon,
+  },
+  {
+    main: 'npm',
+    aliases: ['npm', 'node-package-manager', 'npmjs', 'npm-package', 'njs'],
+    icon: NpmIcon,
+  },
+  {
+    main: 'yarn',
+    aliases: ['yarn', 'yarn-package', 'yarnjs', 'yarn-pm', 'yrn'],
+    icon: YarnIcon,
+  },
+  {
+    main: 'pnpm',
+    aliases: ['pnpm', 'pnpm-package', 'pnpmjs', 'pnpm-pm', 'pnm'],
+    icon: PnpmIcon,
+  },
+  {
+    main: 'Express.js',
+    aliases: ['express', 'expressjs', 'express-js', 'express-framework', 'exp'],
+    icon: ExpressJsIcon,
+  },
+  {
+    main: 'Django',
+    aliases: [
+      'django',
+      'django-framework',
+      'django-py',
+      'django-python',
+      'djg',
+    ],
+    icon: DjangoIcon,
+  },
+  {
+    main: 'Ruby on Rails',
+    aliases: ['rails', 'ruby-on-rails', 'ror', 'rails-framework', 'rby'],
+    icon: RubyOnRailsIcon,
+  },
+  {
+    main: 'Laravel',
+    aliases: ['laravel', 'laravel-framework', 'laravel-php', 'lar', 'lrv'],
+    icon: LaravelIcon,
+  },
+  {
+    main: 'Spring Boot',
+    aliases: ['spring-boot', 'springboot', 'spring', 'spring-framework', 'spb'],
+    icon: SpringBootIcon,
+  },
+  {
+    main: 'ASP.NET Core',
+    aliases: ['aspnet', 'aspnet-core', 'asp-net', 'aspnetcore', 'asp'],
+    icon: ASPNETCoreIcon,
+  },
+  {
+    main: 'FastAPI',
+    aliases: ['fastapi', 'fast-api', 'fastapi-py', 'fastapi-python', 'fapi'],
+    icon: FastAPIIcon,
+  },
+  {
+    main: 'NestJS',
+    aliases: ['nestjs', 'nest-js', 'nest', 'nest-framework', 'nst'],
+    icon: NestJsIcon,
+  },
+  {
+    main: 'Flask',
+    aliases: ['flask', 'flask-py', 'flask-python', 'flask-framework', 'flk'],
+    icon: FlaskIcon,
+  },
+  {
+    main: 'Phoenix',
+    aliases: ['phoenix', 'phoenix-framework', 'phoenix-elixir', 'phx', 'pnx'],
+    icon: PhoenixIcon,
+  },
+  {
+    main: 'Symfony',
+    aliases: ['symfony', 'symfony-framework', 'symfony-php', 'sym', 'sfy'],
+    icon: SymfonyIcon,
+  },
+  {
+    main: 'Gin',
+    aliases: ['gin', 'gin-gonic', 'gin-go', 'gin-framework', 'gn'],
+    icon: GinIcon,
+  },
+  {
+    main: 'CodeIgniter',
+    aliases: ['codeigniter', 'code-igniter', 'ci', 'codeigniter-php', 'cig'],
+    icon: CodeIgniterIcon,
+  },
+  {
+    main: 'Echo',
+    aliases: ['echo', 'echo-go', 'echo-framework', 'ech', 'ego'],
+    icon: EchoIcon,
+  },
+  {
+    main: 'Fiber',
+    aliases: ['fiber', 'fiber-go', 'fiber-framework', 'fbr', 'fgo'],
+    icon: FiberIcon,
+  },
+  {
+    main: 'Hapi.js',
+    aliases: ['hapi', 'hapijs', 'hapi-js', 'hapi-framework', 'hpj'],
+    icon: HapiIcon,
+  },
+  {
+    main: 'Fastify',
+    aliases: ['fastify', 'fastify-js', 'fastify-framework', 'fst', 'fjs'],
+    icon: FastifyIcon,
+  },
+  {
+    main: 'AdonisJS',
+    aliases: ['adonis', 'adonisjs', 'adonis-js', 'adonis-framework', 'adj'],
+    icon: AdonisJSIcon,
+  },
+  {
+    main: 'CakePHP',
+    aliases: ['cakephp', 'cake-php', 'cake', 'cakephp-framework', 'ckp'],
+    icon: CakePHPIcon,
+  },
+  {
+    main: 'Rocket',
+    aliases: ['rocket', 'rocket-rs', 'rocket-rust', 'rocket-framework', 'rkt'],
+    icon: RocketIcon,
+  },
+  {
+    main: 'Actix',
+    aliases: ['actix', 'actix-rs', 'actix-rust', 'actix-framework', 'atx'],
+    icon: ActixIcon,
+  },
+  {
+    main: 'Play Framework',
+    aliases: ['play', 'play-framework', 'play-scala', 'play-java', 'plf'],
+    icon: PlayScalaIcon,
+  },
+  {
+    main: 'Quarkus',
+    aliases: ['quarkus', 'quarkus-java', 'quarkus-framework', 'qks', 'qrk'],
+    icon: QuarkusIcon,
+  },
+  {
+    main: 'Vert.x',
+    aliases: ['vertx', 'vert-x', 'vertx-java', 'vertx-framework', 'vtx'],
+    icon: VertXIcon,
+  },
+  {
+    main: 'Grails',
+    aliases: ['grails', 'grails-framework', 'grails-groovy', 'grl', 'grs'],
+    icon: GrailsIcon,
+  },
+  {
+    main: 'Loopback',
+    aliases: ['loopback', 'loopback-js', 'loopback-framework', 'lbk', 'lbp'],
+    icon: LoopbackIcon,
+  },
+  {
+    main: 'Feathers.js',
+    aliases: [
+      'feathers',
+      'feathersjs',
+      'feathers-js',
+      'feathers-framework',
+      'fjs',
+    ],
+    icon: FeathersJsIcon,
+  },
+  {
+    main: 'Cargo',
+    aliases: ['cargo', 'cargo-rs', 'cargo-rust', 'cargo-package', 'crg'],
+    icon: CargoIcon,
+  },
+  {
+    main: 'Composer',
+    aliases: ['composer', 'composer-php', 'composer-package', 'cmp', 'cpr'],
+    icon: ComposerIcon,
+  },
+  {
+    main: 'Conan',
+    aliases: ['conan', 'conan-cpp', 'conan-package', 'cnn', 'con'],
+    icon: ConanIcon,
+  },
+  {
+    main: 'Conda',
+    aliases: ['conda', 'conda-py', 'conda-python', 'conda-package', 'cnd'],
+    icon: CondaIcon,
+  },
+  {
+    main: 'Gem',
+    aliases: ['gem', 'ruby-gem', 'gem-package', 'rb-gem', 'gms'],
+    icon: GemIcon,
+  },
+  {
+    main: 'Hex',
+    aliases: ['hex', 'hex-elixir', 'hex-package', 'hxp', 'hex-pm'],
+    icon: HexIcon,
+  },
+  {
+    main: 'Maven',
+    aliases: ['maven', 'maven-java', 'mvn', 'maven-package', 'mvm'],
+    icon: MavenIcon,
+  },
+  {
+    main: 'NuGet',
+    aliases: ['nuget', 'nuget-package', 'nug', 'nuget-dotnet', 'ngt'],
+    icon: NuGetIcon,
+  },
+  {
+    main: 'Opam',
+    aliases: ['opam', 'opam-ocaml', 'opam-package', 'opm', 'ocp'],
+    icon: OpamIcon,
+  },
+  {
+    main: 'Pip',
+    aliases: ['pip', 'pip-py', 'pip-python', 'pip-package', 'ppy'],
+    icon: PipIcon,
+  },
+  {
+    main: 'Poetry',
+    aliases: ['poetry', 'poetry-py', 'poetry-python', 'poetry-package', 'poe'],
+    icon: PoetryIcon,
+  },
+  {
+    main: 'Vcpkg',
+    aliases: ['vcpkg', 'vcpkg-cpp', 'vcpkg-package', 'vcp', 'vpk'],
+    icon: VcpkgIcon,
+  },
+  {
+    main: 'Uhpenry',
+    aliases: ['uhpenry', 'uhp'],
+    icon: UhpenryIcon,
+  },
+  {
+    main: 'default',
+    aliases: ['default', 'fallback', 'default-icon', 'generic'],
+    icon: UhpenryIcon,
+  },
+] as const;
+
+/**
+ * Escapes regex special characters in a string
+ * so it can safely be used in a RegExp.
+ */
+const escapeRegex = (value: string): string => {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 };
 
 /**
  * Retrieves an icon from the icon library based on the provided name.
- * The function uses a case-insensitive match to find an icon that corresponds to the name.
- * If no match is found, it returns a default icon if provided, or a fallback default icon.
+ * Matches exactly against the `main` or any alias using regex, case-insensitive.
+ * Returns a default icon if no match is found.
  *
- * @param {IconNameType} name - The name of the icon to retrieve. This is the name that will be matched in the icon library.
- * @param {IconNameType} [defaultOption] - An optional fallback icon name to return if no match is found. If not provided, the function returns a default icon.
+ * @param name - Name of the icon to retrieve
+ * @param defaultOption - Optional fallback icon
  */
-export const getIcon = (name: IconNameType, defaultOption?: IconNameType) => {
-  // a regex pattern to match the icon name
-  const regex = new RegExp(name, 'i'); // 'i' for case-insensitive match
+export const getIcon = (name: string, defaultOption?: IconType) => {
+  try {
+    const pattern = `^${escapeRegex(name)}$`; // exact match
+    const regex = new RegExp(pattern, 'i'); // case-insensitive
 
-  for (const [key, icon] of Object.entries(library)) {
-    if (regex.test(key)) {
-      return icon; // Return icon if match
+    for (const { main, aliases, icon } of ICON_LIBRARY) {
+      const allNames = [main, ...aliases];
+      if (allNames.some((n) => regex.test(n))) {
+        return icon;
+      }
     }
-  }
 
-  // Return the provided defaultOption if no match is found, otherwise fallback to 'default'
-  return defaultOption ? library[defaultOption] : library.default;
+    return defaultOption || UhpenryIcon;
+  } catch (error: any) {
+    console.error(`#uhpenry/icons: ${error?.message}`);
+    return defaultOption || UhpenryIcon;
+  }
 };

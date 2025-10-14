@@ -20,13 +20,14 @@ export const generateComponent = (name, svgContent) => {
   // Generate the React component
   return `
 import * as React from 'react';
-import { IconProps } from '../types';
+import { IconProps } from '../../../types';
 
 export const ${name} = React.forwardRef<SVGSVGElement, IconProps>(
   ({ size = 200, ...props }, forwardedRef) => (
     ${svgContent.replace(
     /<svg([^>]*)>/,
-    `<svg 
+    `<svg
+        fill="currentColor"
         width={size} 
         height={size} 
         ${viewBox} 
@@ -50,21 +51,55 @@ ${name}.displayName = '${name}';
  * @returns {void}
  */
 export const generateIndexFile = () => {
-  // Read all files in the components directory
-  const files = fs.readdirSync(ICON_DIR);
+  // Walk ICON_DIR recursively and collect .tsx files and subdirectories
+  const exports = [];
 
-  // Filter out files that are not TypeScript files or don't match the component naming pattern
-  const icons = files
-    .filter((file) => file.endsWith('.tsx')) // Only include .tsx files
-    .map((file) => path.basename(file, '.tsx')); // Get the component name without the .tsx extension
+  function walk(dir, relative = '.') {
+    const entries = fs.readdirSync(dir, { withFileTypes: true });
+    const localExports = [];
 
-  // Create export statements for each component
-  const exports = icons
-    .map((component) => `export { ${component} } from './${component}';`)
-    .join('\n');
+    for (const e of entries) {
+      const full = path.join(dir, e.name);
+      if (e.isDirectory()) {
+        const childRelative = relative === '.' ? e.name : path.join(relative, e.name);
+        walk(full, childRelative);
+        // If this is the special 'categories' folder, export each category index explicitly
+        if (e.name === 'categories') {
+          const cats = fs.readdirSync(full, { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name);
+          for (const c of cats) {
+            localExports.push(`export * from './${e.name}/${c}/index';`);
+          }
+        } else {
+          // Re-export the child index from this level
+          localExports.push(`export * from './${e.name}/index';`);
+        }
+      } else if (e.isFile() && e.name.endsWith('.tsx')) {
+        const name = path.basename(e.name, '.tsx');
+        localExports.push(`export { ${name} } from './${name}';`);
+      }
+    }
 
-  // Check if index.ts exists and override or create it
-  fs.writeFileSync(INDEX_FILE, exports, { encoding: 'utf8' });
+    // For subfolders, ensure an index.ts exists with local exports
+    if (relative !== '.') {
+      const indexPath = path.join(dir, 'index.ts');
+      fs.writeFileSync(indexPath, localExports.join('\n'), { encoding: 'utf8' });
+    }
+  }
 
+  // walk to create indexes in subfolders
+  walk(ICON_DIR, '.');
+
+  // Create a categories/index.ts that re-exports each category index, if categories folder exists
+  const categoriesDir = path.join(ICON_DIR, 'categories');
+  if (fs.existsSync(categoriesDir)) {
+    const cats = fs.readdirSync(categoriesDir, { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name);
+    const catExports = cats.map(c => `export * from './${c}/index';`).join('\n');
+    const categoriesIndexPath = path.join(categoriesDir, 'index.ts');
+    fs.writeFileSync(categoriesIndexPath, catExports, { encoding: 'utf8' });
+    console.log(`Categories index updated at ${categoriesIndexPath}`);
+  }
+
+  // At the top level, export everything from './categories'
+  fs.writeFileSync(INDEX_FILE, `export * from './categories';\n`, { encoding: 'utf8' });
   console.log(`Index file updated at ${INDEX_FILE}`);
 };

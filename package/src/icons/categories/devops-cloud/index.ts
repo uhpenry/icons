@@ -1,0 +1,1 @@
+export { CloudflareIcon } from './CloudflareIcon';
