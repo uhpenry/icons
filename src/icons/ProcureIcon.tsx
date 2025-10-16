@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const ProcureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 69.2 108.3"
@@ -12,7 +12,9 @@ export const ProcureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <style>
-        {".st0{fill:#ea6611;}\n\t.st1{fill:#ff9b5a;}\n\t.st2{fill:#fe7f2d;}"}
+        {
+          ".st0{fill:#ea6611;}\r\n\t.st1{fill:#ff9b5a;}\r\n\t.st2{fill:#fe7f2d;}"
+        }
       </style>
       <path
         className="st0"

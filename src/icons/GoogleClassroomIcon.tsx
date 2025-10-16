@@ -4,7 +4,7 @@ import { SVGIconProps } from "../types";
 export const GoogleClassroomIcon = React.forwardRef<
   SVGSVGElement,
   SVGIconProps
->(({ size = 24, ...props }, ref) => (
+>(({ size = 24, theme, isDark, ...props }, ref) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 578.9 500"
@@ -38,7 +38,7 @@ export const GoogleClassroomIcon = React.forwardRef<
       d="M539.5 496.7h-500C17.7 496.7 0 479 0 457.2v3.3C0 482.3 17.7 500 39.5 500h500c21.8 0 39.5-17.7 39.5-39.5v-3.3c-.1 21.8-17.7 39.5-39.5 39.5z"
     />
     <linearGradient
-      id="a"
+      id="icon_1bwvy4p_a"
       gradientUnits="userSpaceOnUse"
       x1="154.865"
       y1="295.747"
@@ -52,11 +52,14 @@ export const GoogleClassroomIcon = React.forwardRef<
         style={{ stopColor: "#bf360c", stopOpacity: "2.000000e-02" }}
       />
     </linearGradient>
-    <path fill="url(#a)" d="M460.3 447.4H341.9l52.6 52.6h118.3l-52.5-52.6z" />
+    <path
+      fill="url(#icon_1bwvy4p_a)"
+      d="M460.3 447.4H341.9l52.6 52.6h118.3l-52.5-52.6z"
+    />
     <path opacity=".2" fill="#263238" d="M52.6 49.3h473.7v3.3H52.6v-3.3z" />
     <path opacity=".2" fill="#FFF" d="M52.6 447.4h473.7v3.3H52.6v-3.3z" />
     <radialGradient
-      id="b"
+      id="icon_1bwvy4p_b"
       cx="131.401"
       cy="367.2"
       r="18.197"
@@ -67,7 +70,7 @@ export const GoogleClassroomIcon = React.forwardRef<
       <stop offset="1" style={{ stopColor: "#fff", stopOpacity: "0" }} />
     </radialGradient>
     <path
-      fill="url(#b)"
+      fill="url(#icon_1bwvy4p_b)"
       d="M539.5 0h-500C17.7 0 0 17.7 0 39.5v421.1C0 482.3 17.7 500 39.5 500h500c21.8 0 39.5-17.7 39.5-39.5v-421C578.9 17.7 561.3 0 539.5 0z"
     />
   </svg>

@@ -14,8 +14,8 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#a)">
-          <g clipPath="url(#b)">
+        <g clipPath="url(#icon_44j2he0_clip0_9790_492437)">
+          <g clipPath="url(#icon_44j2he0_clip1_9790_492437)">
             <path
               fillRule="evenodd"
               clipRule="evenodd"
@@ -25,10 +25,10 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           </g>
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_44j2he0_clip0_9790_492437">
             <rect width="933" height="300" fill="white" />
           </clipPath>
-          <clipPath id="b">
+          <clipPath id="icon_44j2he0_clip1_9790_492437">
             <rect width="933.333" height="300" fill="white" />
           </clipPath>
         </defs>
@@ -43,8 +43,8 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#a)">
-          <g clipPath="url(#b)">
+        <g clipPath="url(#icon_2danvol_clip0_9790_492437)">
+          <g clipPath="url(#icon_2danvol_clip1_9790_492437)">
             <path
               fillRule="evenodd"
               clipRule="evenodd"
@@ -54,10 +54,10 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           </g>
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_2danvol_clip0_9790_492437">
             <rect width="933" height="300" fill="white" />
           </clipPath>
-          <clipPath id="b">
+          <clipPath id="icon_2danvol_clip1_9790_492437">
             <rect width="933.333" height="300" fill="white" />
           </clipPath>
         </defs>

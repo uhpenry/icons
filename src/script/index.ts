@@ -153,7 +153,7 @@ function generateComponent(
 import { SVGIconProps } from '../types';
 
 export const ${name} = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg${light.attributes} width={size} height={size} ref={ref} {...props}>
       ${light.content}
     </svg>

@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const AMPIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       fill="#005AF0"
       viewBox="0 0 24 24"

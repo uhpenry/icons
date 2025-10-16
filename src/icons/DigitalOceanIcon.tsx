@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const DigitalOceanIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 -3.954 53.927 53.954"

@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const EthereumIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 32 32"
@@ -12,13 +12,19 @@ export const EthereumIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+        <linearGradient
+          id="icon_9d8iqiv_eth-c"
+          x1="50%"
+          x2="50%"
+          y1="0%"
+          y2="100%"
+        >
           <stop offset="0%" stopColor="#FFF" stopOpacity=".5" />
           <stop offset="100%" stopOpacity=".5" />
         </linearGradient>
-        <circle id="b" cx="16" cy="15" r="15" />
+        <circle id="icon_9d8iqiv_eth-b" cx="16" cy="15" r="15" />
         <filter
-          id="a"
+          id="icon_9d8iqiv_eth-a"
           width="111.7%"
           height="111.7%"
           x="-5.8%"
@@ -43,11 +49,11 @@ export const EthereumIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <path
-          id="e"
+          id="icon_9d8iqiv_eth-e"
           d="M16.4977734,20.9675435 L23.9999473,16.616495 L16.4977207,26.9946245 L16.4976173,26.9943278 L9,16.6164144 L16.4977734,20.9674935 Z M16.4977471,3.00004297 L23.9954941,15.2198561 L16.4977734,19.5730917 L9,15.2198561 L16.4977471,3.00004297 Z"
         />
         <filter
-          id="d"
+          id="icon_9d8iqiv_eth-d"
           width="123.3%"
           height="114.6%"
           x="-11.7%"
@@ -73,13 +79,26 @@ export const EthereumIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </filter>
       </defs>
       <g fill="none" fillRule="evenodd">
-        <use fill="#000" filter="url(#a)" xlinkHref="#b" />
-        <use fill="#627EEA" xlinkHref="#b" />
-        <use fill="url(#c)" xlinkHref="#b" />
+        <use
+          fill="#000"
+          filter="url(#icon_9d8iqiv_eth-a)"
+          xlinkHref="#icon_9d8iqiv_eth-b"
+        />
+        <use fill="#627EEA" xlinkHref="#icon_9d8iqiv_eth-b" />
+        <use fill="url(#icon_9d8iqiv_eth-c)" xlinkHref="#icon_9d8iqiv_eth-b" />
         <circle cx="16" cy="15" r="14.5" stroke="#000" strokeOpacity=".097" />
         <g fillRule="nonzero">
-          <use fill="#000" filter="url(#d)" xlinkHref="#e" />
-          <use fill="#FFF" fillOpacity="0" fillRule="evenodd" xlinkHref="#e" />
+          <use
+            fill="#000"
+            filter="url(#icon_9d8iqiv_eth-d)"
+            xlinkHref="#icon_9d8iqiv_eth-e"
+          />
+          <use
+            fill="#FFF"
+            fillOpacity="0"
+            fillRule="evenodd"
+            xlinkHref="#icon_9d8iqiv_eth-e"
+          />
         </g>
         <g fill="#FFF" fillRule="nonzero" transform="translate(9 3)">
           <polygon

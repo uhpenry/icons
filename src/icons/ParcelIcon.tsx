@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 256 193"
@@ -12,25 +12,55 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <linearGradient x1="49.4%" y1="49.5%" x2="50.3%" y2="50.4%" id="a">
+        <linearGradient
+          x1="49.4%"
+          y1="49.5%"
+          x2="50.3%"
+          y2="50.4%"
+          id="icon_nb6cl57_a"
+        >
           <stop offset="0%" />
           <stop stopOpacity="0" offset="100%" />
         </linearGradient>
-        <linearGradient x1="50.1%" y1="49.9%" x2="49.9%" y2="50.1%" id="b">
+        <linearGradient
+          x1="50.1%"
+          y1="49.9%"
+          x2="49.9%"
+          y2="50.1%"
+          id="icon_nb6cl57_b"
+        >
           <stop offset="0%" />
           <stop stopOpacity="0" offset="100%" />
         </linearGradient>
-        <linearGradient x1="81.5%" y1="46.5%" x2="93.7%" y2="50.2%" id="c">
+        <linearGradient
+          x1="81.5%"
+          y1="46.5%"
+          x2="93.7%"
+          y2="50.2%"
+          id="icon_nb6cl57_c"
+        >
           <stop stopColor="#C37A44" offset="0%" />
           <stop stopColor="#BB713D" offset="44.4%" />
           <stop stopColor="#A05728" offset="64.1%" />
           <stop stopColor="#964E23" offset="100%" />
         </linearGradient>
-        <linearGradient x1="63.5%" y1="61.3%" x2="41.4%" y2="43.4%" id="d">
+        <linearGradient
+          x1="63.5%"
+          y1="61.3%"
+          x2="41.4%"
+          y2="43.4%"
+          id="icon_nb6cl57_d"
+        >
           <stop stopColor="#E9B880" offset="0%" />
           <stop stopColor="#E4AF76" offset="100%" />
         </linearGradient>
-        <linearGradient x1="50.9%" y1="51.1%" x2="49.2%" y2="49.3%" id="e">
+        <linearGradient
+          x1="50.9%"
+          y1="51.1%"
+          x2="49.2%"
+          y2="49.3%"
+          id="icon_nb6cl57_e"
+        >
           <stop stopColor="#C37A45" stopOpacity="0" offset="0%" />
           <stop stopColor="#C37A45" offset="13.3%" />
           <stop stopColor="#D08D55" offset="29.4%" />
@@ -39,16 +69,34 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop stopColor="#ECB477" offset="86.3%" />
           <stop stopColor="#ECB477" stopOpacity="0" offset="100%" />
         </linearGradient>
-        <linearGradient x1="47.4%" y1="28.9%" x2="22.3%" y2="77.5%" id="f">
+        <linearGradient
+          x1="47.4%"
+          y1="28.9%"
+          x2="22.3%"
+          y2="77.5%"
+          id="icon_nb6cl57_f"
+        >
           <stop stopColor="#AF6938" offset="8.8%" />
           <stop stopColor="#9A5227" offset="48.3%" />
           <stop stopColor="#8D4520" offset="77.9%" />
         </linearGradient>
-        <linearGradient x1="41.1%" y1="57.3%" x2="56.6%" y2="45%" id="g">
+        <linearGradient
+          x1="41.1%"
+          y1="57.3%"
+          x2="56.6%"
+          y2="45%"
+          id="icon_nb6cl57_g"
+        >
           <stop stopColor="#E4AF76" offset="3.3%" />
           <stop stopColor="#E9B880" offset="100%" />
         </linearGradient>
-        <linearGradient x1="49.6%" y1="50.5%" x2="50.7%" y2="49.2%" id="h">
+        <linearGradient
+          x1="49.6%"
+          y1="50.5%"
+          x2="50.7%"
+          y2="49.2%"
+          id="icon_nb6cl57_h"
+        >
           <stop stopColor="#AF6A38" stopOpacity="0" offset="0%" />
           <stop stopColor="#AF6A38" offset="8.6%" />
           <stop stopColor="#B87542" offset="19.8%" />
@@ -56,35 +104,71 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop stopColor="#E4AF76" offset="77.7%" />
           <stop stopColor="#E4AF76" stopOpacity="0" offset="92.4%" />
         </linearGradient>
-        <linearGradient x1="8.2%" y1="50%" x2="93.2%" y2="50%" id="i">
+        <linearGradient
+          x1="8.2%"
+          y1="50%"
+          x2="93.2%"
+          y2="50%"
+          id="icon_nb6cl57_i"
+        >
           <stop stopColor="#743F1A" stopOpacity="0" offset="0%" />
           <stop stopColor="#743F1A" stopOpacity=".9" offset="49.3%" />
           <stop stopColor="#743F1A" stopOpacity=".9" offset="50%" />
           <stop stopColor="#743F1A" stopOpacity=".8" offset="53%" />
           <stop stopColor="#743F1A" stopOpacity="0" offset="100%" />
         </linearGradient>
-        <linearGradient x1="49.9%" y1="50.1%" x2="50%" y2="50%" id="j">
+        <linearGradient
+          x1="49.9%"
+          y1="50.1%"
+          x2="50%"
+          y2="50%"
+          id="icon_nb6cl57_j"
+        >
           <stop stopColor="#322214" offset="0%" />
           <stop stopColor="#322314" offset="24%" />
           <stop stopColor="#322214" stopOpacity="0" offset="100%" />
         </linearGradient>
-        <linearGradient x1="51.4%" y1="48.2%" x2="48.7%" y2="51.6%" id="k">
+        <linearGradient
+          x1="51.4%"
+          y1="48.2%"
+          x2="48.7%"
+          y2="51.6%"
+          id="icon_nb6cl57_k"
+        >
           <stop stopColor="#C69866" offset="4.8%" />
           <stop stopColor="#BA8C5E" offset="41.6%" />
           <stop stopColor="#B5875B" offset="81.3%" />
         </linearGradient>
-        <linearGradient x1="63%" y1="46.8%" x2="25%" y2="8.9%" id="l">
+        <linearGradient
+          x1="63%"
+          y1="46.8%"
+          x2="25%"
+          y2="8.9%"
+          id="icon_nb6cl57_l"
+        >
           <stop stopColor="#845F35" offset="0%" />
           <stop stopColor="#91673C" offset="43.1%" />
           <stop stopColor="#976A40" offset="44.1%" />
           <stop stopColor="#986B40" offset="87.4%" />
           <stop stopColor="#AB8157" offset="100%" />
         </linearGradient>
-        <linearGradient x1="50%" y1="50%" x2="50.1%" y2="50.1%" id="m">
+        <linearGradient
+          x1="50%"
+          y1="50%"
+          x2="50.1%"
+          y2="50.1%"
+          id="icon_nb6cl57_m"
+        >
           <stop stopColor="#322214" stopOpacity="0" offset="0%" />
           <stop stopColor="#322214" offset="100%" />
         </linearGradient>
-        <linearGradient x1="45.7%" y1="62.6%" x2="50.5%" y2="33.5%" id="n">
+        <linearGradient
+          x1="45.7%"
+          y1="62.6%"
+          x2="50.5%"
+          y2="33.5%"
+          id="icon_nb6cl57_n"
+        >
           <stop stopColor="#A9794B" offset="0%" />
           <stop stopColor="#AE7F53" offset="38.6%" />
           <stop stopColor="#AC7D50" offset="45.6%" />
@@ -94,43 +178,43 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="m140.5 191.3 70.3-44.4c.2-.2.6 0 .7.2.2.2.1.6-.1.7l-70.5 44.6h-.3v-1Z"
-        fill="url(#a)"
+        fill="url(#icon_nb6cl57_a)"
       />
       <path
         d="M140.6 192.5h-.2l-95.8-35.7a.5.5 0 0 1-.3-.7c.1-.3.4-.5.7-.4l95.5 35.6v1.2Z"
-        fill="url(#b)"
+        fill="url(#icon_nb6cl57_b)"
       />
       <path
         d="m241.1 21.8-11 18.3-44.5 19-2.5 1-39.9 37.3c-.8.8-1.3 1.9-1.4 2.5 0 .2-.2.1-.4 0-.1 0-.4.1-.4 0 0-.9-.1-1.8-1.4-2.6l-20-13L105 75 63.9 64.4l-34.4-8.8L7.7 21.7l.3-.4L90 0h.1L118 42l.5.8c.6.9.7 1.4.7 1.8h.5V43.8l.1-.4v-.2l.2-.5.1-.2a4.6 4.6 0 0 1 .5-.9l25.2-36.6s0-.1.2 0l95 16.3.1.4Z"
         fill="#E8B67F"
       />
       <path
-        fill="url(#c)"
+        fill="url(#icon_nb6cl57_c)"
         d="M119.6 84.4 105 74.9 63.9 64.4l55.3-19.9.1-.3v.3z"
       />
       <path
         d="M119.2 44.5 63.9 64.4l-5-1.3-29.4-7.6L7.7 21.7l.4-.4L89.9 0h.1L118 42l.5.8c.6.9.7 1.4.7 1.8Z"
-        fill="url(#d)"
+        fill="url(#icon_nb6cl57_d)"
       />
       <path
         d="M119.4 46.6 67 65.4l-8.1-2L118 42l.5.8c.6.9.7 1.4.7 1.8h.1v2Z"
-        fill="url(#e)"
+        fill="url(#icon_nb6cl57_e)"
       />
       <path fill="#D2A679" d="m30.2 55.7-.7-.2L7.7 21.7l.3-.4z" />
       <path
         d="m185.6 59-2.5 1-39.9 37.4c-.8.8-1.3 1.9-1.4 2.5 0 .2-.2.1-.4 0-.1 0-.4.1-.4 0 0-.9-.1-1.8-1.4-2.6l-20-13-.3-39.8v-.3l.4.3 66 14.5Z"
-        fill="url(#f)"
+        fill="url(#icon_nb6cl57_f)"
       />
       <path
         d="m241.1 21.8-11 18.3-40.5 17.2-4 1.7-66-14.5a6.2 6.2 0 0 1 1-2.8l25.2-36.6s0-.1.2 0l95 16.2.1.5Z"
-        fill="url(#g)"
+        fill="url(#icon_nb6cl57_g)"
       />
       <path
         d="m189.6 57.3-6.4 2.7-.9.8-63-13.9.3-2.4c0-.5.4-1.7.8-2.4l69.2 15.2Z"
-        fill="url(#h)"
+        fill="url(#icon_nb6cl57_h)"
       />
       <path
-        fill="url(#i)"
+        fill="url(#icon_nb6cl57_i)"
         opacity=".8"
         d="M121.1 44.8v40.5l-1.5-.9-2-1.3V45l1.6-.5h.5z"
       />
@@ -144,7 +228,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M140.8 191.6v.3h-.6L44.3 156c-.4-.2-.5-.5-.6-.9l97 36.4Z"
-        fill="url(#j)"
+        fill="url(#icon_nb6cl57_j)"
         opacity=".5"
       />
       <path
@@ -153,7 +237,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M141.4 100c-.4 0-.7.5-.7 1L39.4 73c0-.2.2-.3.3-.4l-.9-1.7L0 49l.3-.8L105 74.9l34.6 22.4c1.3.8 1.4 1.7 1.4 2.5 0 .2.3.2.4.2Z"
-        fill="url(#k)"
+        fill="url(#icon_nb6cl57_k)"
       />
       <path
         d="M216.9 64.2c-.8.8-1.1 1.7-1 2.1l-73.6 34.8h-.1c0-.7-.4-1-.7-1.1l.3-.1a2.7 2.7 0 0 1 .3-.9c.2-.4.5-1 1-1.4l.1-.2 40-37.4 72.4-30.7.4.6-39.1 34.3Z"
@@ -161,7 +245,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M96 109.1h.1l-.3-20.4c0-.6-.2-2-1-2.6l-37-22.4-17.2-4.4L78 81.7c.9.6 1 1.8 1 2.6l.6 19.8v.1l16.3 5Z"
-        fill="url(#l)"
+        fill="url(#icon_nb6cl57_l)"
       />
       <path
         d="M141.4 100c-.4 0-.7.5-.7 1-.1-1-.6-2.3-1.2-2.7l-34.9-22.5.4-.9 34.6 22.4c1.3.8 1.4 1.7 1.4 2.5 0 .2.3.2.4.2Z"
@@ -174,7 +258,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M212 146.3c-.1.6-.3.7-.9 1l-70 44.4a1 1 0 0 1-.3.2v-.3l71.2-45.3Z"
-        fill="url(#m)"
+        fill="url(#icon_nb6cl57_m)"
         opacity=".5"
       />
       <path
@@ -187,7 +271,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="m175 105.5.1.1 12-6v-.2l.6-19.5c0-1 .6-2 1.5-2.8l39.4-35.5-12 5.1-39.7 36c-1 1-1.3 2.2-1.4 3.2l-.5 19.6Z"
-        fill="url(#n)"
+        fill="url(#icon_nb6cl57_n)"
       />
       <path fill="#F8CE93" d="M183.7 60.8 256 29.9l-.4-.6L183.1 60z" />
     </svg>

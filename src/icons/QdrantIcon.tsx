@@ -14,12 +14,12 @@ export const QdrantIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g fill="#fff" clipPath="url(#a)">
+        <g fill="#fff" clipPath="url(#icon_b470yfy_a)">
           <path d="M28.667 0 .953 16v32l27.714 16 10.392-6V46l-10.392 6-17.32-10V22l17.32-10 17.32 10v40l10.393-6V16z" />
           <path d="M18.275 26v12l10.392 6 10.392-6V26l-10.392-6z" />
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_b470yfy_a">
             <path fill="#fff" d="M.664 0h56v64h-56z" />
           </clipPath>
         </defs>
@@ -34,7 +34,7 @@ export const QdrantIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#a)">
+        <g clipPath="url(#icon_sdbfb9a_a)">
           <path
             fill="#dc244c"
             d="M28.335 0 .62 16v32l27.714 16 10.392-6V46l-10.392 6-17.32-10V22l17.32-10 17.32 10v40l10.393-6V16z"
@@ -57,7 +57,7 @@ export const QdrantIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <path fill="#bd0c3e" d="M38.727 26v12l-10.392 6V32z" />
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_sdbfb9a_a">
             <path fill="#fff" d="M.332 0h56v64h-56z" />
           </clipPath>
         </defs>

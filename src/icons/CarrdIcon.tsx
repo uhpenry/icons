@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const CarrdIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 896 896"
@@ -12,7 +12,7 @@ export const CarrdIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <linearGradient
-        id="a"
+        id="icon_7tc5tdh_a"
         x1="141.569"
         x2="754.431"
         y1="143.569"
@@ -26,7 +26,7 @@ export const CarrdIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <stop offset="1" style={{ stopColor: "#3f71b7" }} />
       </linearGradient>
       <path
-        fill="url(#a)"
+        fill="url(#icon_7tc5tdh_a)"
         d="M448 881.3c-239.4 0-433.4-194-433.4-433.3S208.6 14.7 448 14.7s433.4 194 433.4 433.3-194 433.3-433.4 433.3z"
       />
       <path

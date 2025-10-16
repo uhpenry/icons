@@ -4,7 +4,7 @@ import { SVGIconProps } from "../types";
 export const MicrosoftOutlookIcon = React.forwardRef<
   SVGSVGElement,
   SVGIconProps
->(({ size = 24, ...props }, ref) => (
+>(({ size = 24, theme, isDark, ...props }, ref) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="60 90.4 570.02 539.67"
@@ -15,7 +15,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
   >
     <defs>
       <linearGradient
-        id="a"
+        id="icon_3zhi7wv_a"
         x1="9.989"
         x2="30.932"
         y1="22.365"
@@ -28,7 +28,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#c4b0ff", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="b"
+        id="icon_3zhi7wv_b"
         x1="17.197"
         x2="28.856"
         y1="26.794"
@@ -44,7 +44,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#8587ff", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="c"
+        id="icon_3zhi7wv_c"
         x1="25.701"
         x2="12.756"
         y1="27.048"
@@ -62,7 +62,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <linearGradient
-        id="d"
+        id="icon_3zhi7wv_d"
         x1="24.053"
         x2="44.51"
         y1="31.11"
@@ -78,7 +78,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#5f20cb", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="e"
+        id="icon_3zhi7wv_e"
         x1="29.828"
         x2="17.397"
         y1="30.327"
@@ -93,7 +93,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <linearGradient
-        id="g"
+        id="icon_3zhi7wv_g"
         x1="41.998"
         x2="23.852"
         y1="29.943"
@@ -108,7 +108,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <linearGradient
-        id="k"
+        id="icon_3zhi7wv_k"
         x1="3.458"
         x2="20.929"
         y1="37.872"
@@ -126,7 +126,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <radialGradient
-        id="f"
+        id="icon_3zhi7wv_f"
         cx="0"
         cy="0"
         r="1"
@@ -145,7 +145,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="h"
+        id="icon_3zhi7wv_h"
         cx="0"
         cy="0"
         r="1"
@@ -164,7 +164,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="i"
+        id="icon_3zhi7wv_i"
         cx="0"
         cy="0"
         r="1"
@@ -183,7 +183,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="j"
+        id="icon_3zhi7wv_j"
         cx="0"
         cy="0"
         r="1"
@@ -199,7 +199,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="l"
+        id="icon_3zhi7wv_l"
         cx="0"
         cy="0"
         r="1"
@@ -218,7 +218,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="m"
+        id="icon_3zhi7wv_m"
         cx="0"
         cy="0"
         r="1"
@@ -239,55 +239,107 @@ export const MicrosoftOutlookIcon = React.forwardRef<
     </defs>
     <path
       d="m463.984 140.145-344.347 218.27-29.614-46.72v-40.257a43.26 43.26 0 0 1 19.72-36.293L309.91 105.258c30.496-19.79 69.777-19.793 100.277-.008Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#a)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_a)",
+      }}
     />
     <path
       d="M407.102 103.34a91.293 91.293 0 0 1 3.082 1.914l156.214 101.332-387.336 245.52-59.437-93.77L403.895 177.8c26.925-17.102 28.105-55.57 3.207-74.461Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#b)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_b)",
+      }}
     />
     <path
       d="M407.102 103.34a91.293 91.293 0 0 1 3.082 1.914l156.214 101.332-387.336 245.52-59.437-93.77L403.895 177.8c26.925-17.102 28.105-55.57 3.207-74.461Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#c)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_c)",
+      }}
     />
     <path
       d="M333.602 498.988 179.066 452.11 507.63 243.836c27.672-17.54 27.601-57.938-.133-75.379l-1.48-.93 4.261 2.649 99.996 64.867a43.263 43.263 0 0 1 19.723 36.3v38.962Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#d)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_d)",
+      }}
     />
     <path
       d="M333.602 498.988 179.066 452.11 507.63 243.836c27.672-17.54 27.601-57.938-.133-75.379l-1.48-.93 4.261 2.649 99.996 64.867a43.263 43.263 0 0 1 19.723 36.3v38.962Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#e)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_e)",
+      }}
     />
     <path
       d="M410.188 105.25c-30.5-19.785-69.782-19.781-100.282.008L109.742 235.145a43.26 43.26 0 0 0-19.719 36.292v1.97a44.479 44.479 0 0 0 20.735 36.16l248.887 156.91L609.16 309.805a44.468 44.468 0 0 0 20.824-37.664v38.168l.008-38.965c0-14.66-7.426-28.32-19.722-36.301Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#f)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_f)",
+      }}
     />
     <path
       d="M315.77 630.05h220.449c51.777 0 93.75-41.972 93.75-93.75V272.14c0 15.301-7.864 29.528-20.82 37.665l-327.907 205.89a60.712 60.712 0 0 0-28.422 51.414c.004 34.762 28.184 62.942 62.95 62.942Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#g)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_g)",
+      }}
     />
     <path
       d="M315.77 630.05h220.449c51.777 0 93.75-41.972 93.75-93.75V272.14c0 15.301-7.864 29.528-20.82 37.665l-327.907 205.89a60.712 60.712 0 0 0-28.422 51.414c.004 34.762 28.184 62.942 62.95 62.942Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#h)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_h)",
+      }}
     />
     <path
       d="M315.77 630.05h220.449c51.777 0 93.75-41.972 93.75-93.75V272.14c0 15.301-7.864 29.528-20.82 37.665l-327.907 205.89a60.712 60.712 0 0 0-28.422 51.414c.004 34.762 28.184 62.942 62.95 62.942Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#i)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_i)",
+      }}
     />
     <path
       d="M405.402 630.035H183.738c-51.777 0-93.75-41.972-93.75-93.75v-264.34a44.473 44.473 0 0 0 20.754 37.621l327.582 206.52a61.737 61.737 0 0 1 28.809 52.226c-.004 34.09-27.64 61.723-61.73 61.723Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#j)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_j)",
+      }}
     />
     <path
       d="M405.402 630.035H183.738c-51.777 0-93.75-41.972-93.75-93.75v-264.34a44.473 44.473 0 0 0 20.754 37.621l327.582 206.52a61.737 61.737 0 0 1 28.809 52.226c-.004 34.09-27.64 61.723-61.73 61.723Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#k)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_k)",
+      }}
     />
     <path
       d="M108.75 345h142.5c26.926 0 48.75 21.824 48.75 48.75v142.5c0 26.926-21.824 48.75-48.75 48.75h-142.5C81.824 585 60 563.176 60 536.25v-142.5C60 366.824 81.824 345 108.75 345Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#l)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_l)",
+      }}
     />
     <path
       d="M108.75 345h142.5c26.926 0 48.75 21.824 48.75 48.75v142.5c0 26.926-21.824 48.75-48.75 48.75h-142.5C81.824 585 60 563.176 60 536.25v-142.5C60 366.824 81.824 345 108.75 345Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#m)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_3zhi7wv_m)",
+      }}
     />
     <path
       d="M179.387 534c-19.848 0-36.137-6.21-48.875-18.625-12.739-12.414-19.11-28.617-19.11-48.605 0-21.11 6.465-38.18 19.395-51.22C143.73 402.517 160.66 396 181.594 396c19.781 0 35.879 6.238 48.297 18.715 12.484 12.476 18.726 28.93 18.726 49.351 0 20.985-6.469 37.899-19.398 50.75C216.352 527.606 199.742 534 179.387 534Zm.574-26.352c10.816 0 19.523-3.695 26.117-11.082 6.594-7.386 9.89-17.664 9.89-30.824 0-13.719-3.202-24.394-9.6-32.031-6.403-7.637-14.95-11.453-25.638-11.453-11.011 0-19.878 3.941-26.597 11.824-6.723 7.824-10.082 18.191-10.082 31.102 0 13.101 3.36 23.468 10.082 31.101 6.719 7.574 15.328 11.363 25.828 11.363Zm0 0"

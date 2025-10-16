@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -12,9 +12,9 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#a)">
+      <g clipPath="url(#icon_nbdn90d_a)">
         <mask
-          id="b"
+          id="icon_nbdn90d_b"
           width="242"
           height="256"
           x="0"
@@ -24,20 +24,20 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         >
           <path fill="#fff" d="M0 0h242v256H0V0Z" />
         </mask>
-        <g mask="url(#b)">
+        <g mask="url(#icon_nbdn90d_b)">
           <path
-            fill="url(#c)"
+            fill="url(#icon_nbdn90d_c)"
             d="m241 43-9 136L149 0l92 43Zm-58 176-62 36-63-36 12-31h101l12 31ZM121 68l32 80H88l33-80ZM9 179 0 43 92 0 9 179Z"
           />
           <path
-            fill="url(#d)"
+            fill="url(#icon_nbdn90d_d)"
             d="m241 43-9 136L149 0l92 43Zm-58 176-62 36-63-36 12-31h101l12 31ZM121 68l32 80H88l33-80ZM9 179 0 43 92 0 9 179Z"
           />
         </g>
       </g>
       <defs>
         <linearGradient
-          id="c"
+          id="icon_nbdn90d_c"
           x1="53.2"
           x2="245"
           y1="231.9"
@@ -52,7 +52,7 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#6C00F5" />
         </linearGradient>
         <linearGradient
-          id="d"
+          id="icon_nbdn90d_d"
           x1="44.5"
           x2="170"
           y1="30.7"
@@ -62,7 +62,7 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop stopColor="#FF31D9" />
           <stop offset="1" stopColor="#FF5BE1" stopOpacity="0" />
         </linearGradient>
-        <clipPath id="a">
+        <clipPath id="icon_nbdn90d_a">
           <path fill="#fff" d="M0 0h242v256H0z" />
         </clipPath>
       </defs>

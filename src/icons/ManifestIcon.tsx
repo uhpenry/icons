@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const ManifestIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 60 60"
       fill="none"
@@ -13,7 +13,7 @@ export const ManifestIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <mask
-        id="a"
+        id="icon_l3t64pp_a"
         style={{ maskType: "luminance" }}
         maskUnits="userSpaceOnUse"
         x="10"
@@ -23,7 +23,7 @@ export const ManifestIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       >
         <path d="M49.6 0H10.4v60h39.2V0Z" fill="#fff" />
       </mask>
-      <g mask="url(#a)">
+      <g mask="url(#icon_l3t64pp_a)">
         <path
           fillRule="evenodd"
           clipRule="evenodd"

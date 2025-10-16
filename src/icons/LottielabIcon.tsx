@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -12,9 +12,16 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <rect width="274" height="274" x="1" y="1" fill="url(#a)" rx="81" />
+      <rect
+        width="274"
+        height="274"
+        x="1"
+        y="1"
+        fill="url(#icon_kwrn8d9_a)"
+        rx="81"
+      />
       <path
-        stroke="url(#b)"
+        stroke="url(#icon_kwrn8d9_b)"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="20"
@@ -39,13 +46,13 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         height="274"
         x="1"
         y="1"
-        stroke="url(#c)"
+        stroke="url(#icon_kwrn8d9_c)"
         strokeWidth="2"
         rx="81"
       />
       <defs>
         <linearGradient
-          id="a"
+          id="icon_kwrn8d9_a"
           x1="2"
           x2="274"
           y1="2"
@@ -56,7 +63,7 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#607EF4" />
         </linearGradient>
         <linearGradient
-          id="b"
+          id="icon_kwrn8d9_b"
           x1="132.555"
           x2="94.765"
           y1="62.627"
@@ -67,7 +74,7 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#D7D5FF" />
         </linearGradient>
         <linearGradient
-          id="c"
+          id="icon_kwrn8d9_c"
           x1="2"
           x2="274"
           y1="2"

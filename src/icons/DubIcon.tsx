@@ -31,13 +31,13 @@ export const DubIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#a)">
+        <g clipPath="url(#icon_35if1rz_clip0_36_30)">
           <path
             d="M191 95.5C191 148.243 148.243 191 95.5 191C42.7568 191 0 148.243 0 95.5C0 42.7568 42.7568 0 95.5 0C148.243 0 191 42.7568 191 95.5Z"
             fill="black"
           />
           <mask
-            id="b"
+            id="icon_35if1rz_mask0_36_30"
             style={{ maskType: "alpha" }}
             maskUnits="userSpaceOnUse"
             x="0"
@@ -50,13 +50,13 @@ export const DubIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               fill="black"
             />
           </mask>
-          <g mask="url(#b)">
+          <g mask="url(#icon_35if1rz_mask0_36_30)">
             <circle cx="95" cy="100" r="49" fill="white" />
             <path d="M122 -14H144V148H122V-14Z" fill="white" />
           </g>
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_35if1rz_clip0_36_30">
             <rect width="191" height="191" fill="white" />
           </clipPath>
         </defs>

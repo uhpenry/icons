@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 66.165833 65.803795"
@@ -12,20 +12,20 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <linearGradient id="b">
+        <linearGradient id="icon_12uj1r2_b">
           <stop offset="0" stopColor="#06c2e7" />
           <stop offset=".25000015" stopColor="#0db8ec" />
           <stop offset=".5000003" stopColor="#12aef1" />
           <stop offset=".75000012" stopColor="#1f86f9" />
           <stop offset="1" stopColor="#107ddd" />
         </linearGradient>
-        <linearGradient id="a">
+        <linearGradient id="icon_12uj1r2_a">
           <stop offset="0" stopColor="#bdbdbd" />
           <stop offset="1" stopColor="#fff" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#a"
-          id="d"
+          xlinkHref="#icon_12uj1r2_a"
+          id="icon_12uj1r2_d"
           x1="412.97501"
           x2="412.97501"
           y1="237.60777"
@@ -34,7 +34,7 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <filter
-          id="f"
+          id="icon_12uj1r2_f"
           width="1.0418189"
           height="1.0446756"
           x="-.02090938"
@@ -44,7 +44,7 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <feGaussianBlur stdDeviation=".95767362" />
         </filter>
         <filter
-          id="c"
+          id="icon_12uj1r2_c"
           width="1.096"
           height="1.096"
           x="-.048"
@@ -54,8 +54,8 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <feGaussianBlur stdDeviation="3.5643107" />
         </filter>
         <radialGradient
-          xlinkHref="#b"
-          id="e"
+          xlinkHref="#icon_12uj1r2_b"
+          id="icon_12uj1r2_e"
           cx="413.06128"
           cy="136.81819"
           r="82.125351"
@@ -67,13 +67,13 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="M502.08277 148.5a89.107765 89.107765 0 0 1-89.10777 89.10777A89.107765 89.107765 0 0 1 323.86724 148.5 89.107765 89.107765 0 0 1 412.975 59.392235 89.107765 89.107765 0 0 1 502.08277 148.5Z"
-        filter="url(#c)"
+        filter="url(#icon_12uj1r2_c)"
         opacity=".52999998"
         paintOrder="markers stroke fill"
         transform="matrix(.33865 0 0 .3261 -106.76956 -14.47833)"
       />
       <path
-        fill="url(#d)"
+        fill="url(#icon_12uj1r2_d)"
         stroke="#cdcdcd"
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -83,7 +83,7 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         transform="translate(-318.88562 -180.59501)"
       />
       <path
-        fill="url(#e)"
+        fill="url(#icon_12uj1r2_e)"
         d="M380.83911 211.97671a28.870571 28.870571 0 0 1-28.87057 28.87057 28.870571 28.870571 0 0 1-28.87057-28.87057 28.870571 28.870571 0 0 1 28.87057-28.87057 28.870571 28.870571 0 0 1 28.87057 28.87057z"
         paintOrder="markers stroke fill"
         transform="translate(-318.88562 -180.59501)"
@@ -95,7 +95,7 @@ export const SafariIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="m469.09621 100.6068-65.50955 38.06124-41.41979 65.20654 60.59382-44.88117z"
-        filter="url(#f)"
+        filter="url(#icon_12uj1r2_f)"
         opacity=".40900005"
         paintOrder="markers stroke fill"
         transform="translate(-112.09544 -20.8224) scale(.35154)"

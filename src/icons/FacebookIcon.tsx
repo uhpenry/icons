@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const FacebookIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 666.667 666.667"
@@ -12,12 +12,12 @@ export const FacebookIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <clipPath id="a" clipPathUnits="userSpaceOnUse">
+        <clipPath id="icon_v4fmh1l_a" clipPathUnits="userSpaceOnUse">
           <path d="M0 700h700V0H0Z" />
         </clipPath>
       </defs>
       <g
-        clipPath="url(#a)"
+        clipPath="url(#icon_v4fmh1l_a)"
         transform="matrix(1.33333 0 0 -1.33333 -133.333 800)"
       >
         <path

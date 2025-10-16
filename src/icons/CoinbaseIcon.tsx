@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const CoinbaseIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 48 48"
       fill="none"
@@ -12,7 +12,7 @@ export const CoinbaseIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#a)">
+      <g clipPath="url(#icon_t19tswc_clip0_2_2)">
         <path
           d="M0 11.0769C0 4.95931 4.95931 0 11.0769 0H36.9231C43.0407 0 48 4.95931 48 11.0769V36.9231C48 43.0407 43.0407 48 36.9231 48H11.0769C4.95931 48 0 43.0407 0 36.9231V11.0769Z"
           fill="#0052FF"
@@ -23,7 +23,7 @@ export const CoinbaseIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="a">
+        <clipPath id="icon_t19tswc_clip0_2_2">
           <rect width="48" height="48" rx="24" fill="white" />
         </clipPath>
       </defs>

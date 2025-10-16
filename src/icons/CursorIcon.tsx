@@ -14,7 +14,7 @@ export const CursorIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         {...props}
       >
         <defs>
-          <style>{".st0 {\n        fill: #edecec;\n      }"}</style>
+          <style>{".st0 {\r\n        fill: #edecec;\r\n      }"}</style>
         </defs>
         <path
           className="st0"
@@ -31,7 +31,7 @@ export const CursorIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         {...props}
       >
         <defs>
-          <style>{".st0 {\n        fill: #26251e;\n      }"}</style>
+          <style>{".st0 {\r\n        fill: #26251e;\r\n      }"}</style>
         </defs>
         <path
           className="st0"

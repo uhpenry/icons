@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const SublimeTextIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 256 332"
       xmlns="http://www.w3.org/2000/svg"
@@ -17,7 +17,7 @@ export const SublimeTextIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="58.68%"
           x2="63.68%"
           y2="39.597%"
-          id="a"
+          id="icon_pk8tet2_a"
         >
           <stop stopColor="#FF9700" offset="0%" />
           <stop stopColor="#F48E00" offset="53%" />
@@ -26,7 +26,7 @@ export const SublimeTextIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="M255.288 166.795c0-3.887-2.872-6.128-6.397-5.015L6.397 238.675C2.865 239.796 0 243.86 0 247.74v78.59c0 3.887 2.865 6.135 6.397 5.015l242.494-76.888c3.525-1.12 6.397-5.185 6.397-9.071v-78.59Z"
-        fill="url(#a)"
+        fill="url(#icon_pk8tet2_a)"
       />
       <path
         d="M0 164.291c0 3.887 2.865 7.95 6.397 9.071l242.53 76.902c3.531 1.12 6.397-1.127 6.397-5.007V166.66c0-3.88-2.866-7.944-6.397-9.064L6.397 80.694C2.865 79.574 0 81.814 0 85.7v78.59Z"

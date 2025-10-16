@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 382.6 382.5"
@@ -13,7 +13,7 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="a"
+          id="icon_yvi5jo9_a"
           x2="249.9"
           y1="191.3"
           y2="191.3"
@@ -25,8 +25,8 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#0078d4" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#a"
-          id="b"
+          xlinkHref="#icon_yvi5jo9_a"
+          id="icon_yvi5jo9_b"
           x1="697.3"
           x2="809.9"
           y1="499.2"
@@ -34,7 +34,7 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientTransform="rotate(49.2 809.6 -269.1)"
         />
         <linearGradient
-          id="c"
+          id="icon_yvi5jo9_c"
           x1="143.6"
           x2="393.5"
           y1="249.8"
@@ -47,15 +47,15 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#a)"
+        fill="url(#icon_yvi5jo9_a)"
         d="M117 382.5H0v-189C0 90.7 84 0 186.9 0h63v120.4h-54.6c-46.8 0-78 31.2-78 78l-.1 184.1z"
       />
       <path
-        fill="url(#b)"
+        fill="url(#icon_yvi5jo9_b)"
         d="m249.9 182.6.2-46.8h-54.7c-39 0-62.4 23.4-62.4 62.4l-.2 47 54.6-.1c39 0 62.5-23.4 62.5-62.5z"
       />
       <path
-        fill="url(#c)"
+        fill="url(#icon_yvi5jo9_c)"
         d="M265.5 0h117v189c0 102.8-84 193.5-186.8 193.5h-63V262.1h54.6c46.9 0 78.1-31.2 78.1-78L265.5 0z"
       />
     </svg>

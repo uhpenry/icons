@@ -14,7 +14,7 @@ export const ZedIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#a)">
+        <g clipPath="url(#icon_3gt7cgy_a)">
           <path
             fill="#ffff"
             fillRule="evenodd"
@@ -23,7 +23,7 @@ export const ZedIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_3gt7cgy_a">
             <path fill="#fff" d="M0 0h96v96H0z" />
           </clipPath>
         </defs>
@@ -38,7 +38,7 @@ export const ZedIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#a)">
+        <g clipPath="url(#icon_ceix1bd_a)">
           <path
             fill="currentColor"
             fillRule="evenodd"
@@ -47,7 +47,7 @@ export const ZedIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="a">
+          <clipPath id="icon_ceix1bd_a">
             <path fill="#fff" d="M0 0h96v96H0z" />
           </clipPath>
         </defs>

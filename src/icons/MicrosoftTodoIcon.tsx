@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 1007.922 821.827"
@@ -14,11 +14,11 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <defs>
         <style>
           {
-            ".a{fill:#fff;}.b{fill:url(#a);}.c{mask:url(#b);}.d{fill:url(#c);}.e{mask:url(#d);}.f{fill:url(#e);}.g{fill:url(#f);}.h{mask:url(#g);}.i{fill:url(#h);}.j{fill:#195abd;}.k{fill:url(#i);}"
+            ".a{fill:#fff;}.b{fill:url(#icon_twgtk3x_a);}.c{mask:url(#icon_twgtk3x_b);}.d{fill:url(#icon_twgtk3x_c);}.e{mask:url(#icon_twgtk3x_d);}.f{fill:url(#icon_twgtk3x_e);}.g{fill:url(#icon_twgtk3x_f);}.h{mask:url(#icon_twgtk3x_g);}.i{fill:url(#icon_twgtk3x_h);}.j{fill:#195abd;}.k{fill:url(#icon_twgtk3x_i);}"
           }
         </style>
         <linearGradient
-          id="a"
+          id="icon_twgtk3x_a"
           x1="700.766"
           y1="597.024"
           x2="749.765"
@@ -30,7 +30,7 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.994" stopOpacity="0" />
         </linearGradient>
         <mask
-          id="b"
+          id="icon_twgtk3x_b"
           x="317.137"
           y="651.827"
           width="170"
@@ -47,7 +47,7 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </mask>
         <radialGradient
-          id="c"
+          id="icon_twgtk3x_c"
           cx="410.201"
           cy="853.349"
           r="85"
@@ -58,7 +58,7 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.994" stopOpacity="0" />
         </radialGradient>
         <mask
-          id="d"
+          id="icon_twgtk3x_d"
           x="837.922"
           y="95.835"
           width="205.208"
@@ -75,24 +75,24 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </mask>
         <radialGradient
-          id="e"
+          id="icon_twgtk3x_e"
           cx="1051.126"
           cy="1265.852"
           r="85"
           gradientTransform="translate(771.087 1854.394) rotate(-135)"
-          xlinkHref="#c"
+          xlinkHref="#icon_twgtk3x_c"
         />
         <linearGradient
-          id="f"
+          id="icon_twgtk3x_f"
           x1="1880.8"
           y1="34.286"
           x2="1929.799"
           y2="34.286"
           gradientTransform="matrix(0.867, 0, 0, -0.796, -1446.031, 767.147)"
-          xlinkHref="#a"
+          xlinkHref="#icon_twgtk3x_a"
         />
         <mask
-          id="g"
+          id="icon_twgtk3x_g"
           x="-35.208"
           y="299.482"
           width="205.208"
@@ -109,15 +109,15 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </mask>
         <radialGradient
-          id="h"
+          id="icon_twgtk3x_h"
           cx="27.608"
           cy="2001.37"
           r="85"
           gradientTransform="matrix(0.707, -0.707, -0.707, -0.707, 1480.66, 1854.394)"
-          xlinkHref="#c"
+          xlinkHref="#icon_twgtk3x_c"
         />
         <linearGradient
-          id="i"
+          id="icon_twgtk3x_i"
           x1="308.378"
           y1="811.629"
           x2="919.318"

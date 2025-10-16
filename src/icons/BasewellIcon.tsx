@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const BasewellIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 165 165"
       xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@ export const BasewellIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M46.792 52.664C46.792 31.31 64.102 14 85.456 14h35.928c22.864 0 41.4 18.535 41.4 41.4s-18.536 41.4-41.401 41.4h-74.59V52.664Z"
       />
       <mask
-        id="a"
+        id="icon_wan7jyy_a"
         width="116"
         height="84"
         x="3"
@@ -34,7 +34,7 @@ export const BasewellIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           d="M3 108.401c0-21.353 17.31-38.664 38.664-38.664H77.59c22.865 0 41.4 18.536 41.4 41.4 0 22.865-18.535 41.4-41.4 41.4H3v-44.136Z"
         />
       </mask>
-      <g mask="url(#a)">
+      <g mask="url(#icon_wan7jyy_a)">
         <path
           fill="#00A5FD"
           d="M46.792 52.664C46.792 31.31 64.102 14 85.456 14h35.928c22.864 0 41.4 18.535 41.4 41.4s-18.536 41.4-41.401 41.4h-74.59V52.664Z"

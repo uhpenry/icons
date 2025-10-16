@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const MulesoftIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 691 209"
@@ -12,8 +12,8 @@ export const MulesoftIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <style>{".st0{fill:#00a0df;}"}</style>
-      <g id="Layer_2_1_">
-        <g id="Layer_1-2">
+      <g id="icon_popt28j_Layer_2_1_">
+        <g id="icon_popt28j_Layer_1-2">
           <polygon
             className="st0"
             points="288.1,115.3 262.3,60.4 248.9,60.4 248.9,148.7 262.3,148.7 262.3,89.7 283.2,132.7 293.1,132.7 

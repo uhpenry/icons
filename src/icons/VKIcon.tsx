@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const VKIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -12,9 +12,9 @@ export const VKIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#a)">
+      <g clipPath="url(#icon_lee10gy_prefix__a)">
         <mask
-          id="a"
+          id="icon_lee10gy_prefix__a"
           width="256"
           height="256"
           x="0"
@@ -24,7 +24,7 @@ export const VKIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         >
           <path fill="#fff" d="M256 0H0v256h256V0z" />
         </mask>
-        <g mask="url(#a)">
+        <g mask="url(#icon_lee10gy_prefix__a)">
           <path
             fill="#07F"
             d="M0 122.88C0 64.95 0 35.99 18 18 36 0 64.95 0 122.88 0h10.24C191.05 0 220.01 0 238 18c18 18 18 46.95 18 104.88v10.24c0 57.93 0 86.89-18 104.88-18 18-46.95 18-104.88 18h-10.24c-57.93 0-86.89 0-104.88-18C0 220 0 191.06 0 133.13v-10.24z"
@@ -35,6 +35,11 @@ export const VKIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
       </g>
+      <defs>
+        <clipPath id="icon_lee10gy_prefix__a">
+          <path fill="#fff" d="M0 0h256v256H0z" />
+        </clipPath>
+      </defs>
     </svg>
   ),
 );

@@ -4,7 +4,7 @@ import { SVGIconProps } from "../types";
 export const JetBrainsRubyMineIcon = React.forwardRef<
   SVGSVGElement,
   SVGIconProps
->(({ size = 24, ...props }, ref) => (
+>(({ size = 24, theme, isDark, ...props }, ref) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 105 105"
@@ -14,7 +14,7 @@ export const JetBrainsRubyMineIcon = React.forwardRef<
     {...props}
   >
     <linearGradient
-      id="a"
+      id="icon_vi8rrjk_a"
       x1="65.05"
       x2="52.91"
       y1="60.03"
@@ -29,7 +29,7 @@ export const JetBrainsRubyMineIcon = React.forwardRef<
       <stop offset="1" stopColor="#fc801d" />
     </linearGradient>
     <linearGradient
-      id="b"
+      id="icon_vi8rrjk_b"
       x1="41.93"
       x2="60.67"
       y1="14.45"
@@ -40,7 +40,7 @@ export const JetBrainsRubyMineIcon = React.forwardRef<
       <stop offset="1" stopColor="#fe2857" />
     </linearGradient>
     <linearGradient
-      id="c"
+      id="icon_vi8rrjk_c"
       x1="3.92"
       x2="65.63"
       y1="19.88"
@@ -57,12 +57,12 @@ export const JetBrainsRubyMineIcon = React.forwardRef<
       <stop offset=".85" stopColor="#fc801d" />
     </linearGradient>
     <path
-      fill="url(#a)"
+      fill="url(#icon_vi8rrjk_a)"
       d="m83.34 4.5-27.47 9.84L34.22 4.5l-7.13 17.96h-4.61v53.02l66.67.58 10.35-52.8z"
     />
-    <path fill="url(#b)" d="m82.52 38.95-43.87-26 43.87 51.42z" />
+    <path fill="url(#icon_vi8rrjk_b)" d="m82.52 38.95-43.87-26 43.87 51.42z" />
     <path
-      fill="url(#c)"
+      fill="url(#icon_vi8rrjk_c)"
       d="m43.46 98 35.88-4.78-5.57-10.71h8.75V64.37l-43.88-51.5L3.5 21.5l.04 50.4 20.2 28.6 19.61-2.49.09-.01z"
     />
     <path d="M22.5 22.5h60v60h-60z" />

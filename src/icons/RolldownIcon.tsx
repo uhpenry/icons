@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const RolldownIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -13,7 +13,7 @@ export const RolldownIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <path
-        fill="url(#a)"
+        fill="url(#icon_1ghpilk_a)"
         d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50Z"
       />
       <path
@@ -22,7 +22,7 @@ export const RolldownIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <defs>
         <linearGradient
-          id="a"
+          id="icon_1ghpilk_a"
           x1="50"
           x2="50"
           y1="0"

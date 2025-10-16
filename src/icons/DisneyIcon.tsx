@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const DisneyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 534 302"
@@ -11,7 +11,9 @@ export const DisneyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <style>{".st0{fill:#01147b;}\n\t.st1{fill:url(#SVGID_1_);}"}</style>
+      <style>
+        {".st0{fill:#01147b;}\r\n\t.st1{fill:url(#icon_dfjjdpd_SVGID_1_);}"}
+      </style>
       <path
         className="st0"
         d="M241.7,203.4c0.3,0,0.3,0,0.6,0.1c4.6,0.6,9.1,1.4,12.5,3c3.2,1.4,5.1,3.2,6.8,6.4c2.6,4.8,2.8,11.5,0.4,16.6
@@ -68,7 +70,7 @@ export const DisneyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
 		c0.9-8.7,1.3-16.5,1.3-26c0-1.3,0-2.8,0-4.4h30.7c1.4,0,2.5-1.1,2.5-2.5v-6.5C518.6,200,517.5,198.9,516.1,198.9z"
       />
       <radialGradient
-        id="SVGID_1_"
+        id="icon_dfjjdpd_SVGID_1_"
         cx="1775.1387"
         cy="146.1262"
         r="756.5562"

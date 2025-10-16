@@ -84,7 +84,6 @@ const optimizeSvgWithSVGO = async (svg: string): Promise<string> => {
         },
       },
       'removeScripts',
-      'cleanupIds',
       'removeEmptyText',
       'removeTitle',
       'removeDeprecatedAttrs',
@@ -177,6 +176,24 @@ export const reactifySvg = async (svg: string) => {
       return match;
     }
   });
+
+  const uniquePrefix = 'icon_' + Math.random().toString(36).substring(2, 9);
+  const idRegex = /id="([^"]+)"/g;
+  const usedIds: {old:string,new:string }[]= [];
+
+  sanitized = sanitized.replace(idRegex, (match, id) => {
+    const newId = `${uniquePrefix}_${id}`;
+    usedIds.push({ old: id, new: newId });
+    return `id="${newId}"`;
+  });
+
+  for (const { old, new: newId } of usedIds) {
+    const refRegex = new RegExp(`url\\(#${old}\\)`, 'g');
+    sanitized = sanitized.replace(refRegex, `url(#${newId})`);
+    // Also replace xlink:href="#old" and href="#old"
+    const hrefRegex = new RegExp(`(xlink:href|href)=["']#${old}["']`, 'g');
+    sanitized = sanitized.replace(hrefRegex, `$1="#${newId}"`);
+  }
 
   //  Step 8. Clean root <svg> attributes
   sanitized = applySvgRootAttributesRules(sanitized);

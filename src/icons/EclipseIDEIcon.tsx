@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const EclipseIDEIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 256 240"
       xmlns="http://www.w3.org/2000/svg"
@@ -12,12 +12,18 @@ export const EclipseIDEIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <linearGradient id="a" x1="50%" x2="50%" y1="1089.396%" y2="-159.5%">
+        <linearGradient
+          id="icon_dr6978t_a"
+          x1="50%"
+          x2="50%"
+          y1="1089.396%"
+          y2="-159.5%"
+        >
           <stop offset="30.33%" stopColor="#473788" />
           <stop offset="87.2%" stopColor="#2C2255" />
         </linearGradient>
         <linearGradient
-          id="b"
+          id="icon_dr6978t_b"
           x1="49.999%"
           x2="49.999%"
           y1="896.537%"
@@ -27,7 +33,7 @@ export const EclipseIDEIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="87.2%" stopColor="#2C2255" />
         </linearGradient>
         <linearGradient
-          id="c"
+          id="icon_dr6978t_c"
           x1="49.999%"
           x2="49.999%"
           y1="215.17%"
@@ -46,17 +52,17 @@ export const EclipseIDEIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M20.093 120.09C20.093 59.753 65.407 9.621 124.357.803c-1.462-.053-2.932-.112-4.409-.112C53.796.692.164 54.15.164 120.09c0 65.943 53.63 119.397 119.784 119.397 1.482 0 2.951-.056 4.419-.11-58.96-8.817-104.274-58.95-104.274-119.287Z"
       />
       <path
-        fill="url(#a)"
+        fill="url(#icon_dr6978t_a)"
         d="M155.728 14.226A77.824 77.824 0 0 0 153.364.451H2.642A77.753 77.753 0 0 0 .276 14.226h155.452Z"
         transform="translate(63.083 99.461)"
       />
       <path
-        fill="url(#b)"
+        fill="url(#icon_dr6978t_b)"
         d="M155.728 27.02H.278a77.611 77.611 0 0 0 2.364 13.776h150.724a77.821 77.821 0 0 0 2.362-13.776Z"
         transform="translate(63.083 99.461)"
       />
       <path
-        fill="url(#c)"
+        fill="url(#icon_dr6978t_c)"
         d="M78.003 98.636c31.3 0 58.282-18.441 70.706-45.048H7.297c12.425 26.607 39.405 45.048 70.706 45.048Z"
         transform="translate(63.083 99.461)"
       />

@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const SvglIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 512 512"
       fill="none"
@@ -13,17 +13,20 @@ export const SvglIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <rect
+        id="icon_izc8pvw_«r3b»"
         width="512"
         height="512"
+        x="0"
+        y="0"
         rx="128"
-        fill="url(#a)"
+        fill="url(#icon_izc8pvw_«r3c»)"
         stroke="#FFFFFF"
         strokeWidth="0"
         paintOrder="stroke"
       />
       <defs>
         <radialGradient
-          id="a"
+          id="icon_izc8pvw_«r3c»"
           cx="50%"
           cy="50%"
           r="100%"

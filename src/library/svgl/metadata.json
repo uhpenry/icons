@@ -1985,7 +1985,7 @@
   {
     "id": 225,
     "path": { "light": "src\\library\\svgl\\wordpress\\wordpress-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "WordPress",
     "url": "https://wordpress.org/",
     "icon": "WordPressIcon"

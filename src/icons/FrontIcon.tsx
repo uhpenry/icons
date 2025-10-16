@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 950 950"
       fill="none"
@@ -22,7 +22,7 @@ export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         cy="426"
         r="108"
         transform="rotate(90 509 426)"
-        fill="url(#a)"
+        fill="url(#icon_p17ejr1_paint0_linear)"
       />
       <circle
         opacity="0.5"
@@ -30,11 +30,11 @@ export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         cy="426"
         r="108"
         transform="rotate(90 509 426)"
-        fill="url(#b)"
+        fill="url(#icon_p17ejr1_paint1_linear)"
       />
       <defs>
         <linearGradient
-          id="a"
+          id="icon_p17ejr1_paint0_linear"
           x1="428.041"
           y1="502.06"
           x2="591.574"
@@ -45,7 +45,7 @@ export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.861354" stopColor="#FF0057" />
         </linearGradient>
         <linearGradient
-          id="b"
+          id="icon_p17ejr1_paint1_linear"
           x1="428.041"
           y1="502.06"
           x2="591.574"

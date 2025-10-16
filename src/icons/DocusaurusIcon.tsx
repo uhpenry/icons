@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const DocusaurusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       viewBox="0 0 200 200"
       xmlns="http://www.w3.org/2000/svg"
@@ -14,11 +14,11 @@ export const DocusaurusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <defs>
         <path
           d="M4.883.09v1.08a1 1 0 01-1 1H1a1 1 0 01-1-1V.09h4.883z"
-          id="a"
+          id="icon_dtr15lc_a"
         />
         <path
           d="M4.883.09v1.08a1 1 0 01-1 1H1a1 1 0 01-1-1V.09h4.883z"
-          id="b"
+          id="icon_dtr15lc_b"
         />
       </defs>
       <g fill="none" fillRule="evenodd">
@@ -146,8 +146,14 @@ export const DocusaurusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <rect x="60.848" y="1.126" width="4.883" height="4.883" rx="1" />
             <rect x="66.635" y="1.126" width="4.883" height="4.883" rx="1" />
             <rect x="77.485" y="1.126" width="4.883" height="4.883" rx="1" />
-            <use xlinkHref="#a" transform="rotate(-180 38.471 1.648)" />
-            <use xlinkHref="#b" transform="translate(72.06 3.839)" />
+            <use
+              xlinkHref="#icon_dtr15lc_a"
+              transform="rotate(-180 38.471 1.648)"
+            />
+            <use
+              xlinkHref="#icon_dtr15lc_b"
+              transform="translate(72.06 3.839)"
+            />
           </g>
           <rect
             fill="#4A4A4A"

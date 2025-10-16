@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -13,12 +13,16 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <path id="j" fill="#fff" d="M8.271 8.271h176.457v176.457H8.271z" />
+        <path
+          id="icon_yd4knn2_reuse-0"
+          fill="#fff"
+          d="M8.271 8.271h176.457v176.457H8.271z"
+        />
       </defs>
-      <g clipPath="url(#a)">
-        <g clipPath="url(#b)">
+      <g clipPath="url(#icon_yd4knn2_a)">
+        <g clipPath="url(#icon_yd4knn2_b)">
           <mask
-            id="c"
+            id="icon_yd4knn2_c"
             width="177"
             height="177"
             x="8"
@@ -43,26 +47,26 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               d="M184.729 45.032v102.936a7.375 7.375 0 0 1-3.273 6.137l-44.114 29.41a7.38 7.38 0 0 0 3.272-6.14V15.625a7.44 7.44 0 0 0-3.383-6.14l44.225 29.41a7.419 7.419 0 0 1 3.273 6.137Z"
             />
           </mask>
-          <g mask="url(#c)">
+          <g mask="url(#icon_yd4knn2_c)">
             <path
               fill="#5E438F"
               d="m40.621 157.524-29.408-22.057a7.292 7.292 0 0 1-2.941-5.881V63.414a7.287 7.287 0 0 1 2.941-5.88l29.408-22.058a6.658 6.658 0 0 0-2.02 5.881v110.286a6.66 6.66 0 0 0 2.02 5.881Z"
             />
-            <g filter="url(#d)">
+            <g filter="url(#icon_yd4knn2_d)">
               <path
-                fill="url(#e)"
+                fill="url(#icon_yd4knn2_e)"
                 d="M181.455 38.895a7.385 7.385 0 0 0-4.08-1.213 7.147 7.147 0 0 0-5.073 2.057l-.513.515-31.25 29.962L113.117 96.5l-32.463 31.137-30.033 28.784-.516.516a7.137 7.137 0 0 1-5.073 2.059 7.386 7.386 0 0 1-4.411-1.472l-29.408-22.057a7.346 7.346 0 0 0 9.997-1.103l16.471-19.115 16.174-18.785 26.8-31.1 46.945-54.52a7.251 7.251 0 0 1 5.55-2.572 7.39 7.39 0 0 1 4.081 1.213l44.224 29.41Z"
               />
             </g>
-            <g filter="url(#f)">
+            <g filter="url(#icon_yd4knn2_f)">
               <path
-                fill="url(#g)"
+                fill="url(#icon_yd4knn2_g)"
                 d="m181.455 154.105-44.114 29.411a7.443 7.443 0 0 1-9.666-1.324l-47.02-54.555-26.8-31.173-16.173-18.748L21.21 58.598a7.387 7.387 0 0 0-9.997-1.065L40.62 35.477a7.389 7.389 0 0 1 4.411-1.472 7.128 7.128 0 0 1 5.073 2.06l.516.515 30.033 28.785L113.117 96.5l27.461 26.323 31.211 29.923.513.516a7.155 7.155 0 0 0 5.073 2.056 7.382 7.382 0 0 0 4.08-1.213Z"
               />
             </g>
-            <g filter="url(#h)">
+            <g filter="url(#icon_yd4knn2_h)">
               <path
-                fill="url(#i)"
+                fill="url(#icon_yd4knn2_i)"
                 d="M184.729 45.032v102.935a7.38 7.38 0 0 1-3.273 6.138l-44.115 29.41a7.383 7.383 0 0 0 3.273-6.14V15.625a7.44 7.44 0 0 0-3.383-6.14l44.225 29.41a7.428 7.428 0 0 1 3.273 6.137Z"
               />
             </g>
@@ -71,7 +75,7 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </g>
       <defs>
         <linearGradient
-          id="e"
+          id="icon_yd4knn2_e"
           x1="151.642"
           x2="20.614"
           y1="8.271"
@@ -82,7 +86,7 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#7252AA" />
         </linearGradient>
         <linearGradient
-          id="g"
+          id="icon_yd4knn2_g"
           x1="24.814"
           x2="147.966"
           y1="40.437"
@@ -93,7 +97,7 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#9A70D4" />
         </linearGradient>
         <linearGradient
-          id="i"
+          id="icon_yd4knn2_i"
           x1="160.457"
           x2="160.457"
           y1="5.936"
@@ -104,7 +108,7 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#C18EF1" />
         </linearGradient>
         <filter
-          id="d"
+          id="icon_yd4knn2_d"
           width="180.604"
           height="161.087"
           x="6.032"
@@ -134,7 +138,7 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <feBlend in="SourceGraphic" in2="effect2_dropShadow" result="shape" />
         </filter>
         <filter
-          id="f"
+          id="icon_yd4knn2_f"
           width="180.604"
           height="161.085"
           x="6.032"
@@ -164,7 +168,7 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <feBlend in="SourceGraphic" in2="effect2_dropShadow" result="shape" />
         </filter>
         <filter
-          id="h"
+          id="icon_yd4knn2_h"
           width="78.583"
           height="205.117"
           x="121.688"
@@ -193,11 +197,11 @@ export const VisualStudioIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <feBlend in2="effect1_dropShadow" result="effect2_dropShadow" />
           <feBlend in="SourceGraphic" in2="effect2_dropShadow" result="shape" />
         </filter>
-        <clipPath id="a">
-          <use xlinkHref="#j" />
+        <clipPath id="icon_yd4knn2_a">
+          <use xlinkHref="#icon_yd4knn2_reuse-0" />
         </clipPath>
-        <clipPath id="b">
-          <use xlinkHref="#j" />
+        <clipPath id="icon_yd4knn2_b">
+          <use xlinkHref="#icon_yd4knn2_reuse-0" />
         </clipPath>
       </defs>
     </svg>

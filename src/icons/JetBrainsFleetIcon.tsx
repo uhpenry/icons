@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -14,7 +14,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <radialGradient
-          id="a"
+          id="icon_8tkt1cs_a"
           cx="0"
           cy="0"
           r="1"
@@ -25,7 +25,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#8ACEFF" />
         </radialGradient>
         <radialGradient
-          id="b"
+          id="icon_8tkt1cs_b"
           cx="0"
           cy="0"
           r="1"
@@ -36,7 +36,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#FF00D6" stopOpacity=".44" />
         </radialGradient>
         <radialGradient
-          id="c"
+          id="icon_8tkt1cs_c"
           cx="0"
           cy="0"
           r="1"
@@ -49,7 +49,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".932" stopColor="#0038FF" />
         </radialGradient>
         <radialGradient
-          id="d"
+          id="icon_8tkt1cs_d"
           cx="0"
           cy="0"
           r="1"
@@ -60,7 +60,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#0500FF" stopOpacity=".15" />
         </radialGradient>
         <radialGradient
-          id="e"
+          id="icon_8tkt1cs_e"
           cx="0"
           cy="0"
           r="1"
@@ -72,7 +72,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".899" stopColor="#BE46FF" stopOpacity=".87" />
         </radialGradient>
         <radialGradient
-          id="g"
+          id="icon_8tkt1cs_g"
           cx="0"
           cy="0"
           r="1"
@@ -84,7 +84,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".979" stopColor="#9FD7FF" />
         </radialGradient>
         <linearGradient
-          id="f"
+          id="icon_8tkt1cs_f"
           x1="11.644"
           x2="82.363"
           y1="42.432"
@@ -95,7 +95,7 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".818" stopColor="#FD3AF5" stopOpacity=".47" />
         </linearGradient>
         <linearGradient
-          id="h"
+          id="icon_8tkt1cs_h"
           x1="33.054"
           x2="37.35"
           y1="23.191"
@@ -108,35 +108,35 @@ export const JetBrainsFleetIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#a)"
+        fill="url(#icon_8tkt1cs_a)"
         d="M65.153 30.85c0 9.496-10.163 17.194-22.7 17.194-12.536 0-22.699-7.698-22.699-17.194 0-9.496 10.163-17.194 22.7-17.194 12.536 0 22.699 7.698 22.699 17.194z"
       />
       <path
-        fill="url(#b)"
+        fill="url(#icon_8tkt1cs_b)"
         d="M65.153 30.85c0 9.496-10.163 17.194-22.7 17.194-12.536 0-22.699-7.698-22.699-17.194 0-9.496 10.163-17.194 22.7-17.194 12.536 0 22.699 7.698 22.699 17.194z"
       />
       <path
-        fill="url(#c)"
+        fill="url(#icon_8tkt1cs_c)"
         d="M66 35c0 17.12-13.88 31-31 31C17.88 66 4 52.12 4 35 4 17.88 17.88 4 35 4c8.046 3.642 16.464 17.194 19.99 21.429 3.524 4.235 12.648 9.571 8.176-1.623C65.073 26.832 66 31.852 66 35z"
       />
       <path
-        fill="url(#d)"
+        fill="url(#icon_8tkt1cs_d)"
         d="M66 35c0 17.12-13.88 31-31 31C17.88 66 4 52.12 4 35 4 17.88 17.88 4 35 4c8.046 3.642 16.464 17.194 19.99 21.429 3.524 4.235 12.648 9.571 8.176-1.623C65.073 26.832 66 31.852 66 35z"
       />
       <path
-        fill="url(#e)"
+        fill="url(#icon_8tkt1cs_e)"
         d="M66 35c0 17.12-13.88 31-31 31C17.88 66 4 52.12 4 35 4 17.88 17.88 4 35 4c8.046 3.642 16.464 17.194 19.99 21.429 3.524 4.235 12.648 9.571 8.176-1.623C65.073 26.832 66 31.852 66 35z"
       />
       <path
-        fill="url(#f)"
+        fill="url(#icon_8tkt1cs_f)"
         d="M66 35c0 17.12-13.88 31-31 31C17.88 66 4 52.12 4 35 4 17.88 17.88 4 35 4c8.046 3.642 16.464 17.194 19.99 21.429 3.524 4.235 12.648 9.571 8.176-1.623C65.073 26.832 66 31.852 66 35z"
       />
       <path
-        fill="url(#g)"
+        fill="url(#icon_8tkt1cs_g)"
         d="M56.651 39.682c1.658 7.764-6.511 16.089-18.246 18.594-11.734 2.505-22.59-1.757-24.248-9.52-1.658-7.764 6.511-16.089 18.246-18.594 11.734-2.506 22.59 1.757 24.248 9.52z"
       />
       <path
-        fill="url(#h)"
+        fill="url(#icon_8tkt1cs_h)"
         d="M56.651 39.682c1.658 7.764-6.511 16.089-18.246 18.594-11.734 2.505-22.59-1.757-24.248-9.52-1.658-7.764 6.511-16.089 18.246-18.594 11.734-2.506 22.59 1.757 24.248 9.52z"
       />
       <path

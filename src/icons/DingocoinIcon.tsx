@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const DingocoinIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 496 496"
@@ -13,7 +13,7 @@ export const DingocoinIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <style>
         {
-          ".st0{fill:#cb9e1e}.st1{fill:#ebc46a}.st2{fill:#9e7a2c}.st3{clip-path:url(#SVGID_2_)}.st4{fill:#604d25}.st5{fill:#f9df9d}.st7{fill:#dcd5b8}.st9{fill:#cda01f}.st10{fill:#fff}"
+          ".st0{fill:#cb9e1e}.st1{fill:#ebc46a}.st2{fill:#9e7a2c}.st3{clip-path:url(#icon_tews0w4_SVGID_2_)}.st4{fill:#604d25}.st5{fill:#f9df9d}.st7{fill:#dcd5b8}.st9{fill:#cda01f}.st10{fill:#fff}"
         }
       </style>
       <circle cx="248" cy="248" r="248" className="st0" />
@@ -26,10 +26,10 @@ export const DingocoinIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st2"
       />
       <defs>
-        <circle id="SVGID_1_" cx="248" cy="248" r="248" />
+        <circle id="icon_tews0w4_SVGID_1_" cx="248" cy="248" r="248" />
       </defs>
-      <clipPath id="SVGID_2_">
-        <use xlinkHref="#SVGID_1_" />
+      <clipPath id="icon_tews0w4_SVGID_2_">
+        <use xlinkHref="#icon_tews0w4_SVGID_1_" />
       </clipPath>
       <g className="st3">
         <path
@@ -238,17 +238,17 @@ export const DingocoinIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <path d="M240.5.1h2.5-2.5zM243 496l-2.5-.1h2.5z" className="st0" />
       <defs>
         <path
-          id="SVGID_3_"
+          id="icon_tews0w4_SVGID_3_"
           d="M354.9 466.3C425.4 422.5 472 341.3 472 248c0-93.3-46.6-174.5-117.1-218.3a243.4 243.4 0 0 1 0 436.6z"
         />
       </defs>
-      <clipPath id="SVGID_4_">
-        <use xlinkHref="#SVGID_3_" />
+      <clipPath id="icon_tews0w4_SVGID_4_">
+        <use xlinkHref="#icon_tews0w4_SVGID_3_" />
       </clipPath>
       <path
         d="M298 469h58v12h-58zM331 450h58v12h-58zM367 431h58v12h-58zM383 412h58v12h-58zM397 393h58v12h-58zM417 374h58v12h-58zM429 355h58v12h-58zM435 336h58v12h-58zM445 317h58v12h-58zM445 298h58v12h-58zM445 279h58v12h-58zM445 260h58v12h-58zM445 241h58v12h-58zM445 222h58v12h-58zM445 203h58v12h-58zM445 184h58v12h-58zM445 165h58v12h-58zM435 146h58v12h-58zM429 127h58v12h-58zM417 108h58v12h-58zM397 89h58v12h-58zM383 70h58v12h-58zM367 51h58v12h-58zM331 32h58v12h-58zM298 13h58v12h-58z"
         className="st0"
-        style={{ clipPath: "url(#SVGID_4_)" }}
+        style={{ clipPath: "url(#icon_tews0w4_SVGID_4_)" }}
       />
       <path
         d="M392 321.3c-3.2-1.7-6.5-3-9.7-3.6a22.1 22.1 0 0 0-18.6 4.8 31.3 31.3 0 0 0-7.4 9.4l-8 15.2a2 2 0 0 0 .7 2.7l43.4 23.1c.3.2.6.3 1 .3l.5-.1a2 2 0 0 0 1.2-1l9-16.7c3.6-7 4.5-13.5 2.4-19.3-2-5.8-6.9-10.8-14.4-14.8zm-27.4 21.8 3-5.5c1-2 2.2-3.5 3.5-4.6 1.2-1 2.6-1.6 4-2a12 12 0 0 1 4.9.2 26.2 26.2 0 0 1 11.7 6.4 9.7 9.7 0 0 1 2.5 3.8c.4 1.3.5 2.6.1 4a21 21 0 0 1-2 5.2l-3 5.7-24.7-13.2zM419.5 305.7l-47.4-12.9a2 2 0 0 0-2.5 1.4l-2.4 9a2 2 0 0 0 1.4 2.4l47.4 12.9a2 2 0 0 0 1.5-.2 2 2 0 0 0 1-1.2l2.4-9a2 2 0 0 0-1.4-2.4zM428 247a2 2 0 0 0-1.3-.7l-49-4.7a2 2 0 0 0-2.2 1.8l-.7 8.4a2 2 0 0 0 1.8 2.2l27.7 2.6L374 271c-.6.3-1 1-1 1.6l-.9 8.5a2 2 0 0 0 1.8 2.1l49 4.7h.1a2 2 0 0 0 2-1.8l.8-8.4a2 2 0 0 0-1.8-2.2l-27.7-2.6 30.3-14.3c.7-.3 1.1-.9 1.2-1.6l.8-8.4c0-.6-.1-1-.5-1.5zM389 189.6a2 2 0 0 0-.3 1.5l4.9 20c.1.5.4 1 .9 1.2.4.3 1 .4 1.5.2l7.9-1.9a2 2 0 0 0 1.5-2.4l-2.4-9.6 2 .1a11 11 0 0 1 7.7 8c.4 2.1.5 4 0 5.5-.5 1.7-1.2 3.1-2.4 4.4a15 15 0 0 1-4.2 3.3 23.5 23.5 0 0 1-11.3 2.7c-1.9 0-3.6-.4-5.3-1-1.5-.6-2.9-1.5-4-2.7-1.2-1.3-2-2.9-2.5-5-.4-1.6-.5-3.1-.3-4.4a9.2 9.2 0 0 1 3.1-5.7c.9-.7 1.7-1.3 2.5-1.7a2 2 0 0 0 1-1.3 2 2 0 0 0-.4-1.6l-5.4-7.6a2 2 0 0 0-2.8-.5 25 25 0 0 0-9.3 11.4 24 24 0 0 0-.6 14.5 24 24 0 0 0 12.6 16.3 27.4 27.4 0 0 0 13.2 2.8 35.5 35.5 0 0 0 17-4.9 23.4 23.4 0 0 0 11.2-27.4 19.4 19.4 0 0 0-3.1-7c-.8-1-1.6-2-2.5-2.8a2 2 0 0 0 1.4-2.4l-1.9-7.8a2 2 0 0 0-2.4-1.5l-26 6.4c-.6 0-1 .4-1.3.9zM364.2 175.4c2.6 2.4 5.5 4.2 8.7 5.3 3.2 1 6.6 1.5 10.1 1.3h.8a32.2 32.2 0 0 0 25.2-15.7 24.1 24.1 0 0 0 .8-20.5 24.2 24.2 0 0 0-14.7-14.3c-3.2-1.2-6.6-1.6-10.1-1.5a32.3 32.3 0 0 0-19.6 7.8c-2.7 2.3-4.8 5-6.4 8a24.2 24.2 0 0 0-.8 20.5c1.4 3.7 3.5 6.8 6 9.1zm4.8-19a11 11 0 0 1 1.7-4.7c1-1.4 2.3-2.7 3.8-3.9a24 24 0 0 1 11.7-4.3c1.5-.1 3 0 4.4.3 1.7.4 3.1 1 4.5 2.1 1.2 1 2.3 2.6 3 4.5.8 2 1 3.7.9 5.4-.3 1.7-.8 3.2-1.8 4.6a15 15 0 0 1-3.7 3.8 23.4 23.4 0 0 1-10.8 4.3c-1.9.3-3.7.2-5.4-.2-1.6-.4-3-1-4.4-2.1-1.3-1-2.3-2.6-3.1-4.5-.8-2-1-3.8-.8-5.4z"

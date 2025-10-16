@@ -4,7 +4,7 @@ import { SVGIconProps } from "../types";
 export const MicrosoftPowerPointIcon = React.forwardRef<
   SVGSVGElement,
   SVGIconProps
->(({ size = 24, ...props }, ref) => (
+>(({ size = 24, theme, isDark, ...props }, ref) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="60 78.75 581.25 562.5"
@@ -15,7 +15,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
   >
     <defs>
       <radialGradient
-        id="b"
+        id="icon_arcxvkt_b"
         cx="0"
         cy="0"
         r="1"
@@ -38,7 +38,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="c"
+        id="icon_arcxvkt_c"
         cx="0"
         cy="0"
         r="1"
@@ -54,7 +54,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#ea3d01", stopOpacity: "0" }} />
       </radialGradient>
       <radialGradient
-        id="e"
+        id="icon_arcxvkt_e"
         cx="0"
         cy="0"
         r="1"
@@ -73,7 +73,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="f"
+        id="icon_arcxvkt_f"
         cx="0"
         cy="0"
         r="1"
@@ -92,7 +92,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="g"
+        id="icon_arcxvkt_g"
         cx="0"
         cy="0"
         r="1"
@@ -109,7 +109,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="h"
+        id="icon_arcxvkt_h"
         cx="0"
         cy="0"
         r="1"
@@ -128,7 +128,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="i"
+        id="icon_arcxvkt_i"
         cx="0"
         cy="0"
         r="1"
@@ -144,7 +144,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="j"
+        id="icon_arcxvkt_j"
         cx="0"
         cy="0"
         r="1"
@@ -163,7 +163,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <linearGradient
-        id="a"
+        id="icon_arcxvkt_a"
         x1="22.096"
         x2="-.876"
         y1="4.056"
@@ -178,7 +178,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#e5495b", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="d"
+        id="icon_arcxvkt_d"
         x1="27.549"
         x2="47.729"
         y1="28.172"
@@ -198,43 +198,83 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
     </defs>
     <path
       d="M641.2 360c0-155.332-125.907-281.25-281.223-281.25C204.66 78.75 78.75 204.668 78.75 360s125.91 281.25 281.227 281.25c155.316 0 281.222-125.918 281.222-281.25Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#a)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_a)",
+      }}
     />
     <path
       d="M641.2 360c0-155.332-125.907-281.25-281.223-281.25C204.66 78.75 78.75 204.668 78.75 360s125.91 281.25 281.227 281.25c155.316 0 281.222-125.918 281.222-281.25Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#b)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_b)",
+      }}
     />
     <path
       d="M641.2 360c0-155.332-125.907-281.25-281.223-281.25C204.66 78.75 78.75 204.668 78.75 360s125.91 281.25 281.227 281.25c155.316 0 281.222-125.918 281.222-281.25Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#c)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_c)",
+      }}
     />
     <path
       d="M360.016 78.75c155.312.004 281.218 125.922 281.218 281.25 0 51.672-13.96 100.07-38.273 141.68l4.57-10.121c27.832-61.797-17.406-131.727-85.183-131.676l-111.93.086c-27.824.023-50.402-22.535-50.402-50.36V197.477c-.004-67.805-70.012-112.993-131.793-85.067l-8.996 4.074c41.406-23.992 89.492-37.734 140.789-37.734Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#d)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_d)",
+      }}
     />
     <path
       d="M360.016 78.75c155.312.004 281.218 125.922 281.218 281.25 0 51.672-13.96 100.07-38.273 141.68l4.57-10.121c27.832-61.797-17.406-131.727-85.183-131.676l-111.93.086c-27.824.023-50.402-22.535-50.402-50.36V197.477c-.004-67.805-70.012-112.993-131.793-85.067l-8.996 4.074c41.406-23.992 89.492-37.734 140.789-37.734Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#e)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_e)",
+      }}
     />
     <path
       d="M360.016 78.75c155.312.004 281.218 125.922 281.218 281.25 0 51.672-13.96 100.07-38.273 141.68l4.57-10.121c27.832-61.797-17.406-131.727-85.183-131.676l-111.93.086c-27.824.023-50.402-22.535-50.402-50.36V197.477c-.004-67.805-70.012-112.993-131.793-85.067l-8.996 4.074c41.406-23.992 89.492-37.734 140.789-37.734Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#f)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_f)",
+      }}
     />
     <path
       d="M360.016 78.75c155.312.004 281.218 125.922 281.218 281.25 0 51.672-13.96 100.07-38.273 141.68l4.57-10.121c27.832-61.797-17.406-131.727-85.183-131.676l-111.93.086c-27.824.023-50.402-22.535-50.402-50.36V197.477c-.004-67.805-70.012-112.993-131.793-85.067l-8.996 4.074c41.406-23.992 89.492-37.734 140.789-37.734Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#g)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_g)",
+      }}
     />
     <path
       d="M360.016 78.75c155.312.004 281.218 125.922 281.218 281.25 0 51.672-13.96 100.07-38.273 141.68l4.57-10.121c27.832-61.797-17.406-131.727-85.183-131.676l-111.93.086c-27.824.023-50.402-22.535-50.402-50.36V197.477c-.004-67.805-70.012-112.993-131.793-85.067l-8.996 4.074c41.406-23.992 89.492-37.734 140.789-37.734Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#h)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_h)",
+      }}
     />
     <path
       d="M108.75 345h142.5c26.926 0 48.75 21.824 48.75 48.75v142.5c0 26.926-21.824 48.75-48.75 48.75h-142.5C81.824 585 60 563.176 60 536.25v-142.5C60 366.824 81.824 345 108.75 345Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#i)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_i)",
+      }}
     />
     <path
       d="M108.75 345h142.5c26.926 0 48.75 21.824 48.75 48.75v142.5c0 26.926-21.824 48.75-48.75 48.75h-142.5C81.824 585 60 563.176 60 536.25v-142.5C60 366.824 81.824 345 108.75 345Zm0 0"
-      style={{ stroke: "none", fillRule: "nonzero", fill: "url(#j)" }}
+      style={{
+        stroke: "none",
+        fillRule: "nonzero",
+        fill: "url(#icon_arcxvkt_j)",
+      }}
     />
     <path
       d="M168.293 488.906v44.664h-30.875V396.426h47.7c17.077 0 30.077 3.73 39 11.191 8.987 7.457 13.48 18.52 13.48 33.184 0 15.113-5.036 26.906-15.106 35.387-10.004 8.48-23.453 12.718-40.34 12.718Zm0-68.761v45.043h12.906c7.645 0 13.543-2.004 17.684-6.024 4.14-4.016 6.215-9.785 6.215-17.309 0-6.949-2.043-12.304-6.121-16.07-4.016-3.762-9.782-5.64-17.301-5.64Zm0 0"

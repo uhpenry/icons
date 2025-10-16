@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const PitchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 57.6 65"
@@ -12,10 +12,12 @@ export const PitchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <style>
-        {".st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}"}
+        {
+          ".st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#icon_if5twvp_SVGID_1_);}"
+        }
       </style>
       <linearGradient
-        id="SVGID_1_"
+        id="icon_if5twvp_SVGID_1_"
         gradientUnits="userSpaceOnUse"
         x1="63.1868"
         y1="171.8843"

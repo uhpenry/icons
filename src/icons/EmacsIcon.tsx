@@ -2,7 +2,7 @@ import React from "react";
 import { SVGIconProps } from "../types";
 
 export const EmacsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
-  ({ size = 24, ...props }, ref) => (
+  ({ size = 24, theme, isDark, ...props }, ref) => (
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 256 256"
@@ -12,7 +12,12 @@ export const EmacsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <g fill="none">
-        <rect width="256" height="256" fill="url(#a)" rx="60" />
+        <rect
+          width="256"
+          height="256"
+          fill="url(#icon_vx0z0a4_skillIconsEmacs0)"
+          rx="60"
+        />
         <path
           fill="#fff"
           fillRule="evenodd"
@@ -21,7 +26,7 @@ export const EmacsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
         <defs>
           <linearGradient
-            id="a"
+            id="icon_vx0z0a4_skillIconsEmacs0"
             x1="0"
             x2="256"
             y1="0"
