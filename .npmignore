@@ -10,5 +10,4 @@ pnpm-workspace.yaml
 pnpm-lock.yaml
 ICON_METRIC.md
 CONTRIBUTING.md
-.env.example
-.env
+/src/script
