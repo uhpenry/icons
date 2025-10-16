@@ -16,6 +16,11 @@
     "allowSyntheticDefaultImports": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["package"],
+  "include": [
+    "src",
+    "src/icons/SunoIcon.tsx",
+    "src/icons/SvglIcon.tsx",
+    "src/icons/SwaggerIcon.tsx"
+, "src/script/load.ts"  ],
   "exclude": ["node_modules", "example"]
 }

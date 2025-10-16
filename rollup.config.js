@@ -6,7 +6,7 @@ import typescript from "@rollup/plugin-typescript";
 import peerDepsExternal from "rollup-plugin-peer-deps-external";
 
 /**
- * Rollup configuration for building the package.
+ * Rollup configuration for building the src.
  * 
  * This config is an array of two objects:
  * 1. Builds the JavaScript output (CJS and ESM) with source maps.
@@ -15,10 +15,10 @@ import peerDepsExternal from "rollup-plugin-peer-deps-external";
 export default [
     {
         /** 
-         * Input entry point for the package.
+         * Input entry point for the src.
          * Rollup starts building dependency graph from here.
          */
-        input: "package/src/index.ts",
+        input: "src/index.ts",
 
         /**
          * Output configuration.
@@ -31,7 +31,7 @@ export default [
                 format: "cjs", // CommonJS module format
                 sourcemap: true, // Generate source maps for debugging
                 preserveModules: true, // Preserve original folder structure for each module
-                preserveModulesRoot: "package/src", // Root to preserve structure from
+                preserveModulesRoot: "src", // Root to preserve structure from
                 entryFileNames: "[name].js", // Name pattern for entry files
                 chunkFileNames: "chunks/[name]-[hash].js", // Name pattern for code-split chunks
             },
@@ -41,7 +41,7 @@ export default [
                 format: "esm", // ES Module format
                 sourcemap: true,
                 preserveModules: true,
-                preserveModulesRoot: "package/src",
+                preserveModulesRoot: "src",
                 entryFileNames: "[name].mjs", // Use .mjs extension for ESM
                 chunkFileNames: "chunks/[name]-[hash].mjs",
             },
@@ -74,12 +74,12 @@ export default [
          * We mirror the module structure in dist with .d.ts files for
          * type-safe imports when using TypeScript consumers.
          */
-        input: "package/src/index.ts",
+        input: "src/index.ts",
         output: [
             {
                 dir: "dist",
                 preserveModules: true, // Preserve folder structure
-                preserveModulesRoot: "package/src", // Root folder to preserve
+                preserveModulesRoot: "src", // Root folder to preserve
                 entryFileNames: "[name].d.ts", // Output declaration files
             },
         ],

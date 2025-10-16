@@ -3,8 +3,12 @@ src
 rollup.config.js
 tsconfig.json
 .gitignore
-app
-gen
-logo-svgs
 example
 package
+README.md
+pnpm-workspace.yaml
+pnpm-lock.yaml
+ICON_METRIC.md
+CONTRIBUTING.
+.env.example
+.env

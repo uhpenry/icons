@@ -1,0 +1,2121 @@
+{
+  "1Password": [
+    "1password",
+    "1-password",
+    "onepassword",
+    "1pw",
+    "1passwordapp"
+  ],
+  "AMP": ["amp", "a-mp", "accelerated-mobile-pages", "amphtml", "ampapp"],
+  "Adobe": ["adobe", "a-dobe", "adobe-inc", "adobeapp", "adobe-company"],
+  "Affinity Designer": [
+    "affinitydesigner",
+    "affinity-designer",
+    "affinity",
+    "affinity-design",
+    "affinityapp"
+  ],
+  "Affinity Photo": [
+    "affinityphoto",
+    "affinity-photo",
+    "affinityphoto-app",
+    "affinity-photo-tool",
+    "affinityphotoapp"
+  ],
+  "Affinity Publisher": [
+    "affinitypublisher",
+    "affinity-publisher",
+    "affinitypub",
+    "affinity-publisher-tool",
+    "affinitypubapp"
+  ],
+  "Afordin": ["afordin", "a-fordin", "aford", "afordin-tool", "afordinapp"],
+  "After Effects": [
+    "aftereffects",
+    "after-effects",
+    "ae",
+    "aftereffects-app",
+    "aeapp"
+  ],
+  "Ahrefs": ["ahrefs", "a-hrefs", "ah", "ahrefs-tool", "ahrefsapp"],
+  "Airbnb": ["airbnb", "air-bnb", "abnb", "airbnb-app", "airbnb-platform"],
+  "Alacritty": [
+    "alacritty",
+    "ala-critty",
+    "alac",
+    "alacritty-terminal",
+    "alacrittyapp"
+  ],
+  "Algolia": [
+    "algolia",
+    "al-golia",
+    "algolia-search",
+    "algolia-api",
+    "algoliaapp"
+  ],
+  "Algorand": [
+    "algorand",
+    "algo-rand",
+    "algo",
+    "algorand-blockchain",
+    "algoapp"
+  ],
+  "Aliexpress": ["aliexpress", "ali-express", "ali", "aliexpress-app", "aliex"],
+  "Amazon Q": ["amazonq", "amazon-q", "q", "amazonq-ai", "aws-q"],
+  "Amazon Web Services": [
+    "amazonwebservices",
+    "amazon-web-services",
+    "aws",
+    "amazon-aws",
+    "aws-cloud"
+  ],
+  "Android": [
+    "android",
+    "an-droid",
+    "android-os",
+    "androidapp",
+    "android-platform"
+  ],
+  "Angular": ["angular", "angu-lar", "angularjs", "angular-framework", "ng"],
+  "Animate": [
+    "animate",
+    "ani-mate",
+    "adobe-animate",
+    "animate-cc",
+    "animateapp"
+  ],
+  "Ant Design": ["antdesign", "ant-design", "antd", "ant-design-ui", "antdapp"],
+  "Anthropic": [
+    "anthropic",
+    "anthro-pic",
+    "anthropic-ai",
+    "anthropic-tool",
+    "anthropicapp"
+  ],
+  "Apache Kafka": [
+    "apachekafka",
+    "apache-kafka",
+    "kafka",
+    "apache-kafka-tool",
+    "kafkaapp"
+  ],
+  "Apidog": ["apidog", "api-dog", "apid", "apidog-tool", "apidogapp"],
+  "Apollo.io": ["apolloio", "apollo-io", "apollo", "apollo-sales", "apolloapp"],
+  "Apple": ["apple", "ap-ple", "apple-inc", "appleapp", "apple-company"],
+  "Apple Music": [
+    "applemusic",
+    "apple-music",
+    "am",
+    "applemusic-app",
+    "applemusicapp"
+  ],
+  "Appwrite": [
+    "appwrite",
+    "app-write",
+    "appw",
+    "appwrite-backend",
+    "appwriteapp"
+  ],
+  "Arc": ["arc", "ar-c", "arc-browser", "arc-tool", "arcapp"],
+  "Ark UI": ["arkui", "ark-ui", "ark", "ark-ui-library", "arkuijs"],
+  "Asana": ["asana", "a-sana", "asana-tool", "asanaapp", "asana-platform"],
+  "Astro": ["astro", "as-tro", "astrojs", "astro-framework", "astroapp"],
+  "Atlassian": [
+    "atlassian",
+    "at-lassian",
+    "atl",
+    "atlassian-tools",
+    "atlassianapp"
+  ],
+  "Atom": ["atom", "a-tom", "atom-editor", "atom-ide", "atomapp"],
+  "Auth.js": ["authjs", "auth-js", "auth", "authjs-library", "authjsapp"],
+  "Auth0": ["auth0", "auth-zero", "auth0-auth", "auth0-tool", "auth0app"],
+  "Authy": ["authy", "au-thy", "authy-app", "authy-2fa", "authytool"],
+  "Axiom": ["axiom", "ax-iom", "axiom-tool", "axiomapp", "axiom-platform"],
+  "Axure": ["axure", "ax-ure", "axure-rp", "axure-tool", "axureapp"],
+  "BNB": ["bnb", "b-nb", "binance-coin", "bnb-coin", "bnbapp"],
+  "Babel": ["babel", "ba-bel", "babeljs", "babel-transpiler", "babelapp"],
+  "Base UI": ["baseui", "base-ui", "base", "baseui-library", "baseuijs"],
+  "Basewell": [
+    "basewell",
+    "base-well",
+    "basewell-tool",
+    "basewellapp",
+    "basewell-ai"
+  ],
+  "Bash": ["bash", "ba-sh", "bash-shell", "bash-script", "bashapp"],
+  "Beacon": [
+    "beacon",
+    "bea-con",
+    "beacon-tool",
+    "beaconapp",
+    "beacon-platform"
+  ],
+  "Bento": ["bento", "ben-to", "bento-tool", "bentoapp", "bento-platform"],
+  "Better Auth": [
+    "betterauth",
+    "better-auth",
+    "bauth",
+    "betterauth-tool",
+    "betterauthapp"
+  ],
+  "Binance": ["binance", "bi-nance", "bnb", "binance-exchange", "binanceapp"],
+  "Bing": ["bing", "bi-ng", "bing-search", "bingapp", "bing-tool"],
+  "Biomejs": ["biomejs", "biome-js", "biome", "biome-tool", "biomeapp"],
+  "Bitcoin": ["bitcoin", "bit-coin", "btc", "bitcoin-crypto", "bitcoinapp"],
+  "Bitwarden": [
+    "bitwarden",
+    "bit-warden",
+    "bw",
+    "bitwarden-vault",
+    "bitwardenapp"
+  ],
+  "Blender": ["blender", "blen-der", "blender3d", "blender-app", "blendertool"],
+  "Blitz": ["blitz", "bli-tz", "blitzjs", "blitz-framework", "blitzapp"],
+  "Bluesky": ["bluesky", "blue-sky", "bsky", "bluesky-social", "blueskyapp"],
+  "Bootstrap": [
+    "bootstrap",
+    "boot-strap",
+    "bootstrap-css",
+    "bs",
+    "bootstrap-framework"
+  ],
+  "Brave Browser": [
+    "bravebrowser",
+    "brave-browser",
+    "brave",
+    "brave-app",
+    "bravebrowserapp"
+  ],
+  "BuildShip": [
+    "buildship",
+    "build-ship",
+    "buildship-tool",
+    "buildship-ai",
+    "buildshipapp"
+  ],
+  "Builder": [
+    "builder",
+    "buil-der",
+    "builder-tool",
+    "builderapp",
+    "builder-framework"
+  ],
+  "Bun": ["bun", "b-un", "bunjs", "bun-runtime", "bunapp"],
+  "Buy Me a Coffee": [
+    "buymeacoffee",
+    "buy-me-a-coffee",
+    "bmac",
+    "buymeacoffee-platform",
+    "bmacapp"
+  ],
+  "C": ["c", "c-lang", "c-language", "clang", "capp"],
+  "C#": ["csharp", "c-sharp", "cs", "csharp-lang", "csharpapp"],
+  "C++": ["cplusplus", "c-plusplus", "cpp", "c++-lang", "cppapp"],
+  "CSS": ["css", "c-ss", "cascading-style-sheets", "css-lang", "cssapp"],
+  "CSS (New)": ["cssnew", "css-new", "css", "css3", "cssapp"],
+  "Cal.com": ["calcom", "cal-com", "cal", "calcom-tool", "calcomapp"],
+  "Calendly": [
+    "calendly",
+    "calen-dly",
+    "calend",
+    "calendly-tool",
+    "calendlyapp"
+  ],
+  "Canva": ["canva", "can-va", "canva-design", "canvaapp", "canva-tool"],
+  "Carrd": ["carrd", "car-rd", "carrd-tool", "carrdapp", "carrd-platform"],
+  "Chakra UI": [
+    "chakraui",
+    "chakra-ui",
+    "chakra",
+    "chakra-ui-library",
+    "chakrauijs"
+  ],
+  "Chart.js": ["chartjs", "chart-js", "chart", "chartjs-library", "chartjsapp"],
+  "Chrome": [
+    "chrome",
+    "chro-me",
+    "google-chrome",
+    "chrome-browser",
+    "chromeapp"
+  ],
+  "Chromium": [
+    "chromium",
+    "chro-mium",
+    "chrome",
+    "chromium-browser",
+    "chromiumapp"
+  ],
+  "Cisco": ["cisco", "cis-co", "csco", "cisco-systems", "ciscoapp"],
+  "Claude AI": ["claudeai", "claude-ai", "claude", "claude-tool", "claudeapp"],
+  "Clerk": ["clerk", "cle-rk", "clerk-auth", "clerk-tool", "clerkapp"],
+  "Cloudflare": [
+    "cloudflare",
+    "cloud-flare",
+    "cf",
+    "cloudflare-cdn",
+    "cloudflareapp"
+  ],
+  "Cloudflare Workers": [
+    "cloudflareworkers",
+    "cloudflare-workers",
+    "workers",
+    "cf-workers",
+    "workersapp"
+  ],
+  "Cloudinary": [
+    "cloudinary",
+    "cloud-inary",
+    "cloudy",
+    "cloudinary-cdn",
+    "cloudinaryapp"
+  ],
+  "Cobol": ["cobol", "co-bol", "cobol-lang", "cobollang", "cobolapp"],
+  "Codesandbox": [
+    "codesandbox",
+    "code-sandbox",
+    "codesand",
+    "codesandbox-ide",
+    "codesandboxapp"
+  ],
+  "Codium": ["codium", "co-dium", "codium-ai", "codium-tool", "codiumapp"],
+  "Cody": ["cody", "co-dy", "cody-ai", "cody-tool", "codyapp"],
+  "Cohere": ["cohere", "co-here", "cohere-ai", "cohereapi", "cohereapp"],
+  "Coinbase": [
+    "coinbase",
+    "coin-base",
+    "cb",
+    "coinbase-exchange",
+    "coinbaseapp"
+  ],
+  "Convex": [
+    "convex",
+    "con-vex",
+    "convex-tool",
+    "convexapp",
+    "convex-platform"
+  ],
+  "Coursera": [
+    "coursera",
+    "cour-sera",
+    "coursera-courses",
+    "courseraapp",
+    "coursera-platform"
+  ],
+  "Crossplane": [
+    "crossplane",
+    "cross-plane",
+    "cross",
+    "crossplane-tool",
+    "crossplaneapp"
+  ],
+  "CurseForge": [
+    "curseforge",
+    "curse-forge",
+    "curse",
+    "curseforge-platform",
+    "curseforgeapp"
+  ],
+  "Cursor": ["cursor", "cur-sor", "cursor-ai", "cursor-tool", "cursorapp"],
+  "Cypress": [
+    "cypress",
+    "cy-press",
+    "cypress-test",
+    "cypress-tool",
+    "cypressapp"
+  ],
+  "D3.js": ["d3js", "d3-js", "d3", "d3-library", "d3jsapp"],
+  "Dart": ["dart", "da-rt", "dart-lang", "dartlang", "dartapp"],
+  "Datadog": ["datadog", "data-dog", "dd", "datadog-monitoring", "datadogapp"],
+  "DeepSeek": ["deepseek", "deep-seek", "deep", "deepseek-ai", "deepseekapp"],
+  "Deno": ["deno", "de-no", "denojs", "deno-runtime", "denoapp"],
+  "Designali": [
+    "designali",
+    "design-ali",
+    "desig",
+    "designali-tool",
+    "designaliapp"
+  ],
+  "Developer Student Club": [
+    "developerstudentclub",
+    "developer-student-club",
+    "dsc",
+    "dsc-club",
+    "dscapp"
+  ],
+  "Devto": ["devto", "dev-to", "dev", "devto-platform", "devtoapp"],
+  "Digital Ocean": [
+    "digitalocean",
+    "digital-ocean",
+    "do",
+    "digitalocean-cloud",
+    "doapp"
+  ],
+  "Dingocoin": [
+    "dingocoin",
+    "dingo-coin",
+    "dingo",
+    "dingocoin-crypto",
+    "dingocoinapp"
+  ],
+  "Directus": [
+    "directus",
+    "direc-tus",
+    "directus-cms",
+    "directus-tool",
+    "directusapp"
+  ],
+  "Discord": ["discord", "dis-cord", "dc", "discord-app", "discordchat"],
+  "Discord.js": [
+    "discordjs",
+    "discord-js",
+    "discord.js",
+    "discordjs-library",
+    "discordjs-api"
+  ],
+  "Discourse": [
+    "discourse",
+    "dis-course",
+    "discourse-forum",
+    "discourseapp",
+    "discourse-tool"
+  ],
+  "Disney+": [
+    "disneyplus",
+    "disney-plus",
+    "disney",
+    "disneyplus-app",
+    "disney+app"
+  ],
+  "Django": ["django", "djan-go", "django-framework", "djangopy", "djangoapp"],
+  "Docker": [
+    "docker",
+    "dock-er",
+    "docker-container",
+    "docker-tool",
+    "dockerapp"
+  ],
+  "Documenso": [
+    "documenso",
+    "docu-menso",
+    "docu",
+    "documenso-tool",
+    "documensoapp"
+  ],
+  "Docus": ["docus", "do-cus", "docus-tool", "docusapp", "docus-framework"],
+  "Docusaurus": [
+    "docusaurus",
+    "docu-saurus",
+    "docus",
+    "docusaurus-tool",
+    "docusapp"
+  ],
+  "Dogecoin": ["dogecoin", "doge-coin", "doge", "dogecoin-crypto", "dogeapp"],
+  "Dreamweaver": [
+    "dreamweaver",
+    "dream-weaver",
+    "dw",
+    "dreamweaver-tool",
+    "dreamweaverapp"
+  ],
+  "Drizzle ORM": [
+    "drizzleorm",
+    "drizzle-orm",
+    "drizzle",
+    "drizzle-orm-tool",
+    "drizzleapp"
+  ],
+  "Dropbox": ["dropbox", "drop-box", "dbx", "dropbox-app", "dropbox-cloud"],
+  "Dub": ["dub", "du-b", "dub-tool", "dubapp", "dub-platform"],
+  "DuckDuckGo": [
+    "duckduckgo",
+    "duck-duck-go",
+    "ddg",
+    "duckduckgo-search",
+    "ddgapp"
+  ],
+  "ESLint": ["eslint", "es-lint", "es", "eslint-tool", "eslintapp"],
+  "Ebay": ["ebay", "e-bay", "ebay-app", "ebay-market", "ebayapp"],
+  "Eclipse IDE": [
+    "eclipseide",
+    "eclipse-ide",
+    "eclipse",
+    "eclipse-tool",
+    "eclipseapp"
+  ],
+  "Edge": ["edge", "ed-ge", "ms-edge", "edge-browser", "edgeapp"],
+  "Effect TS": [
+    "effectts",
+    "effect-ts",
+    "effect",
+    "effect-ts-library",
+    "effecttsapp"
+  ],
+  "Electron": [
+    "electron",
+    "elec-tron",
+    "electronjs",
+    "electron-framework",
+    "electronapp"
+  ],
+  "Elementor": [
+    "elementor",
+    "ele-mentor",
+    "elem",
+    "elementor-builder",
+    "elementorapp"
+  ],
+  "ElysiaJS": [
+    "elysiajs",
+    "elysia-js",
+    "elysia",
+    "elysia-framework",
+    "elysiaapp"
+  ],
+  "Emacs": ["emacs", "e-macs", "emacs-editor", "emacs-tool", "emacsapp"],
+  "Ember": ["ember", "em-ber", "emberjs", "ember-framework", "emberapp"],
+  "Esbuild": [
+    "esbuild",
+    "es-build",
+    "esbuild-tool",
+    "esbuildjs",
+    "esbuild-bundler"
+  ],
+  "Ethereum": [
+    "ethereum",
+    "ether-eum",
+    "eth",
+    "ethereum-crypto",
+    "ethereumapp"
+  ],
+  "Exome": ["exome", "exo-me", "exome-tool", "exomeapp", "exome-library"],
+  "Expo": ["expo", "ex-po", "expo-dev", "expo-tool", "expoapp"],
+  "Express.js": [
+    "expressjs",
+    "express-js",
+    "express",
+    "express-framework",
+    "expressapp"
+  ],
+  "Facebook": [
+    "facebook",
+    "face-book",
+    "fb",
+    "facebook-app",
+    "facebook-social"
+  ],
+  "FastAPI": ["fastapi", "fast-api", "fast", "fastapi-framework", "fastapiapp"],
+  "Fastify": [
+    "fastify",
+    "fast-ify",
+    "fastifyjs",
+    "fastify-framework",
+    "fastifyapp"
+  ],
+  "Figma": ["figma", "fig-ma", "figmadesign", "figma-tool", "figmaapp"],
+  "Firebase": [
+    "firebase",
+    "fire-base",
+    "fb",
+    "firebase-platform",
+    "firebaseapp"
+  ],
+  "Firebase Studio": [
+    "firebasestudio",
+    "firebase-studio",
+    "fstudio",
+    "firebasestudio-tool",
+    "fstudioapp"
+  ],
+  "Firefox": ["firefox", "fire-fox", "ff", "firefox-browser", "firefoxapp"],
+  "Flask": ["flask", "fla-sk", "flask-framework", "flaskpy", "flaskapp"],
+  "Flow Launcher": [
+    "flowlauncher",
+    "flow-launcher",
+    "flow",
+    "flowlauncher-tool",
+    "flowlauncherapp"
+  ],
+  "Flowbite": ["flowbite", "flow-bite", "flow", "flowbite-ui", "flowbiteapp"],
+  "Flutter": [
+    "flutter",
+    "flut-ter",
+    "flutter-framework",
+    "flutterapp",
+    "flutter-sdk"
+  ],
+  "Fly": ["fly", "f-ly", "flyio", "fly-platform", "flyapp"],
+  "Fortran": [
+    "fortran",
+    "fort-ran",
+    "fortran-lang",
+    "fortranlang",
+    "fortranapp"
+  ],
+  "Framer": ["framer", "fra-mer", "framer-motion", "framer-tool", "framerapp"],
+  "Fresh": ["fresh", "fre-sh", "fresh-framework", "freshjs", "freshapp"],
+  "Front": ["front", "fro-nt", "front-app", "front-tool", "frontapp"],
+  "Gatsby": [
+    "gatsby",
+    "gats-by",
+    "gatsbyjs",
+    "gatsby-framework",
+    "gatsby-static"
+  ],
+  "Gemini": ["gemini", "ge-mini", "gemini-ai", "gemini-model", "geminiapp"],
+  "Ghostty": ["ghostty", "ghost-ty", "ghost", "ghostty-tool", "ghosttyapp"],
+  "Gimp": ["gimp", "gi-mp", "gimp-editor", "gimp-tool", "gimpapp"],
+  "Git": ["git", "g-it", "git-vcs", "git-tool", "gitapp"],
+  "GitHub": ["github", "git-hub", "gh", "github-platform", "githubapp"],
+  "GitHub Copilot": [
+    "githubcopilot",
+    "github-copilot",
+    "copilot",
+    "gh-copilot",
+    "copilot-ai"
+  ],
+  "GitLab": ["gitlab", "git-lab", "gl", "gitlab-ci", "gitlabapp"],
+  "Gleam": ["gleam", "gle-am", "gleam-lang", "gleamlang", "gleamapp"],
+  "Gmail": ["gmail", "g-mail", "gmail-app", "gmail-email", "gmailapp"],
+  "Go": ["go", "g-o", "golang", "go-lang", "goapp"],
+  "GoDaddy": ["godaddy", "go-daddy", "gd", "godaddy-hosting", "godaddyapp"],
+  "Godot Engine": [
+    "godotengine",
+    "godot-engine",
+    "godot",
+    "godot-game",
+    "godotapp"
+  ],
+  "Google": ["google", "goo-gle", "g", "google-search", "googleapp"],
+  "Google Classroom": [
+    "googleclassroom",
+    "google-classroom",
+    "classroom",
+    "gclassroom",
+    "google-class"
+  ],
+  "Google Cloud": [
+    "googlecloud",
+    "google-cloud",
+    "gcloud",
+    "google-cloud-platform",
+    "gcp"
+  ],
+  "Google Colaboratory": [
+    "googlecolaboratory",
+    "google-colaboratory",
+    "colab",
+    "google-colab",
+    "colabapp"
+  ],
+  "Google Drive": [
+    "googledrive",
+    "google-drive",
+    "drive",
+    "gdrive",
+    "google-drive-app"
+  ],
+  "Google Idx": ["googleidx", "google-idx", "idx", "google-idx-tool", "idxapp"],
+  "Google Maps": [
+    "googlemaps",
+    "google-maps",
+    "gmaps",
+    "google-maps-api",
+    "gmapsapp"
+  ],
+  "Google PaLM": [
+    "googlepalm",
+    "google-palm",
+    "palm",
+    "google-palm-model",
+    "palmapp"
+  ],
+  "Gradio": ["gradio", "gra-dio", "gradio-tool", "gradioapp", "gradio-ui"],
+  "Grafana": ["grafana", "gra-fana", "graf", "grafana-dashboard", "grafanaapp"],
+  "GraphQL": ["graphql", "graph-ql", "gql", "graphql-api", "graphql-lang"],
+  "Grok": ["grok", "g-rok", "grok-ai", "grok-xai", "grokapp"],
+  "Groq": ["groq", "g-roq", "groq-ai", "groqchip", "groqapi"],
+  "HTML5": ["html5", "html-5", "html", "htmlfive", "htmlapp"],
+  "Hack The Box": [
+    "hackthebox",
+    "hack-the-box",
+    "htb",
+    "hackthebox-platform",
+    "htbapp"
+  ],
+  "Hashnode": [
+    "hashnode",
+    "hash-node",
+    "hash",
+    "hashnode-platform",
+    "hashnodeapp"
+  ],
+  "Haskell": [
+    "haskell",
+    "has-kell",
+    "haskell-lang",
+    "haskelllang",
+    "haskellapp"
+  ],
+  "Headless UI": [
+    "headlessui",
+    "headless-ui",
+    "headless",
+    "headless-ui-library",
+    "headlessuijs"
+  ],
+  "Heptabase": [
+    "heptabase",
+    "hepta-base",
+    "hepta",
+    "heptabase-tool",
+    "heptabaseapp"
+  ],
+  "HeroUI": ["heroui", "hero-ui", "hero", "heroui-library", "herouijs"],
+  "Heroku": [
+    "heroku",
+    "he-roku",
+    "heroku-platform",
+    "herokuapp",
+    "heroku-cloud"
+  ],
+  "Home Assistant": [
+    "homeassistant",
+    "home-assistant",
+    "ha",
+    "homeassistant-tool",
+    "haapp"
+  ],
+  "Homebrew": [
+    "homebrew",
+    "home-brew",
+    "brew",
+    "homebrew-package",
+    "homebrewapp"
+  ],
+  "Hono": ["hono", "ho-no", "honojs", "hono-framework", "honoapp"],
+  "Hoppscotch": [
+    "hoppscotch",
+    "hopps-cotch",
+    "hopps",
+    "hoppscotch-tool",
+    "hoppscotchapp"
+  ],
+  "Hostgator": [
+    "hostgator",
+    "host-gator",
+    "hg",
+    "hostgator-hosting",
+    "hostgatorapp"
+  ],
+  "Hugging Face": [
+    "huggingface",
+    "hugging-face",
+    "hf",
+    "huggingface-platform",
+    "hfapp"
+  ],
+  "Hugo": ["hugo", "hu-go", "hugo-framework", "hugo-static", "hugoapp"],
+  "Hulu": ["hulu", "hu-lu", "hulu-streaming", "huluapp", "hulu-platform"],
+  "Hume AI": ["humeai", "hume-ai", "hume", "hume-ai-tool", "humeapp"],
+  "IBM": ["ibm", "i-bm", "ibm-corp", "ibmapp", "ibm-company"],
+  "Illustrator": [
+    "illustrator",
+    "illus-trator",
+    "ai",
+    "illustrator-app",
+    "illustrator-tool"
+  ],
+  "InDesign": ["indesign", "in-design", "id", "indesign-app", "indesign-tool"],
+  "Inflection AI": [
+    "inflectionai",
+    "inflection-ai",
+    "inflection",
+    "inflection-tool",
+    "inflectionapp"
+  ],
+  "Infojobs": [
+    "infojobs",
+    "info-jobs",
+    "info",
+    "infojobs-platform",
+    "infojobsapp"
+  ],
+  "Inngest": [
+    "inngest",
+    "inn-gest",
+    "inngest-dev",
+    "inngest-tool",
+    "inngestapp"
+  ],
+  "Instagram": [
+    "instagram",
+    "insta-gram",
+    "ig",
+    "instagram-app",
+    "instagram-social"
+  ],
+  "Instatus": [
+    "instatus",
+    "in-status",
+    "instat",
+    "instatus-tool",
+    "instatusapp"
+  ],
+  "IntelliJ IDEA": [
+    "intellijidea",
+    "intellij-idea",
+    "idea",
+    "intellij",
+    "idea-ide"
+  ],
+  "Intello": [
+    "intello",
+    "in-tello",
+    "intello-tool",
+    "intelloapp",
+    "intello-platform"
+  ],
+  "JSON": ["json", "j-son", "json-format", "json-data", "jsonapp"],
+  "JSON Schema": [
+    "jsonschema",
+    "json-schema",
+    "json",
+    "json-schema-tool",
+    "jsonschemaapp"
+  ],
+  "JWT": ["jwt", "j-wt", "jsonwebtoken", "jwt-token", "jwt-auth"],
+  "Jasmine": [
+    "jasmine",
+    "jas-mine",
+    "jasmine-test",
+    "jasmine-framework",
+    "jasminejs"
+  ],
+  "Java": ["java", "ja-va", "java-lang", "javalang", "javaapp"],
+  "JavaScript": ["javascript", "java-script", "js", "es", "ecmascript"],
+  "Jest": ["jest", "je-st", "jest-test", "jest-framework", "jestjs"],
+  "JetBrains": [
+    "jetbrains",
+    "jet-brains",
+    "jb",
+    "jetbrains-ide",
+    "jetbrainsapp"
+  ],
+  "JetBrains Fleet": [
+    "jetbrainsfleet",
+    "jetbrains-fleet",
+    "fleet",
+    "jb-fleet",
+    "fleet-ide"
+  ],
+  "JetBrains PhpStorm": [
+    "jetbrainsphpstorm",
+    "jetbrains-phpstorm",
+    "phpstorm",
+    "jb-phpstorm",
+    "phpstorm-ide"
+  ],
+  "JetBrains PyCharm": [
+    "jetbrainspycharm",
+    "jetbrains-pycharm",
+    "pycharm",
+    "jb-pycharm",
+    "pycharm-ide"
+  ],
+  "JetBrains Rider": [
+    "jetbrainsrider",
+    "jetbrains-rider",
+    "rider",
+    "jb-rider",
+    "rider-ide"
+  ],
+  "JetBrains RubyMine": [
+    "jetbrainsrubymine",
+    "jetbrains-rubymine",
+    "rubymine",
+    "jb-rubymine",
+    "rubymine-ide"
+  ],
+  "JetBrains WebStorm": [
+    "jetbrainswebstorm",
+    "jetbrains-webstorm",
+    "webstorm",
+    "jb-webstorm",
+    "webstorm-ide"
+  ],
+  "Jetbrains Space": [
+    "jetbrainsspace",
+    "jetbrains-space",
+    "space",
+    "jb-space",
+    "spaceapp"
+  ],
+  "Julia": ["julia", "ju-lia", "julia-lang", "julialang", "juliaapp"],
+  "Keycloak": ["keycloak", "key-cloak", "kc", "keycloak-auth", "keycloakapp"],
+  "Kibo UI": ["kiboui", "kibo-ui", "kibo", "kibo-ui-library", "kibouijs"],
+  "Kick": ["kick", "ki-ck", "kick-streaming", "kickapp", "kick-platform"],
+  "Kilo Code": [
+    "kilocode",
+    "kilo-code",
+    "kilo",
+    "kilocode-tool",
+    "kilocodeapp"
+  ],
+  "Kimi": ["kimi", "kimi-ai", "kimi-chatbot", "kimi-moonshot", "kimiapp"],
+  "Kokonut UI": [
+    "kokonutui",
+    "kokonut-ui",
+    "kokonut",
+    "kokonut-ui-library",
+    "kokonutuijs"
+  ],
+  "Kotlin": ["kotlin", "kot-lin", "kt", "kotlin-lang", "kotlinapp"],
+  "KrakenJS": [
+    "krakenjs",
+    "kraken-js",
+    "kraken",
+    "kraken-framework",
+    "krakenapp"
+  ],
+  "Kubernetes": [
+    "kubernetes",
+    "kuber-netes",
+    "k8s",
+    "kube",
+    "kubernetes-orchestrator"
+  ],
+  "Laravel": [
+    "laravel",
+    "lara-vel",
+    "laravel-framework",
+    "laravelphp",
+    "laravelapp"
+  ],
+  "Layers": [
+    "layers",
+    "lay-ers",
+    "layers-tool",
+    "layersapp",
+    "layers-platform"
+  ],
+  "Leap Wallet": [
+    "leapwallet",
+    "leap-wallet",
+    "leap",
+    "leapwallet-tool",
+    "leapwalletapp"
+  ],
+  "LearnThis": [
+    "learnthis",
+    "learn-this",
+    "learn",
+    "learnthis-tool",
+    "learnthisapp"
+  ],
+  "Lemon Squeezy": [
+    "lemonsqueezy",
+    "lemon-squeezy",
+    "ls",
+    "lemonsqueezy-tool",
+    "lsapp"
+  ],
+  "Lightroom": [
+    "lightroom",
+    "light-room",
+    "lr",
+    "lightroom-app",
+    "lightroom-tool"
+  ],
+  "Linear": ["linear", "li-near", "linear-app", "linear-tool", "linearapp"],
+  "Link": ["link", "li-nk", "chainlink", "link-coin", "linkapp"],
+  "LinkedIn": [
+    "linkedin",
+    "linked-in",
+    "li",
+    "linkedin-app",
+    "linkedin-social"
+  ],
+  "Linux": ["linux", "li-nux", "linux-os", "linux-kernel", "linuxapp"],
+  "Lit": ["lit", "l-it", "lit-html", "lit-element", "litjs"],
+  "Litecoin": [
+    "litecoin",
+    "lite-coin",
+    "ltc",
+    "litecoin-crypto",
+    "litecoinapp"
+  ],
+  "Locofy": ["locofy", "loco-fy", "locofy-tool", "locofy-ai", "locofyapp"],
+  "Loom": ["loom", "lo-om", "loom-video", "loomapp", "loom-tool"],
+  "LottieFiles": [
+    "lottiefiles",
+    "lottie-files",
+    "lottie",
+    "lottiefiles-tool",
+    "lottiefilesapp"
+  ],
+  "Lottielab": [
+    "lottielab",
+    "lottie-lab",
+    "lottie",
+    "lottielab-tool",
+    "lottielabapp"
+  ],
+  "Lovable": [
+    "lovable",
+    "lo-vable",
+    "lovable-tool",
+    "lovableapp",
+    "lovable-platform"
+  ],
+  "Lua": ["lua", "lu-a", "lua-lang", "lua-script", "luaext"],
+  "Magic UI": ["magicui", "magic-ui", "magic", "magic-ui-library", "magicuijs"],
+  "Manifest": [
+    "manifest",
+    "mani-fest",
+    "manifest-tool",
+    "manifestapp",
+    "manifest-platform"
+  ],
+  "Mantine": [
+    "mantine",
+    "man-tine",
+    "mantine-ui",
+    "mantine-library",
+    "mantineapp"
+  ],
+  "ManzDev": ["manzdev", "manz-dev", "manz", "manzdev-channel", "manzdevapp"],
+  "MariaDB": ["mariadb", "maria-db", "maria", "mariadb-database", "mariadbapp"],
+  "Markdown": ["markdown", "mark-down", "md", "markdown-lang", "markdownapp"],
+  "Mastodon": [
+    "mastodon",
+    "mas-todon",
+    "mastodon-social",
+    "mastodonapp",
+    "mastodon-tool"
+  ],
+  "Material UI": [
+    "materialui",
+    "material-ui",
+    "mui",
+    "material-ui-library",
+    "materialuijs"
+  ],
+  "Matrix": [
+    "matrix",
+    "mat-rix",
+    "matrix-protocol",
+    "matrix-chat",
+    "matrixapp"
+  ],
+  "Mattermost": [
+    "mattermost",
+    "matter-most",
+    "mm",
+    "mattermost-chat",
+    "mattermostapp"
+  ],
+  "MediaWiki": [
+    "mediawiki",
+    "media-wiki",
+    "mw",
+    "mediawiki-cms",
+    "mediawikiapp"
+  ],
+  "Medusa": [
+    "medusa",
+    "me-dusa",
+    "medusa-ecommerce",
+    "medusaapp",
+    "medusa-tool"
+  ],
+  "Mercado Pago": [
+    "mercadopago",
+    "mercado-pago",
+    "mpago",
+    "mercado-pago-api",
+    "mp"
+  ],
+  "Mermaid": [
+    "mermaid",
+    "mer-maid",
+    "mermaid-diagram",
+    "mermaid-tool",
+    "mermaidapp"
+  ],
+  "Messenger": [
+    "messenger",
+    "mes-senger",
+    "fb-messenger",
+    "messengerapp",
+    "messenger-tool"
+  ],
+  "Meta": ["meta", "me-ta", "meta-platforms", "metaapp", "meta-company"],
+  "MetaMask": ["metamask", "meta-mask", "mm", "metamask-wallet", "metamaskapp"],
+  "Microsoft": ["microsoft", "micro-soft", "ms", "microsoft-corp", "msapp"],
+  "Microsoft .NET": [
+    "microsoftnet",
+    "microsoft-net",
+    "net",
+    "ms-net",
+    "dotnet"
+  ],
+  "Microsoft Access": [
+    "microsoftaccess",
+    "microsoft-access",
+    "access",
+    "ms-access",
+    "access-db"
+  ],
+  "Microsoft Azure": [
+    "microsoftazure",
+    "microsoft-azure",
+    "azure",
+    "ms-azure",
+    "azure-cloud"
+  ],
+  "Microsoft Clipchamp": [
+    "microsoftclipchamp",
+    "microsoft-clipchamp",
+    "clipchamp",
+    "ms-clipchamp",
+    "clipchampapp"
+  ],
+  "Microsoft Copilot": [
+    "microsoftcopilot",
+    "microsoft-copilot",
+    "copilot",
+    "ms-copilot",
+    "copilot-ai"
+  ],
+  "Microsoft Defender": [
+    "microsoftdefender",
+    "microsoft-defender",
+    "defender",
+    "ms-defender",
+    "defender-security"
+  ],
+  "Microsoft Designer": [
+    "microsoftdesigner",
+    "microsoft-designer",
+    "designer",
+    "ms-designer",
+    "designerapp"
+  ],
+  "Microsoft Editor": [
+    "microsofteditor",
+    "microsoft-editor",
+    "editor",
+    "ms-editor",
+    "editorapp"
+  ],
+  "Microsoft Excel": [
+    "microsoftexcel",
+    "microsoft-excel",
+    "excel",
+    "ms-excel",
+    "excel-spreadsheet"
+  ],
+  "Microsoft OneDrive": [
+    "microsoftonedrive",
+    "microsoft-onedrive",
+    "onedrive",
+    "ms-onedrive",
+    "onedrive-cloud"
+  ],
+  "Microsoft OneNote": [
+    "microsoftonenote",
+    "microsoft-onenote",
+    "onenote",
+    "ms-onenote",
+    "onenoteapp"
+  ],
+  "Microsoft Outlook": [
+    "microsoftoutlook",
+    "microsoft-outlook",
+    "outlook",
+    "ms-outlook",
+    "outlookapp"
+  ],
+  "Microsoft PowerPoint": [
+    "microsoftpowerpoint",
+    "microsoft-powerpoint",
+    "powerpoint",
+    "ms-powerpoint",
+    "ppt"
+  ],
+  "Microsoft SQL Server ": [
+    "microsoftsqlserver",
+    "microsoft-sql-server",
+    "sqlserver",
+    "mssql",
+    "sql-server"
+  ],
+  "Microsoft SharePoint": [
+    "microsoftsharepoint",
+    "microsoft-sharepoint",
+    "sharepoint",
+    "ms-sharepoint",
+    "sharepointapp"
+  ],
+  "Microsoft Teams": [
+    "microsoftteams",
+    "microsoft-teams",
+    "teams",
+    "ms-teams",
+    "teamsapp"
+  ],
+  "Microsoft Todo": [
+    "microsofttodo",
+    "microsoft-todo",
+    "todo",
+    "ms-todo",
+    "todoapp"
+  ],
+  "Microsoft Word": [
+    "microsoftword",
+    "microsoft-word",
+    "word",
+    "ms-word",
+    "word-document"
+  ],
+  "Midday": [
+    "midday",
+    "mid-day",
+    "midday-tool",
+    "middayapp",
+    "midday-platform"
+  ],
+  "Milanote": [
+    "milanote",
+    "mila-note",
+    "milano",
+    "milanote-app",
+    "milanoteboard"
+  ],
+  "Million": [
+    "million",
+    "mil-lion",
+    "millionjs",
+    "million-library",
+    "millionapp"
+  ],
+  "Mintlify": ["mintlify", "mint-lify", "mint", "mintlify-tool", "mintlifyapp"],
+  "Mistral AI": [
+    "mistralai",
+    "mistral-ai",
+    "mistral",
+    "mistral-model",
+    "mistralapp"
+  ],
+  "Mocha": ["mocha", "mo-cha", "mocha-test", "mochajs", "mochaapp"],
+  "Model Context Protocol": [
+    "modelcontextprotocol",
+    "model-context-protocol",
+    "mcp",
+    "model-context-tool",
+    "mcpapp"
+  ],
+  "Monero": ["monero", "mo-nero", "xmr", "monero-crypto", "moneroapp"],
+  "MongoDB": ["mongodb", "mongo-db", "mongo", "mongodb-database", "mongoapp"],
+  "Monkeytype": [
+    "monkeytype",
+    "monkey-type",
+    "monkey",
+    "monkeytype-tool",
+    "monkeytypeapp"
+  ],
+  "Moon": ["moon", "mo-on", "moon-tool", "moonjs", "moonapp"],
+  "Motion": ["motion", "mo-tion", "motion-tool", "motionapp", "motion-library"],
+  "Mulesoft": ["mulesoft", "mule-soft", "mule", "mulesoft-api", "mulesoftapp"],
+  "MySQL": ["mysql", "my-sql", "mysql-database", "mysqldb", "mysqlapp"],
+  "NHost": ["nhost", "n-host", "nhost-backend", "nhostapp", "nhost-platform"],
+  "NPM": ["npm", "n-pm", "npmjs", "npm-package", "npm-manager"],
+  "NVIDIA": ["nvidia", "nvda", "nvidia-corporation", "nvidia-gpu", "cuda"],
+  "Neon": ["neon", "ne-on", "neon-db", "neon-tool", "neonapp"],
+  "Neovim": ["neovim", "neo-vim", "nvim", "neovim-editor", "neovimapp"],
+  "NestJS": ["nestjs", "nest-js", "nest", "nestjs-framework", "nestapp"],
+  "Netflix": ["netflix", "net-flix", "nf", "netflix-app", "netflix-streaming"],
+  "Netlify": [
+    "netlify",
+    "net-lify",
+    "netlify-cms",
+    "netlify-hosting",
+    "netlifyapp"
+  ],
+  "Next.js": ["nextjs", "next-js", "next", "nextjs-framework", "nextapp"],
+  "Nginx": ["nginx", "n-ginx", "nginex", "nginx-server", "nginxapp"],
+  "Ngrok": ["ngrok", "n-grok", "ngrok-tool", "ngrok-tunnel", "ngrokapp"],
+  "Node.js": ["nodejs", "node-js", "node", "nodejs-runtime", "nodeapp"],
+  "Notion": ["notion", "no-tion", "notion-app", "notion-tool", "notionapp"],
+  "Nuget": ["nuget", "nu-get", "nuget-package", "nuget-manager", "nugetapp"],
+  "Nuxt": ["nuxt", "nux-t", "nuxtjs", "nuxt-js", "nuxt-framework"],
+  "Nuxt Content": [
+    "nuxtcontent",
+    "nuxt-content",
+    "nuxtcontent-module",
+    "nuxt-content-cms",
+    "nuxtcontentapp"
+  ],
+  "Nuxt Studio": [
+    "nuxtstudio",
+    "nuxt-studio",
+    "nuxt-studio-tool",
+    "nuxtstudioapp",
+    "nuxt-studio-ide"
+  ],
+  "Nuxt UI": [
+    "nuxtui",
+    "nuxt-ui",
+    "nuxt-ui-kit",
+    "nuxtuikit",
+    "nuxt-ui-framework"
+  ],
+  "NuxtHub": [
+    "nuxthub",
+    "nuxt-hub",
+    "nuxthub-tool",
+    "nuxthubapp",
+    "nuxt-hub-platform"
+  ],
+  "Nx": ["nx", "n-x", "nx-tool", "nx-monorepo", "nxapp"],
+  "OBS": ["obs", "o-bs", "obs-studio", "obs-tool", "obsapp"],
+  "Obsidian": [
+    "obsidian",
+    "ob-sidian",
+    "obsidian-note",
+    "obsidianapp",
+    "obsidian-tool"
+  ],
+  "Ollama": ["ollama", "ol-lama", "ollama-ai", "ollama-model", "ollamaapp"],
+  "Open WebUI": [
+    "openwebui",
+    "open-webui",
+    "openweb",
+    "openwebui-tool",
+    "openwebuiapp"
+  ],
+  "OpenAI": ["openai", "open-ai", "open", "openai-api", "openaiapp"],
+  "OpenBootcamp": [
+    "openbootcamp",
+    "open-bootcamp",
+    "openboot",
+    "openbootcamp-platform",
+    "openbootcampapp"
+  ],
+  "OpenHunts": [
+    "openhunts",
+    "open-hunts",
+    "openh",
+    "openhunts-tool",
+    "openhuntsapp"
+  ],
+  "OpenRouter": [
+    "openrouter",
+    "open-router",
+    "openr",
+    "openrouter-tool",
+    "openrouterapp"
+  ],
+  "OpenSea": [
+    "opensea",
+    "open-sea",
+    "opensea-nft",
+    "openseaapp",
+    "opensea-market"
+  ],
+  "Opera": ["opera", "ope-ra", "opera-browser", "operaapp", "opera-tool"],
+  "Oxc": ["oxc", "o-xc", "oxc-tool", "oxcapp", "oxc-compiler"],
+  "PM2": ["pm2", "p-m2", "pm2-process", "pm2-tool", "pm2app"],
+  "PandaCSS": [
+    "pandacss",
+    "panda-css",
+    "panda",
+    "pandacss-framework",
+    "pandacssapp"
+  ],
+  "Parcel": ["parcel", "par-cel", "parcel-bundler", "parceljs", "parcelapp"],
+  "Patreon": ["patreon", "pat-reon", "pat", "patreon-platform", "patreonapp"],
+  "PayPal": ["paypal", "pay-pal", "pp", "paypal-api", "paypalapp"],
+  "Payload CMS": [
+    "payloadcms",
+    "payload-cms",
+    "payload",
+    "payload-cms-tool",
+    "payloadapp"
+  ],
+  "Peerlist": [
+    "peerlist",
+    "peer-list",
+    "peer",
+    "peerlist-platform",
+    "peerlistapp"
+  ],
+  "Penpot": ["penpot", "pen-pot", "penpot-design", "penpot-tool", "penpotapp"],
+  "Perplexity AI": [
+    "perplexityai",
+    "perplexity-ai",
+    "perplexity",
+    "perplexity-tool",
+    "perplexityapp"
+  ],
+  "Perspective": [
+    "perspective",
+    "perspective-api",
+    "google-perspective",
+    "perspectiveapi",
+    "jigsaw-perspective"
+  ],
+  "Photoshop": [
+    "photoshop",
+    "photo-shop",
+    "ps",
+    "photoshop-app",
+    "photoshop-tool"
+  ],
+  "Php": ["php", "p-hp", "php-lang", "phplang", "phpapp"],
+  "Pinia": ["pinia", "pi-nia", "pinia-store", "piniajs", "piniaapp"],
+  "Pinterest": [
+    "pinterest",
+    "pin-terest",
+    "pin",
+    "pinterest-app",
+    "pinterest-social"
+  ],
+  "Pitch": ["pitch", "pit-ch", "pitch-tool", "pitchapp", "pitch-platform"],
+  "PlainSignal": [
+    "plainsignal",
+    "plain-signal",
+    "plain",
+    "plainsignal-tool",
+    "plainsignalapp"
+  ],
+  "PlanetScale": [
+    "planetscale",
+    "planet-scale",
+    "planet",
+    "planetscale-db",
+    "planetscaleapp"
+  ],
+  "Platzi": [
+    "platzi",
+    "plat-zi",
+    "platzi-courses",
+    "platziapp",
+    "platzi-platform"
+  ],
+  "PlayStation": [
+    "playstation",
+    "play-station",
+    "ps",
+    "playstation-console",
+    "psapp"
+  ],
+  "Playwright": [
+    "playwright",
+    "play-wright",
+    "playwright-test",
+    "playwright-tool",
+    "playwrightapp"
+  ],
+  "Pnpm": ["pnpm", "p-npm", "pnpm-package", "pnpm-tool", "pnpmapp"],
+  "Pocketbase": [
+    "pocketbase",
+    "pocket-base",
+    "pocket",
+    "pocketbase-db",
+    "pocketbaseapp"
+  ],
+  "Polar": ["polar", "po-lar", "polar-tool", "polarapp", "polar-platform"],
+  "Polars": ["polars", "po-lars", "polars-df", "polars-tool", "polarsapp"],
+  "Polygon": [
+    "polygon",
+    "poly-gon",
+    "matic",
+    "polygon-blockchain",
+    "polygonapp"
+  ],
+  "Poper": ["poper", "po-per", "poper-tool", "poperapp", "poper-platform"],
+  "PostCSS": [
+    "postcss",
+    "post-css",
+    "postcss-css",
+    "postcss-tool",
+    "postcssapp"
+  ],
+  "PostHog": ["posthog", "post-hog", "phog", "posthog-tool", "posthogapp"],
+  "PostgreSQL": ["postgresql", "postgres-ql", "postgres", "pg", "psql"],
+  "Postman": [
+    "postman",
+    "post-man",
+    "postman-api",
+    "postman-tool",
+    "postmanapp"
+  ],
+  "PowerShell": [
+    "powershell",
+    "power-shell",
+    "ps",
+    "powershell-script",
+    "psapp"
+  ],
+  "PowerSync": [
+    "powersync",
+    "power-sync",
+    "power",
+    "powersync-tool",
+    "powersyncapp"
+  ],
+  "PowerToys": [
+    "powertoys",
+    "power-toys",
+    "power",
+    "powertoys-tool",
+    "powertoysapp"
+  ],
+  "Preact": ["preact", "pre-act", "preactjs", "preact-js", "preact-framework"],
+  "Premiere": ["premiere", "pre-miere", "pr", "premiere-pro", "premiereapp"],
+  "Prettier": [
+    "prettier",
+    "pre-ttier",
+    "prettier-tool",
+    "prettierjs",
+    "prettierapp"
+  ],
+  "Prime video": [
+    "primevideo",
+    "prime-video",
+    "prime",
+    "amazon-prime-video",
+    "primeapp"
+  ],
+  "Prisma": ["prisma", "pris-ma", "prisma-orm", "prisma-tool", "prismaapp"],
+  "Procure": [
+    "procure",
+    "pro-cure",
+    "procure-tool",
+    "procureapp",
+    "procure-platform"
+  ],
+  "Product Hunt": [
+    "producthunt",
+    "product-hunt",
+    "ph",
+    "producthunt-platform",
+    "phapp"
+  ],
+  "Pulumi": ["pulumi", "pu-lumi", "pulumi-iac", "pulumi-tool", "pulumiapp"],
+  "PyCharm": [
+    "pycharm",
+    "py-charm",
+    "pycharm-ide",
+    "pycharm-tool",
+    "pycharmapp"
+  ],
+  "Python": ["python", "py-thon", "py", "python-lang", "pythonapp"],
+  "Qdrant": ["qdrant", "q-drant", "qdrant-db", "qdrant-tool", "qdrantapp"],
+  "Qt": [],
+  "Qwen": ["qwen", "q-wen", "qwen-model", "qwen-ai", "qwenapp"],
+  "Qwik": ["qwik", "q-wik", "qwikjs", "qwik-framework", "qwikapp"],
+  "R": ["r", "r-lang", "rlang", "r-language", "rapp"],
+  "Radix UI": ["radixui", "radix-ui", "radix", "radix-ui-library", "radixuijs"],
+  "Railway": [
+    "railway",
+    "rail-way",
+    "railwayapp",
+    "railway-hosting",
+    "railway-platform"
+  ],
+  "Raindrop.io": [
+    "raindropio",
+    "raindrop-io",
+    "raindrop",
+    "raindrop-tool",
+    "raindropapp"
+  ],
+  "Randevum": [
+    "randevum",
+    "ran-devum",
+    "randev",
+    "randevum-tool",
+    "randevumapp"
+  ],
+  "Rapid API": ["rapidapi", "rapid-api", "rapid", "rapidapi-tool", "rapidapp"],
+  "Raspberry PI": [
+    "raspberrypi",
+    "raspberry-pi",
+    "rpi",
+    "raspberrypi-board",
+    "rpiapp"
+  ],
+  "Raycast": ["raycast", "ray-cast", "ray", "raycast-tool", "raycastapp"],
+  "React": ["react", "reactjs", "react-js", "react.js", "react-framework"],
+  "React Query": [
+    "reactquery",
+    "react-query",
+    "rq",
+    "react-query-library",
+    "reactqueryjs"
+  ],
+  "React Router": [
+    "reactrouter",
+    "react-router",
+    "rr",
+    "react-router-library",
+    "reactrouterjs"
+  ],
+  "React Wheel Picker": [
+    "reactwheelpicker",
+    "react-wheel-picker",
+    "wheelpicker",
+    "react-wheel",
+    "wheelpickerapp"
+  ],
+  "Reddit": [
+    "reddit",
+    "red-dit",
+    "reddit-social",
+    "redditapp",
+    "reddit-platform"
+  ],
+  "Redis": ["redis", "re-dis", "redis-db", "redis-cache", "redisapp"],
+  "Redux": ["redux", "re-dux", "reduxjs", "redux-library", "reduxapp"],
+  "RedwoodJS": [
+    "redwoodjs",
+    "redwood-js",
+    "redwood",
+    "redwood-framework",
+    "redwoodapp"
+  ],
+  "Refine": [
+    "refine",
+    "re-fine",
+    "refine-framework",
+    "refine-tool",
+    "refineapp"
+  ],
+  "Reflex": ["reflex", "re-flex", "reflexjs", "reflex-framework", "reflexapp"],
+  "RelaGit": ["relagit", "rela-git", "rela", "relagit-tool", "relagitapp"],
+  "Remix": ["remix", "re-mix", "remixjs", "remix-framework", "remixapp"],
+  "Remotion": [
+    "remotion",
+    "re-motion",
+    "remotionjs",
+    "remotion-tool",
+    "remotionapp"
+  ],
+  "Replicate": [
+    "replicate",
+    "repli-cate",
+    "replicate-ai",
+    "replicate-tool",
+    "replicateapp"
+  ],
+  "Replit": ["replit", "rep-lit", "replit-ide", "replit-tool", "replitapp"],
+  "Resend": ["resend", "re-send", "resend-tool", "resendapp", "resend-email"],
+  "Roblox": ["roblox", "ro-blox", "rbx", "roblox-game", "robloxapp"],
+  "Rolldown": [
+    "rolldown",
+    "roll-down",
+    "rolldown-tool",
+    "rolldownapp",
+    "rolldown-bundler"
+  ],
+  "Rowy": ["rowy", "ro-wy", "rowy-tool", "rowyapp", "rowy-platform"],
+  "Rsbuild": [
+    "rsbuild",
+    "rs-build",
+    "rsbuild-tool",
+    "rsbuildapp",
+    "rsbuild-bundler"
+  ],
+  "Rspack": ["rspack", "rs-pack", "rspack-tool", "rspackapp", "rspack-bundler"],
+  "Ruby": ["ruby", "ru-by", "ruby-lang", "rb", "rubylang"],
+  "Runway": ["runway", "run-way", "runwayml", "runway-ai", "runwayapp"],
+  "Rust": ["rust", "ru-st", "rust-lang", "rustlang", "rustapp"],
+  "RxJS": ["rxjs", "rx-js", "rx", "rxjs-library", "rxjsjs"],
+  "SQLite": ["sqlite", "sql-ite", "sqlite-db", "sqlite-database", "sqliteapp"],
+  "SST": ["sst", "s-st", "sst-framework", "sst-tool", "sstapp"],
+  "SVG": ["svg", "s-vg", "svg-image", "svg-format", "svgapp"],
+  "SWC": ["swc", "s-wc", "swc-compiler", "swc-tool", "swcapp"],
+  "SWR": ["swr", "s-wr", "swr-library", "swrjs", "swrapp"],
+  "Safari": ["safari", "sa-fari", "safari-browser", "safariapp", "safari-tool"],
+  "Salesforce": [
+    "salesforce",
+    "sales-force",
+    "sf",
+    "salesforce-crm",
+    "salesforceapp"
+  ],
+  "Sanity": ["sanity", "sa-nity", "sanity-cms", "sanity-tool", "sanityapp"],
+  "Sass": ["sass", "sa-ss", "scss", "sass-css", "sassapp"],
+  "Scala": ["scala", "sca-la", "scala-lang", "scalalang", "scalaapp"],
+  "Sentry": [
+    "sentry",
+    "sen-try",
+    "sentry-monitoring",
+    "sentry-tool",
+    "sentryapp"
+  ],
+  "Sequelize": [
+    "sequelize",
+    "seque-lize",
+    "sequelize-orm",
+    "sequelizejs",
+    "sequelizeapp"
+  ],
+  "Shiki": ["shiki", "shi-ki", "shiki-tool", "shikiapp", "shiki-highlighter"],
+  "Shopify": ["shopify", "shop-ify", "shop", "shopify-ecommerce", "shopifyapp"],
+  "Sketch": ["sketch", "ske-tch", "sketch-design", "sketch-tool", "sketchapp"],
+  "Skype": ["skype", "sky-pe", "skype-app", "skype-messenger", "skypeapp"],
+  "Slack": ["slack", "s-lack", "slack-app", "slack-chat", "slackapp"],
+  "Snapchat": [
+    "snapchat",
+    "snap-chat",
+    "snap",
+    "snapchat-app",
+    "snapchat-social"
+  ],
+  "Socket.IO": [
+    "socketio",
+    "socket-io",
+    "socket",
+    "socketio-library",
+    "socketiojs"
+  ],
+  "Solana": ["solana", "so-lana", "sol", "solana-blockchain", "solanaapp"],
+  "Solidity": ["solidity", "soli-dity", "sol", "solidity-lang", "solidityapp"],
+  "Solidjs": ["solidjs", "solid-js", "solid", "solid-framework", "solidapp"],
+  "SoundCloud": [
+    "soundcloud",
+    "sound-cloud",
+    "sc",
+    "soundcloud-app",
+    "soundcloud-music"
+  ],
+  "Sourcegraph": [
+    "sourcegraph",
+    "source-graph",
+    "sg",
+    "sourcegraph-tool",
+    "sourcegraphapp"
+  ],
+  "Spinnaker": [
+    "spinnaker",
+    "spin-naker",
+    "spinnaker-tool",
+    "spinnaker-cd",
+    "spinnakerapp"
+  ],
+  "Spotify": ["spotify", "spot-ify", "spotify-music", "spotifyapp", "spot"],
+  "Spring": [],
+  "Stability AI": [
+    "stabilityai",
+    "stability-ai",
+    "stability",
+    "stability-ai-tool",
+    "stabilityapp"
+  ],
+  "Stack Overflow": [
+    "stackoverflow",
+    "stack-overflow",
+    "so",
+    "stackoverflow-site",
+    "soapp"
+  ],
+  "Stackblitz": [
+    "stackblitz",
+    "stack-blitz",
+    "blitz",
+    "stackblitz-ide",
+    "stackblitzapp"
+  ],
+  "Stately.ai": [
+    "statelyai",
+    "stately-ai",
+    "stately",
+    "stately-tool",
+    "statelyapp"
+  ],
+  "Steam": ["steam", "ste-am", "steam-app", "steam-platform", "steamapp"],
+  "Stimulus": [
+    "stimulus",
+    "sti-mulus",
+    "stimulusjs",
+    "stimulus-framework",
+    "stimulusapp"
+  ],
+  "Storyblok": [
+    "storyblok",
+    "story-blok",
+    "story",
+    "storyblok-cms",
+    "storyblokapp"
+  ],
+  "Storybook": [
+    "storybook",
+    "story-book",
+    "storybookjs",
+    "storybook-tool",
+    "storybookapp"
+  ],
+  "Strapi": ["strapi", "stra-pi", "strapi-cms", "strapi-api", "strapiapp"],
+  "Stripe": ["stripe", "stri-pe", "stripe-api", "stripe-payment", "stripeapp"],
+  "Styled Components": [
+    "styledcomponents",
+    "styled-components",
+    "styled",
+    "styled-components-library",
+    "styledjs"
+  ],
+  "Sublime Text": [
+    "sublimetext",
+    "sublime-text",
+    "sublime",
+    "sublimetext-editor",
+    "sublimeapp"
+  ],
+  "Suno": ["suno", "su-no", "suno-ai", "suno-music", "sunoapp"],
+  "Supabase": [
+    "supabase",
+    "supa-base",
+    "supa",
+    "supabase-backend",
+    "supabaseapp"
+  ],
+  "Surrealdb": [
+    "surrealdb",
+    "surreal-db",
+    "surreal",
+    "surrealdb-database",
+    "surrealapp"
+  ],
+  "Svelte": ["svelte", "svel-te", "sveltejs", "svelte-js", "svelte-framework"],
+  "Svgl": ["svgl", "s-vgl", "svgl-tool", "svglapp", "svgl-library"],
+  "Swagger": [
+    "swagger",
+    "swag-ger",
+    "swagger-api",
+    "swagger-tool",
+    "swaggerapp"
+  ],
+  "Swift": ["swift", "swi-ft", "swift-lang", "swiftlang", "swiftapp"],
+  "T3 Stack": ["t3stack", "t3-stack", "t3", "t3-stack-tool", "t3app"],
+  "TIDAL": ["tidal", "ti-dal", "tidal-music", "tidalapp", "tidal-platform"],
+  "Tabby": ["tabby", "tab-by", "tabby-tool", "tabbyapp", "tabby-editor"],
+  "Tailwind CSS": [
+    "tailwindcss",
+    "tailwind-css",
+    "tailwind",
+    "twcss",
+    "tailwind-framework"
+  ],
+  "TanStack": ["tanstack", "tan-stack", "tan", "tanstack-tool", "tanstackapp"],
+  "Tauri": ["tauri", "tau-ri", "taurijs", "tauri-framework", "tauriapp"],
+  "Telegram": [
+    "telegram",
+    "tele-gram",
+    "tg",
+    "telegram-app",
+    "telegram-messenger"
+  ],
+  "TensorFlow": [
+    "tensorflow",
+    "tensor-flow",
+    "tf",
+    "tensorflow-ml",
+    "tensorflowapp"
+  ],
+  "Terraform": [
+    "terraform",
+    "terra-form",
+    "tf",
+    "terraform-iac",
+    "terraformapp"
+  ],
+  "Tether": ["tether", "te-ther", "usdt", "tether-stablecoin", "tetherapp"],
+  "Threads": [
+    "threads",
+    "thre-ads",
+    "threads-app",
+    "threads-social",
+    "threadsapp"
+  ],
+  "Three.js": ["threejs", "three-js", "three", "threejs-library", "threejsapp"],
+  "TikTok": ["tiktok", "tik-tok", "tt", "tiktok-app", "tiktok-social"],
+  "Tina": ["tina", "ti-na", "tina-cms", "tina-tool", "tinaapp"],
+  "Todoist": ["todoist", "todo-ist", "todo", "todoist-app", "todoisttool"],
+  "Together AI": [
+    "togetherai",
+    "together-ai",
+    "together",
+    "together-ai-tool",
+    "togetherapp"
+  ],
+  "Ton": ["ton", "t-on", "ton-coin", "ton-blockchain", "toncrypto"],
+  "Tor": ["tor", "t-or", "tor-browser", "tor-network", "torapp"],
+  "TravelPerk": [
+    "travelperk",
+    "travel-perk",
+    "travel",
+    "travelperk-tool",
+    "travelperkapp"
+  ],
+  "Tron": ["tron", "t-ron", "trx", "tron-blockchain", "tronapp"],
+  "Trust Wallet": [
+    "trustwallet",
+    "trust-wallet",
+    "trust",
+    "trustwallet-app",
+    "trustapp"
+  ],
+  "TrustPilot": [
+    "trustpilot",
+    "trust-pilot",
+    "tp",
+    "trustpilot-reviews",
+    "trustpilotapp"
+  ],
+  "Turbopack": [
+    "turbopack",
+    "turbo-pack",
+    "turbo",
+    "turbopack-tool",
+    "turbopackapp"
+  ],
+  "Turborepo": [
+    "turborepo",
+    "turbo-repo",
+    "turbo",
+    "turborepo-tool",
+    "turborepo-monorepo"
+  ],
+  "Turso": ["turso", "tur-so", "turso-db", "turso-tool", "tursoapp"],
+  "Twilio": ["twilio", "twi-lio", "twilio-api", "twilio-sms", "twilioapp"],
+  "Twitch": ["twitch", "twit-ch", "tw", "twitch-app", "twitch-streaming"],
+  "Twitter": ["twitter", "twit-ter", "tw", "twitter-app", "twitter-social"],
+  "TypeGPU": ["typegpu", "type-gpu", "tgpu", "typegpu-tool", "typegpuapp"],
+  "TypeORM": ["typeorm", "type-orm", "typeorm-orm", "typeormjs", "typeormapp"],
+  "TypeScript": [
+    "typescript",
+    "type-script",
+    "ts",
+    "typescript-lang",
+    "tslang"
+  ],
+  "Typesense": [
+    "typesense",
+    "type-sense",
+    "types",
+    "typesense-search",
+    "typesenseapp"
+  ],
+  "UV": ["uv", "u-v", "uvtool", "uv-python", "uv-installer"],
+  "UXAnaRangel": [
+    "uxanarangel",
+    "ux-ana-rangel",
+    "uxana",
+    "uxanarangel-tool",
+    "uxanarangelapp"
+  ],
+  "UXCorpRangel": [
+    "uxcorprangel",
+    "ux-corp-rangel",
+    "uxcorp",
+    "uxcorprangel-tool",
+    "uxcorprangelapp"
+  ],
+  "Uber": ["uber", "u-ber", "uber-app", "uber-ride", "uberapp"],
+  "Ubuntu": ["ubuntu", "u-buntu", "ubuntu-os", "ubuntu-linux", "ubuntuapp"],
+  "Udacity": [
+    "udacity",
+    "u-dacity",
+    "udacity-courses",
+    "udacityapp",
+    "udacity-platform"
+  ],
+  "Udemy": ["udemy", "u-demy", "udemy-courses", "udemyapp", "udemy-platform"],
+  "UnJS": ["unjs", "un-js", "un", "unjs-library", "unjsapp"],
+  "Unity": ["unity", "u-nity", "unity-engine", "unity3d", "unityapp"],
+  "UnoCSS": ["unocss", "uno-css", "uno", "unocss-framework", "unocssapp"],
+  "Unreal Engine": ["unrealengine", "unreal-engine", "ue", "unreal", "ueapp"],
+  "UpLeveled": [
+    "upleveled",
+    "up-leveled",
+    "uplevel",
+    "upleveled-tool",
+    "upleveledapp"
+  ],
+  "Upstash": [
+    "upstash",
+    "up-stash",
+    "upstash-redis",
+    "upstash-tool",
+    "upstashapp"
+  ],
+  "VK": ["vk", "v-k", "vkontakte", "vk-social", "vkapp"],
+  "VSCodium": ["vscodium", "vs-codium", "vsc", "vscodium-ide", "vscodiumapp"],
+  "Valibot": [
+    "valibot",
+    "vali-bot",
+    "valibot-schema",
+    "valibotjs",
+    "valibotapp"
+  ],
+  "Vercel": [
+    "vercel",
+    "ver-cel",
+    "vercel-platform",
+    "vercelapp",
+    "vercel-hosting"
+  ],
+  "Vim": ["vim", "v-im", "vim-editor", "vim-tool", "vimapp"],
+  "Visual Studio": [
+    "visualstudio",
+    "visual-studio",
+    "vs",
+    "visual-studio-ide",
+    "vsapp"
+  ],
+  "Visual Studio Code": [
+    "visualstudiocode",
+    "visual-studio-code",
+    "vscode",
+    "vs-code",
+    "code"
+  ],
+  "Vite": ["vite", "vi-te", "vitejs", "vite-tool", "viteapp"],
+  "Vitest": ["vitest", "vi-test", "vitest-tool", "vitestjs", "vitestapp"],
+  "Vivaldi": [
+    "vivaldi",
+    "vi-valdi",
+    "vivaldi-browser",
+    "vivaldiapp",
+    "vivaldi-tool"
+  ],
+  "Voicemod": ["voicemod", "voice-mod", "vm", "voicemod-tool", "voicemodapp"],
+  "Volta": ["volta", "vol-ta", "volta-tool", "voltajs", "voltaapp"],
+  "Vue": ["vue", "vuejs", "vue-js", "vue.js", "vue-framework"],
+  "VueUse": ["vueuse", "vue-use", "vueu", "vueuse-library", "vueusejs"],
+  "Vuetify": ["vuetify", "vue-tify", "vuetifyjs", "vuetify-js", "vuetify-ui"],
+  "WakaTime": ["wakatime", "waka-time", "waka", "wakatime-tool", "wakatimeapp"],
+  "Warp": ["warp", "wa-rp", "warp-tool", "warpapp", "warp-terminal"],
+  "Web Components": [
+    "webcomponents",
+    "web-components",
+    "wc",
+    "webcomponents-library",
+    "wcapp"
+  ],
+  "Web.dev": ["webdev", "web-dev", "web", "webdev-tool", "webdevapp"],
+  "WebGL": ["webgl", "web-gl", "gl", "webgl-api", "webglapp"],
+  "WebKit": [
+    "webkit",
+    "web-kit",
+    "webkit-engine",
+    "webkit-browser",
+    "webkitapp"
+  ],
+  "Webflow": [
+    "webflow",
+    "web-flow",
+    "webflow-cms",
+    "webflow-tool",
+    "webflowapp"
+  ],
+  "WhatsApp": [
+    "whatsapp",
+    "whats-app",
+    "wa",
+    "whatsapp-app",
+    "whatsapp-messenger"
+  ],
+  "Whop": ["whop", "w-hop", "whop-tool", "whopapp", "whop-platform"],
+  "WindiCSS": [
+    "windicss",
+    "windi-css",
+    "windi",
+    "windicss-framework",
+    "windicssapp"
+  ],
+  "Windows": ["windows", "win-dows", "win", "windows-os", "windowsapp"],
+  "Windsurf": [
+    "windsurf",
+    "windsurfing",
+    "wind-surf",
+    "windsurf-tool",
+    "windsurf-editor"
+  ],
+  "WordPress": ["wordpress", "word-press", "wp", "wordpress-cms", "wpapp"],
+  "WorkOS": ["workos", "work-os", "workos-auth", "workos-api", "workosapp"],
+  "X (formerly Twitter)": [
+    "x",
+    "x-formerly-twitter",
+    "twitter",
+    "x-social",
+    "xapp"
+  ],
+  "XD": ["xd", "x-d", "adobe-xd", "xd-tool", "xdapp"],
+  "XRP": ["xrp", "x-rp", "ripple", "xrp-coin", "xrpapp"],
+  "XState": ["xstate", "x-state", "xstatejs", "xstate-library", "xstateapp"],
+  "Xbox": ["xbox", "x-box", "xb", "xbox-console", "xboxapp"],
+  "YGeeker": ["ygeeker", "y-geeker", "ygeek", "ygeeker-tool", "ygeekerapp"],
+  "Yarn": ["yarn", "ya-rn", "yarnpkg", "yarn-package", "yarnjs"],
+  "YouTube": ["youtube", "you-tube", "yt", "youtube-app", "youtube-video"],
+  "Youtube Music": [
+    "youtubemusic",
+    "youtube-music",
+    "ytmusic",
+    "youtube-music-app",
+    "ytmusicapp"
+  ],
+  "Zeabur": [
+    "zeabur",
+    "zea-bur",
+    "zeabur-tool",
+    "zeaburapp",
+    "zeabur-platform"
+  ],
+  "Zed": ["zed", "z-ed", "zed-editor", "zed-tool", "zedapp"],
+  "Zen Browser": [
+    "zenbrowser",
+    "zen-browser",
+    "zen",
+    "zen-browser-tool",
+    "zenapp"
+  ],
+  "Zig": ["zig", "z-ig", "zig-lang", "ziglang", "zigapp"],
+  "Zod": ["zod", "z-od", "zod-schema", "zodjs", "zodapp"],
+  "Zoom": ["zoom", "zo-om", "zoom-app", "zoom-video", "zoomapp"],
+  "Zulip": ["zulip", "zu-lip", "zulip-chat", "zulip-tool", "zulipapp"],
+  "ahooks": ["ahooks", "a-hooks", "ahooks-react", "ahooksjs", "ahooks-tool"],
+  "bolt": ["bolt", "bo-lt", "bolt-tool", "boltapp", "bolt-framework"],
+  "cPanel": ["cpanel", "c-panel", "cp", "cpanel-hosting", "cpanelapp"],
+  "daily.dev": [
+    "dailydev",
+    "daily-dev",
+    "daily",
+    "dailydev-platform",
+    "dailyapp"
+  ],
+  "daisyUI": [
+    "daisyui",
+    "daisy-ui",
+    "daisy",
+    "daisy-ui-tailwind",
+    "daisyui-css"
+  ],
+  "dotenv": ["dotenv", "dot-env", "env", "dotenv-tool", "dotenvapp"],
+  "dotenvx": ["dotenvx", "dotenv-x", "envx", "dotenvx-tool", "dotenvxapp"],
+  "hCaptcha": ["hcaptcha", "h-captcha", "hcap", "hcaptcha-tool", "hcaptchaapp"],
+  "jQuery": ["jquery", "j-query", "jq", "jqueryjs", "jquery-library"],
+  "matlab": ["matlab", "mat-lab", "matlab-lang", "matlabapp", "matlab-tool"],
+  "midudev": ["midudev", "midu-dev", "midu", "midudev-channel", "midudevapp"],
+  "n8n": ["n8n", "n-8n", "n8n-tool", "n8napp", "n8n-workflow"],
+  "nuqs": ["nuqs", "nu-qs", "nuqs-tool", "nuqsapp", "nuqs-library"],
+  "putio": ["putio", "put-io", "put", "putio-tool", "putioapp"],
+  "sky": ["sky", "s-ky", "sky-tool", "skyapp", "sky-platform"],
+  "tRPC": ["trpc", "t-rpc", "trpc-api", "trpc-tool", "trpcapp"],
+  "v0": ["v0", "v-zero", "v0-tool", "v0app", "v0-platform"],
+  "xAI (Grok)": ["xaigrok", "xai-grok", "grok", "xai-tool", "grokapp"]
+}

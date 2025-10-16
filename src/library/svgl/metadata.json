@@ -1,0 +1,5027 @@
+[
+  {
+    "id": 0,
+    "path": {
+      "light": "src\\library\\svgl\\nvidia\\nvidia-light.svg",
+      "dark": "src\\library\\svgl\\nvidia\\nvidia-dark.svg"
+    },
+    "checked": false,
+    "title": "NVIDIA",
+    "url": "https://www.nvidia.com",
+    "icon": "NVIDIAIcon"
+  },
+  {
+    "id": 1,
+    "path": {
+      "light": "src\\library\\svgl\\google-classroom\\google-classroom-light.svg"
+    },
+    "checked": false,
+    "title": "Google Classroom",
+    "url": "https://edu.google.com/workspace-for-education/products/classroom/",
+    "icon": "GoogleClassroomIcon"
+  },
+  {
+    "id": 2,
+    "path": { "light": "src\\library\\svgl\\kimi\\kimi-light.svg" },
+    "checked": false,
+    "title": "Kimi",
+    "url": "https://kimi.ai",
+    "icon": "KimiIcon"
+  },
+  {
+    "id": 3,
+    "path": {
+      "light": "src\\library\\svgl\\perspective\\perspective-light.svg",
+      "dark": "src\\library\\svgl\\perspective\\perspective-dark.svg"
+    },
+    "checked": false,
+    "title": "Perspective",
+    "url": "https://perspective.co/",
+    "icon": "PerspectiveIcon"
+  },
+  {
+    "id": 4,
+    "path": {
+      "light": "src\\library\\svgl\\windsurf\\windsurf-light.svg",
+      "dark": "src\\library\\svgl\\windsurf\\windsurf-dark.svg"
+    },
+    "checked": false,
+    "title": "Windsurf",
+    "url": "https://windsurf.com/editor",
+    "icon": "WindsurfIcon"
+  },
+  {
+    "id": 5,
+    "path": {
+      "light": "src\\library\\svgl\\mattermost\\mattermost-light.svg",
+      "dark": "src\\library\\svgl\\mattermost\\mattermost-dark.svg"
+    },
+    "checked": false,
+    "title": "Mattermost",
+    "url": "http://mattermost.com/",
+    "icon": "MattermostIcon"
+  },
+  {
+    "id": 6,
+    "path": {
+      "light": "src\\library\\svgl\\inngest\\inngest-light.svg",
+      "dark": "src\\library\\svgl\\inngest\\inngest-dark.svg"
+    },
+    "checked": false,
+    "title": "Inngest",
+    "url": "https://inngest.com/",
+    "icon": "InngestIcon"
+  },
+  {
+    "id": 7,
+    "path": { "light": "src\\library\\svgl\\daisyui\\daisyui-light.svg" },
+    "checked": false,
+    "title": "daisyUI",
+    "url": "https://daisyui.com/",
+    "icon": "DaisyUIIcon"
+  },
+  {
+    "id": 8,
+    "path": { "light": "src\\library\\svgl\\paypal\\paypal-light.svg" },
+    "checked": false,
+    "title": "PayPal",
+    "url": "https://paypal.com",
+    "icon": "PayPalIcon"
+  },
+  {
+    "id": 9,
+    "path": {
+      "light": "src\\library\\svgl\\google-drive\\google-drive-light.svg"
+    },
+    "checked": false,
+    "title": "Google Drive",
+    "url": "https://www.google.com/drive/",
+    "icon": "GoogleDriveIcon"
+  },
+  {
+    "id": 10,
+    "path": { "light": "src\\library\\svgl\\amazon-q\\amazon-q-light.svg" },
+    "checked": false,
+    "title": "Amazon Q",
+    "url": "https://aws.amazon.com/q",
+    "icon": "AmazonQIcon"
+  },
+  {
+    "id": 11,
+    "path": { "light": "src\\library\\svgl\\mulesoft\\mulesoft-light.svg" },
+    "checked": false,
+    "title": "Mulesoft",
+    "url": "https://www.mulesoft.com/",
+    "icon": "MulesoftIcon"
+  },
+  {
+    "id": 12,
+    "path": { "light": "src\\library\\svgl\\uv\\uv-light.svg" },
+    "checked": false,
+    "title": "UV",
+    "url": "https://docs.astral.sh/uv/",
+    "icon": "UVIcon"
+  },
+  {
+    "id": 13,
+    "path": {
+      "light": "src\\library\\svgl\\milanote\\milanote-light.svg",
+      "dark": "src\\library\\svgl\\milanote\\milanote-dark.svg"
+    },
+    "checked": false,
+    "title": "Milanote",
+    "url": "https://milanote.com",
+    "icon": "MilanoteIcon"
+  },
+  {
+    "id": 14,
+    "path": {
+      "light": "src\\library\\svgl\\together-ai\\together-ai-light.svg",
+      "dark": "src\\library\\svgl\\together-ai\\together-ai-dark.svg"
+    },
+    "checked": false,
+    "title": "Together AI",
+    "url": "https://www.together.ai/",
+    "icon": "TogetherAIIcon"
+  },
+  {
+    "id": 15,
+    "path": { "light": "src\\library\\svgl\\suno\\suno-light.svg" },
+    "checked": false,
+    "title": "Suno",
+    "url": "https://suno.com/",
+    "icon": "SunoIcon"
+  },
+  {
+    "id": 16,
+    "path": { "light": "src\\library\\svgl\\groq\\groq-light.svg" },
+    "checked": false,
+    "title": "Groq",
+    "url": "https://groq.com/",
+    "icon": "GroqIcon"
+  },
+  {
+    "id": 17,
+    "path": { "light": "src\\library\\svgl\\cohere\\cohere-light.svg" },
+    "checked": false,
+    "title": "Cohere",
+    "url": "https://cohere.com/",
+    "icon": "CohereIcon"
+  },
+  {
+    "id": 18,
+    "path": {
+      "light": "src\\library\\svgl\\ollama\\ollama-light.svg",
+      "dark": "src\\library\\svgl\\ollama\\ollama-dark.svg"
+    },
+    "checked": false,
+    "title": "Ollama",
+    "url": "https://www.ollama.com/",
+    "icon": "OllamaIcon"
+  },
+  {
+    "id": 19,
+    "path": {
+      "light": "src\\library\\svgl\\cisco\\cisco-light.svg",
+      "dark": "src\\library\\svgl\\cisco\\cisco-dark.svg"
+    },
+    "checked": false,
+    "title": "Cisco",
+    "url": "https://www.cisco.com/",
+    "icon": "CiscoIcon"
+  },
+  {
+    "id": 20,
+    "path": { "light": "src\\library\\svgl\\animate\\animate-light.svg" },
+    "checked": false,
+    "title": "Animate",
+    "url": "https://www.adobe.com/products/animate",
+    "icon": "AnimateIcon"
+  },
+  {
+    "id": 21,
+    "path": { "light": "src\\library\\svgl\\apollo.io\\apollo.io-light.svg" },
+    "checked": false,
+    "title": "Apollo.io",
+    "url": "https://www.apollo.io/",
+    "icon": "ApolloIoIcon"
+  },
+  {
+    "id": 22,
+    "path": { "light": "src\\library\\svgl\\blender\\blender-light.svg" },
+    "checked": false,
+    "title": "Blender",
+    "url": "https://blender.org/",
+    "icon": "BlenderIcon"
+  },
+  {
+    "id": 23,
+    "path": { "light": "src\\library\\svgl\\lua\\lua-light.svg" },
+    "checked": false,
+    "title": "Lua",
+    "url": "https://lua.org/",
+    "icon": "LuaIcon"
+  },
+  {
+    "id": 24,
+    "path": {
+      "light": "src\\library\\svgl\\mercado-pago\\mercado-pago-light.svg"
+    },
+    "checked": false,
+    "title": "Mercado Pago",
+    "url": "https://www.mercadopago.com/developers/",
+    "icon": "MercadoPagoIcon"
+  },
+  {
+    "id": 25,
+    "path": { "light": "src\\library\\svgl\\basewell\\basewell-light.svg" },
+    "checked": false,
+    "title": "Basewell",
+    "url": "https://www.basewell.com/",
+    "icon": "BasewellIcon"
+  },
+  {
+    "id": 26,
+    "path": { "light": "src\\library\\svgl\\ahooks\\ahooks-light.svg" },
+    "checked": false,
+    "title": "ahooks",
+    "url": "https://ahooks.js.org/",
+    "icon": "AhooksIcon"
+  },
+  {
+    "id": 27,
+    "path": { "light": "src\\library\\svgl\\discord\\discord-light.svg" },
+    "checked": false,
+    "title": "Discord",
+    "url": "https://discord.com/",
+    "icon": "DiscordIcon"
+  },
+  {
+    "id": 28,
+    "path": { "light": "src\\library\\svgl\\aliexpress\\aliexpress-light.svg" },
+    "checked": false,
+    "title": "Aliexpress",
+    "url": "https://aliexpress.com/",
+    "icon": "AliexpressIcon"
+  },
+  {
+    "id": 29,
+    "path": { "light": "src\\library\\svgl\\preact\\preact-light.svg" },
+    "checked": false,
+    "title": "Preact",
+    "url": "https://preactjs.com/",
+    "icon": "PreactIcon"
+  },
+  {
+    "id": 30,
+    "path": {
+      "light": "src\\library\\svgl\\react\\react-light.svg",
+      "dark": "src\\library\\svgl\\react\\react-dark.svg"
+    },
+    "checked": false,
+    "title": "React",
+    "url": "https://react.dev/",
+    "icon": "ReactIcon"
+  },
+  {
+    "id": 31,
+    "path": { "light": "src\\library\\svgl\\svelte\\svelte-light.svg" },
+    "checked": false,
+    "title": "Svelte",
+    "url": "https://svelte.dev/",
+    "icon": "SvelteIcon"
+  },
+  {
+    "id": 32,
+    "path": { "light": "src\\library\\svgl\\vue\\vue-light.svg" },
+    "checked": false,
+    "title": "Vue",
+    "url": "https://vuejs.org/",
+    "icon": "VueIcon"
+  },
+  {
+    "id": 33,
+    "path": { "light": "src\\library\\svgl\\vuetify\\vuetify-light.svg" },
+    "checked": false,
+    "title": "Vuetify",
+    "url": "https://vuetifyjs.com/",
+    "icon": "VuetifyIcon"
+  },
+  {
+    "id": 34,
+    "path": { "light": "src\\library\\svgl\\nuxt\\nuxt-light.svg" },
+    "checked": false,
+    "title": "Nuxt",
+    "url": "https://nuxt.com/",
+    "icon": "NuxtIcon"
+  },
+  {
+    "id": 35,
+    "path": {
+      "light": "src\\library\\svgl\\nuxt-ui\\nuxt-ui-light.svg",
+      "dark": "src\\library\\svgl\\nuxt-ui\\nuxt-ui-dark.svg"
+    },
+    "checked": false,
+    "title": "Nuxt UI",
+    "url": "https://ui.nuxt.com/",
+    "icon": "NuxtUIIcon"
+  },
+  {
+    "id": 36,
+    "path": {
+      "light": "src\\library\\svgl\\nuxt-content\\nuxt-content-light.svg",
+      "dark": "src\\library\\svgl\\nuxt-content\\nuxt-content-dark.svg"
+    },
+    "checked": false,
+    "title": "Nuxt Content",
+    "url": "https://content.nuxt.com/",
+    "icon": "NuxtContentIcon"
+  },
+  {
+    "id": 37,
+    "path": {
+      "light": "src\\library\\svgl\\nuxt-studio\\nuxt-studio-light.svg",
+      "dark": "src\\library\\svgl\\nuxt-studio\\nuxt-studio-dark.svg"
+    },
+    "checked": false,
+    "title": "Nuxt Studio",
+    "url": "https://studio.nuxt.com/",
+    "icon": "NuxtStudioIcon"
+  },
+  {
+    "id": 38,
+    "path": { "light": "src\\library\\svgl\\nuxthub\\nuxthub-light.svg" },
+    "checked": false,
+    "title": "NuxtHub",
+    "url": "https://hub.nuxt.com/",
+    "icon": "NuxtHubIcon"
+  },
+  {
+    "id": 39,
+    "path": {
+      "light": "src\\library\\svgl\\docus\\docus-light.svg",
+      "dark": "src\\library\\svgl\\docus\\docus-dark.svg"
+    },
+    "checked": false,
+    "title": "Docus",
+    "url": "https://docus.dev/",
+    "icon": "DocusIcon"
+  },
+  {
+    "id": 40,
+    "path": {
+      "light": "src\\library\\svgl\\visual-studio-code\\visual-studio-code-light.svg"
+    },
+    "checked": false,
+    "title": "Visual Studio Code",
+    "url": "https://code.visualstudio.com/",
+    "icon": "VisualStudioCodeIcon"
+  },
+  {
+    "id": 41,
+    "path": { "light": "src\\library\\svgl\\ton\\ton-light.svg" },
+    "checked": false,
+    "title": "Ton",
+    "url": "https://ton.org/",
+    "icon": "TonIcon"
+  },
+  {
+    "id": 42,
+    "path": { "light": "src\\library\\svgl\\locofy\\locofy-light.svg" },
+    "checked": false,
+    "title": "Locofy",
+    "url": "https://www.locofy.ai/",
+    "icon": "LocofyIcon"
+  },
+  {
+    "id": 43,
+    "path": { "light": "src\\library\\svgl\\runway\\runway-light.svg" },
+    "checked": false,
+    "title": "Runway",
+    "url": "https://runwayml.com/",
+    "icon": "RunwayIcon"
+  },
+  {
+    "id": 44,
+    "path": { "light": "src\\library\\svgl\\yarn\\yarn-light.svg" },
+    "checked": false,
+    "title": "Yarn",
+    "url": "https://yarnpkg.com/",
+    "icon": "YarnIcon"
+  },
+  {
+    "id": 45,
+    "path": { "light": "src\\library\\svgl\\jwt\\jwt-light.svg" },
+    "checked": false,
+    "title": "JWT",
+    "url": "https://jwt.io/",
+    "icon": "JWTIcon"
+  },
+  {
+    "id": 46,
+    "path": { "light": "src\\library\\svgl\\strapi\\strapi-light.svg" },
+    "checked": false,
+    "title": "Strapi",
+    "url": "https://strapi.io/",
+    "icon": "StrapiIcon"
+  },
+  {
+    "id": 47,
+    "path": { "light": "src\\library\\svgl\\figma\\figma-light.svg" },
+    "checked": false,
+    "title": "Figma",
+    "url": "https://www.figma.com/",
+    "icon": "FigmaIcon"
+  },
+  {
+    "id": 48,
+    "path": { "light": "src\\library\\svgl\\spotify\\spotify-light.svg" },
+    "checked": false,
+    "title": "Spotify",
+    "url": "https://www.spotify.com/",
+    "icon": "SpotifyIcon"
+  },
+  {
+    "id": 49,
+    "path": {
+      "light": "src\\library\\svgl\\workos\\workos-light.svg",
+      "dark": "src\\library\\svgl\\workos\\workos-dark.svg"
+    },
+    "checked": false,
+    "title": "WorkOS",
+    "url": "https://workos.com/",
+    "icon": "WorkOSIcon"
+  },
+  {
+    "id": 50,
+    "path": {
+      "light": "src\\library\\svgl\\whop\\whop-light.svg",
+      "dark": "src\\library\\svgl\\whop\\whop-dark.svg"
+    },
+    "checked": false,
+    "title": "Whop",
+    "url": "https://whop.com/",
+    "icon": "WhopIcon"
+  },
+  {
+    "id": 51,
+    "path": { "light": "src\\library\\svgl\\postman\\postman-light.svg" },
+    "checked": false,
+    "title": "Postman",
+    "url": "https://www.getpostman.com/",
+    "icon": "PostmanIcon"
+  },
+  {
+    "id": 52,
+    "path": { "light": "src\\library\\svgl\\discord.js\\discord.js-light.svg" },
+    "checked": false,
+    "title": "Discord.js",
+    "url": "https://discord.js.org/",
+    "icon": "DiscordJsIcon"
+  },
+  {
+    "id": 53,
+    "path": { "light": "src\\library\\svgl\\opensea\\opensea-light.svg" },
+    "checked": false,
+    "title": "OpenSea",
+    "url": "https://opensea.io/",
+    "icon": "OpenSeaIcon"
+  },
+  {
+    "id": 54,
+    "path": { "light": "src\\library\\svgl\\algolia\\algolia-light.svg" },
+    "checked": false,
+    "title": "Algolia",
+    "url": "https://www.algolia.com/",
+    "icon": "AlgoliaIcon"
+  },
+  {
+    "id": 55,
+    "path": { "light": "src\\library\\svgl\\bootstrap\\bootstrap-light.svg" },
+    "checked": false,
+    "title": "Bootstrap",
+    "url": "https://getbootstrap.com/",
+    "icon": "BootstrapIcon"
+  },
+  {
+    "id": 56,
+    "path": { "light": "src\\library\\svgl\\facebook\\facebook-light.svg" },
+    "checked": false,
+    "title": "Facebook",
+    "url": "https://www.facebook.com",
+    "icon": "FacebookIcon"
+  },
+  {
+    "id": 57,
+    "path": { "light": "src\\library\\svgl\\twitter\\twitter-light.svg" },
+    "checked": false,
+    "title": "Twitter",
+    "url": "https://twitter.com/",
+    "icon": "TwitterIcon"
+  },
+  {
+    "id": 58,
+    "path": { "light": "src\\library\\svgl\\esbuild\\esbuild-light.svg" },
+    "checked": false,
+    "title": "Esbuild",
+    "url": "https://esbuild.github.io/",
+    "icon": "EsbuildIcon"
+  },
+  {
+    "id": 59,
+    "path": {
+      "light": "src\\library\\svgl\\deno\\deno-light.svg",
+      "dark": "src\\library\\svgl\\deno\\deno-dark.svg"
+    },
+    "checked": false,
+    "title": "Deno",
+    "url": "https://deno.com/",
+    "icon": "DenoIcon"
+  },
+  {
+    "id": 60,
+    "path": { "light": "src\\library\\svgl\\gatsby\\gatsby-light.svg" },
+    "checked": false,
+    "title": "Gatsby",
+    "url": "https://www.gatsbyjs.org/",
+    "icon": "GatsbyIcon"
+  },
+  {
+    "id": 61,
+    "path": { "light": "src\\library\\svgl\\npm\\npm-light.svg" },
+    "checked": false,
+    "title": "NPM",
+    "url": "https://www.npmjs.com/",
+    "icon": "NPMIcon"
+  },
+  {
+    "id": 62,
+    "path": { "light": "src\\library\\svgl\\nuget\\nuget-light.svg" },
+    "checked": false,
+    "title": "Nuget",
+    "url": "https://www.nuget.org/",
+    "icon": "NugetIcon"
+  },
+  {
+    "id": 63,
+    "path": { "light": "src\\library\\svgl\\homebrew\\homebrew-light.svg" },
+    "checked": false,
+    "title": "Homebrew",
+    "url": "https://brew.sh/",
+    "icon": "HomebrewIcon"
+  },
+  {
+    "id": 64,
+    "path": {
+      "light": "src\\library\\svgl\\sublime-text\\sublime-text-light.svg"
+    },
+    "checked": false,
+    "title": "Sublime Text",
+    "url": "https://www.sublimetext.com/",
+    "icon": "SublimeTextIcon"
+  },
+  {
+    "id": 65,
+    "path": {
+      "light": "src\\library\\svgl\\turborepo\\turborepo-light.svg",
+      "dark": "src\\library\\svgl\\turborepo\\turborepo-dark.svg"
+    },
+    "checked": false,
+    "title": "Turborepo",
+    "url": "https://turborepo.com",
+    "icon": "TurborepoIcon"
+  },
+  {
+    "id": 66,
+    "path": {
+      "light": "src\\library\\svgl\\tailwind-css\\tailwind-css-light.svg"
+    },
+    "checked": false,
+    "title": "Tailwind CSS",
+    "url": "https://tailwindcss.com/",
+    "icon": "TailwindCSSIcon"
+  },
+  {
+    "id": 67,
+    "path": {
+      "light": "src\\library\\svgl\\wakatime\\wakatime-light.svg",
+      "dark": "src\\library\\svgl\\wakatime\\wakatime-dark.svg"
+    },
+    "checked": false,
+    "title": "WakaTime",
+    "url": "https://wakatime.com",
+    "icon": "WakaTimeIcon"
+  },
+  {
+    "id": 68,
+    "path": {
+      "light": "src\\library\\svgl\\styled-components\\styled-components-light.svg"
+    },
+    "checked": false,
+    "title": "Styled Components",
+    "url": "https://styled-components.com/",
+    "icon": "StyledComponentsIcon"
+  },
+  {
+    "id": 69,
+    "path": { "light": "src\\library\\svgl\\angular\\angular-light.svg" },
+    "checked": false,
+    "title": "Angular",
+    "url": "https://angular.dev/",
+    "icon": "AngularIcon"
+  },
+  {
+    "id": 70,
+    "path": { "light": "src\\library\\svgl\\blitz\\blitz-light.svg" },
+    "checked": false,
+    "title": "Blitz",
+    "url": "https://blitzjs.com/",
+    "icon": "BlitzIcon"
+  },
+  {
+    "id": 71,
+    "path": { "light": "src\\library\\svgl\\lit\\lit-light.svg" },
+    "checked": false,
+    "title": "Lit",
+    "url": "https://lit.dev/",
+    "icon": "LitIcon"
+  },
+  {
+    "id": 72,
+    "path": { "light": "src\\library\\svgl\\atom\\atom-light.svg" },
+    "checked": false,
+    "title": "Atom",
+    "url": "https://atom.io/",
+    "icon": "AtomIcon"
+  },
+  {
+    "id": 73,
+    "path": { "light": "src\\library\\svgl\\youtube\\youtube-light.svg" },
+    "checked": false,
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "icon": "YouTubeIcon"
+  },
+  {
+    "id": 74,
+    "path": {
+      "light": "src\\library\\svgl\\astro\\astro-light.svg",
+      "dark": "src\\library\\svgl\\astro\\astro-dark.svg"
+    },
+    "checked": false,
+    "title": "Astro",
+    "url": "https://astro.build",
+    "icon": "AstroIcon"
+  },
+  {
+    "id": 75,
+    "path": { "light": "src\\library\\svgl\\google\\google-light.svg" },
+    "checked": false,
+    "title": "Google",
+    "url": "https://www.google.com/",
+    "icon": "GoogleIcon"
+  },
+  {
+    "id": 76,
+    "path": {
+      "light": "src\\library\\svgl\\framer\\framer-light.svg",
+      "dark": "src\\library\\svgl\\framer\\framer-dark.svg"
+    },
+    "checked": false,
+    "title": "Framer",
+    "url": "https://framer.com/",
+    "icon": "FramerIcon"
+  },
+  {
+    "id": 77,
+    "path": { "light": "src\\library\\svgl\\netflix\\netflix-light.svg" },
+    "checked": false,
+    "title": "Netflix",
+    "url": "https://www.netflix.com/",
+    "icon": "NetflixIcon"
+  },
+  {
+    "id": 78,
+    "path": { "light": "src\\library\\svgl\\firefox\\firefox-light.svg" },
+    "checked": false,
+    "title": "Firefox",
+    "url": "https://www.mozilla.org/en-US/firefox/",
+    "icon": "FirefoxIcon"
+  },
+  {
+    "id": 79,
+    "path": { "light": "src\\library\\svgl\\linkedin\\linkedin-light.svg" },
+    "checked": false,
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/",
+    "icon": "LinkedInIcon"
+  },
+  {
+    "id": 80,
+    "path": { "light": "src\\library\\svgl\\telegram\\telegram-light.svg" },
+    "checked": false,
+    "title": "Telegram",
+    "url": "https://web.telegram.org/",
+    "icon": "TelegramIcon"
+  },
+  {
+    "id": 81,
+    "path": {
+      "light": "src\\library\\svgl\\matrix\\matrix-light.svg",
+      "dark": "src\\library\\svgl\\matrix\\matrix-dark.svg"
+    },
+    "checked": false,
+    "title": "Matrix",
+    "url": "https://matrix.org/",
+    "icon": "MatrixIcon"
+  },
+  {
+    "id": 82,
+    "path": { "light": "src\\library\\svgl\\whatsapp\\whatsapp-light.svg" },
+    "checked": false,
+    "title": "WhatsApp",
+    "url": "https://web.whatsapp.com/",
+    "icon": "WhatsAppIcon"
+  },
+  {
+    "id": 83,
+    "path": {
+      "light": "src\\library\\svgl\\headless-ui\\headless-ui-light.svg"
+    },
+    "checked": false,
+    "title": "Headless UI",
+    "url": "https://headlessui.dev/",
+    "icon": "HeadlessUIIcon"
+  },
+  {
+    "id": 84,
+    "path": { "light": "src\\library\\svgl\\kotlin\\kotlin-light.svg" },
+    "checked": false,
+    "title": "Kotlin",
+    "url": "https://kotlinlang.org/",
+    "icon": "KotlinIcon"
+  },
+  {
+    "id": 85,
+    "path": { "light": "src\\library\\svgl\\storybook\\storybook-light.svg" },
+    "checked": false,
+    "title": "Storybook",
+    "url": "https://storybook.js.org/",
+    "icon": "StorybookIcon"
+  },
+  {
+    "id": 86,
+    "path": { "light": "src\\library\\svgl\\netlify\\netlify-light.svg" },
+    "checked": false,
+    "title": "Netlify",
+    "url": "https://www.netlify.com/",
+    "icon": "NetlifyIcon"
+  },
+  {
+    "id": 87,
+    "path": { "light": "src\\library\\svgl\\solidjs\\solidjs-light.svg" },
+    "checked": false,
+    "title": "Solidjs",
+    "url": "https://www.solidjs.com/",
+    "icon": "SolidjsIcon"
+  },
+  {
+    "id": 88,
+    "path": { "light": "src\\library\\svgl\\mongodb\\mongodb-light.svg" },
+    "checked": false,
+    "title": "MongoDB",
+    "url": "https://www.mongodb.com/",
+    "icon": "MongoDBIcon"
+  },
+  {
+    "id": 89,
+    "path": { "light": "src\\library\\svgl\\moon\\moon-light.svg" },
+    "checked": false,
+    "title": "Moon",
+    "url": "https://moonjs.org/",
+    "icon": "MoonIcon"
+  },
+  {
+    "id": 90,
+    "path": {
+      "light": "src\\library\\svgl\\payload-cms\\payload-cms-light.svg",
+      "dark": "src\\library\\svgl\\payload-cms\\payload-cms-dark.svg"
+    },
+    "checked": false,
+    "title": "Payload CMS",
+    "url": "https://payloadcms.com",
+    "icon": "PayloadCMSIcon"
+  },
+  {
+    "id": 91,
+    "path": { "light": "src\\library\\svgl\\fly\\fly-light.svg" },
+    "checked": false,
+    "title": "Fly",
+    "url": "https://fly.io",
+    "icon": "FlyIcon"
+  },
+  {
+    "id": 92,
+    "path": { "light": "src\\library\\svgl\\learnthis\\learnthis-light.svg" },
+    "checked": false,
+    "title": "LearnThis",
+    "url": "https://learnthisacademy.com",
+    "icon": "LearnThisIcon"
+  },
+  {
+    "id": 93,
+    "path": {
+      "light": "src\\library\\svgl\\visual-studio\\visual-studio-light.svg"
+    },
+    "checked": false,
+    "title": "Visual Studio",
+    "url": "https://visualstudio.microsoft.com",
+    "icon": "VisualStudioIcon"
+  },
+  {
+    "id": 94,
+    "path": { "light": "src\\library\\svgl\\chakra-ui\\chakra-ui-light.svg" },
+    "checked": false,
+    "title": "Chakra UI",
+    "url": "https://chakra-ui.com",
+    "icon": "ChakraUIIcon"
+  },
+  {
+    "id": 95,
+    "path": {
+      "light": "src\\library\\svgl\\express.js\\express.js-light.svg",
+      "dark": "src\\library\\svgl\\express.js\\express.js-dark.svg"
+    },
+    "checked": false,
+    "title": "Express.js",
+    "url": "https://expressjs.com",
+    "icon": "ExpressJsIcon"
+  },
+  {
+    "id": 96,
+    "path": {
+      "light": "src\\library\\svgl\\fastify\\fastify-light.svg",
+      "dark": "src\\library\\svgl\\fastify\\fastify-dark.svg"
+    },
+    "checked": false,
+    "title": "Fastify",
+    "url": "https://www.fastify.io",
+    "icon": "FastifyIcon"
+  },
+  {
+    "id": 97,
+    "path": { "light": "src\\library\\svgl\\javascript\\javascript-light.svg" },
+    "checked": false,
+    "title": "JavaScript",
+    "url": "https://developer.mozilla.org/docs/Web/JavaScript",
+    "icon": "JavaScriptIcon"
+  },
+  {
+    "id": 98,
+    "path": {
+      "light": "src\\library\\svgl\\jquery\\jquery-light.svg",
+      "dark": "src\\library\\svgl\\jquery\\jquery-dark.svg"
+    },
+    "checked": false,
+    "title": "jQuery",
+    "url": "https://jquery.com",
+    "icon": "JQueryIcon"
+  },
+  {
+    "id": 99,
+    "path": { "light": "src\\library\\svgl\\rapid-api\\rapid-api-light.svg" },
+    "checked": false,
+    "title": "Rapid API",
+    "url": "https://rapidapi.com",
+    "icon": "RapidAPIIcon"
+  },
+  {
+    "id": 100,
+    "path": { "light": "src\\library\\svgl\\typescript\\typescript-light.svg" },
+    "checked": false,
+    "title": "TypeScript",
+    "url": "https://www.typescriptlang.org",
+    "icon": "TypeScriptIcon"
+  },
+  {
+    "id": 101,
+    "path": { "light": "src\\library\\svgl\\bun\\bun-light.svg" },
+    "checked": false,
+    "title": "Bun",
+    "url": "https://bun.sh",
+    "icon": "BunIcon"
+  },
+  {
+    "id": 102,
+    "path": { "light": "src\\library\\svgl\\buildship\\buildship-light.svg" },
+    "checked": false,
+    "title": "BuildShip",
+    "url": "https://buildship.com/",
+    "icon": "BuildShipIcon"
+  },
+  {
+    "id": 103,
+    "path": { "light": "src\\library\\svgl\\twilio\\twilio-light.svg" },
+    "checked": false,
+    "title": "Twilio",
+    "url": "https://twilio.com",
+    "icon": "TwilioIcon"
+  },
+  {
+    "id": 104,
+    "path": {
+      "light": "src\\library\\svgl\\arc\\arc-light.svg",
+      "dark": "src\\library\\svgl\\arc\\arc-dark.svg"
+    },
+    "checked": false,
+    "title": "Arc",
+    "url": "https://arc.net/",
+    "icon": "ArcIcon"
+  },
+  {
+    "id": 106,
+    "path": { "light": "src\\library\\svgl\\qwik\\qwik-light.svg" },
+    "checked": false,
+    "title": "Qwik",
+    "url": "https://qwik.builder.io/",
+    "icon": "QwikIcon"
+  },
+  {
+    "id": 107,
+    "path": { "light": "src\\library\\svgl\\coinbase\\coinbase-light.svg" },
+    "checked": false,
+    "title": "Coinbase",
+    "url": "https://www.coinbase.com/",
+    "icon": "CoinbaseIcon"
+  },
+  {
+    "id": 108,
+    "path": { "light": "src\\library\\svgl\\authy\\authy-light.svg" },
+    "checked": false,
+    "title": "Authy",
+    "url": "https://authy.com/",
+    "icon": "AuthyIcon"
+  },
+  {
+    "id": 109,
+    "path": { "light": "src\\library\\svgl\\nestjs\\nestjs-light.svg" },
+    "checked": false,
+    "title": "NestJS",
+    "url": "https://nestjs.com/",
+    "icon": "NestJSIcon"
+  },
+  {
+    "id": 110,
+    "path": {
+      "light": "src\\library\\svgl\\github-copilot\\github-copilot-light.svg",
+      "dark": "src\\library\\svgl\\github-copilot\\github-copilot-dark.svg"
+    },
+    "checked": false,
+    "title": "GitHub Copilot",
+    "url": "https://github.com/features/copilot",
+    "icon": "GitHubCopilotIcon"
+  },
+  {
+    "id": 111,
+    "path": {
+      "light": "src\\library\\svgl\\railway\\railway-light.svg",
+      "dark": "src\\library\\svgl\\railway\\railway-dark.svg"
+    },
+    "checked": false,
+    "title": "Railway",
+    "url": "https://railway.app/",
+    "icon": "RailwayIcon"
+  },
+  {
+    "id": 112,
+    "path": { "light": "src\\library\\svgl\\docusaurus\\docusaurus-light.svg" },
+    "checked": false,
+    "title": "Docusaurus",
+    "url": "https://docusaurus.io/",
+    "icon": "DocusaurusIcon"
+  },
+  {
+    "id": 113,
+    "path": { "light": "src\\library\\svgl\\twitch\\twitch-light.svg" },
+    "checked": false,
+    "title": "Twitch",
+    "url": "https://twitch.tv",
+    "icon": "TwitchIcon"
+  },
+  {
+    "id": 114,
+    "path": {
+      "light": "src\\library\\svgl\\godaddy\\godaddy-light.svg",
+      "dark": "src\\library\\svgl\\godaddy\\godaddy-dark.svg"
+    },
+    "checked": false,
+    "title": "GoDaddy",
+    "url": "https://www.godaddy.com/",
+    "icon": "GoDaddyIcon"
+  },
+  {
+    "id": 115,
+    "path": {
+      "light": "src\\library\\svgl\\udemy\\udemy-light.svg",
+      "dark": "src\\library\\svgl\\udemy\\udemy-dark.svg"
+    },
+    "checked": false,
+    "title": "Udemy",
+    "url": "https://www.udemy.com/",
+    "icon": "UdemyIcon"
+  },
+  {
+    "id": 116,
+    "path": { "light": "src\\library\\svgl\\graphql\\graphql-light.svg" },
+    "checked": false,
+    "title": "GraphQL",
+    "url": "https://graphql.org/",
+    "icon": "GraphQLIcon"
+  },
+  {
+    "id": 117,
+    "path": {
+      "light": "src\\library\\svgl\\grok\\grok-light.svg",
+      "dark": "src\\library\\svgl\\grok\\grok-dark.svg"
+    },
+    "checked": false,
+    "title": "Grok",
+    "url": "https://grok.com/",
+    "icon": "GrokIcon"
+  },
+  {
+    "id": 118,
+    "path": { "light": "src\\library\\svgl\\gitlab\\gitlab-light.svg" },
+    "checked": false,
+    "title": "GitLab",
+    "url": "https://gitlab.com/",
+    "icon": "GitLabIcon"
+  },
+  {
+    "id": 119,
+    "path": {
+      "light": "src\\library\\svgl\\prisma\\prisma-light.svg",
+      "dark": "src\\library\\svgl\\prisma\\prisma-dark.svg"
+    },
+    "checked": false,
+    "title": "Prisma",
+    "url": "https://prisma.io/",
+    "icon": "PrismaIcon"
+  },
+  {
+    "id": 120,
+    "path": {
+      "light": "src\\library\\svgl\\go\\go-light.svg",
+      "dark": "src\\library\\svgl\\go\\go-dark.svg"
+    },
+    "checked": false,
+    "title": "Go",
+    "url": "https://go.dev/",
+    "icon": "GoIcon"
+  },
+  {
+    "id": 121,
+    "path": { "light": "src\\library\\svgl\\platzi\\platzi-light.svg" },
+    "checked": false,
+    "title": "Platzi",
+    "url": "https://platzi.com/",
+    "icon": "PlatziIcon"
+  },
+  {
+    "id": 122,
+    "path": { "light": "src\\library\\svgl\\coursera\\coursera-light.svg" },
+    "checked": false,
+    "title": "Coursera",
+    "url": "https://www.coursera.org/",
+    "icon": "CourseraIcon"
+  },
+  {
+    "id": 123,
+    "path": { "light": "src\\library\\svgl\\udacity\\udacity-light.svg" },
+    "checked": false,
+    "title": "Udacity",
+    "url": "https://www.udacity.com/",
+    "icon": "UdacityIcon"
+  },
+  {
+    "id": 124,
+    "path": { "light": "src\\library\\svgl\\kubernetes\\kubernetes-light.svg" },
+    "checked": false,
+    "title": "Kubernetes",
+    "url": "https://kubernetes.io/",
+    "icon": "KubernetesIcon"
+  },
+  {
+    "id": 125,
+    "path": { "light": "src\\library\\svgl\\docker\\docker-light.svg" },
+    "checked": false,
+    "title": "Docker",
+    "url": "https://www.docker.com/",
+    "icon": "DockerIcon"
+  },
+  {
+    "id": 126,
+    "path": {
+      "light": "src\\library\\svgl\\amazon-web-services\\amazon-web-services-light.svg",
+      "dark": "src\\library\\svgl\\amazon-web-services\\amazon-web-services-dark.svg"
+    },
+    "checked": false,
+    "title": "Amazon Web Services",
+    "url": "https://aws.amazon.com/",
+    "icon": "AmazonWebServicesIcon"
+  },
+  {
+    "id": 127,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-azure\\microsoft-azure-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Azure",
+    "url": "https://azure.microsoft.com/",
+    "icon": "MicrosoftAzureIcon"
+  },
+  {
+    "id": 128,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-access\\microsoft-access-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Access",
+    "url": "https://www.microsoft.com/microsoft-365/access",
+    "icon": "MicrosoftAccessIcon"
+  },
+  {
+    "id": 129,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-clipchamp\\microsoft-clipchamp-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Clipchamp",
+    "url": "https://clipchamp.com/",
+    "icon": "MicrosoftClipchampIcon"
+  },
+  {
+    "id": 130,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-copilot\\microsoft-copilot-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Copilot",
+    "url": "https://copilot.microsoft.com/",
+    "icon": "MicrosoftCopilotIcon"
+  },
+  {
+    "id": 131,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-defender\\microsoft-defender-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Defender",
+    "url": "https://www.microsoft.com/microsoft-365/microsoft-defender-for-individuals",
+    "icon": "MicrosoftDefenderIcon"
+  },
+  {
+    "id": 132,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-designer\\microsoft-designer-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Designer",
+    "url": "https://designer.microsoft.com/",
+    "icon": "MicrosoftDesignerIcon"
+  },
+  {
+    "id": 133,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-editor\\microsoft-editor-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Editor",
+    "url": "https://www.microsoft.com/microsoft-365/microsoft-editor",
+    "icon": "MicrosoftEditorIcon"
+  },
+  {
+    "id": 134,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-excel\\microsoft-excel-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Excel",
+    "url": "https://www.microsoft.com/microsoft-365/excel",
+    "icon": "MicrosoftExcelIcon"
+  },
+  {
+    "id": 135,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-onedrive\\microsoft-onedrive-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft OneDrive",
+    "url": "https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage",
+    "icon": "MicrosoftOneDriveIcon"
+  },
+  {
+    "id": 136,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-onenote\\microsoft-onenote-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft OneNote",
+    "url": "https://www.microsoft.com/microsoft-365/onenote/digital-note-taking-app",
+    "icon": "MicrosoftOneNoteIcon"
+  },
+  {
+    "id": 137,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-powerpoint\\microsoft-powerpoint-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft PowerPoint",
+    "url": "https://www.microsoft.com/microsoft-365/powerpoint",
+    "icon": "MicrosoftPowerPointIcon"
+  },
+  {
+    "id": 138,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-sharepoint\\microsoft-sharepoint-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft SharePoint",
+    "url": "https://www.microsoft.com/microsoft-365/sharepoint/collaboration-software",
+    "icon": "MicrosoftSharePointIcon"
+  },
+  {
+    "id": 139,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-teams\\microsoft-teams-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Teams",
+    "url": "https://www.microsoft.com/microsoft-teams/group-chat-software",
+    "icon": "MicrosoftTeamsIcon"
+  },
+  {
+    "id": 140,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-word\\microsoft-word-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Word",
+    "url": "https://www.microsoft.com/microsoft-365/word",
+    "icon": "MicrosoftWordIcon"
+  },
+  {
+    "id": 141,
+    "path": { "light": "src\\library\\svgl\\heroku\\heroku-light.svg" },
+    "checked": false,
+    "title": "Heroku",
+    "url": "https://www.heroku.com/",
+    "icon": "HerokuIcon"
+  },
+  {
+    "id": 142,
+    "path": { "light": "src\\library\\svgl\\jetbrains\\jetbrains-light.svg" },
+    "checked": false,
+    "title": "JetBrains",
+    "url": "https://www.jetbrains.com/",
+    "icon": "JetBrainsIcon"
+  },
+  {
+    "id": 143,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-rider\\jetbrains-rider-light.svg"
+    },
+    "checked": false,
+    "title": "JetBrains Rider",
+    "url": "https://www.jetbrains.com/rider/",
+    "icon": "JetBrainsRiderIcon"
+  },
+  {
+    "id": 144,
+    "path": {
+      "light": "src\\library\\svgl\\planetscale\\planetscale-light.svg",
+      "dark": "src\\library\\svgl\\planetscale\\planetscale-dark.svg"
+    },
+    "checked": false,
+    "title": "PlanetScale",
+    "url": "https://planetscale.com/",
+    "icon": "PlanetScaleIcon"
+  },
+  {
+    "id": 145,
+    "path": { "light": "src\\library\\svgl\\playwright\\playwright-light.svg" },
+    "checked": false,
+    "title": "Playwright",
+    "url": "https://playwright.dev/",
+    "icon": "PlaywrightIcon"
+  },
+  {
+    "id": 146,
+    "path": { "light": "src\\library\\svgl\\atlassian\\atlassian-light.svg" },
+    "checked": false,
+    "title": "Atlassian",
+    "url": "https://www.atlassian.com/",
+    "icon": "AtlassianIcon"
+  },
+  {
+    "id": 147,
+    "path": { "light": "src\\library\\svgl\\discourse\\discourse-light.svg" },
+    "checked": false,
+    "title": "Discourse",
+    "url": "https://discourse.org/",
+    "icon": "DiscourseIcon"
+  },
+  {
+    "id": 148,
+    "path": { "light": "src\\library\\svgl\\ember\\ember-light.svg" },
+    "checked": false,
+    "title": "Ember",
+    "url": "https://emberjs.com/",
+    "icon": "EmberIcon"
+  },
+  {
+    "id": 149,
+    "path": { "light": "src\\library\\svgl\\expo\\expo-light.svg" },
+    "checked": false,
+    "title": "Expo",
+    "url": "https://expo.dev/",
+    "icon": "ExpoIcon"
+  },
+  {
+    "id": 150,
+    "path": { "light": "src\\library\\svgl\\flutter\\flutter-light.svg" },
+    "checked": false,
+    "title": "Flutter",
+    "url": "https://flutter.dev/",
+    "icon": "FlutterIcon"
+  },
+  {
+    "id": 151,
+    "path": { "light": "src\\library\\svgl\\auth0\\auth0-light.svg" },
+    "checked": false,
+    "title": "Auth0",
+    "url": "https://auth0.com/",
+    "icon": "Auth0Icon"
+  },
+  {
+    "id": 152,
+    "path": { "light": "src\\library\\svgl\\auth.js\\auth.js-light.svg" },
+    "checked": false,
+    "title": "Auth.js",
+    "url": "https://authjs.dev",
+    "icon": "AuthJsIcon"
+  },
+  {
+    "id": 153,
+    "path": { "light": "src\\library\\svgl\\fresh\\fresh-light.svg" },
+    "checked": false,
+    "title": "Fresh",
+    "url": "https://fresh.deno.dev/",
+    "icon": "FreshIcon"
+  },
+  {
+    "id": 154,
+    "path": { "light": "src\\library\\svgl\\git\\git-light.svg" },
+    "checked": false,
+    "title": "Git",
+    "url": "https://git-scm.com/",
+    "icon": "GitIcon"
+  },
+  {
+    "id": 155,
+    "path": { "light": "src\\library\\svgl\\hostgator\\hostgator-light.svg" },
+    "checked": false,
+    "title": "Hostgator",
+    "url": "https://www.hostgator.com/",
+    "icon": "HostgatorIcon"
+  },
+  {
+    "id": 156,
+    "path": {
+      "light": "src\\library\\svgl\\intellij-idea\\intellij-idea-light.svg"
+    },
+    "checked": false,
+    "title": "IntelliJ IDEA",
+    "url": "https://www.jetbrains.com/idea/",
+    "icon": "IntelliJIDEAIcon"
+  },
+  {
+    "id": 157,
+    "path": { "light": "src\\library\\svgl\\jasmine\\jasmine-light.svg" },
+    "checked": false,
+    "title": "Jasmine",
+    "url": "https://jasmine.github.io/",
+    "icon": "JasmineIcon"
+  },
+  {
+    "id": 158,
+    "path": { "light": "src\\library\\svgl\\java\\java-light.svg" },
+    "checked": false,
+    "title": "Java",
+    "url": "https://www.java.com/",
+    "icon": "JavaIcon"
+  },
+  {
+    "id": 159,
+    "path": { "light": "src\\library\\svgl\\jest\\jest-light.svg" },
+    "checked": false,
+    "title": "Jest",
+    "url": "https://jestjs.io/",
+    "icon": "JestIcon"
+  },
+  {
+    "id": 161,
+    "path": { "light": "src\\library\\svgl\\krakenjs\\krakenjs-light.svg" },
+    "checked": false,
+    "title": "KrakenJS",
+    "url": "https://krakenjs.com/",
+    "icon": "KrakenJSIcon"
+  },
+  {
+    "id": 162,
+    "path": { "light": "src\\library\\svgl\\laravel\\laravel-light.svg" },
+    "checked": false,
+    "title": "Laravel",
+    "url": "https://laravel.com/",
+    "icon": "LaravelIcon"
+  },
+  {
+    "id": 163,
+    "path": { "light": "src\\library\\svgl\\mariadb\\mariadb-light.svg" },
+    "checked": false,
+    "title": "MariaDB",
+    "url": "https://mariadb.org/",
+    "icon": "MariaDBIcon"
+  },
+  {
+    "id": 164,
+    "path": {
+      "light": "src\\library\\svgl\\material-ui\\material-ui-light.svg"
+    },
+    "checked": false,
+    "title": "Material UI",
+    "url": "https://mui.com/",
+    "icon": "MaterialUIIcon"
+  },
+  {
+    "id": 165,
+    "path": {
+      "light": "src\\library\\svgl\\mysql\\mysql-light.svg",
+      "dark": "src\\library\\svgl\\mysql\\mysql-dark.svg"
+    },
+    "checked": false,
+    "title": "MySQL",
+    "url": "https://www.mysql.com",
+    "icon": "MySQLIcon"
+  },
+  {
+    "id": 166,
+    "path": { "light": "src\\library\\svgl\\parcel\\parcel-light.svg" },
+    "checked": false,
+    "title": "Parcel",
+    "url": "https://parceljs.org/",
+    "icon": "ParcelIcon"
+  },
+  {
+    "id": 167,
+    "path": { "light": "src\\library\\svgl\\pm2\\pm2-light.svg" },
+    "checked": false,
+    "title": "PM2",
+    "url": "https://pm2.io/",
+    "icon": "PM2Icon"
+  },
+  {
+    "id": 168,
+    "path": { "light": "src\\library\\svgl\\postgresql\\postgresql-light.svg" },
+    "checked": false,
+    "title": "PostgreSQL",
+    "url": "https://www.postgresql.org/",
+    "icon": "PostgreSQLIcon"
+  },
+  {
+    "id": 169,
+    "path": {
+      "light": "src\\library\\svgl\\react-query\\react-query-light.svg"
+    },
+    "checked": false,
+    "title": "React Query",
+    "url": "https://tanstack.com/query/v4",
+    "icon": "ReactQueryIcon"
+  },
+  {
+    "id": 170,
+    "path": {
+      "light": "src\\library\\svgl\\devto\\devto-light.svg",
+      "dark": "src\\library\\svgl\\devto\\devto-dark.svg"
+    },
+    "checked": false,
+    "title": "Devto",
+    "url": "https://dev.to/",
+    "icon": "DevtoIcon"
+  },
+  {
+    "id": 171,
+    "path": { "light": "src\\library\\svgl\\redis\\redis-light.svg" },
+    "checked": false,
+    "title": "Redis",
+    "url": "https://redis.io/",
+    "icon": "RedisIcon"
+  },
+  {
+    "id": 172,
+    "path": { "light": "src\\library\\svgl\\redwoodjs\\redwoodjs-light.svg" },
+    "checked": false,
+    "title": "RedwoodJS",
+    "url": "https://redwoodjs.com/",
+    "icon": "RedwoodJSIcon"
+  },
+  {
+    "id": 173,
+    "path": { "light": "src\\library\\svgl\\ruby\\ruby-light.svg" },
+    "checked": false,
+    "title": "Ruby",
+    "url": "https://www.ruby-lang.org/",
+    "icon": "RubyIcon"
+  },
+  {
+    "id": 174,
+    "path": { "light": "src\\library\\svgl\\scala\\scala-light.svg" },
+    "checked": false,
+    "title": "Scala",
+    "url": "https://www.scala-lang.org/",
+    "icon": "ScalaIcon"
+  },
+  {
+    "id": 175,
+    "path": { "light": "src\\library\\svgl\\sequelize\\sequelize-light.svg" },
+    "checked": false,
+    "title": "Sequelize",
+    "url": "https://sequelize.org/",
+    "icon": "SequelizeIcon"
+  },
+  {
+    "id": 176,
+    "path": { "light": "src\\library\\svgl\\spinnaker\\spinnaker-light.svg" },
+    "checked": false,
+    "title": "Spinnaker",
+    "url": "https://spinnaker.io/",
+    "icon": "SpinnakerIcon"
+  },
+  {
+    "id": 177,
+    "path": { "light": "src\\library\\svgl\\sqlite\\sqlite-light.svg" },
+    "checked": false,
+    "title": "SQLite",
+    "url": "https://www.sqlite.org/",
+    "icon": "SQLiteIcon"
+  },
+  {
+    "id": 178,
+    "path": { "light": "src\\library\\svgl\\swagger\\swagger-light.svg" },
+    "checked": false,
+    "title": "Swagger",
+    "url": "https://swagger.io/",
+    "icon": "SwaggerIcon"
+  },
+  {
+    "id": 179,
+    "path": { "light": "src\\library\\svgl\\swift\\swift-light.svg" },
+    "checked": false,
+    "title": "Swift",
+    "url": "https://swift.org/",
+    "icon": "SwiftIcon"
+  },
+  {
+    "id": 180,
+    "path": { "light": "src\\library\\svgl\\typeorm\\typeorm-light.svg" },
+    "checked": false,
+    "title": "TypeORM",
+    "url": "https://typeorm.io/",
+    "icon": "TypeORMIcon"
+  },
+  {
+    "id": 181,
+    "path": {
+      "light": "src\\library\\svgl\\unity\\unity-light.svg",
+      "dark": "src\\library\\svgl\\unity\\unity-dark.svg"
+    },
+    "checked": false,
+    "title": "Unity",
+    "url": "https://unity.com/",
+    "icon": "UnityIcon"
+  },
+  {
+    "id": 182,
+    "path": { "light": "src\\library\\svgl\\vim\\vim-light.svg" },
+    "checked": false,
+    "title": "Vim",
+    "url": "https://www.vim.org/",
+    "icon": "VimIcon"
+  },
+  {
+    "id": 183,
+    "path": { "light": "src\\library\\svgl\\pocketbase\\pocketbase-light.svg" },
+    "checked": false,
+    "title": "Pocketbase",
+    "url": "https://pocketbase.io/",
+    "icon": "PocketbaseIcon"
+  },
+  {
+    "id": 184,
+    "path": {
+      "light": "src\\library\\svgl\\openbootcamp\\openbootcamp-light.svg"
+    },
+    "checked": false,
+    "title": "OpenBootcamp",
+    "url": "https://open-bootcamp.com/",
+    "icon": "OpenBootcampIcon"
+  },
+  {
+    "id": 185,
+    "path": {
+      "light": "src\\library\\svgl\\digital-ocean\\digital-ocean-light.svg"
+    },
+    "checked": false,
+    "title": "Digital Ocean",
+    "url": "https://www.digitalocean.com/",
+    "icon": "DigitalOceanIcon"
+  },
+  {
+    "id": 186,
+    "path": { "light": "src\\library\\svgl\\disney+\\disney+-light.svg" },
+    "checked": false,
+    "title": "Disney+",
+    "url": "https://www.disneyplus.com/",
+    "icon": "DisneyIcon"
+  },
+  {
+    "id": 187,
+    "path": {
+      "light": "src\\library\\svgl\\react-router\\react-router-light.svg"
+    },
+    "checked": false,
+    "title": "React Router",
+    "url": "https://reactrouter.com/en/main",
+    "icon": "ReactRouterIcon"
+  },
+  {
+    "id": 188,
+    "path": { "light": "src\\library\\svgl\\amp\\amp-light.svg" },
+    "checked": false,
+    "title": "AMP",
+    "url": "https://amp.dev/",
+    "icon": "AMPIcon"
+  },
+  {
+    "id": 189,
+    "path": {
+      "light": "src\\library\\svgl\\developer-student-club\\developer-student-club-light.svg"
+    },
+    "checked": false,
+    "title": "Developer Student Club",
+    "url": "https://gdsc.community.dev/",
+    "icon": "DeveloperStudentClubIcon"
+  },
+  {
+    "id": 190,
+    "path": {
+      "light": "src\\library\\svgl\\brave-browser\\brave-browser-light.svg"
+    },
+    "checked": false,
+    "title": "Brave Browser",
+    "url": "https://brave.com/",
+    "icon": "BraveBrowserIcon"
+  },
+  {
+    "id": 191,
+    "path": {
+      "light": "src\\library\\svgl\\eclipse-ide\\eclipse-ide-light.svg"
+    },
+    "checked": false,
+    "title": "Eclipse IDE",
+    "url": "https://www.eclipse.org/",
+    "icon": "EclipseIDEIcon"
+  },
+  {
+    "id": 192,
+    "path": {
+      "light": "src\\library\\svgl\\three.js\\three.js-light.svg",
+      "dark": "src\\library\\svgl\\three.js\\three.js-dark.svg"
+    },
+    "checked": false,
+    "title": "Three.js",
+    "url": "https://threejs.org/",
+    "icon": "ThreeJsIcon"
+  },
+  {
+    "id": 193,
+    "path": { "light": "src\\library\\svgl\\html5\\html5-light.svg" },
+    "checked": false,
+    "title": "HTML5",
+    "url": "https://es.wikipedia.org/wiki/HTML5",
+    "icon": "HTML5Icon"
+  },
+  {
+    "id": 194,
+    "path": { "light": "src\\library\\svgl\\css-(new)\\css-(new)-light.svg" },
+    "checked": false,
+    "title": "CSS (New)",
+    "url": "https://es.wikipedia.org/wiki/CSS",
+    "icon": "CSSNewIcon"
+  },
+  {
+    "id": 195,
+    "path": { "light": "src\\library\\svgl\\css\\css-light.svg" },
+    "checked": false,
+    "title": "CSS",
+    "url": "https://es.wikipedia.org/wiki/CSS",
+    "icon": "CSSIcon"
+  },
+  {
+    "id": 196,
+    "path": { "light": "src\\library\\svgl\\midudev\\midudev-light.svg" },
+    "checked": false,
+    "title": "midudev",
+    "url": "https://midu.dev",
+    "icon": "MidudevIcon"
+  },
+  {
+    "id": 197,
+    "path": {
+      "light": "src\\library\\svgl\\apple\\apple-light.svg",
+      "dark": "src\\library\\svgl\\apple\\apple-dark.svg"
+    },
+    "checked": false,
+    "title": "Apple",
+    "url": "https://www.apple.com",
+    "icon": "AppleIcon"
+  },
+  {
+    "id": 198,
+    "path": { "light": "src\\library\\svgl\\windows\\windows-light.svg" },
+    "checked": false,
+    "title": "Windows",
+    "url": "https://www.microsoft.com/windows",
+    "icon": "WindowsIcon"
+  },
+  {
+    "id": 199,
+    "path": { "light": "src\\library\\svgl\\python\\python-light.svg" },
+    "checked": false,
+    "title": "Python",
+    "url": "https://www.python.org/",
+    "icon": "PythonIcon"
+  },
+  {
+    "id": 200,
+    "path": { "light": "src\\library\\svgl\\solidity\\solidity-light.svg" },
+    "checked": false,
+    "title": "Solidity",
+    "url": "https://soliditylang.org/",
+    "icon": "SolidityIcon"
+  },
+  {
+    "id": 201,
+    "path": {
+      "light": "src\\library\\svgl\\turbopack\\turbopack-light.svg",
+      "dark": "src\\library\\svgl\\turbopack\\turbopack-dark.svg"
+    },
+    "checked": false,
+    "title": "Turbopack",
+    "url": "https://nextjs.org/docs/app/api-reference/turbopack",
+    "icon": "TurbopackIcon"
+  },
+  {
+    "id": 202,
+    "path": { "light": "src\\library\\svgl\\builder\\builder-light.svg" },
+    "checked": false,
+    "title": "Builder",
+    "url": "https://builder.io/",
+    "icon": "BuilderIcon"
+  },
+  {
+    "id": 203,
+    "path": { "light": "src\\library\\svgl\\babel\\babel-light.svg" },
+    "checked": false,
+    "title": "Babel",
+    "url": "https://babeljs.io/",
+    "icon": "BabelIcon"
+  },
+  {
+    "id": 204,
+    "path": { "light": "src\\library\\svgl\\surrealdb\\surrealdb-light.svg" },
+    "checked": false,
+    "title": "Surrealdb",
+    "url": "https://surrealdb.com/",
+    "icon": "SurrealdbIcon"
+  },
+  {
+    "id": 205,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-space\\jetbrains-space-light.svg"
+    },
+    "checked": false,
+    "title": "Jetbrains Space",
+    "url": "https://www.jetbrains.com/space/",
+    "icon": "JetbrainsSpaceIcon"
+  },
+  {
+    "id": 206,
+    "path": { "light": "src\\library\\svgl\\stimulus\\stimulus-light.svg" },
+    "checked": false,
+    "title": "Stimulus",
+    "url": "https://stimulus.hotwired.dev/",
+    "icon": "StimulusIcon"
+  },
+  {
+    "id": 207,
+    "path": { "light": "src\\library\\svgl\\windicss\\windicss-light.svg" },
+    "checked": false,
+    "title": "WindiCSS",
+    "url": "https://windicss.org/",
+    "icon": "WindiCSSIcon"
+  },
+  {
+    "id": 208,
+    "path": { "light": "src\\library\\svgl\\mastodon\\mastodon-light.svg" },
+    "checked": false,
+    "title": "Mastodon",
+    "url": "https://joinmastodon.org/",
+    "icon": "MastodonIcon"
+  },
+  {
+    "id": 209,
+    "path": { "light": "src\\library\\svgl\\upstash\\upstash-light.svg" },
+    "checked": false,
+    "title": "Upstash",
+    "url": "https://upstash.com/",
+    "icon": "UpstashIcon"
+  },
+  {
+    "id": 210,
+    "path": { "light": "src\\library\\svgl\\storyblok\\storyblok-light.svg" },
+    "checked": false,
+    "title": "Storyblok",
+    "url": "https://www.storyblok.com/",
+    "icon": "StoryblokIcon"
+  },
+  {
+    "id": 211,
+    "path": {
+      "light": "src\\library\\svgl\\cloudflare-workers\\cloudflare-workers-light.svg"
+    },
+    "checked": false,
+    "title": "Cloudflare Workers",
+    "url": "https://workers.cloudflare.com/",
+    "icon": "CloudflareWorkersIcon"
+  },
+  {
+    "id": 212,
+    "path": { "light": "src\\library\\svgl\\cloudflare\\cloudflare-light.svg" },
+    "checked": false,
+    "title": "Cloudflare",
+    "url": "https://www.cloudflare.com/",
+    "icon": "CloudflareIcon"
+  },
+  {
+    "id": 213,
+    "path": { "light": "src\\library\\svgl\\bing\\bing-light.svg" },
+    "checked": false,
+    "title": "Bing",
+    "url": "https://www.bing.com/",
+    "icon": "BingIcon"
+  },
+  {
+    "id": 214,
+    "path": { "light": "src\\library\\svgl\\cloudinary\\cloudinary-light.svg" },
+    "checked": false,
+    "title": "Cloudinary",
+    "url": "https://cloudinary.com/",
+    "icon": "CloudinaryIcon"
+  },
+  {
+    "id": 215,
+    "path": { "light": "src\\library\\svgl\\dart\\dart-light.svg" },
+    "checked": false,
+    "title": "Dart",
+    "url": "https://dart.dev/",
+    "icon": "DartIcon"
+  },
+  {
+    "id": 216,
+    "path": { "light": "src\\library\\svgl\\hcaptcha\\hcaptcha-light.svg" },
+    "checked": false,
+    "title": "hCaptcha",
+    "url": "https://www.hcaptcha.com/",
+    "icon": "HCaptchaIcon"
+  },
+  {
+    "id": 217,
+    "path": { "light": "src\\library\\svgl\\appwrite\\appwrite-light.svg" },
+    "checked": false,
+    "title": "Appwrite",
+    "url": "https://appwrite.io/",
+    "icon": "AppwriteIcon"
+  },
+  {
+    "id": 218,
+    "path": { "light": "src\\library\\svgl\\loom\\loom-light.svg" },
+    "checked": false,
+    "title": "Loom",
+    "url": "https://www.loom.com/",
+    "icon": "LoomIcon"
+  },
+  {
+    "id": 219,
+    "path": {
+      "light": "src\\library\\svgl\\hulu\\hulu-light.svg",
+      "dark": "src\\library\\svgl\\hulu\\hulu-dark.svg"
+    },
+    "checked": false,
+    "title": "Hulu",
+    "url": "https://www.hulu.com/",
+    "icon": "HuluIcon"
+  },
+  {
+    "id": 220,
+    "path": { "light": "src\\library\\svgl\\stackblitz\\stackblitz-light.svg" },
+    "checked": false,
+    "title": "Stackblitz",
+    "url": "https://stackblitz.com/",
+    "icon": "StackblitzIcon"
+  },
+  {
+    "id": 221,
+    "path": { "light": "src\\library\\svgl\\binance\\binance-light.svg" },
+    "checked": false,
+    "title": "Binance",
+    "url": "https://binance.com/",
+    "icon": "BinanceIcon"
+  },
+  {
+    "id": 222,
+    "path": { "light": "src\\library\\svgl\\messenger\\messenger-light.svg" },
+    "checked": false,
+    "title": "Messenger",
+    "url": "https://www.messenger.com/",
+    "icon": "MessengerIcon"
+  },
+  {
+    "id": 223,
+    "path": { "light": "src\\library\\svgl\\nhost\\nhost-light.svg" },
+    "checked": false,
+    "title": "NHost",
+    "url": "https://nhost.io/",
+    "icon": "NHostIcon"
+  },
+  {
+    "id": 224,
+    "path": { "light": "src\\library\\svgl\\medusa\\medusa-light.svg" },
+    "checked": false,
+    "title": "Medusa",
+    "url": "https://medusajs.com/",
+    "icon": "MedusaIcon"
+  },
+  {
+    "id": 225,
+    "path": { "light": "src\\library\\svgl\\wordpress\\wordpress-light.svg" },
+    "checked": false,
+    "title": "WordPress",
+    "url": "https://wordpress.org/",
+    "icon": "WordPressIcon"
+  },
+  {
+    "id": 226,
+    "path": { "light": "src\\library\\svgl\\microsoft\\microsoft-light.svg" },
+    "checked": false,
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com/",
+    "icon": "MicrosoftIcon"
+  },
+  {
+    "id": 227,
+    "path": { "light": "src\\library\\svgl\\elementor\\elementor-light.svg" },
+    "checked": false,
+    "title": "Elementor",
+    "url": "https://elementor.com/",
+    "icon": "ElementorIcon"
+  },
+  {
+    "id": 228,
+    "path": {
+      "light": "src\\library\\svgl\\kick\\kick-light.svg",
+      "dark": "src\\library\\svgl\\kick\\kick-dark.svg"
+    },
+    "checked": false,
+    "title": "Kick",
+    "url": "https://kick.com/",
+    "icon": "KickIcon"
+  },
+  {
+    "id": 229,
+    "path": {
+      "light": "src\\library\\svgl\\prime-video\\prime-video-light.svg"
+    },
+    "checked": false,
+    "title": "Prime video",
+    "url": "https://primevideo.com/",
+    "icon": "PrimeVideoIcon"
+  },
+  {
+    "id": 230,
+    "path": { "light": "src\\library\\svgl\\chrome\\chrome-light.svg" },
+    "checked": false,
+    "title": "Chrome",
+    "url": "https://chrome.com/",
+    "icon": "ChromeIcon"
+  },
+  {
+    "id": 231,
+    "path": { "light": "src\\library\\svgl\\rxjs\\rxjs-light.svg" },
+    "checked": false,
+    "title": "RxJS",
+    "url": "https://rxjs.dev/",
+    "icon": "RxJSIcon"
+  },
+  {
+    "id": 232,
+    "path": { "light": "src\\library\\svgl\\electron\\electron-light.svg" },
+    "checked": false,
+    "title": "Electron",
+    "url": "https://www.electronjs.org",
+    "icon": "ElectronIcon"
+  },
+  {
+    "id": 233,
+    "path": { "light": "src\\library\\svgl\\redux\\redux-light.svg" },
+    "checked": false,
+    "title": "Redux",
+    "url": "https://redux.js.org/",
+    "icon": "ReduxIcon"
+  },
+  {
+    "id": 234,
+    "path": {
+      "light": "src\\library\\svgl\\trust-wallet\\trust-wallet-light.svg"
+    },
+    "checked": false,
+    "title": "Trust Wallet",
+    "url": "https://trustwallet.com/",
+    "icon": "TrustWalletIcon"
+  },
+  {
+    "id": 235,
+    "path": {
+      "light": "src\\library\\svgl\\php\\php-light.svg",
+      "dark": "src\\library\\svgl\\php\\php-dark.svg"
+    },
+    "checked": false,
+    "title": "Php",
+    "url": "https://www.php.net/",
+    "icon": "PhpIcon"
+  },
+  {
+    "id": 236,
+    "path": { "light": "src\\library\\svgl\\hugo\\hugo-light.svg" },
+    "checked": false,
+    "title": "Hugo",
+    "url": "https://gohugo.io/",
+    "icon": "HugoIcon"
+  },
+  {
+    "id": 237,
+    "path": { "light": "src\\library\\svgl\\sass\\sass-light.svg" },
+    "checked": false,
+    "title": "Sass",
+    "url": "https://sass-lang.com/",
+    "icon": "SassIcon"
+  },
+  {
+    "id": 239,
+    "path": { "light": "src\\library\\svgl\\pinia\\pinia-light.svg" },
+    "checked": false,
+    "title": "Pinia",
+    "url": "https://pinia.vuejs.org/",
+    "icon": "PiniaIcon"
+  },
+  {
+    "id": 240,
+    "path": { "light": "src\\library\\svgl\\neon\\neon-light.svg" },
+    "checked": false,
+    "title": "Neon",
+    "url": "https://neon.tech/",
+    "icon": "NeonIcon"
+  },
+  {
+    "id": 241,
+    "path": { "light": "src\\library\\svgl\\infojobs\\infojobs-light.svg" },
+    "checked": false,
+    "title": "Infojobs",
+    "url": "https://www.infojobs.net/",
+    "icon": "InfojobsIcon"
+  },
+  {
+    "id": 242,
+    "path": { "light": "src\\library\\svgl\\linear\\linear-light.svg" },
+    "checked": false,
+    "title": "Linear",
+    "url": "https://linear.app/",
+    "icon": "LinearIcon"
+  },
+  {
+    "id": 243,
+    "path": { "light": "src\\library\\svgl\\tor\\tor-light.svg" },
+    "checked": false,
+    "title": "Tor",
+    "url": "https://www.torproject.org/",
+    "icon": "TorIcon"
+  },
+  {
+    "id": 244,
+    "path": {
+      "light": "src\\library\\svgl\\codesandbox\\codesandbox-light.svg"
+    },
+    "checked": false,
+    "title": "Codesandbox",
+    "url": "https://codesandbox.io/",
+    "icon": "CodesandboxIcon"
+  },
+  {
+    "id": 245,
+    "path": { "light": "src\\library\\svgl\\skype\\skype-light.svg" },
+    "checked": false,
+    "title": "Skype",
+    "url": "https://www.skype.com/",
+    "icon": "SkypeIcon"
+  },
+  {
+    "id": 246,
+    "path": { "light": "src\\library\\svgl\\tauri\\tauri-light.svg" },
+    "checked": false,
+    "title": "Tauri",
+    "url": "https://tauri.app/",
+    "icon": "TauriIcon"
+  },
+  {
+    "id": 247,
+    "path": { "light": "src\\library\\svgl\\webkit\\webkit-light.svg" },
+    "checked": false,
+    "title": "WebKit",
+    "url": "https://webkit.org/",
+    "icon": "WebKitIcon"
+  },
+  {
+    "id": 248,
+    "path": { "light": "src\\library\\svgl\\duckduckgo\\duckduckgo-light.svg" },
+    "checked": false,
+    "title": "DuckDuckGo",
+    "url": "https://duckduckgo.com/",
+    "icon": "DuckDuckGoIcon"
+  },
+  {
+    "id": 249,
+    "path": { "light": "src\\library\\svgl\\obsidian\\obsidian-light.svg" },
+    "checked": false,
+    "title": "Obsidian",
+    "url": "https://obsidian.md/",
+    "icon": "ObsidianIcon"
+  },
+  {
+    "id": 250,
+    "path": { "light": "src\\library\\svgl\\zod\\zod-light.svg" },
+    "checked": false,
+    "title": "Zod",
+    "url": "https://zod.dev/",
+    "icon": "ZodIcon"
+  },
+  {
+    "id": 251,
+    "path": { "light": "src\\library\\svgl\\valibot\\valibot-light.svg" },
+    "checked": false,
+    "title": "Valibot",
+    "url": "https://valibot.dev",
+    "icon": "ValibotIcon"
+  },
+  {
+    "id": 252,
+    "path": {
+      "light": "src\\library\\svgl\\dreamweaver\\dreamweaver-light.svg"
+    },
+    "checked": false,
+    "title": "Dreamweaver",
+    "url": "https://www.adobe.com/products/dreamweaver.html",
+    "icon": "DreamweaverIcon"
+  },
+  {
+    "id": 253,
+    "path": {
+      "light": "src\\library\\svgl\\openai\\openai-light.svg",
+      "dark": "src\\library\\svgl\\openai\\openai-dark.svg"
+    },
+    "checked": false,
+    "title": "OpenAI",
+    "url": "https://openai.com/",
+    "icon": "OpenAIIcon"
+  },
+  {
+    "id": 254,
+    "path": {
+      "light": "src\\library\\svgl\\threads\\threads-light.svg",
+      "dark": "src\\library\\svgl\\threads\\threads-dark.svg"
+    },
+    "checked": false,
+    "title": "Threads",
+    "url": "https://threads.net/",
+    "icon": "ThreadsIcon"
+  },
+  {
+    "id": 255,
+    "path": {
+      "light": "src\\library\\svgl\\instagram\\instagram-light.svg",
+      "dark": "src\\library\\svgl\\instagram\\instagram-dark.svg"
+    },
+    "checked": false,
+    "title": "Instagram",
+    "url": "https://www.instagram.com/",
+    "icon": "InstagramIcon"
+  },
+  {
+    "id": 256,
+    "path": { "light": "src\\library\\svgl\\vueuse\\vueuse-light.svg" },
+    "checked": false,
+    "title": "VueUse",
+    "url": "https://vueuse.org/",
+    "icon": "VueUseIcon"
+  },
+  {
+    "id": 257,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-sql-server-\\microsoft-sql-server--light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft SQL Server ",
+    "url": "https://www.microsoft.com/en-us/sql-server/",
+    "icon": "MicrosoftSQLServerIcon"
+  },
+  {
+    "id": 258,
+    "path": { "light": "src\\library\\svgl\\hono\\hono-light.svg" },
+    "checked": false,
+    "title": "Hono",
+    "url": "https://hono.dev/",
+    "icon": "HonoIcon"
+  },
+  {
+    "id": 259,
+    "path": { "light": "src\\library\\svgl\\million\\million-light.svg" },
+    "checked": false,
+    "title": "Million",
+    "url": "https://million.dev/",
+    "icon": "MillionIcon"
+  },
+  {
+    "id": 260,
+    "path": { "light": "src\\library\\svgl\\pandacss\\pandacss-light.svg" },
+    "checked": false,
+    "title": "PandaCSS",
+    "url": "https://panda-css.com/",
+    "icon": "PandaCSSIcon"
+  },
+  {
+    "id": 261,
+    "path": { "light": "src\\library\\svgl\\pulumi\\pulumi-light.svg" },
+    "checked": false,
+    "title": "Pulumi",
+    "url": "https://www.pulumi.com/",
+    "icon": "PulumiIcon"
+  },
+  {
+    "id": 262,
+    "path": { "light": "src\\library\\svgl\\fastapi\\fastapi-light.svg" },
+    "checked": false,
+    "title": "FastAPI",
+    "url": "https://fastapi.tiangolo.com/",
+    "icon": "FastAPIIcon"
+  },
+  {
+    "id": 263,
+    "path": { "light": "src\\library\\svgl\\codium\\codium-light.svg" },
+    "checked": false,
+    "title": "Codium",
+    "url": "https://www.codium.ai/",
+    "icon": "CodiumIcon"
+  },
+  {
+    "id": 264,
+    "path": { "light": "src\\library\\svgl\\crossplane\\crossplane-light.svg" },
+    "checked": false,
+    "title": "Crossplane",
+    "url": "https://crossplane.io/",
+    "icon": "CrossplaneIcon"
+  },
+  {
+    "id": 265,
+    "path": {
+      "light": "src\\library\\svgl\\volta\\volta-light.svg",
+      "dark": "src\\library\\svgl\\volta\\volta-dark.svg"
+    },
+    "checked": false,
+    "title": "Volta",
+    "url": "https://volta.net/",
+    "icon": "VoltaIcon"
+  },
+  {
+    "id": 266,
+    "path": { "light": "src\\library\\svgl\\typesense\\typesense-light.svg" },
+    "checked": false,
+    "title": "Typesense",
+    "url": "https://typesense.org/",
+    "icon": "TypesenseIcon"
+  },
+  {
+    "id": 267,
+    "path": { "light": "src\\library\\svgl\\bitcoin\\bitcoin-light.svg" },
+    "checked": false,
+    "title": "Bitcoin",
+    "url": "https://bitcoin.org/",
+    "icon": "BitcoinIcon"
+  },
+  {
+    "id": 268,
+    "path": { "light": "src\\library\\svgl\\ethereum\\ethereum-light.svg" },
+    "checked": false,
+    "title": "Ethereum",
+    "url": "https://ethereum.org/",
+    "icon": "EthereumIcon"
+  },
+  {
+    "id": 269,
+    "path": { "light": "src\\library\\svgl\\solana\\solana-light.svg" },
+    "checked": false,
+    "title": "Solana",
+    "url": "https://solana.com/",
+    "icon": "SolanaIcon"
+  },
+  {
+    "id": 270,
+    "path": { "light": "src\\library\\svgl\\dogecoin\\dogecoin-light.svg" },
+    "checked": false,
+    "title": "Dogecoin",
+    "url": "https://dogecoin.com/",
+    "icon": "DogecoinIcon"
+  },
+  {
+    "id": 271,
+    "path": { "light": "src\\library\\svgl\\xrp\\xrp-light.svg" },
+    "checked": false,
+    "title": "XRP",
+    "url": "https://xrpl.org/",
+    "icon": "XRPIcon"
+  },
+  {
+    "id": 272,
+    "path": { "light": "src\\library\\svgl\\bnb\\bnb-light.svg" },
+    "checked": false,
+    "title": "BNB",
+    "url": "https://www.bnbchain.org/",
+    "icon": "BNBIcon"
+  },
+  {
+    "id": 273,
+    "path": { "light": "src\\library\\svgl\\link\\link-light.svg" },
+    "checked": false,
+    "title": "Link",
+    "url": "https://chain.link/",
+    "icon": "LinkIcon"
+  },
+  {
+    "id": 274,
+    "path": { "light": "src\\library\\svgl\\polygon\\polygon-light.svg" },
+    "checked": false,
+    "title": "Polygon",
+    "url": "https://polygon.technology/",
+    "icon": "PolygonIcon"
+  },
+  {
+    "id": 275,
+    "path": { "light": "src\\library\\svgl\\algorand\\algorand-light.svg" },
+    "checked": false,
+    "title": "Algorand",
+    "url": "https://algorand.org/",
+    "icon": "AlgorandIcon"
+  },
+  {
+    "id": 276,
+    "path": { "light": "src\\library\\svgl\\tether\\tether-light.svg" },
+    "checked": false,
+    "title": "Tether",
+    "url": "https://tether.to/",
+    "icon": "TetherIcon"
+  },
+  {
+    "id": 277,
+    "path": {
+      "light": "src\\library\\svgl\\x-(formerly-twitter)\\x-(formerly-twitter)-light.svg",
+      "dark": "src\\library\\svgl\\x-(formerly-twitter)\\x-(formerly-twitter)-dark.svg"
+    },
+    "checked": false,
+    "title": "X (formerly Twitter)",
+    "url": "https://x.com",
+    "icon": "XFormerlyTwitterIcon"
+  },
+  {
+    "id": 278,
+    "path": { "light": "src\\library\\svgl\\adobe\\adobe-light.svg" },
+    "checked": false,
+    "title": "Adobe",
+    "url": "https://www.adobe.com/",
+    "icon": "AdobeIcon"
+  },
+  {
+    "id": 279,
+    "path": {
+      "light": "src\\library\\svgl\\after-effects\\after-effects-light.svg"
+    },
+    "checked": false,
+    "title": "After Effects",
+    "url": "https://www.adobe.com/products/aftereffects",
+    "icon": "AfterEffectsIcon"
+  },
+  {
+    "id": 280,
+    "path": { "light": "src\\library\\svgl\\canva\\canva-light.svg" },
+    "checked": false,
+    "title": "Canva",
+    "url": "https://www.canva.com/",
+    "icon": "CanvaIcon"
+  },
+  {
+    "id": 281,
+    "path": {
+      "light": "src\\library\\svgl\\illustrator\\illustrator-light.svg"
+    },
+    "checked": false,
+    "title": "Illustrator",
+    "url": "https://www.adobe.com/products/illustrator",
+    "icon": "IllustratorIcon"
+  },
+  {
+    "id": 282,
+    "path": { "light": "src\\library\\svgl\\indesign\\indesign-light.svg" },
+    "checked": false,
+    "title": "InDesign",
+    "url": "https://www.adobe.com/products/indesign",
+    "icon": "InDesignIcon"
+  },
+  {
+    "id": 283,
+    "path": { "light": "src\\library\\svgl\\lightroom\\lightroom-light.svg" },
+    "checked": false,
+    "title": "Lightroom",
+    "url": "https://www.adobe.com/products/photoshop-lightroom",
+    "icon": "LightroomIcon"
+  },
+  {
+    "id": 284,
+    "path": { "light": "src\\library\\svgl\\photoshop\\photoshop-light.svg" },
+    "checked": false,
+    "title": "Photoshop",
+    "url": "https://www.adobe.com/products/photoshop",
+    "icon": "PhotoshopIcon"
+  },
+  {
+    "id": 285,
+    "path": { "light": "src\\library\\svgl\\premiere\\premiere-light.svg" },
+    "checked": false,
+    "title": "Premiere",
+    "url": "https://www.adobe.com/products/premiere",
+    "icon": "PremiereIcon"
+  },
+  {
+    "id": 286,
+    "path": { "light": "src\\library\\svgl\\vk\\vk-light.svg" },
+    "checked": false,
+    "title": "VK",
+    "url": "https://vk.com",
+    "icon": "VKIcon"
+  },
+  {
+    "id": 287,
+    "path": { "light": "src\\library\\svgl\\hoppscotch\\hoppscotch-light.svg" },
+    "checked": false,
+    "title": "Hoppscotch",
+    "url": "https://hoppscotch.com",
+    "icon": "HoppscotchIcon"
+  },
+  {
+    "id": 288,
+    "path": { "light": "src\\library\\svgl\\opera\\opera-light.svg" },
+    "checked": false,
+    "title": "Opera",
+    "url": "https://www.opera.com",
+    "icon": "OperaIcon"
+  },
+  {
+    "id": 289,
+    "path": { "light": "src\\library\\svgl\\salesforce\\salesforce-light.svg" },
+    "checked": false,
+    "title": "Salesforce",
+    "url": "https://www.salesforce.com",
+    "icon": "SalesforceIcon"
+  },
+  {
+    "id": 290,
+    "path": {
+      "light": "src\\library\\svgl\\unreal-engine\\unreal-engine-light.svg",
+      "dark": "src\\library\\svgl\\unreal-engine\\unreal-engine-dark.svg"
+    },
+    "checked": false,
+    "title": "Unreal Engine",
+    "url": "https://www.unrealengine.com/",
+    "icon": "UnrealEngineIcon"
+  },
+  {
+    "id": 291,
+    "path": {
+      "light": "src\\library\\svgl\\godot-engine\\godot-engine-light.svg"
+    },
+    "checked": false,
+    "title": "Godot Engine",
+    "url": "https://godotengine.org/",
+    "icon": "GodotEngineIcon"
+  },
+  {
+    "id": 292,
+    "path": { "light": "src\\library\\svgl\\datadog\\datadog-light.svg" },
+    "checked": false,
+    "title": "Datadog",
+    "url": "https://www.datadoghq.com/",
+    "icon": "DatadogIcon"
+  },
+  {
+    "id": 293,
+    "path": { "light": "src\\library\\svgl\\tron\\tron-light.svg" },
+    "checked": false,
+    "title": "Tron",
+    "url": "https://tron.network/",
+    "icon": "TronIcon"
+  },
+  {
+    "id": 294,
+    "path": { "light": "src\\library\\svgl\\randevum\\randevum-light.svg" },
+    "checked": false,
+    "title": "Randevum",
+    "url": "https://www.randevum.co",
+    "icon": "RandevumIcon"
+  },
+  {
+    "id": 295,
+    "path": { "light": "src\\library\\svgl\\chromium\\chromium-light.svg" },
+    "checked": false,
+    "title": "Chromium",
+    "url": "https://www.chromium.org",
+    "icon": "ChromiumIcon"
+  },
+  {
+    "id": 296,
+    "path": { "light": "src\\library\\svgl\\edge\\edge-light.svg" },
+    "checked": false,
+    "title": "Edge",
+    "url": "https://www.microsoft.com/en-us/edge",
+    "icon": "EdgeIcon"
+  },
+  {
+    "id": 297,
+    "path": { "light": "src\\library\\svgl\\safari\\safari-light.svg" },
+    "checked": false,
+    "title": "Safari",
+    "url": "https://www.apple.com/safari",
+    "icon": "SafariIcon"
+  },
+  {
+    "id": 298,
+    "path": { "light": "src\\library\\svgl\\vivaldi\\vivaldi-light.svg" },
+    "checked": false,
+    "title": "Vivaldi",
+    "url": "https://vivaldi.com",
+    "icon": "VivaldiIcon"
+  },
+  {
+    "id": 299,
+    "path": { "light": "src\\library\\svgl\\beacon\\beacon-light.svg" },
+    "checked": false,
+    "title": "Beacon",
+    "url": "https://www.beacon.com",
+    "icon": "BeaconIcon"
+  },
+  {
+    "id": 300,
+    "path": {
+      "light": "src\\library\\svgl\\affinity-designer\\affinity-designer-light.svg"
+    },
+    "checked": false,
+    "title": "Affinity Designer",
+    "url": "https://affinity.serif.com/en-us/designer/",
+    "icon": "AffinityDesignerIcon"
+  },
+  {
+    "id": 301,
+    "path": {
+      "light": "src\\library\\svgl\\affinity-photo\\affinity-photo-light.svg"
+    },
+    "checked": false,
+    "title": "Affinity Photo",
+    "url": "https://affinity.serif.com/en-us/photo/",
+    "icon": "AffinityPhotoIcon"
+  },
+  {
+    "id": 302,
+    "path": {
+      "light": "src\\library\\svgl\\affinity-publisher\\affinity-publisher-light.svg"
+    },
+    "checked": false,
+    "title": "Affinity Publisher",
+    "url": "https://affinity.serif.com/en-us/publisher/",
+    "icon": "AffinityPublisherIcon"
+  },
+  {
+    "id": 303,
+    "path": {
+      "light": "src\\library\\svgl\\roblox\\roblox-light.svg",
+      "dark": "src\\library\\svgl\\roblox\\roblox-dark.svg"
+    },
+    "checked": false,
+    "title": "Roblox",
+    "url": "https://www.roblox.com/",
+    "icon": "RobloxIcon"
+  },
+  {
+    "id": 304,
+    "path": {
+      "light": "src\\library\\svgl\\stately.ai\\stately.ai-light.svg",
+      "dark": "src\\library\\svgl\\stately.ai\\stately.ai-dark.svg"
+    },
+    "checked": false,
+    "title": "Stately.ai",
+    "url": "https://stately.ai/",
+    "icon": "StatelyAiIcon"
+  },
+  {
+    "id": 305,
+    "path": {
+      "light": "src\\library\\svgl\\xstate\\xstate-light.svg",
+      "dark": "src\\library\\svgl\\xstate\\xstate-dark.svg"
+    },
+    "checked": false,
+    "title": "XState",
+    "url": "https://github.com/statelyai/xstate",
+    "icon": "XStateIcon"
+  },
+  {
+    "id": 306,
+    "path": { "light": "src\\library\\svgl\\hashnode\\hashnode-light.svg" },
+    "checked": false,
+    "title": "Hashnode",
+    "url": "https://hashnode.com",
+    "icon": "HashnodeIcon"
+  },
+  {
+    "id": 307,
+    "path": { "light": "src\\library\\svgl\\rowy\\rowy-light.svg" },
+    "checked": false,
+    "title": "Rowy",
+    "url": "https://www.rowy.io/",
+    "icon": "RowyIcon"
+  },
+  {
+    "id": 308,
+    "path": {
+      "light": "src\\library\\svgl\\cal.com\\cal.com-light.svg",
+      "dark": "src\\library\\svgl\\cal.com\\cal.com-dark.svg"
+    },
+    "checked": false,
+    "title": "Cal.com",
+    "url": "https://cal.com",
+    "icon": "CalComIcon"
+  },
+  {
+    "id": 309,
+    "path": { "light": "src\\library\\svgl\\calendly\\calendly-light.svg" },
+    "checked": false,
+    "title": "Calendly",
+    "url": "https://calendly.com/",
+    "icon": "CalendlyIcon"
+  },
+  {
+    "id": 310,
+    "path": {
+      "light": "src\\library\\svgl\\patreon\\patreon-light.svg",
+      "dark": "src\\library\\svgl\\patreon\\patreon-dark.svg"
+    },
+    "checked": false,
+    "title": "Patreon",
+    "url": "https://www.patreon.com/",
+    "icon": "PatreonIcon"
+  },
+  {
+    "id": 311,
+    "path": { "light": "src\\library\\svgl\\peerlist\\peerlist-light.svg" },
+    "checked": false,
+    "title": "Peerlist",
+    "url": "https://www.peerlist.io/",
+    "icon": "PeerlistIcon"
+  },
+  {
+    "id": 312,
+    "path": {
+      "light": "src\\library\\svgl\\product-hunt\\product-hunt-light.svg"
+    },
+    "checked": false,
+    "title": "Product Hunt",
+    "url": "https://www.producthunt.com/",
+    "icon": "ProductHuntIcon"
+  },
+  {
+    "id": 313,
+    "path": { "light": "src\\library\\svgl\\remotion\\remotion-light.svg" },
+    "checked": false,
+    "title": "Remotion",
+    "url": "https://www.remotion.dev/",
+    "icon": "RemotionIcon"
+  },
+  {
+    "id": 314,
+    "path": { "light": "src\\library\\svgl\\warp\\warp-light.svg" },
+    "checked": false,
+    "title": "Warp",
+    "url": "https://www.warp.dev/",
+    "icon": "WarpIcon"
+  },
+  {
+    "id": 315,
+    "path": { "light": "src\\library\\svgl\\sst\\sst-light.svg" },
+    "checked": false,
+    "title": "SST",
+    "url": "https://sst.dev/",
+    "icon": "SSTIcon"
+  },
+  {
+    "id": 316,
+    "path": {
+      "light": "src\\library\\svgl\\documenso\\documenso-light.svg",
+      "dark": "src\\library\\svgl\\documenso\\documenso-dark.svg"
+    },
+    "checked": false,
+    "title": "Documenso",
+    "url": "https://documenso.com",
+    "icon": "DocumensoIcon"
+  },
+  {
+    "id": 317,
+    "path": {
+      "light": "src\\library\\svgl\\bash\\bash-light.svg",
+      "dark": "src\\library\\svgl\\bash\\bash-dark.svg"
+    },
+    "checked": false,
+    "title": "Bash",
+    "url": "https://www.gnu.org/software/bash/",
+    "icon": "BashIcon"
+  },
+  {
+    "id": 318,
+    "path": { "light": "src\\library\\svgl\\c\\c-light.svg" },
+    "checked": false,
+    "title": "C",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "icon": "CIcon"
+  },
+  {
+    "id": 319,
+    "path": { "light": "src\\library\\svgl\\c++\\c++-light.svg" },
+    "checked": false,
+    "title": "C++",
+    "url": "https://en.wikipedia.org/wiki/C%2B%2B",
+    "icon": "CIcon"
+  },
+  {
+    "id": 320,
+    "path": { "light": "src\\library\\svgl\\cobol\\cobol-light.svg" },
+    "checked": false,
+    "title": "Cobol",
+    "url": "https://en.wikipedia.org/wiki/COBOL",
+    "icon": "CobolIcon"
+  },
+  {
+    "id": 321,
+    "path": { "light": "src\\library\\svgl\\fortran\\fortran-light.svg" },
+    "checked": false,
+    "title": "Fortran",
+    "url": "https://fortran-lang.org/",
+    "icon": "FortranIcon"
+  },
+  {
+    "id": 322,
+    "path": { "light": "src\\library\\svgl\\haskell\\haskell-light.svg" },
+    "checked": false,
+    "title": "Haskell",
+    "url": "https://www.haskell.org/",
+    "icon": "HaskellIcon"
+  },
+  {
+    "id": 323,
+    "path": { "light": "src\\library\\svgl\\matlab\\matlab-light.svg" },
+    "checked": false,
+    "title": "matlab",
+    "url": "https://www.mathworks.com/products/matlab.html",
+    "icon": "MatlabIcon"
+  },
+  {
+    "id": 324,
+    "path": {
+      "light": "src\\library\\svgl\\r\\r-light.svg",
+      "dark": "src\\library\\svgl\\r\\r-dark.svg"
+    },
+    "checked": false,
+    "title": "R",
+    "url": "https://www.r-project.org/",
+    "icon": "RIcon"
+  },
+  {
+    "id": 325,
+    "path": {
+      "light": "src\\library\\svgl\\rust\\rust-light.svg",
+      "dark": "src\\library\\svgl\\rust\\rust-dark.svg"
+    },
+    "checked": false,
+    "title": "Rust",
+    "url": "https://www.rust-lang.org/",
+    "icon": "RustIcon"
+  },
+  {
+    "id": 326,
+    "path": { "light": "src\\library\\svgl\\zig\\zig-light.svg" },
+    "checked": false,
+    "title": "Zig",
+    "url": "https://ziglang.org/",
+    "icon": "ZigIcon"
+  },
+  {
+    "id": 327,
+    "path": {
+      "light": "src\\library\\svgl\\instatus\\instatus-light.svg",
+      "dark": "src\\library\\svgl\\instatus\\instatus-dark.svg"
+    },
+    "checked": false,
+    "title": "Instatus",
+    "url": "https://instatus.com",
+    "icon": "InstatusIcon"
+  },
+  {
+    "id": 328,
+    "path": { "light": "src\\library\\svgl\\front\\front-light.svg" },
+    "checked": false,
+    "title": "Front",
+    "url": "https://front.com",
+    "icon": "FrontIcon"
+  },
+  {
+    "id": 329,
+    "path": { "light": "src\\library\\svgl\\monero\\monero-light.svg" },
+    "checked": false,
+    "title": "Monero",
+    "url": "https://www.getmonero.org/",
+    "icon": "MoneroIcon"
+  },
+  {
+    "id": 330,
+    "path": {
+      "light": "src\\library\\svgl\\axiom\\axiom-light.svg",
+      "dark": "src\\library\\svgl\\axiom\\axiom-dark.svg"
+    },
+    "checked": false,
+    "title": "Axiom",
+    "url": "https://axiom.co/",
+    "icon": "AxiomIcon"
+  },
+  {
+    "id": 331,
+    "path": { "light": "src\\library\\svgl\\django\\django-light.svg" },
+    "checked": false,
+    "title": "Django",
+    "url": "https://www.djangoproject.com/",
+    "icon": "DjangoIcon"
+  },
+  {
+    "id": 332,
+    "path": {
+      "light": "src\\library\\svgl\\zeabur\\zeabur-light.svg",
+      "dark": "src\\library\\svgl\\zeabur\\zeabur-dark.svg"
+    },
+    "checked": false,
+    "title": "Zeabur",
+    "url": "https://zeabur.com/",
+    "icon": "ZeaburIcon"
+  },
+  {
+    "id": 333,
+    "path": { "light": "src\\library\\svgl\\metamask\\metamask-light.svg" },
+    "checked": false,
+    "title": "MetaMask",
+    "url": "https://metamask.io/",
+    "icon": "MetaMaskIcon"
+  },
+  {
+    "id": 335,
+    "path": { "light": "src\\library\\svgl\\putio\\putio-light.svg" },
+    "checked": false,
+    "title": "putio",
+    "url": "https://put.io/",
+    "icon": "PutioIcon"
+  },
+  {
+    "id": 336,
+    "path": { "light": "src\\library\\svgl\\pinterest\\pinterest-light.svg" },
+    "checked": false,
+    "title": "Pinterest",
+    "url": "https://pinterest.com/",
+    "icon": "PinterestIcon"
+  },
+  {
+    "id": 337,
+    "path": {
+      "light": "src\\library\\svgl\\reflex\\reflex-light.svg",
+      "dark": "src\\library\\svgl\\reflex\\reflex-dark.svg"
+    },
+    "checked": false,
+    "title": "Reflex",
+    "url": "https://reflex.dev/",
+    "icon": "ReflexIcon"
+  },
+  {
+    "id": 338,
+    "path": { "light": "src\\library\\svgl\\stripe\\stripe-light.svg" },
+    "checked": false,
+    "title": "Stripe",
+    "url": "https://stripe.com/",
+    "icon": "StripeIcon"
+  },
+  {
+    "id": 339,
+    "path": { "light": "src\\library\\svgl\\linux\\linux-light.svg" },
+    "checked": false,
+    "title": "Linux",
+    "url": "https://www.linux.org/",
+    "icon": "LinuxIcon"
+  },
+  {
+    "id": 340,
+    "path": { "light": "src\\library\\svgl\\xd\\xd-light.svg" },
+    "checked": false,
+    "title": "XD",
+    "url": "https://www.adobe.com/products/xd",
+    "icon": "XDIcon"
+  },
+  {
+    "id": 341,
+    "path": { "light": "src\\library\\svgl\\axure\\axure-light.svg" },
+    "checked": false,
+    "title": "Axure",
+    "url": "https://www.axure.com/",
+    "icon": "AxureIcon"
+  },
+  {
+    "id": 342,
+    "path": {
+      "light": "src\\library\\svgl\\penpot\\penpot-light.svg",
+      "dark": "src\\library\\svgl\\penpot\\penpot-dark.svg"
+    },
+    "checked": false,
+    "title": "Penpot",
+    "url": "https://penpot.app/",
+    "icon": "PenpotIcon"
+  },
+  {
+    "id": 343,
+    "path": {
+      "light": "src\\library\\svgl\\sketch\\sketch-light.svg",
+      "dark": "src\\library\\svgl\\sketch\\sketch-dark.svg"
+    },
+    "checked": false,
+    "title": "Sketch",
+    "url": "https://www.sketch.com/",
+    "icon": "SketchIcon"
+  },
+  {
+    "id": 344,
+    "path": { "light": "src\\library\\svgl\\gimp\\gimp-light.svg" },
+    "checked": false,
+    "title": "Gimp",
+    "url": "https://www.gimp.org/",
+    "icon": "GimpIcon"
+  },
+  {
+    "id": 345,
+    "path": { "light": "src\\library\\svgl\\ubuntu\\ubuntu-light.svg" },
+    "checked": false,
+    "title": "Ubuntu",
+    "url": "https://ubuntu.com/",
+    "icon": "UbuntuIcon"
+  },
+  {
+    "id": 346,
+    "path": { "light": "src\\library\\svgl\\cypress\\cypress-light.svg" },
+    "checked": false,
+    "title": "Cypress",
+    "url": "https://www.cypress.io/",
+    "icon": "CypressIcon"
+  },
+  {
+    "id": 347,
+    "path": { "light": "src\\library\\svgl\\reddit\\reddit-light.svg" },
+    "checked": false,
+    "title": "Reddit",
+    "url": "https://www.reddit.com/",
+    "icon": "RedditIcon"
+  },
+  {
+    "id": 348,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-webstorm\\jetbrains-webstorm-light.svg"
+    },
+    "checked": false,
+    "title": "JetBrains WebStorm",
+    "url": "https://www.jetbrains.com/webstorm/",
+    "icon": "JetBrainsWebStormIcon"
+  },
+  {
+    "id": 349,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-pycharm\\jetbrains-pycharm-light.svg"
+    },
+    "checked": false,
+    "title": "JetBrains PyCharm",
+    "url": "https://www.jetbrains.com/pycharm/",
+    "icon": "JetBrainsPyCharmIcon"
+  },
+  {
+    "id": 350,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-fleet\\jetbrains-fleet-light.svg"
+    },
+    "checked": false,
+    "title": "JetBrains Fleet",
+    "url": "https://www.jetbrains.com/fleet/",
+    "icon": "JetBrainsFleetIcon"
+  },
+  {
+    "id": 351,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-rubymine\\jetbrains-rubymine-light.svg"
+    },
+    "checked": false,
+    "title": "JetBrains RubyMine",
+    "url": "https://www.jetbrains.com/ruby/",
+    "icon": "JetBrainsRubyMineIcon"
+  },
+  {
+    "id": 352,
+    "path": {
+      "light": "src\\library\\svgl\\jetbrains-phpstorm\\jetbrains-phpstorm-light.svg"
+    },
+    "checked": false,
+    "title": "JetBrains PhpStorm",
+    "url": "https://www.jetbrains.com/phpstorm/",
+    "icon": "JetBrainsPhpStormIcon"
+  },
+  {
+    "id": 353,
+    "path": { "light": "src\\library\\svgl\\monkeytype\\monkeytype-light.svg" },
+    "checked": false,
+    "title": "Monkeytype",
+    "url": "https://monkeytype.com/",
+    "icon": "MonkeytypeIcon"
+  },
+  {
+    "id": 354,
+    "path": { "light": "src\\library\\svgl\\pycharm\\pycharm-light.svg" },
+    "checked": false,
+    "title": "PyCharm",
+    "url": "https://www.jetbrains.com/pycharm/",
+    "icon": "PyCharmIcon"
+  },
+  {
+    "id": 355,
+    "path": { "light": "src\\library\\svgl\\shopify\\shopify-light.svg" },
+    "checked": false,
+    "title": "Shopify",
+    "url": "https://www.shopify.com",
+    "icon": "ShopifyIcon"
+  },
+  {
+    "id": 356,
+    "path": { "light": "src\\library\\svgl\\webflow\\webflow-light.svg" },
+    "checked": false,
+    "title": "Webflow",
+    "url": "https://www.webflow.com",
+    "icon": "WebflowIcon"
+  },
+  {
+    "id": 357,
+    "path": { "light": "src\\library\\svgl\\sky\\sky-light.svg" },
+    "checked": false,
+    "title": "sky",
+    "url": "https://www.sky.com",
+    "icon": "SkyIcon"
+  },
+  {
+    "id": 358,
+    "path": { "light": "src\\library\\svgl\\airbnb\\airbnb-light.svg" },
+    "checked": true,
+    "title": "Airbnb",
+    "url": "https://www.airbnb.com",
+    "icon": "AirbnbIcon"
+  },
+  {
+    "id": 359,
+    "path": {
+      "light": "src\\library\\svgl\\uber\\uber-light.svg",
+      "dark": "src\\library\\svgl\\uber\\uber-dark.svg"
+    },
+    "checked": false,
+    "title": "Uber",
+    "url": "https://www.uber.com",
+    "icon": "UberIcon"
+  },
+  {
+    "id": 360,
+    "path": { "light": "src\\library\\svgl\\gmail\\gmail-light.svg" },
+    "checked": false,
+    "title": "Gmail",
+    "url": "https://www.gmail.com",
+    "icon": "GmailIcon"
+  },
+  {
+    "id": 361,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-outlook\\microsoft-outlook-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Outlook",
+    "url": "https://www.microsoft.com/microsoft-365/outlook/email-and-calendar-software-application",
+    "icon": "MicrosoftOutlookIcon"
+  },
+  {
+    "id": 362,
+    "path": { "light": "src\\library\\svgl\\slack\\slack-light.svg" },
+    "checked": false,
+    "title": "Slack",
+    "url": "https://www.slack.com",
+    "icon": "SlackIcon"
+  },
+  {
+    "id": 363,
+    "path": { "light": "src\\library\\svgl\\snapchat\\snapchat-light.svg" },
+    "checked": false,
+    "title": "Snapchat",
+    "url": "https://www.snapchat.com",
+    "icon": "SnapchatIcon"
+  },
+  {
+    "id": 364,
+    "path": { "light": "src\\library\\svgl\\ebay\\ebay-light.svg" },
+    "checked": false,
+    "title": "Ebay",
+    "url": "https://www.ebay.com",
+    "icon": "EbayIcon"
+  },
+  {
+    "id": 365,
+    "path": { "light": "src\\library\\svgl\\ibm\\ibm-light.svg" },
+    "checked": false,
+    "title": "IBM",
+    "url": "https://www.ibm.com",
+    "icon": "IBMIcon"
+  },
+  {
+    "id": 366,
+    "path": { "light": "src\\library\\svgl\\trustpilot\\trustpilot-light.svg" },
+    "checked": false,
+    "title": "TrustPilot",
+    "url": "https://www.trustpilot.com",
+    "icon": "TrustPilotIcon"
+  },
+  {
+    "id": 367,
+    "path": { "light": "src\\library\\svgl\\raycast\\raycast-light.svg" },
+    "checked": false,
+    "title": "Raycast",
+    "url": "https://raycast.com/",
+    "icon": "RaycastIcon"
+  },
+  {
+    "id": 368,
+    "path": {
+      "light": "src\\library\\svgl\\flow-launcher\\flow-launcher-light.svg"
+    },
+    "checked": false,
+    "title": "Flow Launcher",
+    "url": "https://www.flowlauncher.com/",
+    "icon": "FlowLauncherIcon"
+  },
+  {
+    "id": 369,
+    "path": {
+      "light": "src\\library\\svgl\\hack-the-box\\hack-the-box-light.svg"
+    },
+    "checked": false,
+    "title": "Hack The Box",
+    "url": "https://www.hackthebox.com/",
+    "icon": "HackTheBoxIcon"
+  },
+  {
+    "id": 370,
+    "path": { "light": "src\\library\\svgl\\procure\\procure-light.svg" },
+    "checked": false,
+    "title": "Procure",
+    "url": "https://procure.biz/",
+    "icon": "ProcureIcon"
+  },
+  {
+    "id": 371,
+    "path": { "light": "src\\library\\svgl\\julia\\julia-light.svg" },
+    "checked": false,
+    "title": "Julia",
+    "url": "https://julialang.org/",
+    "icon": "JuliaIcon"
+  },
+  {
+    "id": 372,
+    "path": { "light": "src\\library\\svgl\\swc\\swc-light.svg" },
+    "checked": false,
+    "title": "SWC",
+    "url": "https://swc.rs/",
+    "icon": "SWCIcon"
+  },
+  {
+    "id": 373,
+    "path": {
+      "light": "src\\library\\svgl\\playstation\\playstation-light.svg"
+    },
+    "checked": false,
+    "title": "PlayStation",
+    "url": "https://www.playstation.com/",
+    "icon": "PlayStationIcon"
+  },
+  {
+    "id": 374,
+    "path": { "light": "src\\library\\svgl\\xbox\\xbox-light.svg" },
+    "checked": false,
+    "title": "Xbox",
+    "url": "https://www.xbox.com/",
+    "icon": "XboxIcon"
+  },
+  {
+    "id": 375,
+    "path": { "light": "src\\library\\svgl\\cody\\cody-light.svg" },
+    "checked": false,
+    "title": "Cody",
+    "url": "https://about.sourcegraph.com/",
+    "icon": "CodyIcon"
+  },
+  {
+    "id": 376,
+    "path": {
+      "light": "src\\library\\svgl\\sourcegraph\\sourcegraph-light.svg"
+    },
+    "checked": false,
+    "title": "Sourcegraph",
+    "url": "https://about.sourcegraph.com/",
+    "icon": "SourcegraphIcon"
+  },
+  {
+    "id": 377,
+    "path": {
+      "light": "src\\library\\svgl\\perplexity-ai\\perplexity-ai-light.svg"
+    },
+    "checked": false,
+    "title": "Perplexity AI",
+    "url": "https://perplexity.ai/",
+    "icon": "PerplexityAIIcon"
+  },
+  {
+    "id": 378,
+    "path": { "light": "src\\library\\svgl\\spring\\spring-light.svg" },
+    "checked": false,
+    "title": "Spring",
+    "url": "https://spring.io/",
+    "icon": "SpringIcon"
+  },
+  {
+    "id": 379,
+    "path": { "light": "src\\library\\svgl\\directus\\directus-light.svg" },
+    "checked": false,
+    "title": "Directus",
+    "url": "https://directus.io/",
+    "icon": "DirectusIcon"
+  },
+  {
+    "id": 380,
+    "path": {
+      "light": "src\\library\\svgl\\pnpm\\pnpm-light.svg",
+      "dark": "src\\library\\svgl\\pnpm\\pnpm-dark.svg"
+    },
+    "checked": false,
+    "title": "Pnpm",
+    "url": "https://pnpm.io/",
+    "icon": "PnpmIcon"
+  },
+  {
+    "id": 381,
+    "path": { "light": "src\\library\\svgl\\emacs\\emacs-light.svg" },
+    "checked": false,
+    "title": "Emacs",
+    "url": "https://www.gnu.org/software/emacs/",
+    "icon": "EmacsIcon"
+  },
+  {
+    "id": 382,
+    "path": { "light": "src\\library\\svgl\\svgl\\svgl-light.svg" },
+    "checked": false,
+    "title": "Svgl",
+    "url": "https://svgl.app",
+    "icon": "SvglIcon"
+  },
+  {
+    "id": 383,
+    "path": { "light": "src\\library\\svgl\\google-idx\\google-idx-light.svg" },
+    "checked": false,
+    "title": "Google Idx",
+    "url": "https://idx.dev/",
+    "icon": "GoogleIdxIcon"
+  },
+  {
+    "id": 384,
+    "path": {
+      "light": "src\\library\\svgl\\remix\\remix-light.svg",
+      "dark": "src\\library\\svgl\\remix\\remix-dark.svg"
+    },
+    "checked": false,
+    "title": "Remix",
+    "url": "https://remix.run/",
+    "icon": "RemixIcon"
+  },
+  {
+    "id": 385,
+    "path": { "light": "src\\library\\svgl\\steam\\steam-light.svg" },
+    "checked": false,
+    "title": "Steam",
+    "url": "https://store.steampowered.com/",
+    "icon": "SteamIcon"
+  },
+  {
+    "id": 386,
+    "path": { "light": "src\\library\\svgl\\tabby\\tabby-light.svg" },
+    "checked": false,
+    "title": "Tabby",
+    "url": "https://tabby.sh/",
+    "icon": "TabbyIcon"
+  },
+  {
+    "id": 387,
+    "path": {
+      "light": "src\\library\\svgl\\1password\\1password-light.svg",
+      "dark": "src\\library\\svgl\\1password\\1password-dark.svg"
+    },
+    "checked": false,
+    "title": "1Password",
+    "url": "https://1password.com",
+    "icon": "Icon1PasswordIcon"
+  },
+  {
+    "id": 388,
+    "path": {
+      "light": "src\\library\\svgl\\flask\\flask-light.svg",
+      "dark": "src\\library\\svgl\\flask\\flask-dark.svg"
+    },
+    "checked": false,
+    "title": "Flask",
+    "url": "https://flask.palletsprojects.com/",
+    "icon": "FlaskIcon"
+  },
+  {
+    "id": 389,
+    "path": { "light": "src\\library\\svgl\\alacritty\\alacritty-light.svg" },
+    "checked": false,
+    "title": "Alacritty",
+    "url": "https://alacritty.org",
+    "icon": "AlacrittyIcon"
+  },
+  {
+    "id": 390,
+    "path": { "light": "src\\library\\svgl\\qt\\qt-light.svg" },
+    "checked": false,
+    "title": "Qt",
+    "url": "https://www.qt.io/",
+    "icon": "QtIcon"
+  },
+  {
+    "id": 391,
+    "path": { "light": "src\\library\\svgl\\bitwarden\\bitwarden-light.svg" },
+    "checked": false,
+    "title": "Bitwarden",
+    "url": "https://bitwarden.com/",
+    "icon": "BitwardenIcon"
+  },
+  {
+    "id": 392,
+    "path": {
+      "light": "src\\library\\svgl\\voicemod\\voicemod-light.svg",
+      "dark": "src\\library\\svgl\\voicemod\\voicemod-dark.svg"
+    },
+    "checked": false,
+    "title": "Voicemod",
+    "url": "https://voicemod.net/",
+    "icon": "VoicemodIcon"
+  },
+  {
+    "id": 393,
+    "path": { "light": "src\\library\\svgl\\neovim\\neovim-light.svg" },
+    "checked": false,
+    "title": "Neovim",
+    "url": "https://neovim.io/",
+    "icon": "NeovimIcon"
+  },
+  {
+    "id": 394,
+    "path": { "light": "src\\library\\svgl\\pitch\\pitch-light.svg" },
+    "checked": false,
+    "title": "Pitch",
+    "url": "https://pitch.com",
+    "icon": "PitchIcon"
+  },
+  {
+    "id": 395,
+    "path": { "light": "src\\library\\svgl\\biomejs\\biomejs-light.svg" },
+    "checked": false,
+    "title": "Biomejs",
+    "url": "https://biomejs.dev/",
+    "icon": "BiomejsIcon"
+  },
+  {
+    "id": 396,
+    "path": { "light": "src\\library\\svgl\\gradio\\gradio-light.svg" },
+    "checked": false,
+    "title": "Gradio",
+    "url": "https://www.gradio.app/",
+    "icon": "GradioIcon"
+  },
+  {
+    "id": 397,
+    "path": { "light": "src\\library\\svgl\\meta\\meta-light.svg" },
+    "checked": false,
+    "title": "Meta",
+    "url": "https://about.meta.com/es/",
+    "icon": "MetaIcon"
+  },
+  {
+    "id": 398,
+    "path": {
+      "light": "src\\library\\svgl\\stability-ai\\stability-ai-light.svg"
+    },
+    "checked": false,
+    "title": "Stability AI",
+    "url": "https://stability.ai/",
+    "icon": "StabilityAIIcon"
+  },
+  {
+    "id": 399,
+    "path": {
+      "light": "src\\library\\svgl\\google-palm\\google-palm-light.svg"
+    },
+    "checked": false,
+    "title": "Google PaLM",
+    "url": "https://ai.google/discover/palm2/",
+    "icon": "GooglePaLMIcon"
+  },
+  {
+    "id": 400,
+    "path": { "light": "src\\library\\svgl\\android\\android-light.svg" },
+    "checked": false,
+    "title": "Android",
+    "url": "https://www.android.com/",
+    "icon": "AndroidIcon"
+  },
+  {
+    "id": 401,
+    "path": { "light": "src\\library\\svgl\\sentry\\sentry-light.svg" },
+    "checked": false,
+    "title": "Sentry",
+    "url": "https://sentry.io/",
+    "icon": "SentryIcon"
+  },
+  {
+    "id": 402,
+    "path": { "light": "src\\library\\svgl\\grafana\\grafana-light.svg" },
+    "checked": false,
+    "title": "Grafana",
+    "url": "https://grafana.com/",
+    "icon": "GrafanaIcon"
+  },
+  {
+    "id": 403,
+    "path": { "light": "src\\library\\svgl\\notion\\notion-light.svg" },
+    "checked": false,
+    "title": "Notion",
+    "url": "https://notion.so/",
+    "icon": "NotionIcon"
+  },
+  {
+    "id": 404,
+    "path": { "light": "src\\library\\svgl\\litecoin\\litecoin-light.svg" },
+    "checked": false,
+    "title": "Litecoin",
+    "url": "https://litecoin.org/",
+    "icon": "LitecoinIcon"
+  },
+  {
+    "id": 405,
+    "path": { "light": "src\\library\\svgl\\elysiajs\\elysiajs-light.svg" },
+    "checked": false,
+    "title": "ElysiaJS",
+    "url": "https://elysiajs.com/",
+    "icon": "ElysiaJSIcon"
+  },
+  {
+    "id": 406,
+    "path": {
+      "light": "src\\library\\svgl\\tensorflow\\tensorflow-light.svg",
+      "dark": "src\\library\\svgl\\tensorflow\\tensorflow-dark.svg"
+    },
+    "checked": false,
+    "title": "TensorFlow",
+    "url": "https://www.tensorflow.org/",
+    "icon": "TensorFlowIcon"
+  },
+  {
+    "id": 407,
+    "path": { "light": "src\\library\\svgl\\midday\\midday-light.svg" },
+    "checked": false,
+    "title": "Midday",
+    "url": "https://midday.ai/",
+    "icon": "MiddayIcon"
+  },
+  {
+    "id": 408,
+    "path": { "light": "src\\library\\svgl\\c#\\c#-light.svg" },
+    "checked": false,
+    "title": "C#",
+    "url": "https://dotnet.microsoft.com/languages/csharp",
+    "icon": "CIcon"
+  },
+  {
+    "id": 409,
+    "path": {
+      "light": "src\\library\\svgl\\replicate\\replicate-light.svg",
+      "dark": "src\\library\\svgl\\replicate\\replicate-dark.svg"
+    },
+    "checked": false,
+    "title": "Replicate",
+    "url": "https://replicate.com/",
+    "icon": "ReplicateIcon"
+  },
+  {
+    "id": 410,
+    "path": {
+      "light": "src\\library\\svgl\\markdown\\markdown-light.svg",
+      "dark": "src\\library\\svgl\\markdown\\markdown-dark.svg"
+    },
+    "checked": false,
+    "title": "Markdown",
+    "url": "https://www.markdownguide.org/",
+    "icon": "MarkdownIcon"
+  },
+  {
+    "id": 411,
+    "path": {
+      "light": "src\\library\\svgl\\radix-ui\\radix-ui-light.svg",
+      "dark": "src\\library\\svgl\\radix-ui\\radix-ui-dark.svg"
+    },
+    "checked": false,
+    "title": "Radix UI",
+    "url": "https://www.radix-ui.com/",
+    "icon": "RadixUIIcon"
+  },
+  {
+    "id": 412,
+    "path": { "light": "src\\library\\svgl\\web.dev\\web.dev-light.svg" },
+    "checked": false,
+    "title": "Web.dev",
+    "url": "https://web.dev/",
+    "icon": "WebDevIcon"
+  },
+  {
+    "id": 413,
+    "path": {
+      "light": "src\\library\\svgl\\swr\\swr-light.svg",
+      "dark": "src\\library\\svgl\\swr\\swr-dark.svg"
+    },
+    "checked": false,
+    "title": "SWR",
+    "url": "https://swr.vercel.app/",
+    "icon": "SWRIcon"
+  },
+  {
+    "id": 414,
+    "path": {
+      "light": "src\\library\\svgl\\refine\\refine-light.svg",
+      "dark": "src\\library\\svgl\\refine\\refine-dark.svg"
+    },
+    "checked": false,
+    "title": "Refine",
+    "url": "https://refine.dev/",
+    "icon": "RefineIcon"
+  },
+  {
+    "id": 415,
+    "path": {
+      "light": "src\\library\\svgl\\youtube-music\\youtube-music-light.svg"
+    },
+    "checked": false,
+    "title": "Youtube Music",
+    "url": "https://music.youtube.com/",
+    "icon": "YoutubeMusicIcon"
+  },
+  {
+    "id": 416,
+    "path": {
+      "light": "src\\library\\svgl\\tidal\\tidal-light.svg",
+      "dark": "src\\library\\svgl\\tidal\\tidal-dark.svg"
+    },
+    "checked": false,
+    "title": "TIDAL",
+    "url": "https://tidal.com/",
+    "icon": "TIDALIcon"
+  },
+  {
+    "id": 417,
+    "path": { "light": "src\\library\\svgl\\obs\\obs-light.svg" },
+    "checked": false,
+    "title": "OBS",
+    "url": "https://obsproject.com/",
+    "icon": "OBSIcon"
+  },
+  {
+    "id": 418,
+    "path": {
+      "light": "src\\library\\svgl\\stack-overflow\\stack-overflow-light.svg"
+    },
+    "checked": false,
+    "title": "Stack Overflow",
+    "url": "https://stackoverflow.com/",
+    "icon": "StackOverflowIcon"
+  },
+  {
+    "id": 419,
+    "path": { "light": "src\\library\\svgl\\tiktok\\tiktok-light.svg" },
+    "checked": false,
+    "title": "TikTok",
+    "url": "https://www.tiktok.com/",
+    "icon": "TikTokIcon"
+  },
+  {
+    "id": 420,
+    "path": {
+      "light": "src\\library\\svgl\\ngrok\\ngrok-light.svg",
+      "dark": "src\\library\\svgl\\ngrok\\ngrok-dark.svg"
+    },
+    "checked": false,
+    "title": "Ngrok",
+    "url": "https://ngrok.com",
+    "icon": "NgrokIcon"
+  },
+  {
+    "id": 421,
+    "path": {
+      "light": "src\\library\\svgl\\lemon-squeezy\\lemon-squeezy-light.svg"
+    },
+    "checked": false,
+    "title": "Lemon Squeezy",
+    "url": "https://www.lemonsqueezy.com",
+    "icon": "LemonSqueezyIcon"
+  },
+  {
+    "id": 422,
+    "path": { "light": "src\\library\\svgl\\asana\\asana-light.svg" },
+    "checked": false,
+    "title": "Asana",
+    "url": "https://asana.com",
+    "icon": "AsanaIcon"
+  },
+  {
+    "id": 423,
+    "path": { "light": "src\\library\\svgl\\upleveled\\upleveled-light.svg" },
+    "checked": false,
+    "title": "UpLeveled",
+    "url": "https://upleveled.io/",
+    "icon": "UpLeveledIcon"
+  },
+  {
+    "id": 424,
+    "path": { "light": "src\\library\\svgl\\zoom\\zoom-light.svg" },
+    "checked": false,
+    "title": "Zoom",
+    "url": "https://zoom.us/",
+    "icon": "ZoomIcon"
+  },
+  {
+    "id": 425,
+    "path": { "light": "src\\library\\svgl\\tina\\tina-light.svg" },
+    "checked": false,
+    "title": "Tina",
+    "url": "https://tina.io/",
+    "icon": "TinaIcon"
+  },
+  {
+    "id": 426,
+    "path": { "light": "src\\library\\svgl\\next.js\\next.js-light.svg" },
+    "checked": false,
+    "title": "Next.js",
+    "url": "https://nextjs.org/",
+    "icon": "NextJsIcon"
+  },
+  {
+    "id": 427,
+    "path": { "light": "src\\library\\svgl\\mistral-ai\\mistral-ai-light.svg" },
+    "checked": false,
+    "title": "Mistral AI",
+    "url": "https://mistral.ai/",
+    "icon": "MistralAIIcon"
+  },
+  {
+    "id": 428,
+    "path": {
+      "light": "src\\library\\svgl\\hugging-face\\hugging-face-light.svg"
+    },
+    "checked": false,
+    "title": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "icon": "HuggingFaceIcon"
+  },
+  {
+    "id": 429,
+    "path": { "light": "src\\library\\svgl\\node.js\\node.js-light.svg" },
+    "checked": false,
+    "title": "Node.js",
+    "url": "https://nodejs.org/",
+    "icon": "NodeJsIcon"
+  },
+  {
+    "id": 430,
+    "path": {
+      "light": "src\\library\\svgl\\raindrop.io\\raindrop.io-light.svg"
+    },
+    "checked": false,
+    "title": "Raindrop.io",
+    "url": "https://raindrop.io/",
+    "icon": "RaindropIoIcon"
+  },
+  {
+    "id": 431,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-todo\\microsoft-todo-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft Todo",
+    "url": "https://to-do.office.com/",
+    "icon": "MicrosoftTodoIcon"
+  },
+  {
+    "id": 432,
+    "path": { "light": "src\\library\\svgl\\manifest\\manifest-light.svg" },
+    "checked": false,
+    "title": "Manifest",
+    "url": "https://manifest.build",
+    "icon": "ManifestIcon"
+  },
+  {
+    "id": 433,
+    "path": { "light": "src\\library\\svgl\\supabase\\supabase-light.svg" },
+    "checked": false,
+    "title": "Supabase",
+    "url": "https://supabase.com/",
+    "icon": "SupabaseIcon"
+  },
+  {
+    "id": 434,
+    "path": { "light": "src\\library\\svgl\\gleam\\gleam-light.svg" },
+    "checked": false,
+    "title": "Gleam",
+    "url": "https://gleam.run/",
+    "icon": "GleamIcon"
+  },
+  {
+    "id": 435,
+    "path": { "light": "src\\library\\svgl\\flowbite\\flowbite-light.svg" },
+    "checked": false,
+    "title": "Flowbite",
+    "url": "https://flowbite.com/",
+    "icon": "FlowbiteIcon"
+  },
+  {
+    "id": 436,
+    "path": { "light": "src\\library\\svgl\\hume-ai\\hume-ai-light.svg" },
+    "checked": false,
+    "title": "Hume AI",
+    "url": "https://hume.ai/",
+    "icon": "HumeAIIcon"
+  },
+  {
+    "id": 437,
+    "path": {
+      "light": "src\\library\\svgl\\resend\\resend-light.svg",
+      "dark": "src\\library\\svgl\\resend\\resend-dark.svg"
+    },
+    "checked": false,
+    "title": "Resend",
+    "url": "https://resend.com/",
+    "icon": "ResendIcon"
+  },
+  {
+    "id": 438,
+    "path": {
+      "light": "src\\library\\svgl\\layers\\layers-light.svg",
+      "dark": "src\\library\\svgl\\layers\\layers-dark.svg"
+    },
+    "checked": false,
+    "title": "Layers",
+    "url": "https://layers.to/",
+    "icon": "LayersIcon"
+  },
+  {
+    "id": 439,
+    "path": { "light": "src\\library\\svgl\\exome\\exome-light.svg" },
+    "checked": false,
+    "title": "Exome",
+    "url": "https://exome.dev/",
+    "icon": "ExomeIcon"
+  },
+  {
+    "id": 440,
+    "path": { "light": "src\\library\\svgl\\poper\\poper-light.svg" },
+    "checked": false,
+    "title": "Poper",
+    "url": "https://www.poper.ai",
+    "icon": "PoperIcon"
+  },
+  {
+    "id": 441,
+    "path": {
+      "light": "src\\library\\svgl\\dub\\dub-light.svg",
+      "dark": "src\\library\\svgl\\dub\\dub-dark.svg"
+    },
+    "checked": false,
+    "title": "Dub",
+    "url": "https://dub.co",
+    "icon": "DubIcon"
+  },
+  {
+    "id": 442,
+    "path": {
+      "light": "src\\library\\svgl\\turso\\turso-light.svg",
+      "dark": "src\\library\\svgl\\turso\\turso-dark.svg"
+    },
+    "checked": false,
+    "title": "Turso",
+    "url": "https://turso.tech",
+    "icon": "TursoIcon"
+  },
+  {
+    "id": 443,
+    "path": {
+      "light": "src\\library\\svgl\\relagit\\relagit-light.svg",
+      "dark": "src\\library\\svgl\\relagit\\relagit-dark.svg"
+    },
+    "checked": false,
+    "title": "RelaGit",
+    "url": "https://rela.dev",
+    "icon": "RelaGitIcon"
+  },
+  {
+    "id": 444,
+    "path": {
+      "light": "src\\library\\svgl\\t3-stack\\t3-stack-light.svg",
+      "dark": "src\\library\\svgl\\t3-stack\\t3-stack-dark.svg"
+    },
+    "checked": false,
+    "title": "T3 Stack",
+    "url": "https://create.t3.gg/",
+    "icon": "T3StackIcon"
+  },
+  {
+    "id": 445,
+    "path": {
+      "light": "src\\library\\svgl\\apple-music\\apple-music-light.svg"
+    },
+    "checked": false,
+    "title": "Apple Music",
+    "url": "https://music.apple.com/",
+    "icon": "AppleMusicIcon"
+  },
+  {
+    "id": 446,
+    "path": { "light": "src\\library\\svgl\\ygeeker\\ygeeker-light.svg" },
+    "checked": false,
+    "title": "YGeeker",
+    "url": "https://www.ygeeker.com",
+    "icon": "YGeekerIcon"
+  },
+  {
+    "id": 447,
+    "path": { "light": "src\\library\\svgl\\postcss\\postcss-light.svg" },
+    "checked": false,
+    "title": "PostCSS",
+    "url": "https://postcss.org/",
+    "icon": "PostCSSIcon"
+  },
+  {
+    "id": 448,
+    "path": { "light": "src\\library\\svgl\\svg\\svg-light.svg" },
+    "checked": false,
+    "title": "SVG",
+    "url": "https://www.w3.org/TR/SVG/",
+    "icon": "SVGIcon"
+  },
+  {
+    "id": 449,
+    "path": { "light": "src\\library\\svgl\\todoist\\todoist-light.svg" },
+    "checked": false,
+    "title": "Todoist",
+    "url": "https://todoist.com/",
+    "icon": "TodoistIcon"
+  },
+  {
+    "id": 450,
+    "path": { "light": "src\\library\\svgl\\apidog\\apidog-light.svg" },
+    "checked": false,
+    "title": "Apidog",
+    "url": "https://apidog.com/",
+    "icon": "ApidogIcon"
+  },
+  {
+    "id": 451,
+    "path": { "light": "src\\library\\svgl\\chart.js\\chart.js-light.svg" },
+    "checked": false,
+    "title": "Chart.js",
+    "url": "https://www.chartjs.org/",
+    "icon": "ChartJsIcon"
+  },
+  {
+    "id": 452,
+    "path": {
+      "light": "src\\library\\svgl\\json-schema\\json-schema-light.svg"
+    },
+    "checked": false,
+    "title": "JSON Schema",
+    "url": "https://json-schema.org/",
+    "icon": "JSONSchemaIcon"
+  },
+  {
+    "id": 453,
+    "path": {
+      "light": "src\\library\\svgl\\v0\\v0-light.svg",
+      "dark": "src\\library\\svgl\\v0\\v0-dark.svg"
+    },
+    "checked": false,
+    "title": "v0",
+    "url": "https://v0.dev/",
+    "icon": "V0Icon"
+  },
+  {
+    "id": 454,
+    "path": { "light": "src\\library\\svgl\\bento\\bento-light.svg" },
+    "checked": false,
+    "title": "Bento",
+    "url": "https://bento.me/home",
+    "icon": "BentoIcon"
+  },
+  {
+    "id": 455,
+    "path": { "light": "src\\library\\svgl\\firebase\\firebase-light.svg" },
+    "checked": false,
+    "title": "Firebase",
+    "url": "https://firebase.google.com/",
+    "icon": "FirebaseIcon"
+  },
+  {
+    "id": 456,
+    "path": {
+      "light": "src\\library\\svgl\\prettier\\prettier-light.svg",
+      "dark": "src\\library\\svgl\\prettier\\prettier-dark.svg"
+    },
+    "checked": false,
+    "title": "Prettier",
+    "url": "https://prettier.io/",
+    "icon": "PrettierIcon"
+  },
+  {
+    "id": 457,
+    "path": {
+      "light": "src\\library\\svgl\\leap-wallet\\leap-wallet-light.svg"
+    },
+    "checked": false,
+    "title": "Leap Wallet",
+    "url": "https://leapwallet.io/",
+    "icon": "LeapWalletIcon"
+  },
+  {
+    "id": 458,
+    "path": {
+      "light": "src\\library\\svgl\\nx\\nx-light.svg",
+      "dark": "src\\library\\svgl\\nx\\nx-dark.svg"
+    },
+    "checked": false,
+    "title": "Nx",
+    "url": "https://nx.dev",
+    "icon": "NxIcon"
+  },
+  {
+    "id": 459,
+    "path": {
+      "light": "src\\library\\svgl\\google-colaboratory\\google-colaboratory-light.svg"
+    },
+    "checked": false,
+    "title": "Google Colaboratory",
+    "url": "https://colab.research.google.com/",
+    "icon": "GoogleColaboratoryIcon"
+  },
+  {
+    "id": 460,
+    "path": {
+      "light": "src\\library\\svgl\\raspberry-pi\\raspberry-pi-light.svg"
+    },
+    "checked": false,
+    "title": "Raspberry PI",
+    "url": "https://www.raspberrypi.com/",
+    "icon": "RaspberryPIIcon"
+  },
+  {
+    "id": 461,
+    "path": { "light": "src\\library\\svgl\\vite\\vite-light.svg" },
+    "checked": false,
+    "title": "Vite",
+    "url": "https://vitejs.dev",
+    "icon": "ViteIcon"
+  },
+  {
+    "id": 462,
+    "path": { "light": "src\\library\\svgl\\vitest\\vitest-light.svg" },
+    "checked": false,
+    "title": "Vitest",
+    "url": "https://vitest.dev/",
+    "icon": "VitestIcon"
+  },
+  {
+    "id": 463,
+    "path": { "light": "src\\library\\svgl\\oxc\\oxc-light.svg" },
+    "checked": false,
+    "title": "Oxc",
+    "url": "https://oxc.rs/",
+    "icon": "OxcIcon"
+  },
+  {
+    "id": 464,
+    "path": { "light": "src\\library\\svgl\\rolldown\\rolldown-light.svg" },
+    "checked": false,
+    "title": "Rolldown",
+    "url": "https://rolldown.rs/",
+    "icon": "RolldownIcon"
+  },
+  {
+    "id": 465,
+    "path": { "light": "src\\library\\svgl\\manzdev\\manzdev-light.svg" },
+    "checked": false,
+    "title": "ManzDev",
+    "url": "https://manz.dev/",
+    "icon": "ManzDevIcon"
+  },
+  {
+    "id": 466,
+    "path": {
+      "light": "src\\library\\svgl\\afordin\\afordin-light.svg",
+      "dark": "src\\library\\svgl\\afordin\\afordin-dark.svg"
+    },
+    "checked": false,
+    "title": "Afordin",
+    "url": "https://github.com/Afordin",
+    "icon": "AfordinIcon"
+  },
+  {
+    "id": 467,
+    "path": { "light": "src\\library\\svgl\\mediawiki\\mediawiki-light.svg" },
+    "checked": false,
+    "title": "MediaWiki",
+    "url": "https://www.mediawiki.org/",
+    "icon": "MediaWikiIcon"
+  },
+  {
+    "id": 468,
+    "path": { "light": "src\\library\\svgl\\carrd\\carrd-light.svg" },
+    "checked": false,
+    "title": "Carrd",
+    "url": "https://carrd.co/",
+    "icon": "CarrdIcon"
+  },
+  {
+    "id": 469,
+    "path": { "light": "src\\library\\svgl\\claude-ai\\claude-ai-light.svg" },
+    "checked": false,
+    "title": "Claude AI",
+    "url": "https://claude.ai/",
+    "icon": "ClaudeAIIcon"
+  },
+  {
+    "id": 470,
+    "path": { "light": "src\\library\\svgl\\unocss\\unocss-light.svg" },
+    "checked": false,
+    "title": "UnoCSS",
+    "url": "https://unocss.dev/",
+    "icon": "UnoCSSIcon"
+  },
+  {
+    "id": 471,
+    "path": { "light": "src\\library\\svgl\\trpc\\trpc-light.svg" },
+    "checked": false,
+    "title": "tRPC",
+    "url": "https://trpc.io/",
+    "icon": "TRPCIcon"
+  },
+  {
+    "id": 472,
+    "path": { "light": "src\\library\\svgl\\bluesky\\bluesky-light.svg" },
+    "checked": false,
+    "title": "Bluesky",
+    "url": "https://blueskyweb.xyz/",
+    "icon": "BlueskyIcon"
+  },
+  {
+    "id": 473,
+    "path": {
+      "light": "src\\library\\svgl\\drizzle-orm\\drizzle-orm-light.svg",
+      "dark": "src\\library\\svgl\\drizzle-orm\\drizzle-orm-dark.svg"
+    },
+    "checked": false,
+    "title": "Drizzle ORM",
+    "url": "https://orm.drizzle.team/",
+    "icon": "DrizzleORMIcon"
+  },
+  {
+    "id": 474,
+    "path": {
+      "light": "src\\library\\svgl\\daily.dev\\daily.dev-light.svg",
+      "dark": "src\\library\\svgl\\daily.dev\\daily.dev-dark.svg"
+    },
+    "checked": false,
+    "title": "daily.dev",
+    "url": "https://daily.dev/",
+    "icon": "DailyDevIcon"
+  },
+  {
+    "id": 475,
+    "path": { "light": "src\\library\\svgl\\polars\\polars-light.svg" },
+    "checked": false,
+    "title": "Polars",
+    "url": "https://pola.rs/",
+    "icon": "PolarsIcon"
+  },
+  {
+    "id": 476,
+    "path": {
+      "light": "src\\library\\svgl\\zed\\zed-light.svg",
+      "dark": "src\\library\\svgl\\zed\\zed-dark.svg"
+    },
+    "checked": false,
+    "title": "Zed",
+    "url": "https://zed.dev/",
+    "icon": "ZedIcon"
+  },
+  {
+    "id": 477,
+    "path": {
+      "light": "src\\library\\svgl\\polar\\polar-light.svg",
+      "dark": "src\\library\\svgl\\polar\\polar-dark.svg"
+    },
+    "checked": false,
+    "title": "Polar",
+    "url": "https://polar.sh/",
+    "icon": "PolarIcon"
+  },
+  {
+    "id": 478,
+    "path": {
+      "light": "src\\library\\svgl\\bolt\\bolt-light.svg",
+      "dark": "src\\library\\svgl\\bolt\\bolt-dark.svg"
+    },
+    "checked": false,
+    "title": "bolt",
+    "url": "https://bolt.new/",
+    "icon": "BoltIcon"
+  },
+  {
+    "id": 479,
+    "path": { "light": "src\\library\\svgl\\json\\json-light.svg" },
+    "checked": false,
+    "title": "JSON",
+    "url": "https://json.org/",
+    "icon": "JSONIcon"
+  },
+  {
+    "id": 480,
+    "path": {
+      "light": "src\\library\\svgl\\nuqs\\nuqs-light.svg",
+      "dark": "src\\library\\svgl\\nuqs\\nuqs-dark.svg"
+    },
+    "checked": false,
+    "title": "nuqs",
+    "url": "https://nuqs.47ng.com/",
+    "icon": "NuqsIcon"
+  },
+  {
+    "id": 481,
+    "path": {
+      "light": "src\\library\\svgl\\soundcloud\\soundcloud-light.svg",
+      "dark": "src\\library\\svgl\\soundcloud\\soundcloud-dark.svg"
+    },
+    "checked": false,
+    "title": "SoundCloud",
+    "url": "https://soundcloud.com/",
+    "icon": "SoundCloudIcon"
+  },
+  {
+    "id": 482,
+    "path": {
+      "light": "src\\library\\svgl\\mermaid\\mermaid-light.svg",
+      "dark": "src\\library\\svgl\\mermaid\\mermaid-dark.svg"
+    },
+    "checked": false,
+    "title": "Mermaid",
+    "url": "https://mermaid.js.org/",
+    "icon": "MermaidIcon"
+  },
+  {
+    "id": 483,
+    "path": {
+      "light": "src\\library\\svgl\\home-assistant\\home-assistant-light.svg"
+    },
+    "checked": false,
+    "title": "Home Assistant",
+    "url": "https://github.com/home-assistant/assets/tree/master/logo",
+    "icon": "HomeAssistantIcon"
+  },
+  {
+    "id": 484,
+    "path": {
+      "light": "src\\library\\svgl\\uxanarangel\\uxanarangel-light.svg",
+      "dark": "src\\library\\svgl\\uxanarangel\\uxanarangel-dark.svg"
+    },
+    "checked": false,
+    "title": "UXAnaRangel",
+    "url": "https://uxanarangel.com/",
+    "icon": "UXAnaRangelIcon"
+  },
+  {
+    "id": 485,
+    "path": {
+      "light": "src\\library\\svgl\\uxcorprangel\\uxcorprangel-light.svg",
+      "dark": "src\\library\\svgl\\uxcorprangel\\uxcorprangel-dark.svg"
+    },
+    "checked": false,
+    "title": "UXCorpRangel",
+    "url": "https://github.com/UXCorpRangel/",
+    "icon": "UXCorpRangelIcon"
+  },
+  {
+    "id": 486,
+    "path": { "light": "src\\library\\svgl\\posthog\\posthog-light.svg" },
+    "checked": false,
+    "title": "PostHog",
+    "url": "https://posthog.com/",
+    "icon": "PostHogIcon"
+  },
+  {
+    "id": 487,
+    "path": { "light": "src\\library\\svgl\\powertoys\\powertoys-light.svg" },
+    "checked": false,
+    "title": "PowerToys",
+    "url": "https://learn.microsoft.com/en-us/windows/powertoys/",
+    "icon": "PowerToysIcon"
+  },
+  {
+    "id": 488,
+    "path": { "light": "src\\library\\svgl\\powershell\\powershell-light.svg" },
+    "checked": false,
+    "title": "PowerShell",
+    "url": "https://learn.microsoft.com/en-us/powershell/",
+    "icon": "PowerShellIcon"
+  },
+  {
+    "id": 489,
+    "path": { "light": "src\\library\\svgl\\lottielab\\lottielab-light.svg" },
+    "checked": false,
+    "title": "Lottielab",
+    "url": "https://www.lottielab.com/",
+    "icon": "LottielabIcon"
+  },
+  {
+    "id": 490,
+    "path": { "light": "src\\library\\svgl\\tanstack\\tanstack-light.svg" },
+    "checked": false,
+    "title": "TanStack",
+    "url": "https://tanstack.com/",
+    "icon": "TanStackIcon"
+  },
+  {
+    "id": 491,
+    "path": {
+      "light": "src\\library\\svgl\\typegpu\\typegpu-light.svg",
+      "dark": "src\\library\\svgl\\typegpu\\typegpu-dark.svg"
+    },
+    "checked": false,
+    "title": "TypeGPU",
+    "url": "https://typegpu.com",
+    "icon": "TypeGPUIcon"
+  },
+  {
+    "id": 492,
+    "path": {
+      "light": "src\\library\\svgl\\microsoft-.net\\microsoft-.net-light.svg"
+    },
+    "checked": false,
+    "title": "Microsoft .NET",
+    "url": "https://dotnet.microsoft.com",
+    "icon": "MicrosoftNETIcon"
+  },
+  {
+    "id": 493,
+    "path": { "light": "src\\library\\svgl\\dotenv\\dotenv-light.svg" },
+    "checked": false,
+    "title": "dotenv",
+    "url": "https://github.com/motdotla/dotenv",
+    "icon": "DotenvIcon"
+  },
+  {
+    "id": 494,
+    "path": { "light": "src\\library\\svgl\\dotenvx\\dotenvx-light.svg" },
+    "checked": false,
+    "title": "dotenvx",
+    "url": "https://dotenvx.com",
+    "icon": "DotenvxIcon"
+  },
+  {
+    "id": 495,
+    "path": {
+      "light": "src\\library\\svgl\\motion\\motion-light.svg",
+      "dark": "src\\library\\svgl\\motion\\motion-dark.svg"
+    },
+    "checked": false,
+    "title": "Motion",
+    "url": "https://motion.dev/",
+    "icon": "MotionIcon"
+  },
+  {
+    "id": 496,
+    "path": { "light": "src\\library\\svgl\\keycloak\\keycloak-light.svg" },
+    "checked": false,
+    "title": "Keycloak",
+    "url": "https://keycloak.org",
+    "icon": "KeycloakIcon"
+  },
+  {
+    "id": 497,
+    "path": { "light": "src\\library\\svgl\\deepseek\\deepseek-light.svg" },
+    "checked": false,
+    "title": "DeepSeek",
+    "url": "https://deepseek.com/",
+    "icon": "DeepSeekIcon"
+  },
+  {
+    "id": 498,
+    "path": { "light": "src\\library\\svgl\\shiki\\shiki-light.svg" },
+    "checked": false,
+    "title": "Shiki",
+    "url": "https://shiki.style/",
+    "icon": "ShikiIcon"
+  },
+  {
+    "id": 499,
+    "path": { "light": "src\\library\\svgl\\dropbox\\dropbox-light.svg" },
+    "checked": false,
+    "title": "Dropbox",
+    "url": "https://www.dropbox.com/",
+    "icon": "DropboxIcon"
+  },
+  {
+    "id": 500,
+    "path": { "light": "src\\library\\svgl\\open-webui\\open-webui-light.svg" },
+    "checked": false,
+    "title": "Open WebUI",
+    "url": "https://openwebui.com/",
+    "icon": "OpenWebUIIcon"
+  },
+  {
+    "id": 501,
+    "path": {
+      "light": "src\\library\\svgl\\base-ui\\base-ui-light.svg",
+      "dark": "src\\library\\svgl\\base-ui\\base-ui-dark.svg"
+    },
+    "checked": false,
+    "title": "Base UI",
+    "url": "https://base-ui.com/",
+    "icon": "BaseUIIcon"
+  },
+  {
+    "id": 502,
+    "path": {
+      "light": "src\\library\\svgl\\vercel\\vercel-light.svg",
+      "dark": "src\\library\\svgl\\vercel\\vercel-dark.svg"
+    },
+    "checked": true,
+    "title": "Vercel",
+    "url": "https://vercel.com/",
+    "icon": "VercelIcon"
+  },
+  {
+    "id": 503,
+    "path": {
+      "light": "src\\library\\svgl\\model-context-protocol\\model-context-protocol-light.svg",
+      "dark": "src\\library\\svgl\\model-context-protocol\\model-context-protocol-dark.svg"
+    },
+    "checked": false,
+    "title": "Model Context Protocol",
+    "url": "https://modelcontextprotocol.io/",
+    "icon": "ModelContextProtocolIcon"
+  },
+  {
+    "id": 504,
+    "path": {
+      "light": "src\\library\\svgl\\socket.io\\socket.io-light.svg",
+      "dark": "src\\library\\svgl\\socket.io\\socket.io-dark.svg"
+    },
+    "checked": false,
+    "title": "Socket.IO",
+    "url": "https://socket.io",
+    "icon": "SocketIOIcon"
+  },
+  {
+    "id": 505,
+    "path": { "light": "src\\library\\svgl\\ant-design\\ant-design-light.svg" },
+    "checked": false,
+    "title": "Ant Design",
+    "url": "https://ant.design/",
+    "icon": "AntDesignIcon"
+  },
+  {
+    "id": 506,
+    "path": { "light": "src\\library\\svgl\\vscodium\\vscodium-light.svg" },
+    "checked": false,
+    "title": "VSCodium",
+    "url": "https://vscodium.com/",
+    "icon": "VSCodiumIcon"
+  },
+  {
+    "id": 507,
+    "path": {
+      "light": "src\\library\\svgl\\zen-browser\\zen-browser-light.svg",
+      "dark": "src\\library\\svgl\\zen-browser\\zen-browser-dark.svg"
+    },
+    "checked": false,
+    "title": "Zen Browser",
+    "url": "https://zen-browser.app/",
+    "icon": "ZenBrowserIcon"
+  },
+  {
+    "id": 508,
+    "path": { "light": "src\\library\\svgl\\gemini\\gemini-light.svg" },
+    "checked": false,
+    "title": "Gemini",
+    "url": "https://gemini.google.com/",
+    "icon": "GeminiIcon"
+  },
+  {
+    "id": 509,
+    "path": {
+      "light": "src\\library\\svgl\\xai-(grok)\\xai-(grok)-light.svg",
+      "dark": "src\\library\\svgl\\xai-(grok)\\xai-(grok)-dark.svg"
+    },
+    "checked": false,
+    "title": "xAI (Grok)",
+    "url": "https://grok.com/",
+    "icon": "XAIGrokIcon"
+  },
+  {
+    "id": 510,
+    "path": {
+      "light": "src\\library\\svgl\\qwen\\qwen-light.svg",
+      "dark": "src\\library\\svgl\\qwen\\qwen-dark.svg"
+    },
+    "checked": false,
+    "title": "Qwen",
+    "url": "https://chat.qwenlm.ai/",
+    "icon": "QwenIcon"
+  },
+  {
+    "id": 511,
+    "path": {
+      "light": "src\\library\\svgl\\inflection-ai\\inflection-ai-light.svg",
+      "dark": "src\\library\\svgl\\inflection-ai\\inflection-ai-dark.svg"
+    },
+    "checked": false,
+    "title": "Inflection AI",
+    "url": "https://inflection.ai/",
+    "icon": "InflectionAIIcon"
+  },
+  {
+    "id": 512,
+    "path": { "light": "src\\library\\svgl\\d3.js\\d3.js-light.svg" },
+    "checked": false,
+    "title": "D3.js",
+    "url": "https://d3js.org/",
+    "icon": "D3JsIcon"
+  },
+  {
+    "id": 513,
+    "path": {
+      "light": "src\\library\\svgl\\anthropic\\anthropic-light.svg",
+      "dark": "src\\library\\svgl\\anthropic\\anthropic-dark.svg"
+    },
+    "checked": false,
+    "title": "Anthropic",
+    "url": "https://www.anthropic.com/",
+    "icon": "AnthropicIcon"
+  },
+  {
+    "id": 514,
+    "path": { "light": "src\\library\\svgl\\replit\\replit-light.svg" },
+    "checked": false,
+    "title": "Replit",
+    "url": "https://replit.com/",
+    "icon": "ReplitIcon"
+  },
+  {
+    "id": 515,
+    "path": { "light": "src\\library\\svgl\\magic-ui\\magic-ui-light.svg" },
+    "checked": false,
+    "title": "Magic UI",
+    "url": "https://magicui.design/",
+    "icon": "MagicUIIcon"
+  },
+  {
+    "id": 516,
+    "path": {
+      "light": "src\\library\\svgl\\web-components\\web-components-light.svg"
+    },
+    "checked": false,
+    "title": "Web Components",
+    "url": "https://www.webcomponents.org/",
+    "icon": "WebComponentsIcon"
+  },
+  {
+    "id": 517,
+    "path": { "light": "src\\library\\svgl\\designali\\designali-light.svg" },
+    "checked": false,
+    "title": "Designali",
+    "url": "https://designali.in",
+    "icon": "DesignaliIcon"
+  },
+  {
+    "id": 518,
+    "path": {
+      "light": "src\\library\\svgl\\curseforge\\curseforge-light.svg",
+      "dark": "src\\library\\svgl\\curseforge\\curseforge-dark.svg"
+    },
+    "checked": false,
+    "title": "CurseForge",
+    "url": "https://curseforge.com/",
+    "icon": "CurseForgeIcon"
+  },
+  {
+    "id": 519,
+    "path": { "light": "src\\library\\svgl\\ghostty\\ghostty-light.svg" },
+    "checked": false,
+    "title": "Ghostty",
+    "url": "https://ghostty.org/",
+    "icon": "GhosttyIcon"
+  },
+  {
+    "id": 520,
+    "path": {
+      "light": "src\\library\\svgl\\better-auth\\better-auth-light.svg",
+      "dark": "src\\library\\svgl\\better-auth\\better-auth-dark.svg"
+    },
+    "checked": false,
+    "title": "Better Auth",
+    "url": "https://www.better-auth.com/",
+    "icon": "BetterAuthIcon"
+  },
+  {
+    "id": 521,
+    "path": {
+      "light": "src\\library\\svgl\\buy-me-a-coffee\\buy-me-a-coffee-light.svg"
+    },
+    "checked": false,
+    "title": "Buy Me a Coffee",
+    "url": "https://buymeacoffee.com/",
+    "icon": "BuyMeACoffeeIcon"
+  },
+  {
+    "id": 522,
+    "path": {
+      "light": "src\\library\\svgl\\github\\github-light.svg",
+      "dark": "src\\library\\svgl\\github\\github-dark.svg"
+    },
+    "checked": false,
+    "title": "GitHub",
+    "url": "https://github.com/",
+    "icon": "GitHubIcon"
+  },
+  {
+    "id": 523,
+    "path": {
+      "light": "src\\library\\svgl\\firebase-studio\\firebase-studio-light.svg"
+    },
+    "checked": false,
+    "title": "Firebase Studio",
+    "url": "https://firebase.studio/",
+    "icon": "FirebaseStudioIcon"
+  },
+  {
+    "id": 524,
+    "path": { "light": "src\\library\\svgl\\dingocoin\\dingocoin-light.svg" },
+    "checked": false,
+    "title": "Dingocoin",
+    "url": "https://dingocoin.com/",
+    "icon": "DingocoinIcon"
+  },
+  {
+    "id": 525,
+    "path": {
+      "light": "src\\library\\svgl\\heroui\\heroui-light.svg",
+      "dark": "src\\library\\svgl\\heroui\\heroui-dark.svg"
+    },
+    "checked": false,
+    "title": "HeroUI",
+    "url": "https://www.heroui.com/",
+    "icon": "HeroUIIcon"
+  },
+  {
+    "id": 526,
+    "path": { "light": "src\\library\\svgl\\convex\\convex-light.svg" },
+    "checked": false,
+    "title": "Convex",
+    "url": "https://www.convex.dev/",
+    "icon": "ConvexIcon"
+  },
+  {
+    "id": 527,
+    "path": {
+      "light": "src\\library\\svgl\\clerk\\clerk-light.svg",
+      "dark": "src\\library\\svgl\\clerk\\clerk-dark.svg"
+    },
+    "checked": false,
+    "title": "Clerk",
+    "url": "https://clerk.com",
+    "icon": "ClerkIcon"
+  },
+  {
+    "id": 528,
+    "path": { "light": "src\\library\\svgl\\terraform\\terraform-light.svg" },
+    "checked": false,
+    "title": "Terraform",
+    "url": "https://terraform.io",
+    "icon": "TerraformIcon"
+  },
+  {
+    "id": 529,
+    "path": { "light": "src\\library\\svgl\\rspack\\rspack-light.svg" },
+    "checked": false,
+    "title": "Rspack",
+    "url": "https://rspack.rs/",
+    "icon": "RspackIcon"
+  },
+  {
+    "id": 530,
+    "path": { "light": "src\\library\\svgl\\rsbuild\\rsbuild-light.svg" },
+    "checked": false,
+    "title": "Rsbuild",
+    "url": "https://rsbuild.rs",
+    "icon": "RsbuildIcon"
+  },
+  {
+    "id": 531,
+    "path": {
+      "light": "src\\library\\svgl\\react-wheel-picker\\react-wheel-picker-light.svg",
+      "dark": "src\\library\\svgl\\react-wheel-picker\\react-wheel-picker-dark.svg"
+    },
+    "checked": false,
+    "title": "React Wheel Picker",
+    "url": "https://react-wheel-picker.chanhdai.com",
+    "icon": "ReactWheelPickerIcon"
+  },
+  {
+    "id": 532,
+    "path": { "light": "src\\library\\svgl\\cpanel\\cpanel-light.svg" },
+    "checked": false,
+    "title": "cPanel",
+    "url": "https://cpanel.net/",
+    "icon": "CPanelIcon"
+  },
+  {
+    "id": 533,
+    "path": { "light": "src\\library\\svgl\\lovable\\lovable-light.svg" },
+    "checked": false,
+    "title": "Lovable",
+    "url": "https://lovable.dev/",
+    "icon": "LovableIcon"
+  },
+  {
+    "id": 534,
+    "path": {
+      "light": "src\\library\\svgl\\mocha\\mocha-light.svg",
+      "dark": "src\\library\\svgl\\mocha\\mocha-dark.svg"
+    },
+    "checked": false,
+    "title": "Mocha",
+    "url": "https://getmocha.com/",
+    "icon": "MochaIcon"
+  },
+  {
+    "id": 535,
+    "path": {
+      "light": "src\\library\\svgl\\openrouter\\openrouter-light.svg",
+      "dark": "src\\library\\svgl\\openrouter\\openrouter-dark.svg"
+    },
+    "checked": false,
+    "title": "OpenRouter",
+    "url": "https://openrouter.ai/",
+    "icon": "OpenRouterIcon"
+  },
+  {
+    "id": 536,
+    "path": { "light": "src\\library\\svgl\\openhunts\\openhunts-light.svg" },
+    "checked": false,
+    "title": "OpenHunts",
+    "url": "https://openhunts.com",
+    "icon": "OpenHuntsIcon"
+  },
+  {
+    "id": 537,
+    "path": {
+      "light": "src\\library\\svgl\\kokonut-ui\\kokonut-ui-light.svg",
+      "dark": "src\\library\\svgl\\kokonut-ui\\kokonut-ui-dark.svg"
+    },
+    "checked": false,
+    "title": "Kokonut UI",
+    "url": "https://kokonutui.com/",
+    "icon": "KokonutUIIcon"
+  },
+  {
+    "id": 538,
+    "path": {
+      "light": "src\\library\\svgl\\google-cloud\\google-cloud-light.svg"
+    },
+    "checked": false,
+    "title": "Google Cloud",
+    "url": "https://cloud.google.com/",
+    "icon": "GoogleCloudIcon"
+  },
+  {
+    "id": 539,
+    "path": { "light": "src\\library\\svgl\\zulip\\zulip-light.svg" },
+    "checked": false,
+    "title": "Zulip",
+    "url": "https://zulip.com/",
+    "icon": "ZulipIcon"
+  },
+  {
+    "id": 540,
+    "path": {
+      "light": "src\\library\\svgl\\effect-ts\\effect-ts-light.svg",
+      "dark": "src\\library\\svgl\\effect-ts\\effect-ts-dark.svg"
+    },
+    "checked": false,
+    "title": "Effect TS",
+    "url": "https://effect.website/",
+    "icon": "EffectTSIcon"
+  },
+  {
+    "id": 541,
+    "path": { "light": "src\\library\\svgl\\ark-ui\\ark-ui-light.svg" },
+    "checked": false,
+    "title": "Ark UI",
+    "url": "https://ark-ui.com/",
+    "icon": "ArkUIIcon"
+  },
+  {
+    "id": 542,
+    "path": { "light": "src\\library\\svgl\\mantine\\mantine-light.svg" },
+    "checked": false,
+    "title": "Mantine",
+    "url": "https://mantine.dev",
+    "icon": "MantineIcon"
+  },
+  {
+    "id": 543,
+    "path": {
+      "light": "src\\library\\svgl\\eslint\\eslint-light.svg",
+      "dark": "src\\library\\svgl\\eslint\\eslint-dark.svg"
+    },
+    "checked": false,
+    "title": "ESLint",
+    "url": "https://eslint.org",
+    "icon": "ESLintIcon"
+  },
+  {
+    "id": 544,
+    "path": {
+      "light": "src\\library\\svgl\\apache-kafka\\apache-kafka-light.svg",
+      "dark": "src\\library\\svgl\\apache-kafka\\apache-kafka-dark.svg"
+    },
+    "checked": false,
+    "title": "Apache Kafka",
+    "url": "https://kafka.apache.org/",
+    "icon": "ApacheKafkaIcon"
+  },
+  {
+    "id": 545,
+    "path": {
+      "light": "src\\library\\svgl\\plainsignal\\plainsignal-light.svg"
+    },
+    "checked": false,
+    "title": "PlainSignal",
+    "url": "https://plainsignal.com/",
+    "icon": "PlainSignalIcon"
+  },
+  {
+    "id": 546,
+    "path": { "light": "src\\library\\svgl\\heptabase\\heptabase-light.svg" },
+    "checked": false,
+    "title": "Heptabase",
+    "url": "https://heptabase.com/",
+    "icon": "HeptabaseIcon"
+  },
+  {
+    "id": 547,
+    "path": { "light": "src\\library\\svgl\\unjs\\unjs-light.svg" },
+    "checked": false,
+    "title": "UnJS",
+    "url": "https://unjs.io/",
+    "icon": "UnJSIcon"
+  },
+  {
+    "id": 548,
+    "path": { "light": "src\\library\\svgl\\powersync\\powersync-light.svg" },
+    "checked": false,
+    "title": "PowerSync",
+    "url": "https://powersync.com/",
+    "icon": "PowerSyncIcon"
+  },
+  {
+    "id": 549,
+    "path": { "light": "src\\library\\svgl\\n8n\\n8n-light.svg" },
+    "checked": false,
+    "title": "n8n",
+    "url": "https://n8n.io/",
+    "icon": "N8nIcon"
+  },
+  {
+    "id": 550,
+    "path": {
+      "light": "src\\library\\svgl\\kibo-ui\\kibo-ui-light.svg",
+      "dark": "src\\library\\svgl\\kibo-ui\\kibo-ui-dark.svg"
+    },
+    "checked": false,
+    "title": "Kibo UI",
+    "url": "https://kibo-ui.com/",
+    "icon": "KiboUIIcon"
+  },
+  {
+    "id": 551,
+    "path": { "light": "src\\library\\svgl\\ahrefs\\ahrefs-light.svg" },
+    "checked": false,
+    "title": "Ahrefs",
+    "url": "https://ahrefs.com/",
+    "icon": "AhrefsIcon"
+  },
+  {
+    "id": 552,
+    "path": {
+      "light": "src\\library\\svgl\\google-maps\\google-maps-light.svg"
+    },
+    "checked": false,
+    "title": "Google Maps",
+    "url": "https://www.google.com/maps/",
+    "icon": "GoogleMapsIcon"
+  },
+  {
+    "id": 553,
+    "path": {
+      "light": "src\\library\\svgl\\webgl\\webgl-light.svg",
+      "dark": "src\\library\\svgl\\webgl\\webgl-dark.svg"
+    },
+    "checked": false,
+    "title": "WebGL",
+    "url": "https://www.khronos.org/webgl/",
+    "icon": "WebGLIcon"
+  },
+  {
+    "id": 554,
+    "path": {
+      "light": "src\\library\\svgl\\intello\\intello-light.svg",
+      "dark": "src\\library\\svgl\\intello\\intello-dark.svg"
+    },
+    "checked": false,
+    "title": "Intello",
+    "url": "https://intelloai.com/",
+    "icon": "IntelloIcon"
+  },
+  {
+    "id": 555,
+    "path": {
+      "light": "src\\library\\svgl\\kilo-code\\kilo-code-light.svg",
+      "dark": "src\\library\\svgl\\kilo-code\\kilo-code-dark.svg"
+    },
+    "checked": false,
+    "title": "Kilo Code",
+    "url": "https://kilocode.ai/",
+    "icon": "KiloCodeIcon"
+  },
+  {
+    "id": 556,
+    "path": {
+      "light": "src\\library\\svgl\\cursor\\cursor-light.svg",
+      "dark": "src\\library\\svgl\\cursor\\cursor-dark.svg"
+    },
+    "checked": false,
+    "title": "Cursor",
+    "url": "https://www.cursor.com",
+    "icon": "CursorIcon"
+  },
+  {
+    "id": 557,
+    "path": {
+      "light": "src\\library\\svgl\\lottiefiles\\lottiefiles-light.svg"
+    },
+    "checked": false,
+    "title": "LottieFiles",
+    "url": "https://lottiefiles.com/",
+    "icon": "LottieFilesIcon"
+  },
+  {
+    "id": 558,
+    "path": { "light": "src\\library\\svgl\\mintlify\\mintlify-light.svg" },
+    "checked": false,
+    "title": "Mintlify",
+    "url": "https://mintlify.com/",
+    "icon": "MintlifyIcon"
+  },
+  {
+    "id": 559,
+    "path": {
+      "light": "src\\library\\svgl\\qdrant\\qdrant-light.svg",
+      "dark": "src\\library\\svgl\\qdrant\\qdrant-dark.svg"
+    },
+    "checked": false,
+    "title": "Qdrant",
+    "url": "https://qdrant.tech/",
+    "icon": "QdrantIcon"
+  },
+  {
+    "id": 560,
+    "path": {
+      "light": "src\\library\\svgl\\travelperk\\travelperk-light.svg",
+      "dark": "src\\library\\svgl\\travelperk\\travelperk-dark.svg"
+    },
+    "checked": false,
+    "title": "TravelPerk",
+    "url": "https://www.travelperk.com/",
+    "icon": "TravelPerkIcon"
+  },
+  {
+    "id": 561,
+    "path": {
+      "light": "src\\library\\svgl\\sanity\\sanity-light.svg",
+      "dark": "src\\library\\svgl\\sanity\\sanity-dark.svg"
+    },
+    "checked": false,
+    "title": "Sanity",
+    "url": "https://www.sanity.io/",
+    "icon": "SanityIcon"
+  },
+  {
+    "id": 562,
+    "path": { "light": "src\\library\\svgl\\nginx\\nginx-light.svg" },
+    "checked": false,
+    "title": "Nginx",
+    "url": "https://nginx.org/",
+    "icon": "NginxIcon"
+  }
+]
