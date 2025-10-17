@@ -2,8 +2,8 @@ import fs from 'fs';
 import path from 'path';
 import prettier from 'prettier';
 import { reactifySvg } from './svg';
-import { pascalCase } from './helpers';
 import { iSvgMetadata } from '../types';
+import { pascalCase } from '../helpers';
 
 const ICONS_OUTPUT_DIR = path.join(__dirname, '../icons');
 const ALIASES_PATH = path.join(__dirname, '../library/aliases.json');

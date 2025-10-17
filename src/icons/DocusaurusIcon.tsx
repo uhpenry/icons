@@ -14,11 +14,11 @@ export const DocusaurusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <defs>
         <path
           d="M4.883.09v1.08a1 1 0 01-1 1H1a1 1 0 01-1-1V.09h4.883z"
-          id="icon_dtr15lc_a"
+          id="icon_miu7act_a"
         />
         <path
           d="M4.883.09v1.08a1 1 0 01-1 1H1a1 1 0 01-1-1V.09h4.883z"
-          id="icon_dtr15lc_b"
+          id="icon_miu7act_b"
         />
       </defs>
       <g fill="none" fillRule="evenodd">
@@ -147,11 +147,11 @@ export const DocusaurusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <rect x="66.635" y="1.126" width="4.883" height="4.883" rx="1" />
             <rect x="77.485" y="1.126" width="4.883" height="4.883" rx="1" />
             <use
-              xlinkHref="#icon_dtr15lc_a"
+              xlinkHref="#icon_miu7act_a"
               transform="rotate(-180 38.471 1.648)"
             />
             <use
-              xlinkHref="#icon_dtr15lc_b"
+              xlinkHref="#icon_miu7act_b"
               transform="translate(72.06 3.839)"
             />
           </g>

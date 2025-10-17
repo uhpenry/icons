@@ -12,7 +12,7 @@ export const MatlabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <linearGradient
-        id="icon_872u3gv_a"
+        id="icon_nm6pn1l_a"
         x1="22.645"
         x2="26.757"
         y1="10.881"
@@ -24,11 +24,11 @@ export const MatlabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <stop offset=".863" stopColor="#442729" />
       </linearGradient>
       <path
-        fill="url(#icon_872u3gv_a)"
+        fill="url(#icon_nm6pn1l_a)"
         d="m21 27-7-6s1-1.5 2.5-3 2.736-1.852 4.5-3c3.511-2.284 6.5-12 11-12L21 27z"
       />
       <linearGradient
-        id="icon_872u3gv_b"
+        id="icon_nm6pn1l_b"
         x1="1"
         x2="37.775"
         y1="27.033"
@@ -40,11 +40,11 @@ export const MatlabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <stop offset="1" stopColor="#442729" />
       </linearGradient>
       <path
-        fill="url(#icon_872u3gv_b)"
+        fill="url(#icon_nm6pn1l_b)"
         d="M11 33.066 1 26l13-5 7.277 5.465L14 32.066z"
       />
       <linearGradient
-        id="icon_872u3gv_c"
+        id="icon_nm6pn1l_c"
         x1="11"
         x2="47"
         y1="24"
@@ -65,7 +65,7 @@ export const MatlabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <stop offset="1" stopColor="#b72f11" />
       </linearGradient>
       <path
-        fill="url(#icon_872u3gv_c)"
+        fill="url(#icon_nm6pn1l_c)"
         d="M32 3c5 0 13 27 15 34 0 0-7.017-6.63-11-6s-5.47 6.548-9.725 10.756C23.5 44.5 21 45 21 45s-.206-8.124-5-11c-2.5-1.5-5-1-5-1s6.049-2.901 9.474-8.174S28.5 3 32 3z"
       />
     </svg>

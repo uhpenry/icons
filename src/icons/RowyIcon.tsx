@@ -12,30 +12,30 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_8mxj269_clip0_1215_3872)">
-        <g clipPath="url(#icon_8mxj269_clip1_1215_3872)">
+      <g clipPath="url(#icon_rvc64kv_clip0_1215_3872)">
+        <g clipPath="url(#icon_rvc64kv_clip1_1215_3872)">
           <rect width="26" height="26" fill="white" />
           <rect
             width="26"
             height="26"
-            fill="url(#icon_8mxj269_paint0_linear_1215_3872)"
+            fill="url(#icon_rvc64kv_paint0_linear_1215_3872)"
           />
           <rect
             width="26"
             height="26"
-            fill="url(#icon_8mxj269_paint1_radial_1215_3872)"
+            fill="url(#icon_rvc64kv_paint1_radial_1215_3872)"
             fillOpacity="0.8"
           />
           <g>
             <rect
               width="26"
               height="26"
-              fill="url(#icon_8mxj269_paint2_radial_1215_3872)"
+              fill="url(#icon_rvc64kv_paint2_radial_1215_3872)"
             />
             <rect
               width="26"
               height="26"
-              fill="url(#icon_8mxj269_paint3_radial_1215_3872)"
+              fill="url(#icon_rvc64kv_paint3_radial_1215_3872)"
             />
           </g>
         </g>
@@ -43,7 +43,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           fillRule="evenodd"
           clipRule="evenodd"
           d="M11.5 18.5V15.5H5.5V18.5C5.5 20.1569 6.84315 21.5 8.5 21.5C10.1569 21.5 11.5 20.1569 11.5 18.5ZM6.5 16.5H10.5V18.5L10.4945 18.6493C10.4182 19.6841 9.55436 20.5 8.5 20.5L8.35074 20.4945C7.31588 20.4182 6.5 19.5544 6.5 18.5V16.5Z"
-          fill="url(#icon_8mxj269_paint4_linear_1215_3872)"
+          fill="url(#icon_rvc64kv_paint4_linear_1215_3872)"
         />
         <path
           fillRule="evenodd"
@@ -55,24 +55,24 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           fillRule="evenodd"
           clipRule="evenodd"
           d="M11.5 16.5V10.5H5.5V16.5H11.5ZM6.5 11.5H10.5V15.5H6.5V11.5Z"
-          fill="url(#icon_8mxj269_paint5_linear_1215_3872)"
+          fill="url(#icon_rvc64kv_paint5_linear_1215_3872)"
         />
         <path
           fillRule="evenodd"
           clipRule="evenodd"
           d="M18.5 5.5L15.5 5.5V11.5H18.5C20.1569 11.5 21.5 10.1569 21.5 8.5C21.5 6.84315 20.1569 5.5 18.5 5.5ZM16.501 10.5V6.5L18.5 6.5L18.6493 6.50549C19.6841 6.58183 20.5 7.44564 20.5 8.5L20.4945 8.64926C20.4182 9.68412 19.5544 10.5 18.5 10.5H16.501Z"
-          fill="url(#icon_8mxj269_paint6_linear_1215_3872)"
+          fill="url(#icon_rvc64kv_paint6_linear_1215_3872)"
         />
         <path
           fillRule="evenodd"
           clipRule="evenodd"
           d="M10.5 8.5V11.5H16.5V5.5H13.5C11.8431 5.5 10.5 6.84315 10.5 8.5ZM13.5 6.5H15.5V10.5H11.5V8.5L11.5055 8.35074C11.5818 7.31588 12.4456 6.5 13.5 6.5Z"
-          fill="url(#icon_8mxj269_paint7_linear_1215_3872)"
+          fill="url(#icon_rvc64kv_paint7_linear_1215_3872)"
         />
       </g>
       <defs>
         <linearGradient
-          id="icon_8mxj269_paint0_linear_1215_3872"
+          id="icon_rvc64kv_paint0_linear_1215_3872"
           x1="13"
           y1="0"
           x2="13"
@@ -83,7 +83,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="white" />
         </linearGradient>
         <radialGradient
-          id="icon_8mxj269_paint1_radial_1215_3872"
+          id="icon_rvc64kv_paint1_radial_1215_3872"
           cx="0"
           cy="0"
           r="1"
@@ -95,7 +95,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#C6C6C6" />
         </radialGradient>
         <radialGradient
-          id="icon_8mxj269_paint2_radial_1215_3872"
+          id="icon_rvc64kv_paint2_radial_1215_3872"
           cx="0"
           cy="0"
           r="1"
@@ -107,7 +107,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#4200FF" />
         </radialGradient>
         <radialGradient
-          id="icon_8mxj269_paint3_radial_1215_3872"
+          id="icon_rvc64kv_paint3_radial_1215_3872"
           cx="0"
           cy="0"
           r="1"
@@ -119,7 +119,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#4200FF" stopOpacity="0" />
         </radialGradient>
         <linearGradient
-          id="icon_8mxj269_paint4_linear_1215_3872"
+          id="icon_rvc64kv_paint4_linear_1215_3872"
           x1="5.99952"
           y1="16.499"
           x2="5.99952"
@@ -130,7 +130,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#FFAA00" />
         </linearGradient>
         <linearGradient
-          id="icon_8mxj269_paint5_linear_1215_3872"
+          id="icon_rvc64kv_paint5_linear_1215_3872"
           x1="5.98829"
           y1="11.4766"
           x2="5.98829"
@@ -141,7 +141,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#FF00AA" />
         </linearGradient>
         <linearGradient
-          id="icon_8mxj269_paint6_linear_1215_3872"
+          id="icon_rvc64kv_paint6_linear_1215_3872"
           x1="16.5169"
           y1="10.9916"
           x2="21.5"
@@ -152,7 +152,7 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#00FFAA" />
         </linearGradient>
         <linearGradient
-          id="icon_8mxj269_paint7_linear_1215_3872"
+          id="icon_rvc64kv_paint7_linear_1215_3872"
           x1="16.5"
           y1="5.99843"
           x2="11.4969"
@@ -162,10 +162,10 @@ export const RowyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop stopColor="#00AAFF" />
           <stop offset="1" stopColor="#4200FF" />
         </linearGradient>
-        <clipPath id="icon_8mxj269_clip0_1215_3872">
+        <clipPath id="icon_rvc64kv_clip0_1215_3872">
           <rect width="26" height="26" rx="8" fill="white" />
         </clipPath>
-        <clipPath id="icon_8mxj269_clip1_1215_3872">
+        <clipPath id="icon_rvc64kv_clip1_1215_3872">
           <rect width="26" height="26" fill="white" />
         </clipPath>
       </defs>

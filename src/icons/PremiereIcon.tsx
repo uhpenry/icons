@@ -12,7 +12,7 @@ export const PremiereIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_byl3aux_clip0_906_1820)">
+      <g clipPath="url(#icon_iv0may9_clip0_906_1820)">
         <path
           d="M14.5299 0H67.5214C75.5556 0 82.0513 6.49573 82.0513 14.5299V65.4701C82.0513 73.5043 75.5556 80 67.5214 80H14.5299C6.49573 80 0 73.5043 0 65.4701V14.5299C0 6.49573 6.49573 0 14.5299 0Z"
           fill="#00005B"
@@ -27,7 +27,7 @@ export const PremiereIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_byl3aux_clip0_906_1820">
+        <clipPath id="icon_iv0may9_clip0_906_1820">
           <rect width="82.0513" height="80" fill="white" />
         </clipPath>
       </defs>

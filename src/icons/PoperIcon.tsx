@@ -17,7 +17,7 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M635.473 1187.57s-24.685-29.53-24.685-85.37h-21.356c0 55.84-24.698 85.37-24.698 85.37"
       />
       <mask
-        id="icon_61uhs3q_poper-favicon__a"
+        id="icon_1qxofur_poper-favicon__a"
         width="148"
         height="137"
         x="526"
@@ -27,7 +27,7 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       >
         <path fill="#fff" d="M526.618 1063.72h147.118V1200H526.618v-136.28Z" />
       </mask>
-      <g mask="url(#icon_61uhs3q_poper-favicon__a)">
+      <g mask="url(#icon_1qxofur_poper-favicon__a)">
         <path
           stroke="currentColor"
           strokeWidth="2.534"
@@ -39,7 +39,7 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M1042.99 478.459c0 332.078-250.978 624.441-442.854 624.441-184.511 0-442.862-265.667-442.862-624.441-.013-262.34 180.315-475.027 442.862-475.027 262.521 0 442.854 212.674 442.854 475.027Z"
       />
       <mask
-        id="icon_61uhs3q_poper-favicon__b"
+        id="icon_1qxofur_poper-favicon__b"
         width="893"
         height="1143"
         x="154"
@@ -49,7 +49,7 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       >
         <path fill="#fff" d="M154 0h892.97v1142.35H154V0Z" />
       </mask>
-      <g mask="url(#icon_61uhs3q_poper-favicon__b)">
+      <g mask="url(#icon_1qxofur_poper-favicon__b)">
         <path
           stroke="currentColor"
           strokeWidth="2.534"
@@ -57,7 +57,7 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <mask
-        id="icon_61uhs3q_poper-favicon__c"
+        id="icon_1qxofur_poper-favicon__c"
         width="73"
         height="24"
         x="564"
@@ -67,14 +67,14 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       >
         <path fill="#fff" d="M564.253 1176.54h71.848V1200h-71.848v-23.46Z" />
       </mask>
-      <g mask="url(#icon_61uhs3q_poper-favicon__c)">
+      <g mask="url(#icon_1qxofur_poper-favicon__c)">
         <path
           fill="#F14A16"
           d="M635.486 1187.57c0 .64-.227 1.28-.682 1.92-.454.63-1.122 1.24-2.018 1.83-.882.6-1.978 1.16-3.261 1.71a38.343 38.343 0 0 1-4.397 1.48c-1.643.46-3.434.87-5.359 1.22-1.938.36-3.969.66-6.121.9-2.151.26-4.357.45-6.629.57-2.285.13-4.584.18-6.909.18s-4.624-.05-6.896-.18a98.094 98.094 0 0 1-6.642-.57 84.736 84.736 0 0 1-6.108-.9 58.324 58.324 0 0 1-5.359-1.22 37.505 37.505 0 0 1-4.397-1.48c-1.297-.55-2.379-1.11-3.274-1.71-.883-.59-1.564-1.2-2.019-1.83-.441-.64-.668-1.28-.668-1.92 0-.64.227-1.29.668-1.91.455-.64 1.136-1.26 2.019-1.85.895-.6 1.977-1.16 3.274-1.69 1.283-.55 2.753-1.04 4.397-1.5 1.644-.45 3.421-.85 5.359-1.21a84.6 84.6 0 0 1 6.108-.91c2.151-.25 4.356-.44 6.642-.56 2.272-.12 4.571-.19 6.896-.19s4.624.07 6.909.19c2.272.12 4.478.31 6.629.56 2.152.24 4.183.55 6.121.91 1.925.36 3.716.76 5.359 1.21 1.644.46 3.101.95 4.397 1.5 1.283.53 2.379 1.09 3.261 1.69.896.59 1.564 1.21 2.018 1.85.455.62.682 1.27.682 1.91Z"
         />
       </g>
       <mask
-        id="icon_61uhs3q_poper-favicon__d"
+        id="icon_1qxofur_poper-favicon__d"
         width="148"
         height="62"
         x="526"
@@ -84,7 +84,7 @@ export const PoperIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       >
         <path fill="#fff" d="M526.618 1138.93h147.118V1200H526.618v-61.07Z" />
       </mask>
-      <g mask="url(#icon_61uhs3q_poper-favicon__d)">
+      <g mask="url(#icon_1qxofur_poper-favicon__d)">
         <path
           stroke="currentColor"
           strokeWidth="2.534"

@@ -12,7 +12,7 @@ export const FortranIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_e4ie2rc_a)">
+      <g clipPath="url(#icon_jdk5dvh_a)">
         <path
           fill="#734F96"
           d="M44.01 299.986C26.274 299.992 0 269.031 0 255.695V43.73C0 25.782 31.051 0 44.452 0L256.81.015C275.136.016 300 29.907 300 44.15v212.173c0 20.902-28.002 43.585-43.791 43.59l-212.2.072Z"
@@ -23,7 +23,7 @@ export const FortranIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_e4ie2rc_a">
+        <clipPath id="icon_jdk5dvh_a">
           <path fill="#fff" d="M0 0h300v299.986H0z" />
         </clipPath>
       </defs>

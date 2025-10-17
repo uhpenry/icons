@@ -15,32 +15,32 @@ export const MicrosoftCopilotIcon = React.forwardRef<
     {...props}
   >
     <path
-      fill="url(#icon_3vpz740_a)"
+      fill="url(#icon_146je40_a)"
       d="M34.142 7.325A4.63 4.63 0 0 0 29.7 4h-1.35a4.63 4.63 0 0 0-4.554 3.794L21.48 20.407l.575-1.965a4.63 4.63 0 0 1 4.444-3.33h7.853l3.294 1.282 3.175-1.283h-.926a4.63 4.63 0 0 1-4.443-3.325l-1.31-4.461z"
     />
     <path
-      fill="url(#icon_3vpz740_b)"
+      fill="url(#icon_146je40_b)"
       d="M14.33 40.656A4.63 4.63 0 0 0 18.779 44h2.87a4.63 4.63 0 0 0 4.629-4.51l.312-12.163-.654 2.233a4.63 4.63 0 0 1-4.443 3.329h-7.919l-2.823-1.532-3.057 1.532h.912a4.63 4.63 0 0 1 4.447 3.344l1.279 4.423z"
     />
     <path
-      fill="url(#icon_3vpz740_c)"
+      fill="url(#icon_146je40_c)"
       d="M29.5 4H13.46c-4.583 0-7.332 6.057-9.165 12.113C2.123 23.29-.72 32.885 7.503 32.885h6.925a4.63 4.63 0 0 0 4.456-3.358 2078.617 2078.617 0 0 1 4.971-17.156c.843-2.843 1.544-5.284 2.621-6.805C27.08 4.714 28.086 4 29.5 4z"
     />
     <path
-      fill="url(#icon_3vpz740_d)"
+      fill="url(#icon_146je40_d)"
       d="M29.5 4H13.46c-4.583 0-7.332 6.057-9.165 12.113C2.123 23.29-.72 32.885 7.503 32.885h6.925a4.63 4.63 0 0 0 4.456-3.358 2078.617 2078.617 0 0 1 4.971-17.156c.843-2.843 1.544-5.284 2.621-6.805C27.08 4.714 28.086 4 29.5 4z"
     />
     <path
-      fill="url(#icon_3vpz740_e)"
+      fill="url(#icon_146je40_e)"
       d="M18.498 44h16.04c4.582 0 7.332-6.058 9.165-12.115 2.171-7.177 5.013-16.775-3.208-16.775h-6.926a4.63 4.63 0 0 0-4.455 3.358 2084.036 2084.036 0 0 1-4.972 17.16c-.842 2.843-1.544 5.285-2.62 6.806-.604.852-1.61 1.566-3.024 1.566z"
     />
     <path
-      fill="url(#icon_3vpz740_f)"
+      fill="url(#icon_146je40_f)"
       d="M18.498 44h16.04c4.582 0 7.332-6.058 9.165-12.115 2.171-7.177 5.013-16.775-3.208-16.775h-6.926a4.63 4.63 0 0 0-4.455 3.358 2084.036 2084.036 0 0 1-4.972 17.16c-.842 2.843-1.544 5.285-2.62 6.806-.604.852-1.61 1.566-3.024 1.566z"
     />
     <defs>
       <radialGradient
-        id="icon_3vpz740_a"
+        id="icon_146je40_a"
         cx="0"
         cy="0"
         r="1"
@@ -52,7 +52,7 @@ export const MicrosoftCopilotIcon = React.forwardRef<
         <stop offset="1" stopColor="#0736C4" />
       </radialGradient>
       <radialGradient
-        id="icon_3vpz740_b"
+        id="icon_146je40_b"
         cx="0"
         cy="0"
         r="1"
@@ -64,7 +64,7 @@ export const MicrosoftCopilotIcon = React.forwardRef<
         <stop offset=".923" stopColor="#C02B3C" />
       </radialGradient>
       <radialGradient
-        id="icon_3vpz740_e"
+        id="icon_146je40_e"
         cx="0"
         cy="0"
         r="1"
@@ -76,7 +76,7 @@ export const MicrosoftCopilotIcon = React.forwardRef<
         <stop offset=".896" stopColor="#FFB152" />
       </radialGradient>
       <linearGradient
-        id="icon_3vpz740_c"
+        id="icon_146je40_c"
         x1="12.5"
         x2="14.788"
         y1="7.5"
@@ -89,7 +89,7 @@ export const MicrosoftCopilotIcon = React.forwardRef<
         <stop offset=".937" stopColor="#FFC800" />
       </linearGradient>
       <linearGradient
-        id="icon_3vpz740_d"
+        id="icon_146je40_d"
         x1="14.5"
         x2="15.75"
         y1="4"
@@ -100,7 +100,7 @@ export const MicrosoftCopilotIcon = React.forwardRef<
         <stop offset=".247" stopColor="#0588F7" stopOpacity="0" />
       </linearGradient>
       <linearGradient
-        id="icon_3vpz740_f"
+        id="icon_146je40_f"
         x1="42.586"
         x2="42.569"
         y1="13.346"

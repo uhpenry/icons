@@ -12,12 +12,12 @@ export const FacebookIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <clipPath id="icon_v4fmh1l_a" clipPathUnits="userSpaceOnUse">
+        <clipPath id="icon_03xkfwv_a" clipPathUnits="userSpaceOnUse">
           <path d="M0 700h700V0H0Z" />
         </clipPath>
       </defs>
       <g
-        clipPath="url(#icon_v4fmh1l_a)"
+        clipPath="url(#icon_03xkfwv_a)"
         transform="matrix(1.33333 0 0 -1.33333 -133.333 800)"
       >
         <path

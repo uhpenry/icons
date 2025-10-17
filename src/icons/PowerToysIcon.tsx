@@ -13,7 +13,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_11gnuhm_New_Gradient_Swatch"
+          id="icon_36ov69x_New_Gradient_Swatch"
           x1="202.55"
           x2="53.45"
           y1="257.12"
@@ -25,7 +25,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#f2e6ca" />
         </linearGradient>
         <linearGradient
-          id="icon_11gnuhm_linear-gradient"
+          id="icon_36ov69x_linear-gradient"
           x1="134.91"
           x2="84.09"
           y1="145.01"
@@ -37,7 +37,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#fef000" />
         </linearGradient>
         <linearGradient
-          id="icon_11gnuhm_linear-gradient-2"
+          id="icon_36ov69x_linear-gradient-2"
           x1="98.76"
           x2="48.91"
           y1="144.52"
@@ -49,7 +49,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#ec6725" />
         </linearGradient>
         <linearGradient
-          id="icon_11gnuhm_linear-gradient-3"
+          id="icon_36ov69x_linear-gradient-3"
           x1="171.91"
           x2="121.09"
           y1="145.01"
@@ -61,7 +61,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#66eb6e" />
         </linearGradient>
         <linearGradient
-          id="icon_11gnuhm_linear-gradient-4"
+          id="icon_36ov69x_linear-gradient-4"
           x1="207.09"
           x2="157.24"
           y1="143.81"
@@ -73,8 +73,8 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#28afea" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_11gnuhm_New_Gradient_Swatch"
-          id="icon_11gnuhm_New_Gradient_Swatch-2"
+          xlinkHref="#icon_36ov69x_New_Gradient_Swatch"
+          id="icon_36ov69x_New_Gradient_Swatch-2"
           x1="80.07"
           x2="59.93"
           y1="203.45"
@@ -82,8 +82,8 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           data-name="New Gradient Swatch"
         />
         <linearGradient
-          xlinkHref="#icon_11gnuhm_New_Gradient_Swatch"
-          id="icon_11gnuhm_New_Gradient_Swatch-3"
+          xlinkHref="#icon_36ov69x_New_Gradient_Swatch"
+          id="icon_36ov69x_New_Gradient_Swatch-3"
           x1="138.07"
           x2="117.93"
           y1="203.45"
@@ -91,8 +91,8 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           data-name="New Gradient Swatch"
         />
         <linearGradient
-          xlinkHref="#icon_11gnuhm_New_Gradient_Swatch"
-          id="icon_11gnuhm_New_Gradient_Swatch-4"
+          xlinkHref="#icon_36ov69x_New_Gradient_Swatch"
+          id="icon_36ov69x_New_Gradient_Swatch-4"
           x1="196.07"
           x2="175.93"
           y1="203.45"
@@ -102,8 +102,8 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <style>{".cls-2{fill:#fff}.cls-5{mix-blend-mode:multiply}"}</style>
       </defs>
       <g>
-        <g id="icon_11gnuhm_Layer_2" data-name="Layer 2">
-          <g id="icon_11gnuhm_Ramp_Work" data-name="Ramp Work">
+        <g id="icon_36ov69x_Layer_2" data-name="Layer 2">
+          <g id="icon_36ov69x_Ramp_Work" data-name="Ramp Work">
             <rect
               width="224"
               height="224"
@@ -111,7 +111,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               y="16"
               rx="10.67"
               ry="10.67"
-              style={{ fill: "url(#icon_11gnuhm_New_Gradient_Swatch)" }}
+              style={{ fill: "url(#icon_36ov69x_New_Gradient_Swatch)" }}
             />
             <path d="M32 32h192v192H32z" style={{ fill: "#666" }} />
             <g style={{ opacity: ".32" }}>
@@ -152,19 +152,19 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             </g>
             <path
               d="M91 53h37v96H91z"
-              style={{ fill: "url(#icon_11gnuhm_linear-gradient)" }}
+              style={{ fill: "url(#icon_36ov69x_linear-gradient)" }}
             />
             <path
               d="M91 149H59.35a5.35 5.35 0 0 1-5.35-5.35v-85.3A5.35 5.35 0 0 1 59.35 53H91z"
-              style={{ fill: "url(#icon_11gnuhm_linear-gradient-2)" }}
+              style={{ fill: "url(#icon_36ov69x_linear-gradient-2)" }}
             />
             <path
               d="M128 53h37v96h-37z"
-              style={{ fill: "url(#icon_11gnuhm_linear-gradient-3)" }}
+              style={{ fill: "url(#icon_36ov69x_linear-gradient-3)" }}
             />
             <path
               d="M165 53h31.65c2.95 0 5.35 2.4 5.35 5.35v85.31c0 2.95-2.4 5.35-5.35 5.35H165z"
-              style={{ fill: "url(#icon_11gnuhm_linear-gradient-4)" }}
+              style={{ fill: "url(#icon_36ov69x_linear-gradient-4)" }}
             />
             <path d="M0 0h256v256H0z" style={{ fill: "none" }} />
             <rect
@@ -174,7 +174,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               y="170"
               rx="4.67"
               ry="4.67"
-              style={{ fill: "url(#icon_11gnuhm_New_Gradient_Swatch-2)" }}
+              style={{ fill: "url(#icon_36ov69x_New_Gradient_Swatch-2)" }}
             />
             <rect
               width="32"
@@ -183,7 +183,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               y="170"
               rx="4.67"
               ry="4.67"
-              style={{ fill: "url(#icon_11gnuhm_New_Gradient_Swatch-3)" }}
+              style={{ fill: "url(#icon_36ov69x_New_Gradient_Swatch-3)" }}
             />
             <rect
               width="32"
@@ -192,7 +192,7 @@ export const PowerToysIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               y="170"
               rx="4.67"
               ry="4.67"
-              style={{ fill: "url(#icon_11gnuhm_New_Gradient_Swatch-4)" }}
+              style={{ fill: "url(#icon_36ov69x_New_Gradient_Swatch-4)" }}
             />
           </g>
         </g>

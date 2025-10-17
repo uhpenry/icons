@@ -1,16 +1,6 @@
 import { IconType } from '../types';
 import { iconEntry } from '../library/iconEntry';
 
-export const pascalCase = (str: string): string => {
-  let result = str
-    .replace(/[^a-zA-Z0-9]/g, ' ')
-    .trim()
-    .replace(/\b\w/g, (l) => l.toUpperCase())
-    .replace(/\s+/g, '');
-  if (/^\d/.test(result)) result = 'Icon' + result;
-  return result;
-};
-
 /**
  * Escape special regex characters in a string
  */
@@ -54,3 +44,13 @@ export function getIcon(
     return defaultIcon || iconEntry[0].icon;
   }
 }
+
+export const pascalCase = (str: string): string => {
+  let result = str
+    .replace(/[^a-zA-Z0-9]/g, ' ')
+    .trim()
+    .replace(/\b\w/g, (l) => l.toUpperCase())
+    .replace(/\s+/g, '');
+  if (/^\d/.test(result)) result = 'Icon' + result;
+  return result;
+};

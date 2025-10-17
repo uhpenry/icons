@@ -15,7 +15,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         {...props}
       >
         <mask
-          id="icon_cxvl6dc_a"
+          id="icon_i8c38ut_a"
           width="214"
           height="254"
           x="0"
@@ -25,7 +25,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         >
           <path fill="#fff" d="M0 .5h214v253H0V.5Z" />
         </mask>
-        <g mask="url(#icon_cxvl6dc_a)">
+        <g mask="url(#icon_i8c38ut_a)">
           <path
             fill="#fff"
             fillRule="evenodd"
@@ -33,7 +33,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             clipRule="evenodd"
           />
           <mask
-            id="icon_cxvl6dc_b"
+            id="icon_i8c38ut_b"
             width="168"
             height="127"
             x="45"
@@ -46,7 +46,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               d="M193 127.848c-21.526 21.282-51.515 29.485-85.5 29.485-25.981 0-41.758 6.191-50.431 13.054C49.063 176.723 45 185.191 45 196.312V253.5h168V127.641l-20 .207Z"
             />
           </mask>
-          <g mask="url(#icon_cxvl6dc_b)">
+          <g mask="url(#icon_i8c38ut_b)">
             <path
               fill="#fff"
               fillRule="evenodd"
@@ -68,7 +68,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         {...props}
       >
         <mask
-          id="icon_qq5j1tx_a"
+          id="icon_0h5fabt_a"
           width="214"
           height="254"
           x="0"
@@ -78,7 +78,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         >
           <path fill="#fff" d="M0 .5h214v253H0V.5Z" />
         </mask>
-        <g mask="url(#icon_qq5j1tx_a)">
+        <g mask="url(#icon_0h5fabt_a)">
           <path
             fill="#000"
             fillRule="evenodd"
@@ -86,7 +86,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             clipRule="evenodd"
           />
           <mask
-            id="icon_qq5j1tx_b"
+            id="icon_0h5fabt_b"
             width="168"
             height="127"
             x="45"
@@ -99,7 +99,7 @@ export const RelaGitIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               d="M193 127.848c-21.526 21.282-51.515 29.485-85.5 29.485-25.981 0-41.758 6.191-50.431 13.054C49.063 176.723 45 185.191 45 196.312V253.5h168V127.641l-20 .207Z"
             />
           </mask>
-          <g mask="url(#icon_qq5j1tx_b)">
+          <g mask="url(#icon_0h5fabt_b)">
             <path
               fill="#000"
               fillRule="evenodd"

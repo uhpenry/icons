@@ -12,7 +12,7 @@ export const TailwindCSSIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_28q355z_a)">
+      <g clipPath="url(#icon_wokobzo_a)">
         <path
           fill="#38bdf8"
           fillRule="evenodd"
@@ -21,7 +21,7 @@ export const TailwindCSSIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_28q355z_a">
+        <clipPath id="icon_wokobzo_a">
           <path fill="#fff" d="M0 0h54v32.4H0z" />
         </clipPath>
       </defs>

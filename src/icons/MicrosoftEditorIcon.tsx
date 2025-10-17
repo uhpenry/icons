@@ -14,7 +14,7 @@ export const MicrosoftEditorIcon = React.forwardRef<
     ref={ref}
     {...props}
   >
-    <g clipPath="url(#icon_yfs42tc_a)">
+    <g clipPath="url(#icon_0rqop2n_a)">
       <path
         fill="#103F91"
         d="M26.049 34.242H8.64v8.192h17.408a4.108 4.108 0 0 0 4.096-4.096 4.108 4.108 0 0 0-4.096-4.096Z"
@@ -24,7 +24,7 @@ export const MicrosoftEditorIcon = React.forwardRef<
         d="M42.432 11.715H24v8.192h18.432a4.108 4.108 0 0 0 4.096-4.096 4.108 4.108 0 0 0-4.096-4.096ZM34.24 22.977H16.832v8.192H34.24a4.108 4.108 0 0 0 4.096-4.096 4.108 4.108 0 0 0-4.096-4.096Z"
       />
       <mask
-        id="icon_yfs42tc_b"
+        id="icon_0rqop2n_b"
         width="39"
         height="32"
         x="8"
@@ -37,7 +37,7 @@ export const MicrosoftEditorIcon = React.forwardRef<
           d="M30.145 38.339a4.108 4.108 0 0 1-4.096 4.096H8.64v-8.192h17.408a4.108 4.108 0 0 1 4.096 4.096Zm12.288-26.624H24v8.192h18.432a4.108 4.108 0 0 0 4.096-4.096 4.108 4.108 0 0 0-4.096-4.096ZM34.24 22.979H16.833v8.192H34.24a4.108 4.108 0 0 0 4.096-4.096 4.108 4.108 0 0 0-4.096-4.096Z"
         />
       </mask>
-      <g mask="url(#icon_yfs42tc_b)">
+      <g mask="url(#icon_0rqop2n_b)">
         <path
           fill="#fff"
           d="M1.934 47.044c-.205 0-.589-.153-.691-.23-.154-.128-.307-.358-.307-.435l1.1-3.584-.281-.205c-.077-.051-.103-.154-.077-.256l2.304-7.68L26.049 4.42l2.407-3.302c.102-.102.128-.102.307-.102.69.05 5.785 2.97 7.552 5.401.153.205.153.256.153.282l-2.227 3.097-.205.282-21.99 30.26-6.58 4.71c-.025.025-.076.025-.102.025a.196.196 0 0 1-.128-.051l-.281-.154-3.021 2.253v-.077Z"
@@ -63,7 +63,7 @@ export const MicrosoftEditorIcon = React.forwardRef<
       />
     </g>
     <defs>
-      <clipPath id="icon_yfs42tc_a">
+      <clipPath id="icon_0rqop2n_a">
         <path fill="#fff" d="M0 0h48v48H0z" />
       </clipPath>
     </defs>

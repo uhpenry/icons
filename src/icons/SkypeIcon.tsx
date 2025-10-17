@@ -13,7 +13,7 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_jvjs82e_a"
+          id="icon_ridztei_a"
           x1="42.173%"
           x2="57.827%"
           y1=".584%"
@@ -25,7 +25,7 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0078D4" />
         </linearGradient>
         <linearGradient
-          id="icon_jvjs82e_b"
+          id="icon_ridztei_b"
           x1="6.659%"
           x2="93.341%"
           y1="75%"
@@ -39,7 +39,7 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#00BCF2" />
         </linearGradient>
         <linearGradient
-          id="icon_jvjs82e_f"
+          id="icon_ridztei_f"
           x1="30.436%"
           x2="80.436%"
           y1="16.124%"
@@ -49,7 +49,7 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#007CC1" />
         </linearGradient>
         <linearGradient
-          id="icon_jvjs82e_g"
+          id="icon_ridztei_g"
           x1="45.636%"
           x2="54.364%"
           y1="99.815%"
@@ -59,7 +59,7 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#00BCF2" />
         </linearGradient>
         <radialGradient
-          id="icon_jvjs82e_d"
+          id="icon_ridztei_d"
           cx="48.539%"
           cy="50%"
           r="50.021%"
@@ -70,7 +70,7 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopOpacity="0" />
         </radialGradient>
         <path
-          id="icon_jvjs82e_c"
+          id="icon_ridztei_c"
           d="M179.903 104.187a75.715 75.715 0 0 0-38.567 10.55c19.535-32.94 11.499-75.273-18.749-98.764C92.34-7.52 49.337-4.827 22.255 22.255-4.826 49.336-7.519 92.34 15.973 122.587c23.491 30.248 65.823 38.284 98.765 18.749-17.49 29.642-12.843 67.344 11.322 91.852 24.166 24.508 61.798 29.685 91.684 12.613 29.886-17.071 44.542-52.118 35.705-85.382-8.836-33.265-38.95-56.418-73.37-56.409l-.176.177Z"
         />
       </defs>
@@ -78,29 +78,29 @@ export const SkypeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         fill="#FFF"
         d="M246.663 143.907c.746-5.228 1.13-10.5 1.153-15.782A119.868 119.868 0 0 0 127.948 8.258c-5.28.022-10.553.407-15.781 1.152C82.62-6.514 46.125-1.165 22.392 22.57-1.342 46.303-6.691 82.797 9.233 112.344c-.745 5.228-1.13 10.5-1.153 15.781 0 66.202 53.667 119.868 119.868 119.868 5.28-.022 10.554-.407 15.782-1.152 29.546 15.924 66.04 10.575 89.775-13.16 23.733-23.733 29.083-60.228 13.158-89.774Z"
       />
-      <circle cx="75.994" cy="76.171" r="75.893" fill="url(#icon_jvjs82e_a)" />
-      <circle cx="179.903" cy="180.08" r="75.893" fill="url(#icon_jvjs82e_b)" />
-      <mask id="icon_jvjs82e_e" fill="#fff">
-        <use xlinkHref="#icon_jvjs82e_c" />
+      <circle cx="75.994" cy="76.171" r="75.893" fill="url(#icon_ridztei_a)" />
+      <circle cx="179.903" cy="180.08" r="75.893" fill="url(#icon_ridztei_b)" />
+      <mask id="icon_ridztei_e" fill="#fff">
+        <use xlinkHref="#icon_ridztei_c" />
       </mask>
       <circle
         cx="125.547"
         cy="133.578"
         r="141.812"
-        fill="url(#icon_jvjs82e_d)"
-        mask="url(#icon_jvjs82e_e)"
+        fill="url(#icon_ridztei_d)"
+        mask="url(#icon_ridztei_e)"
       />
       <circle
         cx="127.948"
         cy="128.125"
         r="119.868"
-        fill="url(#icon_jvjs82e_f)"
+        fill="url(#icon_ridztei_f)"
       />
       <circle
         cx="127.948"
         cy="128.125"
         r="119.868"
-        fill="url(#icon_jvjs82e_g)"
+        fill="url(#icon_ridztei_g)"
       />
       <path
         fill="#FFF"

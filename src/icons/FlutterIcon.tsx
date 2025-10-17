@@ -17,7 +17,7 @@ export const FlutterIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="27%"
           x2="75.9%"
           y2="52.9%"
-          id="icon_s6lwiex_a"
+          id="icon_dtp41z1_a"
         >
           <stop offset="0%" />
           <stop stopOpacity="0" offset="100%" />
@@ -31,7 +31,7 @@ export const FlutterIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <path fill="#00B5F8" d="m72 230 48-48 50 49-49 49z" />
       <path
         fillOpacity=".8"
-        fill="url(#icon_s6lwiex_a)"
+        fill="url(#icon_dtp41z1_a)"
         d="m121 280 41-14 4-31z"
       />
     </svg>

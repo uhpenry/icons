@@ -12,9 +12,9 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_nbdn90d_a)">
+      <g clipPath="url(#icon_442sfoy_a)">
         <mask
-          id="icon_nbdn90d_b"
+          id="icon_442sfoy_b"
           width="242"
           height="256"
           x="0"
@@ -24,20 +24,20 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         >
           <path fill="#fff" d="M0 0h242v256H0V0Z" />
         </mask>
-        <g mask="url(#icon_nbdn90d_b)">
+        <g mask="url(#icon_442sfoy_b)">
           <path
-            fill="url(#icon_nbdn90d_c)"
+            fill="url(#icon_442sfoy_c)"
             d="m241 43-9 136L149 0l92 43Zm-58 176-62 36-63-36 12-31h101l12 31ZM121 68l32 80H88l33-80ZM9 179 0 43 92 0 9 179Z"
           />
           <path
-            fill="url(#icon_nbdn90d_d)"
+            fill="url(#icon_442sfoy_d)"
             d="m241 43-9 136L149 0l92 43Zm-58 176-62 36-63-36 12-31h101l12 31ZM121 68l32 80H88l33-80ZM9 179 0 43 92 0 9 179Z"
           />
         </g>
       </g>
       <defs>
         <linearGradient
-          id="icon_nbdn90d_c"
+          id="icon_442sfoy_c"
           x1="53.2"
           x2="245"
           y1="231.9"
@@ -52,7 +52,7 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#6C00F5" />
         </linearGradient>
         <linearGradient
-          id="icon_nbdn90d_d"
+          id="icon_442sfoy_d"
           x1="44.5"
           x2="170"
           y1="30.7"
@@ -62,7 +62,7 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop stopColor="#FF31D9" />
           <stop offset="1" stopColor="#FF5BE1" stopOpacity="0" />
         </linearGradient>
-        <clipPath id="icon_nbdn90d_a">
+        <clipPath id="icon_442sfoy_a">
           <path fill="#fff" d="M0 0h242v256H0z" />
         </clipPath>
       </defs>

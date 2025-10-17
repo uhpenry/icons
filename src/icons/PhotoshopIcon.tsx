@@ -12,7 +12,7 @@ export const PhotoshopIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_d303jlt_clip0_906_1855)">
+      <g clipPath="url(#icon_d584ig2_clip0_906_1855)">
         <path
           d="M67.5214 0H14.5299C6.50526 0 0 6.50526 0 14.5299V65.4701C0 73.4947 6.50526 80 14.5299 80H67.5214C75.546 80 82.0513 73.4947 82.0513 65.4701V14.5299C82.0513 6.50526 75.546 0 67.5214 0Z"
           fill="#001E36"
@@ -27,7 +27,7 @@ export const PhotoshopIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_d303jlt_clip0_906_1855">
+        <clipPath id="icon_d584ig2_clip0_906_1855">
           <rect width="82.0513" height="80" fill="white" />
         </clipPath>
       </defs>

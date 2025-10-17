@@ -12,38 +12,38 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_exgrgdc_a)">
+      <g clipPath="url(#icon_y49ymrq_a)">
         <path fill="#19191D" d="M90 .839H0v90h90z" />
         <g opacity=".9">
-          <g filter="url(#icon_exgrgdc_b)">
+          <g filter="url(#icon_y49ymrq_b)">
             <path
               fill="#FD366E"
               fillOpacity=".8"
               d="M153.6 91.037 5.806-31.793l99.144-29.674L153.6 91.037Z"
             />
           </g>
-          <g filter="url(#icon_exgrgdc_c)" opacity=".55">
+          <g filter="url(#icon_y49ymrq_c)" opacity=".55">
             <path
               fill="#FE9567"
               fillOpacity=".8"
               d="M149.601 66.145 26.704-35.994l82.443-24.675 40.454 126.814Z"
             />
           </g>
-          <g filter="url(#icon_exgrgdc_d)">
+          <g filter="url(#icon_y49ymrq_d)">
             <path
               fill="#FD366E"
               fillOpacity=".8"
               d="m99.172-30.774 29.725 93.182-78.146-1.212-12.157-73.84 60.578-18.13Z"
             />
           </g>
-          <g filter="url(#icon_exgrgdc_e)" opacity=".65">
+          <g filter="url(#icon_y49ymrq_e)" opacity=".65">
             <path
               fill="#FE9567"
               fillOpacity=".8"
               d="m122.067 25.612-65.743-54.64 44.103-13.2 21.64 67.84Z"
             />
           </g>
-          <g filter="url(#icon_exgrgdc_f)">
+          <g filter="url(#icon_y49ymrq_f)">
             <ellipse
               cx="51.664"
               cy="4.998"
@@ -54,7 +54,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               transform="scale(1 -1) rotate(-44.222 52.735 -69.976)"
             />
           </g>
-          <g filter="url(#icon_exgrgdc_g)">
+          <g filter="url(#icon_y49ymrq_g)">
             <ellipse
               cx="40.558"
               cy="4.13"
@@ -66,9 +66,9 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             />
           </g>
         </g>
-        <g filter="url(#icon_exgrgdc_h)">
+        <g filter="url(#icon_y49ymrq_h)">
           <path
-            fill="url(#icon_exgrgdc_i)"
+            fill="url(#icon_y49ymrq_i)"
             d="M71.92 57.313v12.074H41.658c-8.817 0-16.515-4.856-20.634-12.075a24.282 24.282 0 0 1-3.132-10.442v-3.264a24.114 24.114 0 0 1 .842-4.954c2.827-10.136 12.02-17.563 22.924-17.563s20.095 7.427 22.922 17.563H51.64c-2.124-3.304-5.8-5.489-9.982-5.489-4.182 0-7.859 2.185-9.983 5.489a12.044 12.044 0 0 0-1.479 3.293 12.232 12.232 0 0 0-.448 3.293c0 3.461 1.435 6.58 3.737 8.782a11.775 11.775 0 0 0 8.173 3.292H71.92Z"
           />
           <path
@@ -79,7 +79,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </g>
       <defs>
         <filter
-          id="icon_exgrgdc_b"
+          id="icon_y49ymrq_b"
           width="310.336"
           height="315.046"
           x="-75.465"
@@ -95,7 +95,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_exgrgdc_c"
+          id="icon_y49ymrq_c"
           width="242.601"
           height="246.518"
           x="-33.148"
@@ -111,7 +111,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_exgrgdc_d"
+          id="icon_y49ymrq_d"
           width="315.887"
           height="318.766"
           x="-74.198"
@@ -127,7 +127,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_exgrgdc_e"
+          id="icon_y49ymrq_e"
           width="163.269"
           height="165.364"
           x="7.561"
@@ -143,7 +143,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_exgrgdc_f"
+          id="icon_y49ymrq_f"
           width="131.272"
           height="129.315"
           x="38.621"
@@ -159,7 +159,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_exgrgdc_g"
+          id="icon_y49ymrq_g"
           width="115.311"
           height="113.776"
           x="18.403"
@@ -175,7 +175,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_exgrgdc_h"
+          id="icon_y49ymrq_h"
           width="65.309"
           height="59.578"
           x="12.252"
@@ -204,7 +204,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <linearGradient
-          id="icon_exgrgdc_i"
+          id="icon_y49ymrq_i"
           x1="30.605"
           x2="102.512"
           y1="21.004"
@@ -214,7 +214,7 @@ export const AppwriteIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".36" stopColor="#FD366E" />
           <stop offset="1" stopColor="#FE9567" />
         </linearGradient>
-        <clipPath id="icon_exgrgdc_a">
+        <clipPath id="icon_y49ymrq_a">
           <path fill="#fff" d="M90 .839H0v90h90z" />
         </clipPath>
       </defs>

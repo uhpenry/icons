@@ -12,7 +12,7 @@ export const InDesignIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_iduf1mq_clip0_906_1830)">
+      <g clipPath="url(#icon_q24a5dw_clip0_906_1830)">
         <path
           d="M67.5214 0H14.5299C6.50526 0 0 6.50526 0 14.5299V65.4701C0 73.4947 6.50526 80 14.5299 80H67.5214C75.546 80 82.0513 73.4947 82.0513 65.4701V14.5299C82.0513 6.50526 75.546 0 67.5214 0Z"
           fill="#49021F"
@@ -27,7 +27,7 @@ export const InDesignIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_iduf1mq_clip0_906_1830">
+        <clipPath id="icon_q24a5dw_clip0_906_1830">
           <rect width="82.0513" height="80" fill="white" />
         </clipPath>
       </defs>

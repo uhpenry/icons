@@ -13,7 +13,7 @@ export const ManifestIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <mask
-        id="icon_l3t64pp_a"
+        id="icon_bdp3qsn_a"
         style={{ maskType: "luminance" }}
         maskUnits="userSpaceOnUse"
         x="10"
@@ -23,7 +23,7 @@ export const ManifestIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       >
         <path d="M49.6 0H10.4v60h39.2V0Z" fill="#fff" />
       </mask>
-      <g mask="url(#icon_l3t64pp_a)">
+      <g mask="url(#icon_bdp3qsn_a)">
         <path
           fillRule="evenodd"
           clipRule="evenodd"

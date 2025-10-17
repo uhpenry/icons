@@ -17,7 +17,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.545%"
           x2="77.517%"
           y2="50.388%"
-          id="icon_r635sft_a"
+          id="icon_uyuj8e3_a"
         >
           <stop stopColor="#4340C4" offset="0%" />
           <stop stopColor="#4642C8" offset="12%" />
@@ -28,7 +28,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.845%"
           x2="60.879%"
           y2="50.385%"
-          id="icon_r635sft_b"
+          id="icon_uyuj8e3_b"
         >
           <stop stopColor="#4340C4" offset="0%" />
           <stop stopColor="#534ADB" offset="74%" />
@@ -39,7 +39,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.529%"
           x2="100.123%"
           y2="50.223%"
-          id="icon_r635sft_c"
+          id="icon_uyuj8e3_c"
         >
           <stop stopColor="#4340C4" offset="0%" />
           <stop stopColor="#4340C4" offset="23%" />
@@ -51,7 +51,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.459%"
           x2="64.895%"
           y2="50.085%"
-          id="icon_r635sft_d"
+          id="icon_uyuj8e3_d"
         >
           <stop stopColor="#0080FF" offset="0%" />
           <stop stopColor="#00B9FF" offset="100%" />
@@ -61,7 +61,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.366%"
           x2="100.411%"
           y2="50.467%"
-          id="icon_r635sft_e"
+          id="icon_uyuj8e3_e"
         >
           <stop stopColor="#0080FF" offset="0%" />
           <stop stopColor="#008BFF" offset="17%" />
@@ -74,7 +74,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.627%"
           x2="100.225%"
           y2="50.101%"
-          id="icon_r635sft_f"
+          id="icon_uyuj8e3_f"
         >
           <stop stopColor="#00B9FF" offset="0%" />
           <stop stopColor="#0080FF" offset="30%" />
@@ -87,7 +87,7 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="50.184%"
           x2="99.354%"
           y2="51.298%"
-          id="icon_r635sft_g"
+          id="icon_uyuj8e3_g"
         >
           <stop stopColor="#4340C4" offset="0%" />
           <stop stopColor="#4642C8" offset="12%" />
@@ -95,32 +95,32 @@ export const QwikIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_r635sft_a)"
+        fill="url(#icon_uyuj8e3_a)"
         d="m175.051 236.859 25.162-15.071 49.298-86.929-76.287 89.097z"
       />
       <path
         d="m242.337 80.408-4.926-9.4-1.932-3.663-.2.196-25.818-47.015C202.984 8.65 190.631 1.231 177.01 1.074l-25.074.206L188.15 114.8l-23.958 23.331 8.924 86.245 73.769-84.021c10.005-11.587 11.97-28.09 4.92-41.646l-9.466-18.302h-.002Z"
-        fill="url(#icon_r635sft_b)"
+        fill="url(#icon_uyuj8e3_b)"
       />
       <path
         d="m201.113 72.256-43.18-70.907L83.41.003C70.165-.15 57.83 6.573 50.88 17.87l-43.87 83.877 34.443-33.334L84.701 8.356l97.894 112.153 18.3-18.626c8.397-8.142 5.54-19.558.22-29.625l-.002-.002Z"
-        fill="url(#icon_r635sft_c)"
+        fill="url(#icon_uyuj8e3_c)"
       />
       <path
         d="M97.784 95.26 84.522 8.796l-73.148 88.03c-12.328 11.935-14.897 30.662-6.419 45.49l42.98 74.727c6.553 11.464 18.755 18.577 32.024 18.729l42.945.49L71.46 119.607 97.784 95.26Z"
-        fill="url(#icon_r635sft_d)"
+        fill="url(#icon_uyuj8e3_d)"
       />
       <path
         d="M173.227 223.9 71.38 119.022l-13.196 12.59c-10.812 10.248-11.106 27.332-.728 37.921l43.99 66.384 70.65.907 1.127-12.926h.003Z"
-        fill="url(#icon_r635sft_e)"
+        fill="url(#icon_uyuj8e3_e)"
       />
       <path
-        fill="url(#icon_r635sft_f)"
+        fill="url(#icon_uyuj8e3_f)"
         d="m101.584 235.903 72.292-11.599 47.704 49.464z"
       />
       <path
         d="m173.111 224.483 27.168-3.457 24.096 49.915c1.06 2.06-1.719 3.977-3.373 2.302l-47.89-48.76Z"
-        fill="url(#icon_r635sft_g)"
+        fill="url(#icon_uyuj8e3_g)"
       />
       <path
         fill="#FFF"

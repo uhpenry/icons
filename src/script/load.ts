@@ -3,7 +3,7 @@ import path from 'path';
 import axios from 'axios';
 import prettier from 'prettier';
 import { iSvgMetadata, iSvgAPIData } from '../types';
-import { pascalCase } from './helpers';
+import { pascalCase } from '../helpers';
 
 const SVGS_DIR = path.join(__dirname, '../library/svgl');
 const METADATA_PATH = path.join(__dirname, '../library/svgl/metadata.json');

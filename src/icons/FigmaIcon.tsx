@@ -12,7 +12,7 @@ export const FigmaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_tz4lrv6_clip0_912_3)">
+      <g clipPath="url(#icon_k9jnd6m_clip0_912_3)">
         <path
           d="M13.3333 80.0002C20.6933 80.0002 26.6667 74.0268 26.6667 66.6668V53.3335H13.3333C5.97333 53.3335 0 59.3068 0 66.6668C0 74.0268 5.97333 80.0002 13.3333 80.0002Z"
           fill="#0ACF83"
@@ -35,7 +35,7 @@ export const FigmaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_tz4lrv6_clip0_912_3">
+        <clipPath id="icon_k9jnd6m_clip0_912_3">
           <rect width="53.3333" height="80" fill="white" />
         </clipPath>
       </defs>

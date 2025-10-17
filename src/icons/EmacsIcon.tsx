@@ -15,7 +15,7 @@ export const EmacsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <rect
           width="256"
           height="256"
-          fill="url(#icon_vx0z0a4_skillIconsEmacs0)"
+          fill="url(#icon_9kegyd1_skillIconsEmacs0)"
           rx="60"
         />
         <path
@@ -26,7 +26,7 @@ export const EmacsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
         <defs>
           <linearGradient
-            id="icon_vx0z0a4_skillIconsEmacs0"
+            id="icon_9kegyd1_skillIconsEmacs0"
             x1="0"
             x2="256"
             y1="0"
