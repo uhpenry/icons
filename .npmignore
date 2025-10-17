@@ -10,4 +10,11 @@ pnpm-workspace.yaml
 pnpm-lock.yaml
 ICON_METRIC.md
 CONTRIBUTING.md
-/src/script
+*.map
+*.test.*
+*.spec.*
+*.stories.*
+*.config.*
+src/scripts/
+
+
