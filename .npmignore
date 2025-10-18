@@ -15,6 +15,6 @@ CONTRIBUTING.md
 *.spec.*
 *.stories.*
 *.config.*
-src/scripts/
+/dist/scripts
 
 
