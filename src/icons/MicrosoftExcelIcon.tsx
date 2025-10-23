@@ -13,7 +13,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <radialGradient
-          id="icon_h7ww0np_a"
+          id="icon_8e3i7ya_a"
           cx="-746.66"
           cy="781.44"
           r="13.89"
@@ -28,7 +28,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".7" stopColor="#15561c" />
         </radialGradient>
         <radialGradient
-          id="icon_h7ww0np_b"
+          id="icon_8e3i7ya_b"
           cx="-773.19"
           cy="771.25"
           r="13.89"
@@ -42,7 +42,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".99" stopColor="#084a13" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_h7ww0np_f"
+          id="icon_8e3i7ya_f"
           cx="-824.11"
           cy="810.99"
           r="13.89"
@@ -56,7 +56,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#72cc61" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_h7ww0np_h"
+          id="icon_8e3i7ya_h"
           cx="-769.14"
           cy="808.9"
           r="13.89"
@@ -70,7 +70,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#d0eb76" />
         </radialGradient>
         <radialGradient
-          id="icon_h7ww0np_i"
+          id="icon_8e3i7ya_i"
           cx="-675.64"
           cy="793.28"
           r="13.89"
@@ -84,7 +84,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".94" stopColor="#09442a" />
         </radialGradient>
         <radialGradient
-          id="icon_h7ww0np_j"
+          id="icon_8e3i7ya_j"
           cx="-657.62"
           cy="853.99"
           r="13.89"
@@ -98,7 +98,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".97" stopColor="#98f0b0" />
         </radialGradient>
         <linearGradient
-          id="icon_h7ww0np_c"
+          id="icon_8e3i7ya_c"
           x1="69.43"
           x2="260.84"
           y1="210.33"
@@ -111,7 +111,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".33" stopColor="#4aa647" />
         </linearGradient>
         <linearGradient
-          id="icon_h7ww0np_d"
+          id="icon_8e3i7ya_d"
           x1="194.4"
           x2="194.4"
           y1="335.33"
@@ -124,7 +124,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".5" stopColor="#4aa647" stopOpacity="0" />
         </linearGradient>
         <linearGradient
-          id="icon_h7ww0np_e"
+          id="icon_8e3i7ya_e"
           x1="80.49"
           x2="311.45"
           y1="297.22"
@@ -137,7 +137,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#85e972" />
         </linearGradient>
         <linearGradient
-          id="icon_h7ww0np_g"
+          id="icon_8e3i7ya_g"
           x1="182.11"
           x2="69.43"
           y1="377"
@@ -152,31 +152,31 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="M69.43 159.72c0-34.52 27.98-62.5 62.49-62.5h354.09v361.11c0 23.01-18.65 41.67-41.66 41.67H152.74c-46.01 0-83.31-37.31-83.31-83.33V159.72Z"
-        style={{ fill: "url(#icon_h7ww0np_a)" }}
+        style={{ fill: "url(#icon_8e3i7ya_a)" }}
       />
       <path
         d="M69.43 159.72c0-34.52 27.98-62.5 62.49-62.5h354.09v361.11c0 23.01-18.65 41.67-41.66 41.67H152.74c-46.01 0-83.31-37.31-83.31-83.33V159.72Z"
-        style={{ fill: "url(#icon_h7ww0np_b)", fillOpacity: ".7" }}
+        style={{ fill: "url(#icon_8e3i7ya_b)", fillOpacity: ".7" }}
       />
       <path
         d="M69.43 229.17c0-34.52 27.98-62.5 62.49-62.5h187.46c-23.01 0-41.66 18.66-41.66 41.67v83.33c0 23.01-18.65 41.67-41.66 41.67h-83.31c-46.01 0-83.31 37.31-83.31 83.33v-187.5Z"
-        style={{ fill: "url(#icon_h7ww0np_c)" }}
+        style={{ fill: "url(#icon_8e3i7ya_c)" }}
       />
       <path
         d="M69.43 229.17c0-34.52 27.98-62.5 62.49-62.5h187.46c-23.01 0-41.66 18.66-41.66 41.67v83.33c0 23.01-18.65 41.67-41.66 41.67h-83.31c-46.01 0-83.31 37.31-83.31 83.33v-187.5Z"
-        style={{ fill: "url(#icon_h7ww0np_d)", fillOpacity: ".3" }}
+        style={{ fill: "url(#icon_8e3i7ya_d)", fillOpacity: ".3" }}
       />
       <path
         d="M69.43 83.33C69.43 37.31 106.73 0 152.74 0h166.63v166.67H152.74c-46.01 0-83.31 37.31-83.31 83.33V83.33Z"
-        style={{ fill: "url(#icon_h7ww0np_e)" }}
+        style={{ fill: "url(#icon_8e3i7ya_e)" }}
       />
       <path
         d="M69.43 83.33C69.43 37.31 106.73 0 152.74 0h166.63v166.67H152.74c-46.01 0-83.31 37.31-83.31 83.33V83.33Z"
-        style={{ fill: "url(#icon_h7ww0np_f)" }}
+        style={{ fill: "url(#icon_8e3i7ya_f)" }}
       />
       <path
         d="M69.43 83.33C69.43 37.31 106.73 0 152.74 0h166.63v166.67H152.74c-46.01 0-83.31 37.31-83.31 83.33V83.33Z"
-        style={{ fill: "url(#icon_h7ww0np_g)" }}
+        style={{ fill: "url(#icon_8e3i7ya_g)" }}
       />
       <rect
         width="208.29"
@@ -184,7 +184,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         x="277.71"
         rx="41.66"
         ry="41.66"
-        style={{ fill: "url(#icon_h7ww0np_h)" }}
+        style={{ fill: "url(#icon_8e3i7ya_h)" }}
       />
       <rect
         width="222.17"
@@ -192,7 +192,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         y="236.11"
         rx="45.13"
         ry="45.13"
-        style={{ fill: "url(#icon_h7ww0np_i)" }}
+        style={{ fill: "url(#icon_8e3i7ya_i)" }}
       />
       <rect
         width="222.17"
@@ -200,7 +200,7 @@ export const MicrosoftExcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         y="236.11"
         rx="45.13"
         ry="45.13"
-        style={{ fillOpacity: ".3", fill: "url(#icon_h7ww0np_j)" }}
+        style={{ fillOpacity: ".3", fill: "url(#icon_8e3i7ya_j)" }}
       />
       <path
         d="M169.48 410.71h-34.25l-21.5-40.47c-.77-1.42-1.36-2.54-1.77-3.37-.35-.88-.74-1.89-1.15-3.01h-.35c-.53 1.42-1.03 2.57-1.5 3.45-.47.89-1.03 1.98-1.68 3.28l-22.3 40.11h-32.3l38.76-63.58-36.1-63.4h33.8l19.11 36.13c.77 1.48 1.42 2.78 1.95 3.9.59 1.06 1.18 2.33 1.77 3.81h.35l1.95-4.07c.53-1 1.24-2.33 2.12-3.98l19.82-35.77h32.21l-36.63 62.43 37.7 64.55Z"

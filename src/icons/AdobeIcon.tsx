@@ -12,7 +12,7 @@ export const AdobeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_y2w24ve_clip0_906_1839)">
+      <g clipPath="url(#icon_dfoqrpb_clip0_906_1839)">
         <path d="M56.9686 0H90.4318V80L56.9686 0Z" fill="#EB1000" />
         <path d="M33.4632 0H0V80L33.4632 0Z" fill="#EB1000" />
         <path
@@ -21,7 +21,7 @@ export const AdobeIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_y2w24ve_clip0_906_1839">
+        <clipPath id="icon_dfoqrpb_clip0_906_1839">
           <rect width="90.4318" height="80" fill="white" />
         </clipPath>
       </defs>

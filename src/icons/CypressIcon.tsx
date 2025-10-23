@@ -17,7 +17,7 @@ export const CypressIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M.854023 30.3588C.288116 28.2979 0 26.1573 0 24.0013 0 14.1592 6.18126 5.16 15.3824 1.61121l1.2064 3.12222C8.66867 7.78884 3.34915 15.5314 3.34915 24.0013c0 1.8579.24693 3.6978.7331 5.4709l-3.228227.8866Z"
       />
       <path
-        fill="url(#icon_xkljzcs_a)"
+        fill="url(#icon_clqhy5d_a)"
         d="M42.4508 14.4933C38.8702 7.61925 31.822 3.34836 24.0614 3.34836c-2.7498 0-5.4224.52936-7.9381 1.5701l-1.2836-3.09139C17.7644.616732 20.8666 0 24.0614 0c9.0159 0 17.201 4.95958 21.3604 12.9463l-2.971 1.547Z"
       />
       <path
@@ -29,12 +29,12 @@ export const CypressIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M37.3061 16.0737 32.658 27.8353l-4.679-11.7616h-3.8276l6.5619 16.0531-4.6687 11.3222 3.3466.6656 11.5316-28.0409h-3.6167Z"
       />
       <path
-        fill="url(#icon_xkljzcs_b)"
+        fill="url(#icon_clqhy5d_b)"
         d="m26.6434 41.9894-.8154 1.9736c-.1621.3906-.5325.6552-.9492.6732-.2752.0103-.553.018-.8334.018C14.4481 44.6491 5.95693 37.883 3.85278 28.56l-3.266842.7375C1.76663 34.5269 4.72994 39.2732 8.93051 42.6653 13.18 46.0958 18.5329 47.9897 24.0094 48h.0488c.3216 0 .6405-.0077.9595-.0205 1.7183-.072 3.254-1.1487 3.9099-2.7445l1.0649-2.58-3.3491-.6656Z"
       />
       <defs>
         <linearGradient
-          id="icon_xkljzcs_a"
+          id="icon_clqhy5d_a"
           x1="21.5577"
           x2="39.8226"
           y1="-1.54942"
@@ -45,7 +45,7 @@ export const CypressIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".9883" stopColor="#58D09E" stopOpacity="0" />
         </linearGradient>
         <linearGradient
-          id="icon_xkljzcs_b"
+          id="icon_clqhy5d_b"
           x1="-.256416"
           x2="34.638"
           y1="34.9215"

@@ -14,11 +14,11 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <defs>
         <style>
           {
-            ".st0 {\r\n        fill: #2e3c4e;\r\n      }\r\n\r\n      .st1 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {\r\n        display: none;\r\n      }\r\n\r\n      .st9 {\r\n        fill: #7300e5;\r\n      }\r\n\r\n      .st10, .st11 {\r\n        fill: #fff;\r\n      }\r\n\r\n      .st12 {\r\n        fill: url(#icon_zqfsrm8_Adsız_degrade_4);\r\n      }\r\n\r\n      .st2 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st13 {\r\n        fill: url(#icon_zqfsrm8_Adsız_degrade_41);\r\n      }\r\n\r\n      .st14 {\r\n        fill: #d7c8f9;\r\n      }\r\n\r\n      .st15 {\r\n        fill: none;\r\n      }\r\n\r\n      .st16 {\r\n        stroke: #d1d1d6;\r\n        stroke-width: .5px;\r\n      }\r\n\r\n      .st16, .st17, .st11 {\r\n        fill-opacity: 0;\r\n      }\r\n\r\n      .st3 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st17 {\r\n        stroke: #fff;\r\n        stroke-width: 4px;\r\n      }\r\n\r\n      .st4 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st5 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st7 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st18 {\r\n        fill: url(#icon_zqfsrm8_Adsız_degrade_5);\r\n      }\r\n\r\n      .st8 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st19 {\r\n        fill: url(#icon_zqfsrm8_Adsız_degrade_2);\r\n      }"
+            ".st0 {\r\n        fill: #2e3c4e;\r\n      }\r\n\r\n      .st1 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {\r\n        display: none;\r\n      }\r\n\r\n      .st9 {\r\n        fill: #7300e5;\r\n      }\r\n\r\n      .st10, .st11 {\r\n        fill: #fff;\r\n      }\r\n\r\n      .st12 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_4);\r\n      }\r\n\r\n      .st2 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st13 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_41);\r\n      }\r\n\r\n      .st14 {\r\n        fill: #d7c8f9;\r\n      }\r\n\r\n      .st15 {\r\n        fill: none;\r\n      }\r\n\r\n      .st16 {\r\n        stroke: #d1d1d6;\r\n        stroke-width: .5px;\r\n      }\r\n\r\n      .st16, .st17, .st11 {\r\n        fill-opacity: 0;\r\n      }\r\n\r\n      .st3 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st17 {\r\n        stroke: #fff;\r\n        stroke-width: 4px;\r\n      }\r\n\r\n      .st4 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st5 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st7 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st18 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_5);\r\n      }\r\n\r\n      .st8 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st19 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_2);\r\n      }"
           }
         </style>
         <mask
-          id="icon_zqfsrm8_mask"
+          id="icon_p5j10xs_mask"
           x="69.2"
           y="33.9"
           width="704"
@@ -31,11 +31,11 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             y="33.9"
             width="704"
             height="528"
-            id="icon_zqfsrm8_lottie-ymehjmywpqh__lottie_element_1058_2"
+            id="icon_p5j10xs_lottie-ymehjmywpqh__lottie_element_1058_2"
           />
         </mask>
         <linearGradient
-          id="icon_zqfsrm8_Adsız_degrade_2"
+          id="icon_p5j10xs_Adsız_degrade_2"
           data-name="Adsız degrade 2"
           x1="68.8"
           y1="563"
@@ -49,7 +49,7 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#fff" stopOpacity=".4" />
         </linearGradient>
         <mask
-          id="icon_zqfsrm8_mask-1"
+          id="icon_p5j10xs_mask-1"
           x="69.2"
           y="33.9"
           width="704"
@@ -62,11 +62,11 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             y="33.9"
             width="704"
             height="528"
-            id="icon_zqfsrm8_lottie-ymehjmywpqh__lottie_element_1038_2"
+            id="icon_p5j10xs_lottie-ymehjmywpqh__lottie_element_1038_2"
           />
         </mask>
         <linearGradient
-          id="icon_zqfsrm8_Adsız_degrade_4"
+          id="icon_p5j10xs_Adsız_degrade_4"
           data-name="Adsız degrade 4"
           x1="69.7"
           y1="567.5"
@@ -80,7 +80,7 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#fff" stopOpacity=".2" />
         </linearGradient>
         <mask
-          id="icon_zqfsrm8_mask-2"
+          id="icon_p5j10xs_mask-2"
           x="69.2"
           y="33.9"
           width="704"
@@ -93,21 +93,21 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             y="33.9"
             width="704"
             height="528"
-            id="icon_zqfsrm8_lottie-ymehjmywpqh__lottie_element_1018_2"
+            id="icon_p5j10xs_lottie-ymehjmywpqh__lottie_element_1018_2"
           />
         </mask>
         <linearGradient
-          id="icon_zqfsrm8_Adsız_degrade_41"
+          id="icon_p5j10xs_Adsız_degrade_41"
           data-name="Adsız degrade 4"
           x1="21.7"
           y1="568.3"
           x2="163.7"
           y2="568.3"
           gradientTransform="translate(551.4 969.2) scale(1 -1)"
-          xlinkHref="#icon_zqfsrm8_Adsız_degrade_4"
+          xlinkHref="#icon_p5j10xs_Adsız_degrade_4"
         />
         <linearGradient
-          id="icon_zqfsrm8_Adsız_degrade_5"
+          id="icon_p5j10xs_Adsız_degrade_5"
           data-name="Adsız degrade 5"
           x1="56.8"
           y1="647.8"

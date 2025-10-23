@@ -14,7 +14,7 @@ export const PolarIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_me7qqf9_a)">
+        <g clipPath="url(#icon_vv872c7_a)">
           <path
             fill="#fff"
             fillRule="evenodd"
@@ -23,7 +23,7 @@ export const PolarIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="icon_me7qqf9_a">
+          <clipPath id="icon_vv872c7_a">
             <path fill="#fff" d="M0 0h300v300H0z" />
           </clipPath>
         </defs>
@@ -38,7 +38,7 @@ export const PolarIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_yei48ak_a)">
+        <g clipPath="url(#icon_9kizc4w_a)">
           <path
             fill="#0062FF"
             fillRule="evenodd"
@@ -47,7 +47,7 @@ export const PolarIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="icon_yei48ak_a">
+          <clipPath id="icon_9kizc4w_a">
             <path fill="#fff" d="M0 0h300v300H0z" />
           </clipPath>
         </defs>

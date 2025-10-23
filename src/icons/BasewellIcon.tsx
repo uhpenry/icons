@@ -21,7 +21,7 @@ export const BasewellIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M46.792 52.664C46.792 31.31 64.102 14 85.456 14h35.928c22.864 0 41.4 18.535 41.4 41.4s-18.536 41.4-41.401 41.4h-74.59V52.664Z"
       />
       <mask
-        id="icon_mvob5xn_a"
+        id="icon_6afr316_a"
         width="116"
         height="84"
         x="3"
@@ -34,7 +34,7 @@ export const BasewellIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           d="M3 108.401c0-21.353 17.31-38.664 38.664-38.664H77.59c22.865 0 41.4 18.536 41.4 41.4 0 22.865-18.535 41.4-41.4 41.4H3v-44.136Z"
         />
       </mask>
-      <g mask="url(#icon_mvob5xn_a)">
+      <g mask="url(#icon_6afr316_a)">
         <path
           fill="#00A5FD"
           d="M46.792 52.664C46.792 31.31 64.102 14 85.456 14h35.928c22.864 0 41.4 18.535 41.4 41.4s-18.536 41.4-41.401 41.4h-74.59V52.664Z"

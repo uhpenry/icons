@@ -15,7 +15,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
   >
     <defs>
       <radialGradient
-        id="icon_rs1z5k1_a"
+        id="icon_eczc1jo_a"
         cx="-446.23"
         cy="850.24"
         r="6.99"
@@ -29,7 +29,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset=".7" stopColor="#0934b3" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_b"
+        id="icon_eczc1jo_b"
         cx="-463.71"
         cy="855.09"
         r="6.99"
@@ -43,7 +43,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset=".53" stopColor="#1c91ff" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_c"
+        id="icon_eczc1jo_c"
         cx="-478.67"
         cy="847.12"
         r="6.99"
@@ -57,7 +57,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset=".66" stopColor="#adc0ff" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_d"
+        id="icon_eczc1jo_d"
         cx="-484.89"
         cy="847.31"
         r="6.99"
@@ -71,7 +71,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset="1" stopColor="#368eff" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_e"
+        id="icon_eczc1jo_e"
         cx="-454.42"
         cy="853.18"
         r="6.99"
@@ -85,7 +85,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset="1" stopColor="#033acc" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_f"
+        id="icon_eczc1jo_f"
         cx="-465.3"
         cy="852.63"
         r="6.99"
@@ -99,7 +99,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset=".54" stopColor="#4bfde8" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_h"
+        id="icon_eczc1jo_h"
         cx="-445.42"
         cy="847.35"
         r="6.99"
@@ -113,7 +113,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset=".79" stopColor="#fff" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_rs1z5k1_i"
+        id="icon_eczc1jo_i"
         cx="-468.67"
         cy="861.39"
         r="6.99"
@@ -127,7 +127,7 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
         <stop offset=".58" stopColor="#4bfde8" stopOpacity="0" />
       </radialGradient>
       <linearGradient
-        id="icon_rs1z5k1_g"
+        id="icon_eczc1jo_g"
         x1="638.67"
         x2="638.67"
         y1="2.44"
@@ -142,39 +142,39 @@ export const MicrosoftOneDriveIcon = React.forwardRef<
     </defs>
     <path
       d="M276.36 94.08C123.48 94.08 9.21 209.84.6 338.79c5.33 27.79 22.83 82.65 50.24 79.84 34.26-3.52 120.56 0 194.17-123.26 53.77-90.04 164.37-201.29 31.35-201.29Z"
-      style={{ fill: "url(#icon_rs1z5k1_a)" }}
+      style={{ fill: "url(#icon_eczc1jo_a)" }}
     />
     <path
       d="M240.99 142.19c-51.39 75.26-120.56 183.1-143.91 217.03-27.75 40.34-101.25 23.2-95.16-34.62a237.4 237.4 0 0 0-1.38 14.19C-9.51 489.22 119.43 614.14 279.88 614.14c176.84 0 598.58-203.81 555.9-408.02C790.8 86.1 664.36 0 521.07 0S285.94 76.36 241 142.19Z"
-      style={{ fill: "url(#icon_rs1z5k1_b)" }}
+      style={{ fill: "url(#icon_eczc1jo_b)" }}
     />
     <path
       d="M240.99 142.19c-51.39 75.26-120.56 183.1-143.91 217.03-27.75 40.34-101.25 23.2-95.16-34.62a237.4 237.4 0 0 0-1.38 14.19C-9.51 489.22 119.43 614.14 279.88 614.14c176.84 0 598.58-203.81 555.9-408.02C790.8 86.1 664.36 0 521.07 0S285.94 76.36 241 142.19Z"
-      style={{ fillOpacity: ".4", fill: "url(#icon_rs1z5k1_c)" }}
+      style={{ fillOpacity: ".4", fill: "url(#icon_eczc1jo_c)" }}
     />
     <path
       d="M240.99 142.19c-51.39 75.26-120.56 183.1-143.91 217.03-27.75 40.34-101.25 23.2-95.16-34.62a237.4 237.4 0 0 0-1.38 14.19C-9.51 489.22 119.43 614.14 279.88 614.14c176.84 0 598.58-203.81 555.9-408.02C790.8 86.1 664.36 0 521.07 0S285.94 76.36 241 142.19Z"
-      style={{ fill: "url(#icon_rs1z5k1_d)" }}
+      style={{ fill: "url(#icon_eczc1jo_d)" }}
     />
     <path
       d="M240.99 142.19c-51.39 75.26-120.56 183.1-143.91 217.03-27.75 40.34-101.25 23.2-95.16-34.62a237.4 237.4 0 0 0-1.38 14.19C-9.51 489.22 119.43 614.14 279.88 614.14c176.84 0 598.58-203.81 555.9-408.02C790.8 86.1 664.36 0 521.07 0S285.94 76.36 241 142.19Z"
-      style={{ fill: "url(#icon_rs1z5k1_e)", fillOpacity: ".6" }}
+      style={{ fill: "url(#icon_eczc1jo_e)", fillOpacity: ".6" }}
     />
     <path
       d="M240.99 142.19c-51.39 75.26-120.56 183.1-143.91 217.03-27.75 40.34-101.25 23.2-95.16-34.62a237.4 237.4 0 0 0-1.38 14.19C-9.51 489.22 119.43 614.14 279.88 614.14c176.84 0 598.58-203.81 555.9-408.02C790.8 86.1 664.36 0 521.07 0S285.94 76.36 241 142.19Z"
-      style={{ fillOpacity: ".9", fill: "url(#icon_rs1z5k1_f)" }}
+      style={{ fillOpacity: ".9", fill: "url(#icon_eczc1jo_f)" }}
     />
     <path
       d="M277.34 614.23s422.24.77 493.86.77c129.97 0 228.8-98.16 228.8-212.69s-100.8-212.1-228.8-212.1-201.7 88.57-257.06 185.25c-64.87 113.29-147.62 237.41-236.8 238.77Z"
-      style={{ fill: "url(#icon_rs1z5k1_g)" }}
+      style={{ fill: "url(#icon_eczc1jo_g)" }}
     />
     <path
       d="M277.34 614.23s422.24.77 493.86.77c129.97 0 228.8-98.16 228.8-212.69s-100.8-212.1-228.8-212.1-201.7 88.57-257.06 185.25c-64.87 113.29-147.62 237.41-236.8 238.77Z"
-      style={{ fill: "url(#icon_rs1z5k1_h)", fillOpacity: ".4" }}
+      style={{ fill: "url(#icon_eczc1jo_h)", fillOpacity: ".4" }}
     />
     <path
       d="M277.34 614.23s422.24.77 493.86.77c129.97 0 228.8-98.16 228.8-212.69s-100.8-212.1-228.8-212.1-201.7 88.57-257.06 185.25c-64.87 113.29-147.62 237.41-236.8 238.77Z"
-      style={{ fill: "url(#icon_rs1z5k1_i)", fillOpacity: ".9" }}
+      style={{ fill: "url(#icon_eczc1jo_i)", fillOpacity: ".9" }}
     />
   </svg>
 ));

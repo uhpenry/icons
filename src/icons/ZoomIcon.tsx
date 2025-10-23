@@ -13,7 +13,7 @@ export const ZoomIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_z1h1pk9_a"
+          id="icon_65o4yva_a"
           x1="23.666%"
           x2="76.334%"
           y1="95.6118%"
@@ -31,7 +31,7 @@ export const ZoomIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_z1h1pk9_a)"
+        fill="url(#icon_65o4yva_a)"
         d="M256 128c0 13.568-1.024 27.136-3.328 40.192-6.912 43.264-41.216 77.568-84.48 84.48C155.136 254.976 141.568 256 128 256c-13.568 0-27.136-1.024-40.192-3.328-43.264-6.912-77.568-41.216-84.48-84.48C1.024 155.136 0 141.568 0 128c0-13.568 1.024-27.136 3.328-40.192 6.912-43.264 41.216-77.568 84.48-84.48C100.864 1.024 114.432 0 128 0c13.568 0 27.136 1.024 40.192 3.328 43.264 6.912 77.568 41.216 84.48 84.48C254.976 100.864 256 114.432 256 128Z"
       />
       <path

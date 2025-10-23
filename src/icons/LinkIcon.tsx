@@ -12,7 +12,7 @@ export const LinkIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_ch4l5ag_clip0_3_23)">
+      <g clipPath="url(#icon_3j0vqy2_clip0_3_23)">
         <path
           d="M100 200C155.229 200 200 155.229 200 100C200 44.7715 155.229 0 100 0C44.7715 0 0 44.7715 0 100C0 155.229 44.7715 200 100 200Z"
           fill="#375BD2"
@@ -23,7 +23,7 @@ export const LinkIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_ch4l5ag_clip0_3_23">
+        <clipPath id="icon_3j0vqy2_clip0_3_23">
           <rect width="200" height="200" fill="white" />
         </clipPath>
       </defs>

@@ -13,7 +13,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <mask
-        id="icon_muni5yr_b"
+        id="icon_3g4mtch_b"
         width="121"
         height="122"
         x="0"
@@ -22,14 +22,14 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         style={{ maskType: "alpha" }}
       >
         <path
-          fill="url(#icon_muni5yr_a)"
+          fill="url(#icon_3g4mtch_a)"
           fillRule="evenodd"
           d="M36.069 0c19.92 0 36.068 16.155 36.068 36.084v13.713h12.004c19.92 0 36.069 16.156 36.069 36.084 0 19.928-16.149 36.083-36.069 36.083H0v-85.88C0 16.155 16.148 0 36.069 0Z"
           clipRule="evenodd"
         />
       </mask>
-      <g mask="url(#icon_muni5yr_b)">
-        <g filter="url(#icon_muni5yr_c)">
+      <g mask="url(#icon_3g4mtch_b)">
+        <g filter="url(#icon_3g4mtch_c)">
           <ellipse
             cx="52.738"
             cy="65.101"
@@ -38,7 +38,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             ry="81.192"
           />
         </g>
-        <g filter="url(#icon_muni5yr_d)">
+        <g filter="url(#icon_3g4mtch_d)">
           <ellipse
             cx="61.673"
             cy="20.547"
@@ -47,7 +47,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             ry="81.192"
           />
         </g>
-        <g filter="url(#icon_muni5yr_e)">
+        <g filter="url(#icon_3g4mtch_e)">
           <ellipse
             cx="78.666"
             cy="5.268"
@@ -56,7 +56,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             ry="71.304"
           />
         </g>
-        <g filter="url(#icon_muni5yr_f)">
+        <g filter="url(#icon_3g4mtch_f)">
           <ellipse
             cx="63.121"
             cy="20.527"
@@ -68,7 +68,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </g>
       <defs>
         <filter
-          id="icon_muni5yr_c"
+          id="icon_3g4mtch_c"
           width="235.52"
           height="235.159"
           x="-65.022"
@@ -84,7 +84,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_muni5yr_d"
+          id="icon_3g4mtch_d"
           width="281.208"
           height="235.159"
           x="-78.93"
@@ -100,7 +100,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_muni5yr_e"
+          id="icon_3g4mtch_e"
           width="235.52"
           height="215.383"
           x="-39.094"
@@ -116,7 +116,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <filter
-          id="icon_muni5yr_f"
+          id="icon_3g4mtch_f"
           width="170.649"
           height="170.432"
           x="-22.204"
@@ -132,7 +132,7 @@ export const LovableIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <linearGradient
-          id="icon_muni5yr_a"
+          id="icon_3g4mtch_a"
           x1="40.453"
           x2="76.933"
           y1="21.433"

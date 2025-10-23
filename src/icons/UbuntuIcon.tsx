@@ -20,13 +20,13 @@ export const UbuntuIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         stroke="#fff"
         strokeWidth="8.6"
       />
-      <g id="icon_44xgxbg_a">
+      <g id="icon_tdk05jh_a">
         <circle cx="19.4" cy="50" r="8.4" fill="#f47421" />
         <path stroke="#f47421" strokeWidth="3.2" d="M67 50h10" />
         <circle cx="19.4" cy="50" r="6" fill="#fff" />
       </g>
-      <use xlinkHref="#icon_44xgxbg_a" transform="rotate(120 50 50)" />
-      <use xlinkHref="#icon_44xgxbg_a" transform="rotate(240 50 50)" />
+      <use xlinkHref="#icon_tdk05jh_a" transform="rotate(120 50 50)" />
+      <use xlinkHref="#icon_tdk05jh_a" transform="rotate(240 50 50)" />
     </svg>
   ),
 );

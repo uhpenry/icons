@@ -17,11 +17,11 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         height="274"
         x="1"
         y="1"
-        fill="url(#icon_09l3qzg_a)"
+        fill="url(#icon_qt52j0a_a)"
         rx="81"
       />
       <path
-        stroke="url(#icon_09l3qzg_b)"
+        stroke="url(#icon_qt52j0a_b)"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth="20"
@@ -46,13 +46,13 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         height="274"
         x="1"
         y="1"
-        stroke="url(#icon_09l3qzg_c)"
+        stroke="url(#icon_qt52j0a_c)"
         strokeWidth="2"
         rx="81"
       />
       <defs>
         <linearGradient
-          id="icon_09l3qzg_a"
+          id="icon_qt52j0a_a"
           x1="2"
           x2="274"
           y1="2"
@@ -63,7 +63,7 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#607EF4" />
         </linearGradient>
         <linearGradient
-          id="icon_09l3qzg_b"
+          id="icon_qt52j0a_b"
           x1="132.555"
           x2="94.765"
           y1="62.627"
@@ -74,7 +74,7 @@ export const LottielabIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#D7D5FF" />
         </linearGradient>
         <linearGradient
-          id="icon_09l3qzg_c"
+          id="icon_qt52j0a_c"
           x1="2"
           x2="274"
           y1="2"

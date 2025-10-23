@@ -22,7 +22,7 @@ export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         cy="426"
         r="108"
         transform="rotate(90 509 426)"
-        fill="url(#icon_zrwyx68_paint0_linear)"
+        fill="url(#icon_l6852g4_paint0_linear)"
       />
       <circle
         opacity="0.5"
@@ -30,11 +30,11 @@ export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         cy="426"
         r="108"
         transform="rotate(90 509 426)"
-        fill="url(#icon_zrwyx68_paint1_linear)"
+        fill="url(#icon_l6852g4_paint1_linear)"
       />
       <defs>
         <linearGradient
-          id="icon_zrwyx68_paint0_linear"
+          id="icon_l6852g4_paint0_linear"
           x1="428.041"
           y1="502.06"
           x2="591.574"
@@ -45,7 +45,7 @@ export const FrontIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.861354" stopColor="#FF0057" />
         </linearGradient>
         <linearGradient
-          id="icon_zrwyx68_paint1_linear"
+          id="icon_l6852g4_paint1_linear"
           x1="428.041"
           y1="502.06"
           x2="591.574"

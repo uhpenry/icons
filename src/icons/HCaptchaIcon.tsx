@@ -13,7 +13,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_8hy9ole_a"
+          id="icon_y2bufak_a"
           x1="49.979%"
           x2="49.979%"
           y1="-702.201%"
@@ -23,7 +23,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_b"
+          id="icon_y2bufak_b"
           x1="50%"
           x2="50%"
           y1="-602.243%"
@@ -33,7 +33,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_c"
+          id="icon_y2bufak_c"
           x1="49.979%"
           x2="49.979%"
           y1="-602.243%"
@@ -43,7 +43,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_d"
+          id="icon_y2bufak_d"
           x1="50.021%"
           x2="50.021%"
           y1="-502.498%"
@@ -53,7 +53,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_e"
+          id="icon_y2bufak_e"
           x1="50%"
           x2="50%"
           y1="-502.498%"
@@ -63,7 +63,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_f"
+          id="icon_y2bufak_f"
           x1="49.979%"
           x2="49.979%"
           y1="-502.498%"
@@ -73,7 +73,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_g"
+          id="icon_y2bufak_g"
           x1="50.021%"
           x2="50.021%"
           y1="-402.285%"
@@ -83,7 +83,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_h"
+          id="icon_y2bufak_h"
           x1="50%"
           x2="50%"
           y1="-402.285%"
@@ -93,7 +93,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_i"
+          id="icon_y2bufak_i"
           x1="49.979%"
           x2="49.979%"
           y1="-402.285%"
@@ -103,7 +103,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_j"
+          id="icon_y2bufak_j"
           x1="50.021%"
           x2="50.021%"
           y1="-302.328%"
@@ -113,7 +113,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_k"
+          id="icon_y2bufak_k"
           x1="50%"
           x2="50%"
           y1="-302.328%"
@@ -123,7 +123,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_l"
+          id="icon_y2bufak_l"
           x1="49.979%"
           x2="49.979%"
           y1="-302.328%"
@@ -133,7 +133,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_m"
+          id="icon_y2bufak_m"
           x1="50.021%"
           x2="50.021%"
           y1="-202.328%"
@@ -143,7 +143,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_n"
+          id="icon_y2bufak_n"
           x1="50%"
           x2="50%"
           y1="-202.328%"
@@ -153,7 +153,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_o"
+          id="icon_y2bufak_o"
           x1="49.979%"
           x2="49.979%"
           y1="-202.328%"
@@ -163,7 +163,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_p"
+          id="icon_y2bufak_p"
           x1="50%"
           x2="50%"
           y1="-102.37%"
@@ -173,7 +173,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_q"
+          id="icon_y2bufak_q"
           x1="49.979%"
           x2="49.979%"
           y1="-102.37%"
@@ -183,7 +183,7 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#0074BF" />
         </linearGradient>
         <linearGradient
-          id="icon_8hy9ole_r"
+          id="icon_y2bufak_r"
           x1="49.979%"
           x2="49.979%"
           y1="-2.37%"
@@ -194,188 +194,188 @@ export const HCaptchaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_8hy9ole_a)"
+        fill="url(#icon_y2bufak_a)"
         d="M160.007 223.993h32.007V256h-32.007z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_a)"
+        fill="url(#icon_y2bufak_a)"
         d="M128 223.993h32.007V256H128z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_a)"
+        fill="url(#icon_y2bufak_a)"
         d="M96.007 223.993h32.007V256H96.007z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_a)"
+        fill="url(#icon_y2bufak_a)"
         d="M64 223.993h32.007V256H64z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_b)"
+        fill="url(#icon_y2bufak_b)"
         d="M192 192h31.993v32.007H192z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_c)"
+        fill="url(#icon_y2bufak_c)"
         d="M160.007 192h32.007v32.007h-32.007z"
         opacity=".8"
       />
-      <path fill="url(#icon_8hy9ole_c)" d="M128 192h32.007v32.007H128z" />
-      <path fill="url(#icon_8hy9ole_c)" d="M96.007 192h32.007v32.007H96.007z" />
+      <path fill="url(#icon_y2bufak_c)" d="M128 192h32.007v32.007H128z" />
+      <path fill="url(#icon_y2bufak_c)" d="M96.007 192h32.007v32.007H96.007z" />
       <path
-        fill="url(#icon_8hy9ole_c)"
+        fill="url(#icon_y2bufak_c)"
         d="M64 192h32.007v32.007H64z"
         opacity=".8"
       />
       <path
-        fill="url(#icon_8hy9ole_c)"
+        fill="url(#icon_y2bufak_c)"
         d="M32.007 192h32.007v32.007H32.007z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_d)"
+        fill="url(#icon_y2bufak_d)"
         d="M223.993 160.007H256V192h-32.007z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_e)"
+        fill="url(#icon_y2bufak_e)"
         d="M192 160.007h31.993V192H192z"
         opacity=".8"
       />
       <path
-        fill="url(#icon_8hy9ole_f)"
+        fill="url(#icon_y2bufak_f)"
         d="M160.007 160.007h32.007V192h-32.007zM128 160.007h32.007V192H128z"
       />
       <path
-        fill="url(#icon_8hy9ole_f)"
+        fill="url(#icon_y2bufak_f)"
         d="M96.007 160.007h32.007V192H96.007zM64 160.007h32.007V192H64z"
       />
       <path
-        fill="url(#icon_8hy9ole_f)"
+        fill="url(#icon_y2bufak_f)"
         d="M32.007 160.007h32.007V192H32.007z"
         opacity=".8"
       />
       <path
-        fill="url(#icon_8hy9ole_f)"
+        fill="url(#icon_y2bufak_f)"
         d="M0 160.007h32.007V192H0z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_g)"
+        fill="url(#icon_y2bufak_g)"
         d="M223.993 128H256v32.007h-32.007z"
         opacity=".7"
       />
-      <path fill="url(#icon_8hy9ole_h)" d="M192 128h31.993v32.007H192z" />
+      <path fill="url(#icon_y2bufak_h)" d="M192 128h31.993v32.007H192z" />
       <path
-        fill="url(#icon_8hy9ole_i)"
+        fill="url(#icon_y2bufak_i)"
         d="M160.007 128h32.007v32.007h-32.007zM128 128h32.007v32.007H128z"
       />
       <path
-        fill="url(#icon_8hy9ole_i)"
+        fill="url(#icon_y2bufak_i)"
         d="M96.007 128h32.007v32.007H96.007zM64 128h32.007v32.007H64z"
       />
-      <path fill="url(#icon_8hy9ole_i)" d="M32.007 128h32.007v32.007H32.007z" />
+      <path fill="url(#icon_y2bufak_i)" d="M32.007 128h32.007v32.007H32.007z" />
       <path
-        fill="url(#icon_8hy9ole_i)"
+        fill="url(#icon_y2bufak_i)"
         d="M0 128h32.007v32.007H0z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_j)"
+        fill="url(#icon_y2bufak_j)"
         d="M223.993 96.007H256v32.007h-32.007z"
         opacity=".7"
       />
-      <path fill="url(#icon_8hy9ole_k)" d="M192 96.007h31.993v32.007H192z" />
+      <path fill="url(#icon_y2bufak_k)" d="M192 96.007h31.993v32.007H192z" />
       <path
-        fill="url(#icon_8hy9ole_l)"
+        fill="url(#icon_y2bufak_l)"
         d="M160.007 96.007h32.007v32.007h-32.007zM128 96.007h32.007v32.007H128z"
       />
       <path
-        fill="url(#icon_8hy9ole_l)"
+        fill="url(#icon_y2bufak_l)"
         d="M96.007 96.007h32.007v32.007H96.007zM64 96.007h32.007v32.007H64z"
       />
       <path
-        fill="url(#icon_8hy9ole_l)"
+        fill="url(#icon_y2bufak_l)"
         d="M32.007 96.007h32.007v32.007H32.007z"
       />
       <path
-        fill="url(#icon_8hy9ole_l)"
+        fill="url(#icon_y2bufak_l)"
         d="M0 96.007h32.007v32.007H0z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_m)"
+        fill="url(#icon_y2bufak_m)"
         d="M223.993 64H256v32.007h-32.007z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_n)"
+        fill="url(#icon_y2bufak_n)"
         d="M192 64h31.993v32.007H192z"
         opacity=".8"
       />
       <path
-        fill="url(#icon_8hy9ole_o)"
+        fill="url(#icon_y2bufak_o)"
         d="M160.007 64h32.007v32.007h-32.007zM128 64h32.007v32.007H128z"
       />
       <path
-        fill="url(#icon_8hy9ole_o)"
+        fill="url(#icon_y2bufak_o)"
         d="M96.007 64h32.007v32.007H96.007zM64 64h32.007v32.007H64z"
       />
       <path
-        fill="url(#icon_8hy9ole_o)"
+        fill="url(#icon_y2bufak_o)"
         d="M32.007 64h32.007v32.007H32.007z"
         opacity=".8"
       />
       <path
-        fill="url(#icon_8hy9ole_o)"
+        fill="url(#icon_y2bufak_o)"
         d="M0 64h32.007v32.007H0z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_p)"
+        fill="url(#icon_y2bufak_p)"
         d="M192 32.007h31.993v32.007H192z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_q)"
+        fill="url(#icon_y2bufak_q)"
         d="M160.007 32.007h32.007v32.007h-32.007z"
         opacity=".8"
       />
-      <path fill="url(#icon_8hy9ole_q)" d="M128 32.007h32.007v32.007H128z" />
+      <path fill="url(#icon_y2bufak_q)" d="M128 32.007h32.007v32.007H128z" />
       <path
-        fill="url(#icon_8hy9ole_q)"
+        fill="url(#icon_y2bufak_q)"
         d="M96.007 32.007h32.007v32.007H96.007z"
       />
       <path
-        fill="url(#icon_8hy9ole_q)"
+        fill="url(#icon_y2bufak_q)"
         d="M64 32.007h32.007v32.007H64z"
         opacity=".8"
       />
       <path
-        fill="url(#icon_8hy9ole_q)"
+        fill="url(#icon_y2bufak_q)"
         d="M32.007 32.007h32.007v32.007H32.007z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_r)"
+        fill="url(#icon_y2bufak_r)"
         d="M160.007 0h32.007v32.007h-32.007z"
         opacity=".5"
       />
       <path
-        fill="url(#icon_8hy9ole_r)"
+        fill="url(#icon_y2bufak_r)"
         d="M128 0h32.007v32.007H128z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_r)"
+        fill="url(#icon_y2bufak_r)"
         d="M96.007 0h32.007v32.007H96.007z"
         opacity=".7"
       />
       <path
-        fill="url(#icon_8hy9ole_r)"
+        fill="url(#icon_y2bufak_r)"
         d="M64 0h32.007v32.007H64z"
         opacity=".5"
       />

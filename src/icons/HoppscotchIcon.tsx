@@ -19,43 +19,43 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M403.097 313.899C395.621 330.69 372.61 336.755 351.7 327.446C330.791 318.136 319.9 296.977 327.376 280.185C334.852 263.394 357.864 257.329 378.773 266.638C399.683 275.948 410.573 297.107 403.097 313.899Z"
-        fill="url(#icon_f0o0mh7_paint0_linear_193_425)"
+        fill="url(#icon_nkcucf0_paint0_linear_193_425)"
       />
       <path
         d="M403.097 313.899C395.621 330.69 372.61 336.755 351.7 327.446C330.791 318.136 319.9 296.977 327.376 280.185C334.852 263.394 357.864 257.329 378.773 266.638C399.683 275.948 410.573 297.107 403.097 313.899Z"
-        fill="url(#icon_f0o0mh7_paint1_radial_193_425)"
+        fill="url(#icon_nkcucf0_paint1_radial_193_425)"
       />
       <path
         d="M528.347 386.39C550.237 392.667 572.069 383.507 577.108 365.932C582.148 348.356 568.488 329.02 546.597 322.743C524.707 316.466 502.876 325.626 497.836 343.201C492.797 360.777 506.457 380.113 528.347 386.39Z"
-        fill="url(#icon_f0o0mh7_paint2_linear_193_425)"
+        fill="url(#icon_nkcucf0_paint2_linear_193_425)"
       />
       <path
         d="M528.347 386.39C550.237 392.667 572.069 383.507 577.108 365.932C582.148 348.356 568.488 329.02 546.597 322.743C524.707 316.466 502.876 325.626 497.836 343.201C492.797 360.777 506.457 380.113 528.347 386.39Z"
-        fill="url(#icon_f0o0mh7_paint3_radial_193_425)"
+        fill="url(#icon_nkcucf0_paint3_radial_193_425)"
       />
       <path
         d="M224.775 179.46C244.087 191.528 251.889 213.88 242.2 229.386C232.511 244.892 209.001 247.678 189.689 235.611C170.376 223.543 162.575 201.191 172.264 185.685C181.953 170.18 205.463 167.393 224.775 179.46Z"
-        fill="url(#icon_f0o0mh7_paint4_linear_193_425)"
+        fill="url(#icon_nkcucf0_paint4_linear_193_425)"
       />
       <path
         d="M224.775 179.46C244.087 191.528 251.889 213.88 242.2 229.386C232.511 244.892 209.001 247.678 189.689 235.611C170.376 223.543 162.575 201.191 172.264 185.685C181.953 170.18 205.463 167.393 224.775 179.46Z"
-        fill="url(#icon_f0o0mh7_paint5_radial_193_425)"
+        fill="url(#icon_nkcucf0_paint5_radial_193_425)"
       />
       <path
         fillRule="evenodd"
         clipRule="evenodd"
         d="M486.721 24.1781C585.517 68.1648 648.954 164.093 651.512 271.264C709.675 317.023 767.481 381.07 740.621 441.397C697.062 539.232 492.036 489.748 314.607 410.752C137.178 331.755 -36.7846 212.503 6.77462 114.667C33.634 54.3402 119.909 54.4429 192.834 67.0469C274.189 -2.76312 387.925 -19.8085 486.721 24.1781ZM57.9807 137.466C43.3469 170.334 122.02 263.65 337.406 359.546C552.791 455.441 674.781 451.466 689.415 418.599C701.527 391.395 651.358 333.28 594.568 298.562C592.829 297.499 590.404 295.993 587.367 294.107C559.717 276.939 481.409 228.316 409.894 196.476C388.292 186.858 379.85 161.203 388.926 140.816C398.003 120.43 417.953 106.802 459.959 104.873C479.732 104.818 482.325 99.3385 483.228 94.6402C484.346 87.3918 474.068 79.9011 463.923 75.3842C381.481 38.6787 280.576 54.0359 210.65 127.631C142.309 112.312 70.0923 110.263 57.9807 137.466Z"
-        fill="url(#icon_f0o0mh7_paint6_linear_193_425)"
+        fill="url(#icon_nkcucf0_paint6_linear_193_425)"
       />
       <path
         fillRule="evenodd"
         clipRule="evenodd"
         d="M486.721 24.1781C585.517 68.1648 648.954 164.093 651.512 271.264C709.675 317.023 767.481 381.07 740.621 441.397C697.062 539.232 492.036 489.748 314.607 410.752C137.178 331.755 -36.7846 212.503 6.77462 114.667C33.634 54.3402 119.909 54.4429 192.834 67.0469C274.189 -2.76312 387.925 -19.8085 486.721 24.1781ZM57.9807 137.466C43.3469 170.334 122.02 263.65 337.406 359.546C552.791 455.441 674.781 451.466 689.415 418.599C701.527 391.395 651.358 333.28 594.568 298.562C592.829 297.499 590.404 295.993 587.367 294.107C559.717 276.939 481.409 228.316 409.894 196.476C388.292 186.858 379.85 161.203 388.926 140.816C398.003 120.43 417.953 106.802 459.959 104.873C479.732 104.818 482.325 99.3385 483.228 94.6402C484.346 87.3918 474.068 79.9011 463.923 75.3842C381.481 38.6787 280.576 54.0359 210.65 127.631C142.309 112.312 70.0923 110.263 57.9807 137.466Z"
-        fill="url(#icon_f0o0mh7_paint7_radial_193_425)"
+        fill="url(#icon_nkcucf0_paint7_radial_193_425)"
       />
       <defs>
         <linearGradient
-          id="icon_f0o0mh7_paint0_linear_193_425"
+          id="icon_nkcucf0_paint0_linear_193_425"
           x1="373.698"
           y1="-1.11451e-06"
           x2="373.698"
@@ -66,7 +66,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#00B381" />
         </linearGradient>
         <radialGradient
-          id="icon_f0o0mh7_paint1_radial_193_425"
+          id="icon_nkcucf0_paint1_radial_193_425"
           cx="0"
           cy="0"
           r="1"
@@ -77,7 +77,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <linearGradient
-          id="icon_f0o0mh7_paint2_linear_193_425"
+          id="icon_nkcucf0_paint2_linear_193_425"
           x1="373.698"
           y1="-1.11451e-06"
           x2="373.698"
@@ -88,7 +88,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#00B381" />
         </linearGradient>
         <radialGradient
-          id="icon_f0o0mh7_paint3_radial_193_425"
+          id="icon_nkcucf0_paint3_radial_193_425"
           cx="0"
           cy="0"
           r="1"
@@ -99,7 +99,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <linearGradient
-          id="icon_f0o0mh7_paint4_linear_193_425"
+          id="icon_nkcucf0_paint4_linear_193_425"
           x1="373.698"
           y1="-1.11451e-06"
           x2="373.698"
@@ -110,7 +110,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#00B381" />
         </linearGradient>
         <radialGradient
-          id="icon_f0o0mh7_paint5_radial_193_425"
+          id="icon_nkcucf0_paint5_radial_193_425"
           cx="0"
           cy="0"
           r="1"
@@ -121,7 +121,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="white" stopOpacity="0" />
         </radialGradient>
         <linearGradient
-          id="icon_f0o0mh7_paint6_linear_193_425"
+          id="icon_nkcucf0_paint6_linear_193_425"
           x1="373.698"
           y1="-1.11451e-06"
           x2="373.698"
@@ -132,7 +132,7 @@ export const HoppscotchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#00B381" />
         </linearGradient>
         <radialGradient
-          id="icon_f0o0mh7_paint7_radial_193_425"
+          id="icon_nkcucf0_paint7_radial_193_425"
           cx="0"
           cy="0"
           r="1"

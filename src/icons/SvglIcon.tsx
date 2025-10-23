@@ -13,20 +13,20 @@ export const SvglIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <rect
-        id="icon_sqcjumz_«r3b»"
+        id="icon_goafo8s_«r3b»"
         width="512"
         height="512"
         x="0"
         y="0"
         rx="128"
-        fill="url(#icon_sqcjumz_«r3c»)"
+        fill="url(#icon_goafo8s_«r3c»)"
         stroke="#FFFFFF"
         strokeWidth="0"
         paintOrder="stroke"
       />
       <defs>
         <radialGradient
-          id="icon_sqcjumz_«r3c»"
+          id="icon_goafo8s_«r3c»"
           cx="50%"
           cy="50%"
           r="100%"

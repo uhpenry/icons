@@ -15,7 +15,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
   >
     <defs>
       <radialGradient
-        id="icon_agp45wp_b"
+        id="icon_r3u9l4p_b"
         cx="0"
         cy="0"
         r="1"
@@ -38,7 +38,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_c"
+        id="icon_r3u9l4p_c"
         cx="0"
         cy="0"
         r="1"
@@ -54,7 +54,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#ea3d01", stopOpacity: "0" }} />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_e"
+        id="icon_r3u9l4p_e"
         cx="0"
         cy="0"
         r="1"
@@ -73,7 +73,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_f"
+        id="icon_r3u9l4p_f"
         cx="0"
         cy="0"
         r="1"
@@ -92,7 +92,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_g"
+        id="icon_r3u9l4p_g"
         cx="0"
         cy="0"
         r="1"
@@ -109,7 +109,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_h"
+        id="icon_r3u9l4p_h"
         cx="0"
         cy="0"
         r="1"
@@ -128,7 +128,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_i"
+        id="icon_r3u9l4p_i"
         cx="0"
         cy="0"
         r="1"
@@ -144,7 +144,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_agp45wp_j"
+        id="icon_r3u9l4p_j"
         cx="0"
         cy="0"
         r="1"
@@ -163,7 +163,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         />
       </radialGradient>
       <linearGradient
-        id="icon_agp45wp_a"
+        id="icon_r3u9l4p_a"
         x1="22.096"
         x2="-.876"
         y1="4.056"
@@ -178,7 +178,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#e5495b", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="icon_agp45wp_d"
+        id="icon_r3u9l4p_d"
         x1="27.549"
         x2="47.729"
         y1="28.172"
@@ -201,7 +201,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_a)",
+        fill: "url(#icon_r3u9l4p_a)",
       }}
     />
     <path
@@ -209,7 +209,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_b)",
+        fill: "url(#icon_r3u9l4p_b)",
       }}
     />
     <path
@@ -217,7 +217,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_c)",
+        fill: "url(#icon_r3u9l4p_c)",
       }}
     />
     <path
@@ -225,7 +225,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_d)",
+        fill: "url(#icon_r3u9l4p_d)",
       }}
     />
     <path
@@ -233,7 +233,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_e)",
+        fill: "url(#icon_r3u9l4p_e)",
       }}
     />
     <path
@@ -241,7 +241,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_f)",
+        fill: "url(#icon_r3u9l4p_f)",
       }}
     />
     <path
@@ -249,7 +249,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_g)",
+        fill: "url(#icon_r3u9l4p_g)",
       }}
     />
     <path
@@ -257,7 +257,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_h)",
+        fill: "url(#icon_r3u9l4p_h)",
       }}
     />
     <path
@@ -265,7 +265,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_i)",
+        fill: "url(#icon_r3u9l4p_i)",
       }}
     />
     <path
@@ -273,7 +273,7 @@ export const MicrosoftPowerPointIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_agp45wp_j)",
+        fill: "url(#icon_r3u9l4p_j)",
       }}
     />
     <path

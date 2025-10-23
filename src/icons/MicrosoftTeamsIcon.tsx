@@ -13,48 +13,48 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <path
-        fill="url(#icon_xohsh1m_a)"
+        fill="url(#icon_0rd06n1_a)"
         d="M22 20h12a6 6 0 0 1 6 6v10a6 6 0 0 1-12 0V26a6 6 0 0 0-6-6Z"
       />
       <path
-        fill="url(#icon_xohsh1m_b)"
+        fill="url(#icon_0rd06n1_b)"
         d="M8 24a6 6 0 0 1 6-6h8a6 6 0 0 1 6 6v12a6 6 0 0 0 6 6H18c-5.523 0-10-4.477-10-10v-8Z"
       />
       <path
-        fill="url(#icon_xohsh1m_c)"
+        fill="url(#icon_0rd06n1_c)"
         fillOpacity=".7"
         d="M8 24a6 6 0 0 1 6-6h8a6 6 0 0 1 6 6v12a6 6 0 0 0 6 6H18c-5.523 0-10-4.477-10-10v-8Z"
       />
       <path
-        fill="url(#icon_xohsh1m_d)"
+        fill="url(#icon_0rd06n1_d)"
         fillOpacity=".7"
         d="M8 24a6 6 0 0 1 6-6h8a6 6 0 0 1 6 6v12a6 6 0 0 0 6 6H18c-5.523 0-10-4.477-10-10v-8Z"
       />
       <path
-        fill="url(#icon_xohsh1m_e)"
+        fill="url(#icon_0rd06n1_e)"
         d="M33 18a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z"
       />
       <path
-        fill="url(#icon_xohsh1m_f)"
+        fill="url(#icon_0rd06n1_f)"
         fillOpacity=".46"
         d="M33 18a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z"
       />
       <path
-        fill="url(#icon_xohsh1m_g)"
+        fill="url(#icon_0rd06n1_g)"
         fillOpacity=".4"
         d="M33 18a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z"
       />
       <path
-        fill="url(#icon_xohsh1m_h)"
+        fill="url(#icon_0rd06n1_h)"
         d="M18 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"
       />
       <path
-        fill="url(#icon_xohsh1m_i)"
+        fill="url(#icon_0rd06n1_i)"
         fillOpacity=".6"
         d="M18 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"
       />
       <path
-        fill="url(#icon_xohsh1m_j)"
+        fill="url(#icon_0rd06n1_j)"
         fillOpacity=".5"
         d="M18 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12Z"
       />
@@ -63,7 +63,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         height="16"
         x="4"
         y="23"
-        fill="url(#icon_xohsh1m_k)"
+        fill="url(#icon_0rd06n1_k)"
         rx="3.25"
       />
       <rect
@@ -71,7 +71,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         height="16"
         x="4"
         y="23"
-        fill="url(#icon_xohsh1m_l)"
+        fill="url(#icon_0rd06n1_l)"
         fillOpacity=".7"
         rx="3.25"
       />
@@ -81,7 +81,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <defs>
         <radialGradient
-          id="icon_xohsh1m_a"
+          id="icon_0rd06n1_a"
           cx="0"
           cy="0"
           r="1"
@@ -94,7 +94,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".9" stopColor="#3C2CB8" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_b"
+          id="icon_0rd06n1_b"
           cx="0"
           cy="0"
           r="1"
@@ -106,7 +106,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#6459FE" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_d"
+          id="icon_0rd06n1_d"
           cx="0"
           cy="0"
           r="1"
@@ -117,7 +117,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".687" stopColor="#BD96FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_e"
+          id="icon_0rd06n1_e"
           cx="0"
           cy="0"
           r="1"
@@ -128,7 +128,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#3923B1" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_f"
+          id="icon_0rd06n1_f"
           cx="0"
           cy="0"
           r="1"
@@ -139,7 +139,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".813" stopColor="#A1D3FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_g"
+          id="icon_0rd06n1_g"
           cx="0"
           cy="0"
           r="1"
@@ -150,7 +150,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".816" stopColor="#9FA2FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_h"
+          id="icon_0rd06n1_h"
           cx="0"
           cy="0"
           r="1"
@@ -161,7 +161,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#3923B1" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_i"
+          id="icon_0rd06n1_i"
           cx="0"
           cy="0"
           r="1"
@@ -172,7 +172,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".813" stopColor="#A1D3FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_j"
+          id="icon_0rd06n1_j"
           cx="0"
           cy="0"
           r="1"
@@ -183,7 +183,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".816" stopColor="#9FA2FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_k"
+          id="icon_0rd06n1_k"
           cx="0"
           cy="0"
           r="1"
@@ -194,7 +194,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".947" stopColor="#230F94" />
         </radialGradient>
         <radialGradient
-          id="icon_xohsh1m_l"
+          id="icon_0rd06n1_l"
           cx="0"
           cy="0"
           r="1"
@@ -205,7 +205,7 @@ export const MicrosoftTeamsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#8F8FFF" />
         </radialGradient>
         <linearGradient
-          id="icon_xohsh1m_c"
+          id="icon_0rd06n1_c"
           x1="20.594"
           x2="20.594"
           y1="18"

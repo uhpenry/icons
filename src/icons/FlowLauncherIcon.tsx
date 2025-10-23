@@ -13,7 +13,7 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_wdxkbcm_a"
+          id="icon_6jds2ru_a"
           x2="249.9"
           y1="191.3"
           y2="191.3"
@@ -25,8 +25,8 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#0078d4" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_wdxkbcm_a"
-          id="icon_wdxkbcm_b"
+          xlinkHref="#icon_6jds2ru_a"
+          id="icon_6jds2ru_b"
           x1="697.3"
           x2="809.9"
           y1="499.2"
@@ -34,7 +34,7 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientTransform="rotate(49.2 809.6 -269.1)"
         />
         <linearGradient
-          id="icon_wdxkbcm_c"
+          id="icon_6jds2ru_c"
           x1="143.6"
           x2="393.5"
           y1="249.8"
@@ -47,15 +47,15 @@ export const FlowLauncherIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_wdxkbcm_a)"
+        fill="url(#icon_6jds2ru_a)"
         d="M117 382.5H0v-189C0 90.7 84 0 186.9 0h63v120.4h-54.6c-46.8 0-78 31.2-78 78l-.1 184.1z"
       />
       <path
-        fill="url(#icon_wdxkbcm_b)"
+        fill="url(#icon_6jds2ru_b)"
         d="m249.9 182.6.2-46.8h-54.7c-39 0-62.4 23.4-62.4 62.4l-.2 47 54.6-.1c39 0 62.5-23.4 62.5-62.5z"
       />
       <path
-        fill="url(#icon_wdxkbcm_c)"
+        fill="url(#icon_6jds2ru_c)"
         d="M265.5 0h117v189c0 102.8-84 193.5-186.8 193.5h-63V262.1h54.6c46.9 0 78.1-31.2 78.1-78L265.5 0z"
       />
     </svg>

@@ -14,27 +14,27 @@ export const MicrosoftDesignerIcon = React.forwardRef<
     ref={ref}
     {...props}
   >
-    <g clipPath="url(#icon_4u2q72p_a)">
-      <g clipPath="url(#icon_4u2q72p_b)">
+    <g clipPath="url(#icon_i517wfj_a)">
+      <g clipPath="url(#icon_i517wfj_b)">
         <path
-          fill="url(#icon_4u2q72p_c)"
+          fill="url(#icon_i517wfj_c)"
           fillRule="evenodd"
           d="M440 415.811V247.996H240v8c-106.039 0-192 85.961-192 192v32c0 17.673 14.327 32 32 32h160c80.929 0 153.088-37.553 200-96.185Z"
           clipRule="evenodd"
         />
         <path
-          fill="url(#icon_4u2q72p_d)"
+          fill="url(#icon_i517wfj_d)"
           fillOpacity=".5"
           fillRule="evenodd"
           d="M440 415.811V247.996H240v8c-106.039 0-192 85.961-192 192v32c0 17.673 14.327 32 32 32h160c80.929 0 153.088-37.553 200-96.185Z"
           clipRule="evenodd"
         />
         <path
-          fill="url(#icon_4u2q72p_e)"
+          fill="url(#icon_i517wfj_e)"
           d="M240-.004H80c-17.673 0-32 14.327-32 32v32c0 106.039 85.961 192 192 192h72c70.692 0 128 57.308 128 128 0 13.657-2.139 26.814-6.1 39.155 38.699-44.85 62.1-103.269 62.1-167.155 0-141.385-114.615-256-256-256Z"
         />
         <path
-          fill="url(#icon_4u2q72p_f)"
+          fill="url(#icon_i517wfj_f)"
           fillOpacity=".5"
           d="M240-.004H80c-17.673 0-32 14.327-32 32v32c0 106.039 85.961 192 192 192h72c70.692 0 128 57.308 128 128 0 13.657-2.139 26.814-6.1 39.155 38.699-44.85 62.1-103.269 62.1-167.155 0-141.385-114.615-256-256-256Z"
         />
@@ -42,7 +42,7 @@ export const MicrosoftDesignerIcon = React.forwardRef<
     </g>
     <defs>
       <radialGradient
-        id="icon_4u2q72p_c"
+        id="icon_i517wfj_c"
         cx="0"
         cy="0"
         r="1"
@@ -56,7 +56,7 @@ export const MicrosoftDesignerIcon = React.forwardRef<
         <stop offset="1" stopColor="#261D82" />
       </radialGradient>
       <radialGradient
-        id="icon_4u2q72p_d"
+        id="icon_i517wfj_d"
         cx="0"
         cy="0"
         r="1"
@@ -67,7 +67,7 @@ export const MicrosoftDesignerIcon = React.forwardRef<
         <stop offset=".921" stopColor="#BD96FF" />
       </radialGradient>
       <radialGradient
-        id="icon_4u2q72p_e"
+        id="icon_i517wfj_e"
         cx="0"
         cy="0"
         r="1"
@@ -81,7 +81,7 @@ export const MicrosoftDesignerIcon = React.forwardRef<
         <stop offset="1" stopColor="#C354FF" />
       </radialGradient>
       <radialGradient
-        id="icon_4u2q72p_f"
+        id="icon_i517wfj_f"
         cx="0"
         cy="0"
         r="1"
@@ -91,10 +91,10 @@ export const MicrosoftDesignerIcon = React.forwardRef<
         <stop offset=".709" stopColor="#FFB357" stopOpacity="0" />
         <stop offset=".942" stopColor="#FFB357" />
       </radialGradient>
-      <clipPath id="icon_4u2q72p_a">
+      <clipPath id="icon_i517wfj_a">
         <path fill="#fff" d="M0 0h512v512H0z" />
       </clipPath>
-      <clipPath id="icon_4u2q72p_b">
+      <clipPath id="icon_i517wfj_b">
         <path fill="#fff" d="M0 0h512v512H0z" />
       </clipPath>
     </defs>

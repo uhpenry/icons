@@ -17,7 +17,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.5%"
           x2="50.3%"
           y2="50.4%"
-          id="icon_w4rc3xp_a"
+          id="icon_ub8plgo_a"
         >
           <stop offset="0%" />
           <stop stopOpacity="0" offset="100%" />
@@ -27,7 +27,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="49.9%"
           x2="49.9%"
           y2="50.1%"
-          id="icon_w4rc3xp_b"
+          id="icon_ub8plgo_b"
         >
           <stop offset="0%" />
           <stop stopOpacity="0" offset="100%" />
@@ -37,7 +37,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="46.5%"
           x2="93.7%"
           y2="50.2%"
-          id="icon_w4rc3xp_c"
+          id="icon_ub8plgo_c"
         >
           <stop stopColor="#C37A44" offset="0%" />
           <stop stopColor="#BB713D" offset="44.4%" />
@@ -49,7 +49,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="61.3%"
           x2="41.4%"
           y2="43.4%"
-          id="icon_w4rc3xp_d"
+          id="icon_ub8plgo_d"
         >
           <stop stopColor="#E9B880" offset="0%" />
           <stop stopColor="#E4AF76" offset="100%" />
@@ -59,7 +59,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="51.1%"
           x2="49.2%"
           y2="49.3%"
-          id="icon_w4rc3xp_e"
+          id="icon_ub8plgo_e"
         >
           <stop stopColor="#C37A45" stopOpacity="0" offset="0%" />
           <stop stopColor="#C37A45" offset="13.3%" />
@@ -74,7 +74,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="28.9%"
           x2="22.3%"
           y2="77.5%"
-          id="icon_w4rc3xp_f"
+          id="icon_ub8plgo_f"
         >
           <stop stopColor="#AF6938" offset="8.8%" />
           <stop stopColor="#9A5227" offset="48.3%" />
@@ -85,7 +85,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="57.3%"
           x2="56.6%"
           y2="45%"
-          id="icon_w4rc3xp_g"
+          id="icon_ub8plgo_g"
         >
           <stop stopColor="#E4AF76" offset="3.3%" />
           <stop stopColor="#E9B880" offset="100%" />
@@ -95,7 +95,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="50.5%"
           x2="50.7%"
           y2="49.2%"
-          id="icon_w4rc3xp_h"
+          id="icon_ub8plgo_h"
         >
           <stop stopColor="#AF6A38" stopOpacity="0" offset="0%" />
           <stop stopColor="#AF6A38" offset="8.6%" />
@@ -109,7 +109,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="50%"
           x2="93.2%"
           y2="50%"
-          id="icon_w4rc3xp_i"
+          id="icon_ub8plgo_i"
         >
           <stop stopColor="#743F1A" stopOpacity="0" offset="0%" />
           <stop stopColor="#743F1A" stopOpacity=".9" offset="49.3%" />
@@ -122,7 +122,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="50.1%"
           x2="50%"
           y2="50%"
-          id="icon_w4rc3xp_j"
+          id="icon_ub8plgo_j"
         >
           <stop stopColor="#322214" offset="0%" />
           <stop stopColor="#322314" offset="24%" />
@@ -133,7 +133,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="48.2%"
           x2="48.7%"
           y2="51.6%"
-          id="icon_w4rc3xp_k"
+          id="icon_ub8plgo_k"
         >
           <stop stopColor="#C69866" offset="4.8%" />
           <stop stopColor="#BA8C5E" offset="41.6%" />
@@ -144,7 +144,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="46.8%"
           x2="25%"
           y2="8.9%"
-          id="icon_w4rc3xp_l"
+          id="icon_ub8plgo_l"
         >
           <stop stopColor="#845F35" offset="0%" />
           <stop stopColor="#91673C" offset="43.1%" />
@@ -157,7 +157,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="50%"
           x2="50.1%"
           y2="50.1%"
-          id="icon_w4rc3xp_m"
+          id="icon_ub8plgo_m"
         >
           <stop stopColor="#322214" stopOpacity="0" offset="0%" />
           <stop stopColor="#322214" offset="100%" />
@@ -167,7 +167,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="62.6%"
           x2="50.5%"
           y2="33.5%"
-          id="icon_w4rc3xp_n"
+          id="icon_ub8plgo_n"
         >
           <stop stopColor="#A9794B" offset="0%" />
           <stop stopColor="#AE7F53" offset="38.6%" />
@@ -178,43 +178,43 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="m140.5 191.3 70.3-44.4c.2-.2.6 0 .7.2.2.2.1.6-.1.7l-70.5 44.6h-.3v-1Z"
-        fill="url(#icon_w4rc3xp_a)"
+        fill="url(#icon_ub8plgo_a)"
       />
       <path
         d="M140.6 192.5h-.2l-95.8-35.7a.5.5 0 0 1-.3-.7c.1-.3.4-.5.7-.4l95.5 35.6v1.2Z"
-        fill="url(#icon_w4rc3xp_b)"
+        fill="url(#icon_ub8plgo_b)"
       />
       <path
         d="m241.1 21.8-11 18.3-44.5 19-2.5 1-39.9 37.3c-.8.8-1.3 1.9-1.4 2.5 0 .2-.2.1-.4 0-.1 0-.4.1-.4 0 0-.9-.1-1.8-1.4-2.6l-20-13L105 75 63.9 64.4l-34.4-8.8L7.7 21.7l.3-.4L90 0h.1L118 42l.5.8c.6.9.7 1.4.7 1.8h.5V43.8l.1-.4v-.2l.2-.5.1-.2a4.6 4.6 0 0 1 .5-.9l25.2-36.6s0-.1.2 0l95 16.3.1.4Z"
         fill="#E8B67F"
       />
       <path
-        fill="url(#icon_w4rc3xp_c)"
+        fill="url(#icon_ub8plgo_c)"
         d="M119.6 84.4 105 74.9 63.9 64.4l55.3-19.9.1-.3v.3z"
       />
       <path
         d="M119.2 44.5 63.9 64.4l-5-1.3-29.4-7.6L7.7 21.7l.4-.4L89.9 0h.1L118 42l.5.8c.6.9.7 1.4.7 1.8Z"
-        fill="url(#icon_w4rc3xp_d)"
+        fill="url(#icon_ub8plgo_d)"
       />
       <path
         d="M119.4 46.6 67 65.4l-8.1-2L118 42l.5.8c.6.9.7 1.4.7 1.8h.1v2Z"
-        fill="url(#icon_w4rc3xp_e)"
+        fill="url(#icon_ub8plgo_e)"
       />
       <path fill="#D2A679" d="m30.2 55.7-.7-.2L7.7 21.7l.3-.4z" />
       <path
         d="m185.6 59-2.5 1-39.9 37.4c-.8.8-1.3 1.9-1.4 2.5 0 .2-.2.1-.4 0-.1 0-.4.1-.4 0 0-.9-.1-1.8-1.4-2.6l-20-13-.3-39.8v-.3l.4.3 66 14.5Z"
-        fill="url(#icon_w4rc3xp_f)"
+        fill="url(#icon_ub8plgo_f)"
       />
       <path
         d="m241.1 21.8-11 18.3-40.5 17.2-4 1.7-66-14.5a6.2 6.2 0 0 1 1-2.8l25.2-36.6s0-.1.2 0l95 16.2.1.5Z"
-        fill="url(#icon_w4rc3xp_g)"
+        fill="url(#icon_ub8plgo_g)"
       />
       <path
         d="m189.6 57.3-6.4 2.7-.9.8-63-13.9.3-2.4c0-.5.4-1.7.8-2.4l69.2 15.2Z"
-        fill="url(#icon_w4rc3xp_h)"
+        fill="url(#icon_ub8plgo_h)"
       />
       <path
-        fill="url(#icon_w4rc3xp_i)"
+        fill="url(#icon_ub8plgo_i)"
         opacity=".8"
         d="M121.1 44.8v40.5l-1.5-.9-2-1.3V45l1.6-.5h.5z"
       />
@@ -228,7 +228,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M140.8 191.6v.3h-.6L44.3 156c-.4-.2-.5-.5-.6-.9l97 36.4Z"
-        fill="url(#icon_w4rc3xp_j)"
+        fill="url(#icon_ub8plgo_j)"
         opacity=".5"
       />
       <path
@@ -237,7 +237,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M141.4 100c-.4 0-.7.5-.7 1L39.4 73c0-.2.2-.3.3-.4l-.9-1.7L0 49l.3-.8L105 74.9l34.6 22.4c1.3.8 1.4 1.7 1.4 2.5 0 .2.3.2.4.2Z"
-        fill="url(#icon_w4rc3xp_k)"
+        fill="url(#icon_ub8plgo_k)"
       />
       <path
         d="M216.9 64.2c-.8.8-1.1 1.7-1 2.1l-73.6 34.8h-.1c0-.7-.4-1-.7-1.1l.3-.1a2.7 2.7 0 0 1 .3-.9c.2-.4.5-1 1-1.4l.1-.2 40-37.4 72.4-30.7.4.6-39.1 34.3Z"
@@ -245,7 +245,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M96 109.1h.1l-.3-20.4c0-.6-.2-2-1-2.6l-37-22.4-17.2-4.4L78 81.7c.9.6 1 1.8 1 2.6l.6 19.8v.1l16.3 5Z"
-        fill="url(#icon_w4rc3xp_l)"
+        fill="url(#icon_ub8plgo_l)"
       />
       <path
         d="M141.4 100c-.4 0-.7.5-.7 1-.1-1-.6-2.3-1.2-2.7l-34.9-22.5.4-.9 34.6 22.4c1.3.8 1.4 1.7 1.4 2.5 0 .2.3.2.4.2Z"
@@ -258,7 +258,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M212 146.3c-.1.6-.3.7-.9 1l-70 44.4a1 1 0 0 1-.3.2v-.3l71.2-45.3Z"
-        fill="url(#icon_w4rc3xp_m)"
+        fill="url(#icon_ub8plgo_m)"
         opacity=".5"
       />
       <path
@@ -271,7 +271,7 @@ export const ParcelIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="m175 105.5.1.1 12-6v-.2l.6-19.5c0-1 .6-2 1.5-2.8l39.4-35.5-12 5.1-39.7 36c-1 1-1.3 2.2-1.4 3.2l-.5 19.6Z"
-        fill="url(#icon_w4rc3xp_n)"
+        fill="url(#icon_ub8plgo_n)"
       />
       <path fill="#F8CE93" d="M183.7 60.8 256 29.9l-.4-.6L183.1 60z" />
     </svg>

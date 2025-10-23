@@ -11,9 +11,9 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <defs id="icon_jgdpyhw_defs3965">
+      <defs id="icon_hdlybzz_defs3965">
         <linearGradient
-          id="icon_jgdpyhw_red-orange"
+          id="icon_hdlybzz_red-orange"
           x1="0.025171699"
           y1="0.079489581"
           x2="1"
@@ -24,17 +24,17 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop
             offset="0"
             style={{ stopColor: "#ec2802", stopOpacity: "1" }}
-            id="icon_jgdpyhw_stop926"
+            id="icon_hdlybzz_stop926"
           />
           <stop
             offset="1"
             style={{ stopColor: "#fcb200", stopOpacity: "1" }}
-            id="icon_jgdpyhw_stop928"
+            id="icon_hdlybzz_stop928"
           />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_jgdpyhw_red-orange"
-          id="icon_jgdpyhw_linearGradient11006"
+          xlinkHref="#icon_hdlybzz_red-orange"
+          id="icon_hdlybzz_linearGradient11006"
           x1="19.0625"
           y1="0"
           x2="19"
@@ -42,9 +42,9 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
           gradientTransform="matrix(1.4018804,0,0,1.3482131,21.364273,-32.960592)"
         />
-        <clipPath clipPathUnits="userSpaceOnUse" id="icon_jgdpyhw_clipPath3639">
+        <clipPath clipPathUnits="userSpaceOnUse" id="icon_hdlybzz_clipPath3639">
           <path
-            id="icon_jgdpyhw_path3641"
+            id="icon_hdlybzz_path3641"
             d="M 14.813062,26.75 19,15.945 23.186938,26.75 19,43.25 Z"
             style={{
               fill: "none",
@@ -59,7 +59,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </clipPath>
         <filter
-          id="icon_jgdpyhw_filter1378"
+          id="icon_hdlybzz_filter1378"
           x="-0.096199476"
           width="1.192399"
           y="-0.074239448"
@@ -67,15 +67,15 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         >
           <feGaussianBlur
             stdDeviation="1.0020779"
-            id="icon_jgdpyhw_feGaussianBlur1380"
+            id="icon_hdlybzz_feGaussianBlur1380"
           />
         </filter>
       </defs>
-      <g id="icon_jgdpyhw_layer1" transform="translate(-16,35.820639)">
-        <g id="icon_jgdpyhw_g4199">
+      <g id="icon_hdlybzz_layer1" transform="translate(-16,35.820639)">
+        <g id="icon_hdlybzz_g4199">
           <path
             clipPath="none"
-            id="icon_jgdpyhw_path5352"
+            id="icon_hdlybzz_path5352"
             d="M 43.566236,2.9721345 42.175119,6.3426951 C 45.913195,17.853356 45.913195,17.853356 48,27.894557 50.086805,17.853356 50.086805,17.853356 53.824881,6.3426951 L 52.433764,2.9721345 48,-7.7705098 Z"
             style={{
               clipRule: "evenodd",
@@ -93,11 +93,11 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             }}
           />
           <path
-            id="icon_jgdpyhw_path5336"
+            id="icon_hdlybzz_path5336"
             d="m 43.09342,-32.960595 h 9.81316 l 21.729148,53.92852 H 65.523505 L 48,-20.221038 30.476495,20.967925 h -9.112223 z"
             style={{
               clipRule: "evenodd",
-              fill: "url(#icon_jgdpyhw_linearGradient11006)",
+              fill: "url(#icon_hdlybzz_linearGradient11006)",
               fillOpacity: "1",
               fillRule: "evenodd",
               stroke: "url(#linearGradient10962)",
@@ -111,7 +111,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
           <path
             transform="matrix(1.3912031,0,0,1.3379446,21.567141,-29.104025)"
-            clipPath="url(#icon_jgdpyhw_clipPath3639)"
+            clipPath="url(#icon_hdlybzz_clipPath3639)"
             style={{
               clipRule: "evenodd",
               fill: "#ffffff",
@@ -126,10 +126,10 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
               strokeDashoffset: "0",
               strokeOpacity: "1",
               paintOrder: "markers fill stroke",
-              filter: "url(#icon_jgdpyhw_filter1378)",
+              filter: "url(#icon_hdlybzz_filter1378)",
             }}
             d="M 19,32.395 31.5,0 6.5,0.13313911 Z"
-            id="icon_jgdpyhw_path9580"
+            id="icon_hdlybzz_path9580"
           />
         </g>
       </g>

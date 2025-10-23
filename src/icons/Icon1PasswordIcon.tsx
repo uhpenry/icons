@@ -14,7 +14,7 @@ export const Icon1PasswordIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_4tdy735_a)">
+        <g clipPath="url(#icon_vwve2lz_a)">
           <path
             fill="white"
             fillRule="evenodd"
@@ -23,7 +23,7 @@ export const Icon1PasswordIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="icon_4tdy735_a">
+          <clipPath id="icon_vwve2lz_a">
             <path fill="#fff" d="M0 0h32v32H0z" />
           </clipPath>
         </defs>
@@ -38,7 +38,7 @@ export const Icon1PasswordIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_i7umu9w_a)">
+        <g clipPath="url(#icon_3q3a1j9_a)">
           <path
             fill="black"
             fillRule="evenodd"
@@ -47,7 +47,7 @@ export const Icon1PasswordIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="icon_i7umu9w_a">
+          <clipPath id="icon_3q3a1j9_a">
             <path fill="#fff" d="M0 0h32v32H0z" />
           </clipPath>
         </defs>
