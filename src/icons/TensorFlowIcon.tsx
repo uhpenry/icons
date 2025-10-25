@@ -16,16 +16,16 @@ export const TensorFlowIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <defs>
           <style>
             {
-              ".cls-1{fill:#fff;}.cls-2{clip-path:url(#icon_ocyfqci_clip-path);}.cls-3{clip-path:url(#icon_ocyfqci_clip-path-2);}"
+              ".cls-1{fill:#fff;}.cls-2{clip-path:url(#icon_0gfpowu_clip-path);}.cls-3{clip-path:url(#icon_0gfpowu_clip-path-2);}"
             }
           </style>
-          <clipPath id="icon_ocyfqci_clip-path">
+          <clipPath id="icon_0gfpowu_clip-path">
             <polygon
               className="cls-1"
               points="200.76 83.27 136.29 46.43 136.29 197.41 162.05 182.45 162.05 139.98 181.5 151.23 181.39 122.18 162.05 111.13 162.05 94.26 200.85 116.68 200.76 83.27"
             />
           </clipPath>
-          <clipPath id="icon_ocyfqci_clip-path-2">
+          <clipPath id="icon_0gfpowu_clip-path-2">
             <polygon
               className="cls-1"
               points="66.03 83.27 130.5 46.43 130.5 197.41 104.74 182.45 104.74 94.26 65.94 116.68 66.03 83.27"
@@ -71,17 +71,17 @@ export const TensorFlowIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <defs>
           <style>
             {
-              ".cls-1{fill:none;}.cls-2{clip-path:url(#icon_c8f13n5_clip-path);}.cls-3{fill:url(#icon_c8f13n5_linear-gradient);}.cls-4{clip-path:url(#icon_c8f13n5_clip-path-2);}.cls-5{fill:url(#icon_c8f13n5_linear-gradient-2);}"
+              ".cls-1{fill:none;}.cls-2{clip-path:url(#icon_sdz9f64_clip-path);}.cls-3{fill:url(#icon_sdz9f64_linear-gradient);}.cls-4{clip-path:url(#icon_sdz9f64_clip-path-2);}.cls-5{fill:url(#icon_sdz9f64_linear-gradient-2);}"
             }
           </style>
-          <clipPath id="icon_c8f13n5_clip-path">
+          <clipPath id="icon_sdz9f64_clip-path">
             <polygon
               className="cls-1"
               points="200.76 95.86 136.29 59.02 136.29 210 162.05 195.04 162.05 152.57 181.5 163.82 181.39 134.77 162.05 123.72 162.05 106.85 200.85 129.27 200.76 95.86"
             />
           </clipPath>
           <linearGradient
-            id="icon_c8f13n5_linear-gradient"
+            id="icon_sdz9f64_linear-gradient"
             x1="60.08"
             y1="134.33"
             x2="218.39"
@@ -91,19 +91,19 @@ export const TensorFlowIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <stop offset="0" stopColor="#ff6f00" />
             <stop offset="1" stopColor="#ffa800" />
           </linearGradient>
-          <clipPath id="icon_c8f13n5_clip-path-2">
+          <clipPath id="icon_sdz9f64_clip-path-2">
             <polygon
               className="cls-1"
               points="66.03 95.86 130.5 59.02 130.5 210 104.74 195.04 104.74 106.85 65.94 129.27 66.03 95.86"
             />
           </clipPath>
           <linearGradient
-            id="icon_c8f13n5_linear-gradient-2"
+            id="icon_sdz9f64_linear-gradient-2"
             x1="59"
             y1="134.33"
             x2="217.32"
             y2="134.33"
-            xlinkHref="#icon_c8f13n5_linear-gradient"
+            xlinkHref="#icon_sdz9f64_linear-gradient"
           />
         </defs>
         <g className="cls-2">

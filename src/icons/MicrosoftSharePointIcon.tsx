@@ -15,7 +15,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
   >
     <defs>
       <radialGradient
-        id="icon_7syjlgh_b"
+        id="icon_8gpuz2c_b"
         cx="-777.14"
         cy="770.84"
         r=".9"
@@ -30,7 +30,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".97" stopColor="#006f94" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_7syjlgh_c"
+        id="icon_8gpuz2c_c"
         cx="-785.23"
         cy="766.9"
         r=".9"
@@ -45,7 +45,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".97" stopColor="#006f94" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_7syjlgh_d"
+        id="icon_8gpuz2c_d"
         cx="-739.84"
         cy="872.71"
         r=".9"
@@ -59,7 +59,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset="1" stopColor="#2ccfca" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_7syjlgh_f"
+        id="icon_8gpuz2c_f"
         cx="-746.38"
         cy="743.75"
         r=".9"
@@ -74,7 +74,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".97" stopColor="#007a86" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_7syjlgh_g"
+        id="icon_8gpuz2c_g"
         cx="-741.46"
         cy="888.91"
         r=".9"
@@ -88,7 +88,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset="1" stopColor="#2ccfca" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_7syjlgh_j"
+        id="icon_8gpuz2c_j"
         cx="-686.6"
         cy="804.18"
         r=".9"
@@ -102,7 +102,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".89" stopColor="#00495c" />
       </radialGradient>
       <radialGradient
-        id="icon_7syjlgh_k"
+        id="icon_8gpuz2c_k"
         cx="-686.07"
         cy="864.41"
         r=".9"
@@ -116,7 +116,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".97" stopColor="#1ecbe6" />
       </radialGradient>
       <linearGradient
-        id="icon_7syjlgh_a"
+        id="icon_8gpuz2c_a"
         x1="92.18"
         x2="292.29"
         y1="477.48"
@@ -130,7 +130,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset="1" stopColor="#007791" />
       </linearGradient>
       <linearGradient
-        id="icon_7syjlgh_e"
+        id="icon_8gpuz2c_e"
         x1="245.14"
         x2="411.9"
         y1="331.57"
@@ -144,7 +144,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".95" stopColor="#00637c" />
       </linearGradient>
       <linearGradient
-        id="icon_7syjlgh_h"
+        id="icon_8gpuz2c_h"
         x1="153.42"
         x2="259.71"
         y1="214.53"
@@ -158,7 +158,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
         <stop offset=".96" stopColor="#0096ad" />
       </linearGradient>
       <linearGradient
-        id="icon_7syjlgh_i"
+        id="icon_8gpuz2c_i"
         x1="292.44"
         x2="235.63"
         y1="-12.27"
@@ -174,39 +174,39 @@ export const MicrosoftSharePointIcon = React.forwardRef<
     </defs>
     <path
       d="M187.79 300c82.97 0 150.23-67.16 150.23-150S270.75 0 187.79 0 37.56 67.16 37.56 150s67.26 150 150.23 150Z"
-      style={{ fill: "url(#icon_7syjlgh_a)" }}
+      style={{ fill: "url(#icon_8gpuz2c_a)" }}
     />
     <path
       d="M187.79 300c82.97 0 150.23-67.16 150.23-150S270.75 0 187.79 0 37.56 67.16 37.56 150s67.26 150 150.23 150Z"
-      style={{ fill: "url(#icon_7syjlgh_b)", fillOpacity: ".2" }}
+      style={{ fill: "url(#icon_8gpuz2c_b)", fillOpacity: ".2" }}
     />
     <path
       d="M187.79 300c82.97 0 150.23-67.16 150.23-150S270.75 0 187.79 0 37.56 67.16 37.56 150s67.26 150 150.23 150Z"
-      style={{ fill: "url(#icon_7syjlgh_c)", fillOpacity: ".31" }}
+      style={{ fill: "url(#icon_8gpuz2c_c)", fillOpacity: ".31" }}
     />
     <path
       d="M187.79 300c82.97 0 150.23-67.16 150.23-150S270.75 0 187.79 0 37.56 67.16 37.56 150s67.26 150 150.23 150Z"
-      style={{ fill: "url(#icon_7syjlgh_d)", fillOpacity: ".7" }}
+      style={{ fill: "url(#icon_8gpuz2c_d)", fillOpacity: ".7" }}
     />
     <path
       d="M324.81 400C393.95 400 450 344.04 450 275s-56.05-125-125.19-125-125.19 55.96-125.19 125 56.05 125 125.19 125Z"
-      style={{ fill: "url(#icon_7syjlgh_e)" }}
+      style={{ fill: "url(#icon_8gpuz2c_e)" }}
     />
     <path
       d="M324.81 400C393.95 400 450 344.04 450 275s-56.05-125-125.19-125-125.19 55.96-125.19 125 56.05 125 125.19 125Z"
-      style={{ fill: "url(#icon_7syjlgh_f)", fillOpacity: ".5" }}
+      style={{ fill: "url(#icon_8gpuz2c_f)", fillOpacity: ".5" }}
     />
     <path
       d="M324.81 400C393.95 400 450 344.04 450 275s-56.05-125-125.19-125-125.19 55.96-125.19 125 56.05 125 125.19 125Z"
-      style={{ fillOpacity: ".7", fill: "url(#icon_7syjlgh_g)" }}
+      style={{ fillOpacity: ".7", fill: "url(#icon_8gpuz2c_g)" }}
     />
     <path
       d="M206.56 500c58.77 0 106.41-47.57 106.41-106.25S265.33 287.5 206.56 287.5s-106.41 47.57-106.41 106.25S147.79 500 206.56 500Z"
-      style={{ fill: "url(#icon_7syjlgh_h)" }}
+      style={{ fill: "url(#icon_8gpuz2c_h)" }}
     />
     <path
       d="M206.56 500c58.77 0 106.41-47.57 106.41-106.25S265.33 287.5 206.56 287.5s-106.41 47.57-106.41 106.25S147.79 500 206.56 500Z"
-      style={{ fill: "url(#icon_7syjlgh_i)", fillOpacity: ".32" }}
+      style={{ fill: "url(#icon_8gpuz2c_i)", fillOpacity: ".32" }}
     />
     <rect
       width="200.3"
@@ -214,7 +214,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
       y="237.5"
       rx="40.66"
       ry="40.66"
-      style={{ fill: "url(#icon_7syjlgh_j)" }}
+      style={{ fill: "url(#icon_8gpuz2c_j)" }}
     />
     <rect
       width="200.3"
@@ -222,7 +222,7 @@ export const MicrosoftSharePointIcon = React.forwardRef<
       y="237.5"
       rx="40.66"
       ry="40.66"
-      style={{ fill: "url(#icon_7syjlgh_k)", fillOpacity: ".6" }}
+      style={{ fill: "url(#icon_8gpuz2c_k)", fillOpacity: ".6" }}
     />
     <path
       d="m57 372.15 21.72-11.32c2.45 4.94 5.64 8.58 9.58 10.92 3.99 2.34 8.36 3.51 13.09 3.51 5.27 0 9.29-1.06 12.05-3.19 2.77-2.18 4.15-5.45 4.15-9.8 0-3.4-1.33-6.27-3.99-8.61-2.66-2.39-7.37-4.2-14.13-5.42-12.88-2.34-22.25-6.43-28.1-12.28-5.8-5.85-8.7-13.13-8.7-21.84 0-10.84 3.83-19.5 11.5-25.99 7.66-6.48 17.78-9.72 30.34-9.72 8.46 0 15.91 1.73 22.35 5.18 6.44 3.45 11.55 8.4 15.33 14.83l-21.23 10.92c-2.34-3.61-4.87-6.22-7.58-7.81-2.72-1.65-6.12-2.47-10.22-2.47-4.9 0-8.62 1.06-11.18 3.19-2.5 2.13-3.75 4.89-3.75 8.29 0 2.92 1.2 5.5 3.59 7.73 2.45 2.18 7.34 3.96 14.69 5.34 12.35 2.34 21.56 6.59 27.62 12.76 6.12 6.11 9.18 13.84 9.18 23.2 0 11.37-3.65 20.38-10.94 27.02-7.29 6.64-17.7 9.96-31.21 9.96-9.79 0-18.63-2.13-26.5-6.38-7.82-4.3-13.7-10.31-17.64-18.02Z"

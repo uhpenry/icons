@@ -12,9 +12,9 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_u38u5s9_a)">
+      <g clipPath="url(#icon_vwi68zt_a)">
         <mask
-          id="icon_u38u5s9_b"
+          id="icon_vwi68zt_b"
           width="242"
           height="256"
           x="0"
@@ -22,22 +22,22 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           maskUnits="userSpaceOnUse"
           style={{ maskType: "luminance" }}
         >
-          <path fill="#fff" d="M0 0h242v256H0V0Z" />
+          <path fill="#fff" d="M0 0h242v256H0z" />
         </mask>
-        <g mask="url(#icon_u38u5s9_b)">
+        <g mask="url(#icon_vwi68zt_b)">
           <path
-            fill="url(#icon_u38u5s9_c)"
-            d="m241 43-9 136L149 0l92 43Zm-58 176-62 36-63-36 12-31h101l12 31ZM121 68l32 80H88l33-80ZM9 179 0 43 92 0 9 179Z"
+            fill="url(#icon_vwi68zt_c)"
+            d="m241 43-9 136L149 0zm-58 176-62 36-63-36 12-31h101zM121 68l32 80H88zM9 179 0 43 92 0z"
           />
           <path
-            fill="url(#icon_u38u5s9_d)"
-            d="m241 43-9 136L149 0l92 43Zm-58 176-62 36-63-36 12-31h101l12 31ZM121 68l32 80H88l33-80ZM9 179 0 43 92 0 9 179Z"
+            fill="url(#icon_vwi68zt_d)"
+            d="m241 43-9 136L149 0zm-58 176-62 36-63-36 12-31h101zM121 68l32 80H88zM9 179 0 43 92 0z"
           />
         </g>
       </g>
       <defs>
         <linearGradient
-          id="icon_u38u5s9_c"
+          id="icon_vwi68zt_c"
           x1="53.2"
           x2="245"
           y1="231.9"
@@ -52,7 +52,7 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#6C00F5" />
         </linearGradient>
         <linearGradient
-          id="icon_u38u5s9_d"
+          id="icon_vwi68zt_d"
           x1="44.5"
           x2="170"
           y1="30.7"
@@ -62,7 +62,7 @@ export const AngularIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop stopColor="#FF31D9" />
           <stop offset="1" stopColor="#FF5BE1" stopOpacity="0" />
         </linearGradient>
-        <clipPath id="icon_u38u5s9_a">
+        <clipPath id="icon_vwi68zt_a">
           <path fill="#fff" d="M0 0h242v256H0z" />
         </clipPath>
       </defs>

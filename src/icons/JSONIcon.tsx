@@ -12,13 +12,13 @@ export const JSONIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <linearGradient id="icon_djgz7p3_a">
+        <linearGradient id="icon_dzuc3nv_a">
           <stop offset="0" />
           <stop offset="1" stopColor="#fff" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_djgz7p3_a"
-          id="icon_djgz7p3_c"
+          xlinkHref="#icon_dzuc3nv_a"
+          id="icon_dzuc3nv_c"
           x1="-553.27"
           x2="-666.12"
           y1="525.91"
@@ -27,8 +27,8 @@ export const JSONIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <linearGradient
-          xlinkHref="#icon_djgz7p3_a"
-          id="icon_djgz7p3_b"
+          xlinkHref="#icon_dzuc3nv_a"
+          id="icon_dzuc3nv_b"
           x1="-666.12"
           x2="-553.27"
           y1="413.04"
@@ -39,11 +39,11 @@ export const JSONIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <g fillRule="evenodd" color="#000">
         <path
-          fill="url(#icon_djgz7p3_b)"
+          fill="url(#icon_dzuc3nv_b)"
           d="M79.865 119.1c35.398 48.255 70.04-13.469 69.989-50.587C149.794 24.627 105.313.099 79.836.099 38.944.099 0 33.895 0 80.135 0 131.531 44.64 160 79.836 160c-7.965-1.147-34.506-6.834-34.863-67.967-.24-41.347 13.488-57.866 34.805-50.599.477.177 23.514 9.265 23.514 38.951 0 29.56-23.427 38.715-23.427 38.715z"
         />
         <path
-          fill="url(#icon_djgz7p3_c)"
+          fill="url(#icon_dzuc3nv_c)"
           d="M79.823 41.401C56.433 33.339 27.78 52.617 27.78 91.23c0 63.048 46.721 68.77 52.384 68.77C121.056 160 160 126.204 160 79.964 160 28.568 115.36.099 80.164.099c9.748-1.35 52.541 10.55 52.541 69.037 0 38.141-31.953 58.905-52.735 50.033-.477-.177-23.514-9.264-23.514-38.951 0-29.56 23.367-38.818 23.367-38.818z"
         />
       </g>

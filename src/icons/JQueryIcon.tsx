@@ -14,7 +14,7 @@ export const JQueryIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_jgfghv5_prefix__clip0_1_214)">
+        <g clipPath="url(#icon_fsc6wh9_prefix__clip0_1_214)">
           <path
             d="M109.481 22.561l.001-.002-1.638 5.805 1.637-5.803zm7.96 21.272h.002l-10.814.04 10.812-.04zm.948-.737l1.884-7.184-1.884 7.185zm30.795-33.084l-2.664 12.324 2.664-12.325v.001z"
             fill="#fff"
@@ -65,7 +65,7 @@ export const JQueryIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="icon_jgfghv5_prefix__clip0_1_214">
+          <clipPath id="icon_fsc6wh9_prefix__clip0_1_214">
             <path fill="#fff" d="M0 0h256v62.669H0z" />
           </clipPath>
         </defs>
@@ -80,7 +80,7 @@ export const JQueryIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_lb9c4km_prefix__clip0_1_202)">
+        <g clipPath="url(#icon_sqe42sk_prefix__clip0_1_202)">
           <path
             d="M109.481 22.561l.001-.002-1.638 5.805 1.637-5.803zm7.96 21.272h.002l-10.814.04 10.812-.04zm.948-.737l1.884-7.184-1.884 7.185zm30.795-33.084l-2.664 12.324 2.664-12.325v.001z"
             fill="#131B28"
@@ -127,7 +127,7 @@ export const JQueryIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </g>
         <defs>
-          <clipPath id="icon_lb9c4km_prefix__clip0_1_202">
+          <clipPath id="icon_sqe42sk_prefix__clip0_1_202">
             <path fill="#fff" d="M0 0h256v62.669H0z" />
           </clipPath>
         </defs>

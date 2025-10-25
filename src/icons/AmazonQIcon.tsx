@@ -12,108 +12,52 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <defs>
-        <style>
-          {
-            ".st0 {\r\n        fill: #2e3c4e;\r\n      }\r\n\r\n      .st1 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {\r\n        display: none;\r\n      }\r\n\r\n      .st9 {\r\n        fill: #7300e5;\r\n      }\r\n\r\n      .st10, .st11 {\r\n        fill: #fff;\r\n      }\r\n\r\n      .st12 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_4);\r\n      }\r\n\r\n      .st2 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st13 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_41);\r\n      }\r\n\r\n      .st14 {\r\n        fill: #d7c8f9;\r\n      }\r\n\r\n      .st15 {\r\n        fill: none;\r\n      }\r\n\r\n      .st16 {\r\n        stroke: #d1d1d6;\r\n        stroke-width: .5px;\r\n      }\r\n\r\n      .st16, .st17, .st11 {\r\n        fill-opacity: 0;\r\n      }\r\n\r\n      .st3 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st17 {\r\n        stroke: #fff;\r\n        stroke-width: 4px;\r\n      }\r\n\r\n      .st4 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st5 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st7 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st18 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_5);\r\n      }\r\n\r\n      .st8 {\r\n        opacity: 0;\r\n      }\r\n\r\n      .st19 {\r\n        fill: url(#icon_p5j10xs_Adsız_degrade_2);\r\n      }"
-          }
-        </style>
-        <mask
-          id="icon_p5j10xs_mask"
-          x="69.2"
-          y="33.9"
-          width="704"
-          height="528"
-          maskUnits="userSpaceOnUse"
-        >
-          <rect
-            className="st11"
-            x="69.2"
-            y="33.9"
-            width="704"
-            height="528"
-            id="icon_p5j10xs_lottie-ymehjmywpqh__lottie_element_1058_2"
-          />
-        </mask>
         <linearGradient
-          id="icon_p5j10xs_Adsız_degrade_2"
+          id="icon_906pejx_Adsız_degrade_2"
           data-name="Adsız degrade 2"
           x1="68.8"
           y1="563"
           x2="-1.8"
           y2="563.4"
-          gradientTransform="translate(194.4 765.6) scale(1 -1)"
+          gradientTransform="matrix(1 0 0 -1 194.4 765.6)"
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0" stopColor="#fff" />
           <stop offset=".5" stopColor="#fff" stopOpacity=".7" />
           <stop offset="1" stopColor="#fff" stopOpacity=".4" />
         </linearGradient>
-        <mask
-          id="icon_p5j10xs_mask-1"
-          x="69.2"
-          y="33.9"
-          width="704"
-          height="528"
-          maskUnits="userSpaceOnUse"
-        >
-          <rect
-            className="st11"
-            x="69.2"
-            y="33.9"
-            width="704"
-            height="528"
-            id="icon_p5j10xs_lottie-ymehjmywpqh__lottie_element_1038_2"
-          />
-        </mask>
         <linearGradient
-          id="icon_p5j10xs_Adsız_degrade_4"
+          id="icon_906pejx_Adsız_degrade_4"
           data-name="Adsız degrade 4"
           x1="69.7"
           y1="567.5"
           x2="-11.4"
           y2="566.9"
-          gradientTransform="translate(178.6 1012.1) scale(1 -1)"
+          gradientTransform="matrix(1 0 0 -1 178.6 1012.1)"
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0" stopColor="#fff" />
           <stop offset=".5" stopColor="#fff" stopOpacity=".6" />
           <stop offset="1" stopColor="#fff" stopOpacity=".2" />
         </linearGradient>
-        <mask
-          id="icon_p5j10xs_mask-2"
-          x="69.2"
-          y="33.9"
-          width="704"
-          height="528"
-          maskUnits="userSpaceOnUse"
-        >
-          <rect
-            className="st11"
-            x="69.2"
-            y="33.9"
-            width="704"
-            height="528"
-            id="icon_p5j10xs_lottie-ymehjmywpqh__lottie_element_1018_2"
-          />
-        </mask>
         <linearGradient
-          id="icon_p5j10xs_Adsız_degrade_41"
+          id="icon_906pejx_Adsız_degrade_41"
           data-name="Adsız degrade 4"
           x1="21.7"
           y1="568.3"
           x2="163.7"
           y2="568.3"
-          gradientTransform="translate(551.4 969.2) scale(1 -1)"
-          xlinkHref="#icon_p5j10xs_Adsız_degrade_4"
+          gradientTransform="matrix(1 0 0 -1 551.4 969.2)"
+          xlinkHref="#icon_906pejx_Adsız_degrade_4"
         />
         <linearGradient
-          id="icon_p5j10xs_Adsız_degrade_5"
+          id="icon_906pejx_Adsız_degrade_5"
           data-name="Adsız degrade 5"
           x1="56.8"
           y1="647.8"
           x2="-1.1"
           y2="536.3"
-          gradientTransform="translate(349.3 2027.2) scale(3 -3)"
+          gradientTransform="matrix(3 0 0 -3 349.3 2027.2)"
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0" stopColor="#2fabff" />
@@ -122,15 +66,58 @@ export const AmazonQIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset=".8" stopColor="#6a2cdc" />
           <stop offset="1" stopColor="#5921b8" />
         </linearGradient>
+        <mask
+          id="icon_906pejx_mask"
+          x="69.2"
+          y="33.9"
+          width="704"
+          height="528"
+          maskUnits="userSpaceOnUse"
+        >
+          <path
+            className="st11"
+            id="icon_906pejx_lottie-ymehjmywpqh__lottie_element_1058_2"
+            d="M69.2 33.9h704v528h-704z"
+          />
+        </mask>
+        <mask
+          id="icon_906pejx_mask-1"
+          x="69.2"
+          y="33.9"
+          width="704"
+          height="528"
+          maskUnits="userSpaceOnUse"
+        >
+          <path
+            className="st11"
+            id="icon_906pejx_lottie-ymehjmywpqh__lottie_element_1038_2"
+            d="M69.2 33.9h704v528h-704z"
+          />
+        </mask>
+        <mask
+          id="icon_906pejx_mask-2"
+          x="69.2"
+          y="33.9"
+          width="704"
+          height="528"
+          maskUnits="userSpaceOnUse"
+        >
+          <path
+            className="st11"
+            id="icon_906pejx_lottie-ymehjmywpqh__lottie_element_1018_2"
+            d="M69.2 33.9h704v528h-704z"
+          />
+        </mask>
+        <style>{".st11{fill:#fff;fill-opacity:0}"}</style>
       </defs>
-      <rect className="st15" x="69.2" y="33.9" width="704" height="528" />
+      <path style={{ fill: "none" }} d="M69.2 33.9h704v528h-704z" />
       <path
-        className="st18"
-        d="M452.1,74c-19.6-11.3-43.8-11.3-63.4,0l-145.3,83.9c-19.6,11.3-31.7,32.3-31.7,54.9v167.8c0,22.7,12.1,43.6,31.7,54.9l145.3,83.9c19.6,11.3,43.8,11.3,63.4,0l145.3-83.9c19.6-11.3,31.7-32.3,31.7-54.9v-167.8c0-22.7-12.1-43.6-31.7-54.9l-145.3-83.9Z"
+        d="M452.1 74c-19.6-11.3-43.8-11.3-63.4 0l-145.3 83.9c-19.6 11.3-31.7 32.3-31.7 54.9v167.8c0 22.7 12.1 43.6 31.7 54.9l145.3 83.9c19.6 11.3 43.8 11.3 63.4 0l145.3-83.9c19.6-11.3 31.7-32.3 31.7-54.9V212.8c0-22.7-12.1-43.6-31.7-54.9z"
+        style={{ fill: "url(#icon_906pejx_Adsız_degrade_5)" }}
       />
       <path
-        className="st10"
-        d="M438.6,293.4l-12.7,25.4,120.5,69.8,12.7-25.4-120.5-69.8ZM422.7,269.8c-2-1.1-4.4-1.1-6.3,0l-21.1,12.2c-2,1.1-3.2,3.2-3.2,5.5v24.4c0,2.3,1.2,4.4,3.2,5.5l21.1,12.2c2,1.1,4.4,1.1,6.3,0l21.1-12.2c2-1.1,3.2-3.2,3.2-5.5v-24.4c0-2.3-1.2-4.4-3.2-5.5l-21.1-12.2ZM411.6,163.4c7.9-4.5,17.5-4.5,25.4,0l98.2,56.7c7.9,4.5,12.7,12.9,12.7,22v113.4c0,9.1-4.8,17.4-12.7,22l-98.2,56.7c-7.9,4.5-17.5,4.5-25.4,0l-98.2-56.7c-7.9-4.5-12.7-12.9-12.7-22v-113.4c0-9.1,4.8-17.4,12.7-22l98.2-56.7ZM395.7,135.2l-103.1,59.5c-15.7,9.1-25.4,25.8-25.4,44v119c0,18.1,9.7,34.9,25.4,44l103.1,59.5c15.7,9.1,35,9.1,50.8,0l103.1-59.5c15.7-9.1,25.4-25.8,25.4-44v-119c0-18.1-9.7-34.9-25.4-44l-103.1-59.5c-15.7-9.1-35-9.1-50.8,0Z"
+        d="m438.6 293.4-12.7 25.4 120.5 69.8 12.7-25.4zm-15.9-23.6c-2-1.1-4.4-1.1-6.3 0L395.3 282c-2 1.1-3.2 3.2-3.2 5.5v24.4c0 2.3 1.2 4.4 3.2 5.5l21.1 12.2c2 1.1 4.4 1.1 6.3 0l21.1-12.2c2-1.1 3.2-3.2 3.2-5.5v-24.4c0-2.3-1.2-4.4-3.2-5.5zm-11.1-106.4c7.9-4.5 17.5-4.5 25.4 0l98.2 56.7c7.9 4.5 12.7 12.9 12.7 22v113.4c0 9.1-4.8 17.4-12.7 22L437 434.2c-7.9 4.5-17.5 4.5-25.4 0l-98.2-56.7c-7.9-4.5-12.7-12.9-12.7-22V242.1c0-9.1 4.8-17.4 12.7-22zm-15.9-28.2-103.1 59.5c-15.7 9.1-25.4 25.8-25.4 44v119c0 18.1 9.7 34.9 25.4 44l103.1 59.5c15.7 9.1 35 9.1 50.8 0l103.1-59.5c15.7-9.1 25.4-25.8 25.4-44v-119c0-18.1-9.7-34.9-25.4-44l-103.1-59.5c-15.7-9.1-35-9.1-50.8 0"
+        style={{ fill: "#fff" }}
       />
     </svg>
   ),

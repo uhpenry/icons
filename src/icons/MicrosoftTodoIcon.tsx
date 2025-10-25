@@ -14,11 +14,11 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <defs>
         <style>
           {
-            ".a{fill:#fff;}.b{fill:url(#icon_nihg47k_a);}.c{mask:url(#icon_nihg47k_b);}.d{fill:url(#icon_nihg47k_c);}.e{mask:url(#icon_nihg47k_d);}.f{fill:url(#icon_nihg47k_e);}.g{fill:url(#icon_nihg47k_f);}.h{mask:url(#icon_nihg47k_g);}.i{fill:url(#icon_nihg47k_h);}.j{fill:#195abd;}.k{fill:url(#icon_nihg47k_i);}"
+            ".a{fill:#fff;}.b{fill:url(#icon_arp3ftt_a);}.c{mask:url(#icon_arp3ftt_b);}.d{fill:url(#icon_arp3ftt_c);}.e{mask:url(#icon_arp3ftt_d);}.f{fill:url(#icon_arp3ftt_e);}.g{fill:url(#icon_arp3ftt_f);}.h{mask:url(#icon_arp3ftt_g);}.i{fill:url(#icon_arp3ftt_h);}.j{fill:#195abd;}.k{fill:url(#icon_arp3ftt_i);}"
           }
         </style>
         <linearGradient
-          id="icon_nihg47k_a"
+          id="icon_arp3ftt_a"
           x1="700.766"
           y1="597.024"
           x2="749.765"
@@ -30,7 +30,7 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.994" stopOpacity="0" />
         </linearGradient>
         <mask
-          id="icon_nihg47k_b"
+          id="icon_arp3ftt_b"
           x="317.137"
           y="651.827"
           width="170"
@@ -47,7 +47,7 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </mask>
         <radialGradient
-          id="icon_nihg47k_c"
+          id="icon_arp3ftt_c"
           cx="410.201"
           cy="853.349"
           r="85"
@@ -58,7 +58,7 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.994" stopOpacity="0" />
         </radialGradient>
         <mask
-          id="icon_nihg47k_d"
+          id="icon_arp3ftt_d"
           x="837.922"
           y="95.835"
           width="205.208"
@@ -75,24 +75,24 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </mask>
         <radialGradient
-          id="icon_nihg47k_e"
+          id="icon_arp3ftt_e"
           cx="1051.126"
           cy="1265.852"
           r="85"
           gradientTransform="translate(771.087 1854.394) rotate(-135)"
-          xlinkHref="#icon_nihg47k_c"
+          xlinkHref="#icon_arp3ftt_c"
         />
         <linearGradient
-          id="icon_nihg47k_f"
+          id="icon_arp3ftt_f"
           x1="1880.8"
           y1="34.286"
           x2="1929.799"
           y2="34.286"
           gradientTransform="matrix(0.867, 0, 0, -0.796, -1446.031, 767.147)"
-          xlinkHref="#icon_nihg47k_a"
+          xlinkHref="#icon_arp3ftt_a"
         />
         <mask
-          id="icon_nihg47k_g"
+          id="icon_arp3ftt_g"
           x="-35.208"
           y="299.482"
           width="205.208"
@@ -109,15 +109,15 @@ export const MicrosoftTodoIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </mask>
         <radialGradient
-          id="icon_nihg47k_h"
+          id="icon_arp3ftt_h"
           cx="27.608"
           cy="2001.37"
           r="85"
           gradientTransform="matrix(0.707, -0.707, -0.707, -0.707, 1480.66, 1854.394)"
-          xlinkHref="#icon_nihg47k_c"
+          xlinkHref="#icon_arp3ftt_c"
         />
         <linearGradient
-          id="icon_nihg47k_i"
+          id="icon_arp3ftt_i"
           x1="308.378"
           y1="811.629"
           x2="919.318"

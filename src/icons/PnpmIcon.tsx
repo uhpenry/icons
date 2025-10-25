@@ -16,45 +16,45 @@ export const PnpmIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <defs>
           <path
             d="M237.6 95L187.6 95L187.6 45L237.6 45L237.6 95Z"
-            id="icon_rzyxlvg_b45vdTD8hs"
+            id="icon_5j3ofys_b45vdTD8hs"
           />
           <path
             d="M182.59 95L132.59 95L132.59 45L182.59 45L182.59 95Z"
-            id="icon_rzyxlvg_a40WtxIl8d"
+            id="icon_5j3ofys_a40WtxIl8d"
           />
           <path
             d="M127.59 95L77.59 95L77.59 45L127.59 45L127.59 95Z"
-            id="icon_rzyxlvg_h2CN9AEEpe"
+            id="icon_5j3ofys_h2CN9AEEpe"
           />
           <path
             d="M237.6 150L187.6 150L187.6 100L237.6 100L237.6 150Z"
-            id="icon_rzyxlvg_dqv5133G8"
+            id="icon_5j3ofys_dqv5133G8"
           />
           <path
             d="M182.59 150L132.59 150L132.59 100L182.59 100L182.59 150Z"
-            id="icon_rzyxlvg_b1Lv79ypvm"
+            id="icon_5j3ofys_b1Lv79ypvm"
           />
           <path
             d="M182.59 205L132.59 205L132.59 155L182.59 155L182.59 205Z"
-            id="icon_rzyxlvg_hy1IZWwLX"
+            id="icon_5j3ofys_hy1IZWwLX"
           />
           <path
             d="M237.6 205L187.6 205L187.6 155L237.6 155L237.6 205Z"
-            id="icon_rzyxlvg_akQfjxQes"
+            id="icon_5j3ofys_akQfjxQes"
           />
           <path
             d="M127.59 205L77.59 205L77.59 155L127.59 155L127.59 205Z"
-            id="icon_rzyxlvg_bdSrwE5pk"
+            id="icon_5j3ofys_bdSrwE5pk"
           />
         </defs>
-        <use xlinkHref="#icon_rzyxlvg_b45vdTD8hs" fill="#f9ad00" />
-        <use xlinkHref="#icon_rzyxlvg_a40WtxIl8d" fill="#f9ad00" />
-        <use xlinkHref="#icon_rzyxlvg_h2CN9AEEpe" fill="#f9ad00" />
-        <use xlinkHref="#icon_rzyxlvg_dqv5133G8" fill="#f9ad00" />
-        <use xlinkHref="#icon_rzyxlvg_b1Lv79ypvm" fill="#ffffff" />
-        <use xlinkHref="#icon_rzyxlvg_hy1IZWwLX" fill="#ffffff" />
-        <use xlinkHref="#icon_rzyxlvg_akQfjxQes" fill="#ffffff" />
-        <use xlinkHref="#icon_rzyxlvg_bdSrwE5pk" fill="#ffffff" />
+        <use xlinkHref="#icon_5j3ofys_b45vdTD8hs" fill="#f9ad00" />
+        <use xlinkHref="#icon_5j3ofys_a40WtxIl8d" fill="#f9ad00" />
+        <use xlinkHref="#icon_5j3ofys_h2CN9AEEpe" fill="#f9ad00" />
+        <use xlinkHref="#icon_5j3ofys_dqv5133G8" fill="#f9ad00" />
+        <use xlinkHref="#icon_5j3ofys_b1Lv79ypvm" fill="#ffffff" />
+        <use xlinkHref="#icon_5j3ofys_hy1IZWwLX" fill="#ffffff" />
+        <use xlinkHref="#icon_5j3ofys_akQfjxQes" fill="#ffffff" />
+        <use xlinkHref="#icon_5j3ofys_bdSrwE5pk" fill="#ffffff" />
       </svg>
     ) : (
       <svg
@@ -68,45 +68,45 @@ export const PnpmIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <defs>
           <path
             d="M237.6 95L187.6 95L187.6 45L237.6 45L237.6 95Z"
-            id="icon_c4sdrsp_arNRoK435"
+            id="icon_c1p46j0_arNRoK435"
           />
           <path
             d="M182.59 95L132.59 95L132.59 45L182.59 45L182.59 95Z"
-            id="icon_c4sdrsp_a3H2WU7Px"
+            id="icon_c1p46j0_a3H2WU7Px"
           />
           <path
             d="M127.59 95L77.59 95L77.59 45L127.59 45L127.59 95Z"
-            id="icon_c4sdrsp_b1DInM56vl"
+            id="icon_c1p46j0_b1DInM56vl"
           />
           <path
             d="M237.6 150L187.6 150L187.6 100L237.6 100L237.6 150Z"
-            id="icon_c4sdrsp_a7LFlgQIwu"
+            id="icon_c1p46j0_a7LFlgQIwu"
           />
           <path
             d="M182.59 150L132.59 150L132.59 100L182.59 100L182.59 150Z"
-            id="icon_c4sdrsp_amwLiZcuo"
+            id="icon_c1p46j0_amwLiZcuo"
           />
           <path
             d="M182.59 205L132.59 205L132.59 155L182.59 155L182.59 205Z"
-            id="icon_c4sdrsp_f3Peu5RWan"
+            id="icon_c1p46j0_f3Peu5RWan"
           />
           <path
             d="M237.6 205L187.6 205L187.6 155L237.6 155L237.6 205Z"
-            id="icon_c4sdrsp_a6DXBfqPa"
+            id="icon_c1p46j0_a6DXBfqPa"
           />
           <path
             d="M127.59 205L77.59 205L77.59 155L127.59 155L127.59 205Z"
-            id="icon_c4sdrsp_c1GWSTH1z7"
+            id="icon_c1p46j0_c1GWSTH1z7"
           />
         </defs>
-        <use xlinkHref="#icon_c4sdrsp_arNRoK435" fill="#f9ad00" />
-        <use xlinkHref="#icon_c4sdrsp_a3H2WU7Px" fill="#f9ad00" />
-        <use xlinkHref="#icon_c4sdrsp_b1DInM56vl" fill="#f9ad00" />
-        <use xlinkHref="#icon_c4sdrsp_a7LFlgQIwu" fill="#f9ad00" />
-        <use xlinkHref="#icon_c4sdrsp_amwLiZcuo" fill="#4e4e4e" />
-        <use xlinkHref="#icon_c4sdrsp_f3Peu5RWan" fill="#4e4e4e" />
-        <use xlinkHref="#icon_c4sdrsp_a6DXBfqPa" fill="#4e4e4e" />
-        <use xlinkHref="#icon_c4sdrsp_c1GWSTH1z7" fill="#4e4e4e" />
+        <use xlinkHref="#icon_c1p46j0_arNRoK435" fill="#f9ad00" />
+        <use xlinkHref="#icon_c1p46j0_a3H2WU7Px" fill="#f9ad00" />
+        <use xlinkHref="#icon_c1p46j0_b1DInM56vl" fill="#f9ad00" />
+        <use xlinkHref="#icon_c1p46j0_a7LFlgQIwu" fill="#f9ad00" />
+        <use xlinkHref="#icon_c1p46j0_amwLiZcuo" fill="#4e4e4e" />
+        <use xlinkHref="#icon_c1p46j0_f3Peu5RWan" fill="#4e4e4e" />
+        <use xlinkHref="#icon_c1p46j0_a6DXBfqPa" fill="#4e4e4e" />
+        <use xlinkHref="#icon_c1p46j0_c1GWSTH1z7" fill="#4e4e4e" />
       </svg>
     );
   },

@@ -15,7 +15,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
   >
     <defs>
       <linearGradient
-        id="icon_sxthn7h_a"
+        id="icon_iq7s9t1_a"
         x1="9.989"
         x2="30.932"
         y1="22.365"
@@ -28,7 +28,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#c4b0ff", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="icon_sxthn7h_b"
+        id="icon_iq7s9t1_b"
         x1="17.197"
         x2="28.856"
         y1="26.794"
@@ -44,7 +44,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#8587ff", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="icon_sxthn7h_c"
+        id="icon_iq7s9t1_c"
         x1="25.701"
         x2="12.756"
         y1="27.048"
@@ -62,7 +62,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <linearGradient
-        id="icon_sxthn7h_d"
+        id="icon_iq7s9t1_d"
         x1="24.053"
         x2="44.51"
         y1="31.11"
@@ -78,7 +78,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         <stop offset="1" style={{ stopColor: "#5f20cb", stopOpacity: "1" }} />
       </linearGradient>
       <linearGradient
-        id="icon_sxthn7h_e"
+        id="icon_iq7s9t1_e"
         x1="29.828"
         x2="17.397"
         y1="30.327"
@@ -93,7 +93,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <linearGradient
-        id="icon_sxthn7h_g"
+        id="icon_iq7s9t1_g"
         x1="41.998"
         x2="23.852"
         y1="29.943"
@@ -108,7 +108,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <linearGradient
-        id="icon_sxthn7h_k"
+        id="icon_iq7s9t1_k"
         x1="3.458"
         x2="20.929"
         y1="37.872"
@@ -126,7 +126,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </linearGradient>
       <radialGradient
-        id="icon_sxthn7h_f"
+        id="icon_iq7s9t1_f"
         cx="0"
         cy="0"
         r="1"
@@ -145,7 +145,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_sxthn7h_h"
+        id="icon_iq7s9t1_h"
         cx="0"
         cy="0"
         r="1"
@@ -164,7 +164,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_sxthn7h_i"
+        id="icon_iq7s9t1_i"
         cx="0"
         cy="0"
         r="1"
@@ -183,7 +183,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_sxthn7h_j"
+        id="icon_iq7s9t1_j"
         cx="0"
         cy="0"
         r="1"
@@ -199,7 +199,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_sxthn7h_l"
+        id="icon_iq7s9t1_l"
         cx="0"
         cy="0"
         r="1"
@@ -218,7 +218,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
         />
       </radialGradient>
       <radialGradient
-        id="icon_sxthn7h_m"
+        id="icon_iq7s9t1_m"
         cx="0"
         cy="0"
         r="1"
@@ -242,7 +242,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_a)",
+        fill: "url(#icon_iq7s9t1_a)",
       }}
     />
     <path
@@ -250,7 +250,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_b)",
+        fill: "url(#icon_iq7s9t1_b)",
       }}
     />
     <path
@@ -258,7 +258,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_c)",
+        fill: "url(#icon_iq7s9t1_c)",
       }}
     />
     <path
@@ -266,7 +266,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_d)",
+        fill: "url(#icon_iq7s9t1_d)",
       }}
     />
     <path
@@ -274,7 +274,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_e)",
+        fill: "url(#icon_iq7s9t1_e)",
       }}
     />
     <path
@@ -282,7 +282,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_f)",
+        fill: "url(#icon_iq7s9t1_f)",
       }}
     />
     <path
@@ -290,7 +290,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_g)",
+        fill: "url(#icon_iq7s9t1_g)",
       }}
     />
     <path
@@ -298,7 +298,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_h)",
+        fill: "url(#icon_iq7s9t1_h)",
       }}
     />
     <path
@@ -306,7 +306,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_i)",
+        fill: "url(#icon_iq7s9t1_i)",
       }}
     />
     <path
@@ -314,7 +314,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_j)",
+        fill: "url(#icon_iq7s9t1_j)",
       }}
     />
     <path
@@ -322,7 +322,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_k)",
+        fill: "url(#icon_iq7s9t1_k)",
       }}
     />
     <path
@@ -330,7 +330,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_l)",
+        fill: "url(#icon_iq7s9t1_l)",
       }}
     />
     <path
@@ -338,7 +338,7 @@ export const MicrosoftOutlookIcon = React.forwardRef<
       style={{
         stroke: "none",
         fillRule: "nonzero",
-        fill: "url(#icon_sxthn7h_m)",
+        fill: "url(#icon_iq7s9t1_m)",
       }}
     />
     <path

@@ -30,7 +30,7 @@ export const HumeAIIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M955.866 604.743C914 595.131 873.841 620.047 864.228 662.481C854.613 704.915 880.097 745.074 921.963 754.119C963.829 763.734 1003.99 738.818 1013.6 696.384C1023.22 653.95 997.732 614.359 955.866 604.743Z"
-        fill="url(#icon_zh3ixd5_paint0_linear_243_2)"
+        fill="url(#icon_8o3snlu_paint0_linear_243_2)"
       />
       <path
         d="M930.389 444.667C963.782 418.045 969.412 371.116 942.279 337.156C915.146 303.197 868.159 298.703 834.77 325.268C801.377 351.89 795.746 398.818 822.879 432.778C850.07 466.737 896.999 471.231 930.389 444.667Z"
@@ -42,7 +42,7 @@ export const HumeAIIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <defs>
         <linearGradient
-          id="icon_zh3ixd5_paint0_linear_243_2"
+          id="icon_8o3snlu_paint0_linear_243_2"
           x1="917.02"
           y1="753.152"
           x2="959.498"

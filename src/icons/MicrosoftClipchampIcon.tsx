@@ -15,7 +15,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
   >
     <defs>
       <linearGradient
-        id="icon_d36lcyi_e"
+        id="icon_f1a8w3i_e"
         x1="225.25"
         x2="212.19"
         y1="128.63"
@@ -28,7 +28,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset="1" stopColor="#7611f0" stopOpacity="0" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_f"
+        id="icon_f1a8w3i_f"
         x1="227"
         x2="227"
         y1="117.38"
@@ -41,7 +41,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#b76aff" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_g"
+        id="icon_f1a8w3i_g"
         x1="123.94"
         x2=".11"
         y1="110.91"
@@ -54,7 +54,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#b76aff" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_h"
+        id="icon_f1a8w3i_h"
         x1="256.51"
         x2="442.07"
         y1="50.34"
@@ -67,7 +67,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#b76aff" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_i"
+        id="icon_f1a8w3i_i"
         x1="123.82"
         x2="-.01"
         y1="270.76"
@@ -80,7 +80,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#ecb4ff" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_j"
+        id="icon_f1a8w3i_j"
         x1="303.59"
         x2="454"
         y1="270.76"
@@ -93,7 +93,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#ecb4ff" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_l"
+        id="icon_f1a8w3i_l"
         x1="231.96"
         x2="226.19"
         y1="297.77"
@@ -106,7 +106,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset="1" stopColor="#3e008d" stopOpacity="0" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_m"
+        id="icon_f1a8w3i_m"
         x1="330.2"
         x2="454.04"
         y1="177.81"
@@ -119,7 +119,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#ecb4ff" />
       </linearGradient>
       <linearGradient
-        id="icon_d36lcyi_n"
+        id="icon_f1a8w3i_n"
         x1="123.82"
         x2="-.01"
         y1="182.36"
@@ -132,7 +132,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".84" stopColor="#ecb4ff" />
       </linearGradient>
       <radialGradient
-        id="icon_d36lcyi_b"
+        id="icon_f1a8w3i_b"
         cx="-750.94"
         cy="816.14"
         r=".91"
@@ -146,7 +146,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset="1" stopColor="#5000b0" />
       </radialGradient>
       <radialGradient
-        id="icon_d36lcyi_c"
+        id="icon_f1a8w3i_c"
         cx="-755.52"
         cy="805.62"
         r=".91"
@@ -160,7 +160,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".68" stopColor="#d373fc" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_d36lcyi_d"
+        id="icon_f1a8w3i_d"
         cx="-740.71"
         cy="815.67"
         r=".91"
@@ -174,7 +174,7 @@ export const MicrosoftClipchampIcon = React.forwardRef<
         <stop offset=".83" stopColor="#de67fd" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_d36lcyi_k"
+        id="icon_f1a8w3i_k"
         cx="-735.51"
         cy="817.83"
         r=".91"
@@ -195,15 +195,15 @@ export const MicrosoftClipchampIcon = React.forwardRef<
     />
     <path
       d="M384.29.77c27.23-4.81 53.57 13.27 58.83 40.4l2.15 11.13c5.25 27.12-12.58 53.02-39.81 57.83L35.59 175.42c-12.71 2.24-25-6.21-27.45-18.86L.92 119.24C-4.33 92.11 13.5 66.23 40.73 61.43L384.29.77Z"
-      style={{ fill: "url(#icon_d36lcyi_b)", fillOpacity: ".9" }}
+      style={{ fill: "url(#icon_f1a8w3i_b)", fillOpacity: ".9" }}
     />
     <path
       d="M384.29.77c27.23-4.81 53.57 13.27 58.83 40.4l2.15 11.13c5.25 27.12-12.58 53.02-39.81 57.83L35.59 175.42c-12.71 2.24-25-6.21-27.45-18.86L.92 119.24C-4.33 92.11 13.5 66.23 40.73 61.43L384.29.77Z"
-      style={{ fill: "url(#icon_d36lcyi_c)", fillOpacity: ".6" }}
+      style={{ fill: "url(#icon_f1a8w3i_c)", fillOpacity: ".6" }}
     />
     <path
       d="M384.29.77c27.23-4.81 53.57 13.27 58.83 40.4l2.15 11.13c5.25 27.12-12.58 53.02-39.81 57.83L35.59 175.42c-12.71 2.24-25-6.21-27.45-18.86L.92 119.24C-4.33 92.11 13.5 66.23 40.73 61.43L384.29.77Z"
-      style={{ fillOpacity: ".4", fill: "url(#icon_d36lcyi_d)" }}
+      style={{ fillOpacity: ".4", fill: "url(#icon_f1a8w3i_d)" }}
     />
     <path
       d="M0 439.97C0 473.12 26.9 500 60.09 500H393.9c33.19 0 60.09-26.88 60.09-60.03V417.5c0-33.15-26.9-60.03-60.09-60.03H60.1C26.91 357.47 0 330.6 0 297.44v-13.63 156.16Z"
@@ -215,19 +215,19 @@ export const MicrosoftClipchampIcon = React.forwardRef<
     />
     <path
       d="M0 439.97C0 473.12 26.9 500 60.09 500H393.9c33.19 0 60.09-26.88 60.09-60.03V417.5c0-33.15-26.9-60.03-60.09-60.03H60.1C26.91 357.47 0 330.6 0 297.44v-13.63 156.16Z"
-      style={{ fill: "url(#icon_d36lcyi_e)", fillOpacity: ".4" }}
+      style={{ fill: "url(#icon_f1a8w3i_e)", fillOpacity: ".4" }}
     />
     <path
       d="M0 439.97C0 473.12 26.9 500 60.09 500H393.9c33.19 0 60.09-26.88 60.09-60.03V417.5c0-33.15-26.9-60.03-60.09-60.03H60.1C26.91 357.47 0 330.6 0 297.44v-13.63 156.16Z"
-      style={{ fill: "url(#icon_d36lcyi_f)", fillOpacity: ".15" }}
+      style={{ fill: "url(#icon_f1a8w3i_f)", fillOpacity: ".15" }}
     />
     <path
       d="M0 439.97C0 473.12 26.9 500 60.09 500H393.9c33.19 0 60.09-26.88 60.09-60.03V417.5c0-33.15-26.9-60.03-60.09-60.03H60.1C26.91 357.47 0 330.6 0 297.44v-13.63 156.16Z"
-      style={{ fill: "url(#icon_d36lcyi_g)", fillOpacity: ".3" }}
+      style={{ fill: "url(#icon_f1a8w3i_g)", fillOpacity: ".3" }}
     />
     <path
       d="M0 439.97C0 473.12 26.9 500 60.09 500H393.9c33.19 0 60.09-26.88 60.09-60.03V417.5c0-33.15-26.9-60.03-60.09-60.03H60.1C26.91 357.47 0 330.6 0 297.44v-13.63 156.16Z"
-      style={{ fill: "url(#icon_d36lcyi_h)", fillOpacity: ".2" }}
+      style={{ fill: "url(#icon_f1a8w3i_h)", fillOpacity: ".2" }}
     />
     <path
       d="M0 223.11c0 33.15 26.9 60.03 60.09 60.03H393.9c33.19 0 60.09 26.88 60.09 60.03v15.8-139.11c0-33.15-26.9-60.03-60.09-60.03H53.42C23.92 159.83 0 135.94 0 106.47v116.64Z"
@@ -235,15 +235,15 @@ export const MicrosoftClipchampIcon = React.forwardRef<
     />
     <path
       d="M0 223.11c0 33.15 26.9 60.03 60.09 60.03H393.9c33.19 0 60.09 26.88 60.09 60.03v15.8-139.11c0-33.15-26.9-60.03-60.09-60.03H53.42C23.92 159.83 0 135.94 0 106.47v116.64Z"
-      style={{ fill: "url(#icon_d36lcyi_i)" }}
+      style={{ fill: "url(#icon_f1a8w3i_i)" }}
     />
     <path
       d="M0 223.11c0 33.15 26.9 60.03 60.09 60.03H393.9c33.19 0 60.09 26.88 60.09 60.03v15.8-139.11c0-33.15-26.9-60.03-60.09-60.03H53.42C23.92 159.83 0 135.94 0 106.47v116.64Z"
-      style={{ fill: "url(#icon_d36lcyi_j)", fillOpacity: ".8" }}
+      style={{ fill: "url(#icon_f1a8w3i_j)", fillOpacity: ".8" }}
     />
     <path
       d="M0 223.11c0 33.15 26.9 60.03 60.09 60.03H393.9c33.19 0 60.09 26.88 60.09 60.03v15.8-139.11c0-33.15-26.9-60.03-60.09-60.03H53.42C23.92 159.83 0 135.94 0 106.47v116.64Z"
-      style={{ fill: "url(#icon_d36lcyi_k)" }}
+      style={{ fill: "url(#icon_f1a8w3i_k)" }}
     />
     <path
       d="M0 326.5c0 33.15 26.9 60.03 60.09 60.03h337.83c30.97 0 56.07 25.08 56.07 56.02v-109.3c0-33.15-26.9-60.02-60.09-60.02H60.1C26.91 273.23 0 246.35 0 213.2v-13.51V326.5Z"
@@ -255,15 +255,15 @@ export const MicrosoftClipchampIcon = React.forwardRef<
     />
     <path
       d="M0 326.5c0 33.15 26.9 60.03 60.09 60.03h337.83c30.97 0 56.07 25.08 56.07 56.02v-109.3c0-33.15-26.9-60.02-60.09-60.02H60.1C26.91 273.23 0 246.35 0 213.2v-13.51V326.5Z"
-      style={{ fill: "url(#icon_d36lcyi_l)", fillOpacity: ".4" }}
+      style={{ fill: "url(#icon_f1a8w3i_l)", fillOpacity: ".4" }}
     />
     <path
       d="M0 326.5c0 33.15 26.9 60.03 60.09 60.03h337.83c30.97 0 56.07 25.08 56.07 56.02v-109.3c0-33.15-26.9-60.02-60.09-60.02H60.1C26.91 273.23 0 246.35 0 213.2v-13.51V326.5Z"
-      style={{ fill: "url(#icon_d36lcyi_m)", fillOpacity: ".4" }}
+      style={{ fill: "url(#icon_f1a8w3i_m)", fillOpacity: ".4" }}
     />
     <path
       d="M0 326.5c0 33.15 26.9 60.03 60.09 60.03h337.83c30.97 0 56.07 25.08 56.07 56.02v-109.3c0-33.15-26.9-60.02-60.09-60.02H60.1C26.91 273.23 0 246.35 0 213.2v-13.51V326.5Z"
-      style={{ fillOpacity: ".6", fill: "url(#icon_d36lcyi_n)" }}
+      style={{ fillOpacity: ".6", fill: "url(#icon_f1a8w3i_n)" }}
     />
   </svg>
 ));

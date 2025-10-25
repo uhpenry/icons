@@ -12,7 +12,7 @@ export const CarrdIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <linearGradient
-        id="icon_b0ngc40_a"
+        id="icon_2j600xb_a"
         x1="141.569"
         x2="754.431"
         y1="143.569"
@@ -26,7 +26,7 @@ export const CarrdIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <stop offset="1" style={{ stopColor: "#3f71b7" }} />
       </linearGradient>
       <path
-        fill="url(#icon_b0ngc40_a)"
+        fill="url(#icon_2j600xb_a)"
         d="M448 881.3c-239.4 0-433.4-194-433.4-433.3S208.6 14.7 448 14.7s433.4 194 433.4 433.3-194 433.3-433.4 433.3z"
       />
       <path

@@ -101,7 +101,7 @@
   {
     "id": 10,
     "path": { "light": "src\\library\\svgl\\amazon-q\\amazon-q-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Amazon Q",
     "url": "https://aws.amazon.com/q",
     "icon": "AmazonQIcon"
@@ -109,7 +109,7 @@
   {
     "id": 11,
     "path": { "light": "src\\library\\svgl\\mulesoft\\mulesoft-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Mulesoft",
     "url": "https://www.mulesoft.com/",
     "icon": "MulesoftIcon"
@@ -193,7 +193,7 @@
   {
     "id": 20,
     "path": { "light": "src\\library\\svgl\\animate\\animate-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Animate",
     "url": "https://www.adobe.com/products/animate",
     "icon": "AnimateIcon"
@@ -201,7 +201,7 @@
   {
     "id": 21,
     "path": { "light": "src\\library\\svgl\\apollo.io\\apollo.io-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Apollo.io",
     "url": "https://www.apollo.io/",
     "icon": "ApolloIoIcon"
@@ -243,7 +243,7 @@
   {
     "id": 26,
     "path": { "light": "src\\library\\svgl\\ahooks\\ahooks-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "ahooks",
     "url": "https://ahooks.js.org/",
     "icon": "AhooksIcon"
@@ -259,7 +259,7 @@
   {
     "id": 28,
     "path": { "light": "src\\library\\svgl\\aliexpress\\aliexpress-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Aliexpress",
     "url": "https://aliexpress.com/",
     "icon": "AliexpressIcon"
@@ -490,7 +490,7 @@
   {
     "id": 54,
     "path": { "light": "src\\library\\svgl\\algolia\\algolia-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Algolia",
     "url": "https://www.algolia.com/",
     "icon": "AlgoliaIcon"
@@ -625,7 +625,7 @@
   {
     "id": 69,
     "path": { "light": "src\\library\\svgl\\angular\\angular-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Angular",
     "url": "https://angular.dev/",
     "icon": "AngularIcon"
@@ -649,7 +649,7 @@
   {
     "id": 72,
     "path": { "light": "src\\library\\svgl\\atom\\atom-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Atom",
     "url": "https://atom.io/",
     "icon": "AtomIcon"
@@ -668,7 +668,7 @@
       "light": "src\\library\\svgl\\astro\\astro-light.svg",
       "dark": "src\\library\\svgl\\astro\\astro-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Astro",
     "url": "https://astro.build",
     "icon": "AstroIcon"
@@ -933,7 +933,7 @@
       "light": "src\\library\\svgl\\arc\\arc-light.svg",
       "dark": "src\\library\\svgl\\arc\\arc-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Arc",
     "url": "https://arc.net/",
     "icon": "ArcIcon"
@@ -957,7 +957,7 @@
   {
     "id": 108,
     "path": { "light": "src\\library\\svgl\\authy\\authy-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Authy",
     "url": "https://authy.com/",
     "icon": "AuthyIcon"
@@ -1125,7 +1125,7 @@
       "light": "src\\library\\svgl\\amazon-web-services\\amazon-web-services-light.svg",
       "dark": "src\\library\\svgl\\amazon-web-services\\amazon-web-services-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Amazon Web Services",
     "url": "https://aws.amazon.com/",
     "icon": "AmazonWebServicesIcon"
@@ -1318,7 +1318,7 @@
   {
     "id": 146,
     "path": { "light": "src\\library\\svgl\\atlassian\\atlassian-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Atlassian",
     "url": "https://www.atlassian.com/",
     "icon": "AtlassianIcon"
@@ -1358,7 +1358,7 @@
   {
     "id": 151,
     "path": { "light": "src\\library\\svgl\\auth0\\auth0-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Auth0",
     "url": "https://auth0.com/",
     "icon": "Auth0Icon"
@@ -1366,7 +1366,7 @@
   {
     "id": 152,
     "path": { "light": "src\\library\\svgl\\auth.js\\auth.js-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Auth.js",
     "url": "https://authjs.dev",
     "icon": "AuthJsIcon"
@@ -1667,7 +1667,7 @@
   {
     "id": 188,
     "path": { "light": "src\\library\\svgl\\amp\\amp-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "AMP",
     "url": "https://amp.dev/",
     "icon": "AMPIcon"
@@ -1751,7 +1751,7 @@
       "light": "src\\library\\svgl\\apple\\apple-light.svg",
       "dark": "src\\library\\svgl\\apple\\apple-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Apple",
     "url": "https://www.apple.com",
     "icon": "AppleIcon"
@@ -1918,7 +1918,7 @@
   {
     "id": 217,
     "path": { "light": "src\\library\\svgl\\appwrite\\appwrite-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Appwrite",
     "url": "https://appwrite.io/",
     "icon": "AppwriteIcon"
@@ -2405,7 +2405,7 @@
   {
     "id": 275,
     "path": { "light": "src\\library\\svgl\\algorand\\algorand-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Algorand",
     "url": "https://algorand.org/",
     "icon": "AlgorandIcon"
@@ -2432,7 +2432,7 @@
   {
     "id": 278,
     "path": { "light": "src\\library\\svgl\\adobe\\adobe-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Adobe",
     "url": "https://www.adobe.com/",
     "icon": "AdobeIcon"
@@ -2442,7 +2442,7 @@
     "path": {
       "light": "src\\library\\svgl\\after-effects\\after-effects-light.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "After Effects",
     "url": "https://www.adobe.com/products/aftereffects",
     "icon": "AfterEffectsIcon"
@@ -2619,7 +2619,7 @@
     "path": {
       "light": "src\\library\\svgl\\affinity-designer\\affinity-designer-light.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Affinity Designer",
     "url": "https://affinity.serif.com/en-us/designer/",
     "icon": "AffinityDesignerIcon"
@@ -2629,7 +2629,7 @@
     "path": {
       "light": "src\\library\\svgl\\affinity-photo\\affinity-photo-light.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Affinity Photo",
     "url": "https://affinity.serif.com/en-us/photo/",
     "icon": "AffinityPhotoIcon"
@@ -2639,7 +2639,7 @@
     "path": {
       "light": "src\\library\\svgl\\affinity-publisher\\affinity-publisher-light.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Affinity Publisher",
     "url": "https://affinity.serif.com/en-us/publisher/",
     "icon": "AffinityPublisherIcon"
@@ -2898,7 +2898,7 @@
       "light": "src\\library\\svgl\\axiom\\axiom-light.svg",
       "dark": "src\\library\\svgl\\axiom\\axiom-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Axiom",
     "url": "https://axiom.co/",
     "icon": "AxiomIcon"
@@ -2984,7 +2984,7 @@
   {
     "id": 341,
     "path": { "light": "src\\library\\svgl\\axure\\axure-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Axure",
     "url": "https://www.axure.com/",
     "icon": "AxureIcon"
@@ -3411,7 +3411,7 @@
   {
     "id": 389,
     "path": { "light": "src\\library\\svgl\\alacritty\\alacritty-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Alacritty",
     "url": "https://alacritty.org",
     "icon": "AlacrittyIcon"
@@ -3506,7 +3506,7 @@
   {
     "id": 400,
     "path": { "light": "src\\library\\svgl\\android\\android-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Android",
     "url": "https://www.android.com/",
     "icon": "AndroidIcon"
@@ -3712,7 +3712,7 @@
   {
     "id": 422,
     "path": { "light": "src\\library\\svgl\\asana\\asana-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Asana",
     "url": "https://asana.com",
     "icon": "AsanaIcon"
@@ -3922,7 +3922,7 @@
     "path": {
       "light": "src\\library\\svgl\\apple-music\\apple-music-light.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Apple Music",
     "url": "https://music.apple.com/",
     "icon": "AppleMusicIcon"
@@ -3962,7 +3962,7 @@
   {
     "id": 450,
     "path": { "light": "src\\library\\svgl\\apidog\\apidog-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Apidog",
     "url": "https://apidog.com/",
     "icon": "ApidogIcon"
@@ -4110,7 +4110,7 @@
       "light": "src\\library\\svgl\\afordin\\afordin-light.svg",
       "dark": "src\\library\\svgl\\afordin\\afordin-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Afordin",
     "url": "https://github.com/Afordin",
     "icon": "AfordinIcon"
@@ -4474,7 +4474,7 @@
   {
     "id": 505,
     "path": { "light": "src\\library\\svgl\\ant-design\\ant-design-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Ant Design",
     "url": "https://ant.design/",
     "icon": "AntDesignIcon"
@@ -4553,7 +4553,7 @@
       "light": "src\\library\\svgl\\anthropic\\anthropic-light.svg",
       "dark": "src\\library\\svgl\\anthropic\\anthropic-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Anthropic",
     "url": "https://www.anthropic.com/",
     "icon": "AnthropicIcon"
@@ -4815,7 +4815,7 @@
   {
     "id": 541,
     "path": { "light": "src\\library\\svgl\\ark-ui\\ark-ui-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Ark UI",
     "url": "https://ark-ui.com/",
     "icon": "ArkUIIcon"
@@ -4845,7 +4845,7 @@
       "light": "src\\library\\svgl\\apache-kafka\\apache-kafka-light.svg",
       "dark": "src\\library\\svgl\\apache-kafka\\apache-kafka-dark.svg"
     },
-    "checked": false,
+    "checked": true,
     "title": "Apache Kafka",
     "url": "https://kafka.apache.org/",
     "icon": "ApacheKafkaIcon"
@@ -4906,7 +4906,7 @@
   {
     "id": 551,
     "path": { "light": "src\\library\\svgl\\ahrefs\\ahrefs-light.svg" },
-    "checked": false,
+    "checked": true,
     "title": "Ahrefs",
     "url": "https://ahrefs.com/",
     "icon": "AhrefsIcon"

@@ -13,7 +13,7 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_l26sqhp_c"
+          id="icon_p976oul_d"
           x1="16"
           x2="16"
           y1="0"
@@ -24,9 +24,9 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopOpacity=".5" />
         </linearGradient>
         <filter
-          id="icon_l26sqhp_a"
+          id="icon_p976oul_b"
           width="1.08"
-          height="1.0966667"
+          height="1.097"
           x="-.04"
           y="-.04"
           filterUnits="objectBoundingBox"
@@ -48,22 +48,22 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"
           />
         </filter>
-        <circle id="icon_l26sqhp_b" cx="16" cy="15" r="15" />
+        <circle id="icon_p976oul_a" cx="16" cy="15" r="15" />
       </defs>
       <use
-        xlinkHref="#icon_l26sqhp_b"
-        filter="url(#icon_l26sqhp_a)"
+        xlinkHref="#icon_p976oul_a"
+        filter="url(#icon_p976oul_b)"
         style={{ fillRule: "evenodd" }}
       />
       <use
-        xlinkHref="#icon_l26sqhp_b"
+        xlinkHref="#icon_p976oul_a"
         fill="#627eea"
         style={{ fill: "#e5e5e5", fillOpacity: "1", fillRule: "evenodd" }}
       />
       <use
-        xlinkHref="#icon_l26sqhp_b"
-        fill="url(#icon_l26sqhp_c)"
-        style={{ fill: "url(#icon_l26sqhp_c)", fillRule: "evenodd" }}
+        xlinkHref="#icon_p976oul_a"
+        fill="url(#icon_p976oul_d)"
+        style={{ fill: "url(#icon_p976oul_d)", fillRule: "evenodd" }}
       />
       <circle
         cx="16"
@@ -74,7 +74,7 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         style={{ fill: "none", fillRule: "evenodd" }}
       />
       <path
-        d="m10.331859 23 7.221238-12.601771.99115 3.256638L13.022125 23h2.83186l3.539822-6.088495L20.951328 23H23.5l-2.40708-9.061945 1.699118-2.973453h-2.548674L19.252216 7h-2.407083L7.5 23Z"
+        d="m10.332 23 7.221-12.602.991 3.257L13.022 23h2.832l3.54-6.088L20.95 23h2.55l-2.407-9.062 1.699-2.973h-2.549L19.253 7h-2.408L7.5 23Z"
         style={{
           fill: "#000",
           fillOpacity: "1",

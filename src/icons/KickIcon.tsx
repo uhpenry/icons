@@ -14,8 +14,8 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_2w1qy0y_clip0_9790_492437)">
-          <g clipPath="url(#icon_2w1qy0y_clip1_9790_492437)">
+        <g clipPath="url(#icon_6380wt8_clip0_9790_492437)">
+          <g clipPath="url(#icon_6380wt8_clip1_9790_492437)">
             <path
               fillRule="evenodd"
               clipRule="evenodd"
@@ -25,10 +25,10 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           </g>
         </g>
         <defs>
-          <clipPath id="icon_2w1qy0y_clip0_9790_492437">
+          <clipPath id="icon_6380wt8_clip0_9790_492437">
             <rect width="933" height="300" fill="white" />
           </clipPath>
-          <clipPath id="icon_2w1qy0y_clip1_9790_492437">
+          <clipPath id="icon_6380wt8_clip1_9790_492437">
             <rect width="933.333" height="300" fill="white" />
           </clipPath>
         </defs>
@@ -43,8 +43,8 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_56wra2y_clip0_9790_492437)">
-          <g clipPath="url(#icon_56wra2y_clip1_9790_492437)">
+        <g clipPath="url(#icon_nqz2evt_clip0_9790_492437)">
+          <g clipPath="url(#icon_nqz2evt_clip1_9790_492437)">
             <path
               fillRule="evenodd"
               clipRule="evenodd"
@@ -54,10 +54,10 @@ export const KickIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           </g>
         </g>
         <defs>
-          <clipPath id="icon_56wra2y_clip0_9790_492437">
+          <clipPath id="icon_nqz2evt_clip0_9790_492437">
             <rect width="933" height="300" fill="white" />
           </clipPath>
-          <clipPath id="icon_56wra2y_clip1_9790_492437">
+          <clipPath id="icon_nqz2evt_clip1_9790_492437">
             <rect width="933.333" height="300" fill="white" />
           </clipPath>
         </defs>

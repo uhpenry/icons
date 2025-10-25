@@ -188,6 +188,67 @@ ${name}.displayName = '${name}';
 }
 
 /**
+ * Generate svgEntry.ts with all icons, aliases, and raw SVG content.
+ */
+async function generateSvgEntry() {
+  const metadata: {
+    icon: string;
+    title: string;
+    path: { light?: string; dark?: string };
+  }[] = JSON.parse(fs.readFileSync(METADATA_PATH, 'utf8'));
+  const aliases: Record<string, string[]> = JSON.parse(
+    fs.readFileSync(ALIASES_PATH, 'utf8')
+  );
+
+  const entries: string[] = [];
+
+  for (const item of metadata) {
+    try {
+      const svgLight = item.path.light
+        ? fs.readFileSync(item.path.light, 'utf8')
+        : '';
+      const svgDark = item.path.dark
+        ? fs.readFileSync(item.path.dark, 'utf8')
+        : undefined;
+
+      // Store as raw SVG strings, trimmed for consistency
+      const svgEntry = `{
+  name: '${item.title}',
+  aliases: ${JSON.stringify(aliases[item.title] || [])},
+  svg: {
+    light: \`${svgLight.trim()}\`,
+    dark: ${svgDark ? `\`${svgDark.trim()}\`` : 'null'}
+  }
+}`;
+
+      entries.push(svgEntry);
+    } catch (err: any) {
+      console.error(`❌ Failed to include ${item.title}:`, err.message);
+    }
+  }
+
+  const content = `// Auto-generated file
+// Contains raw SVG content for icons
+// Generated on: ${new Date().toISOString()}
+
+
+import { SvgEntry } from '../types';
+
+
+export const svgEntry: SvgEntry[] = [
+${entries.join(',\n')}
+];
+`;
+
+  const formatted = await prettier.format(content, { parser: 'typescript' });
+
+  const SVG_ENTRY_PATH = path.join(__dirname, '../library/svgEntry.ts');
+  fs.writeFileSync(SVG_ENTRY_PATH, formatted, 'utf8');
+
+  console.log(`✓ svgEntry.ts generated with ${metadata.length} icons`);
+}
+
+/**
  * Reads the metadata.json file.
  */
 function readMetadata(): iSvgMetadata[] {
@@ -324,6 +385,7 @@ async function generateFromLocalSvgs() {
   await writeAliases(metadata);
   generateIndexFile(componentNames);
   await generateIconMetrics();
+  await generateSvgEntry();
   await generateIconEntry();
 
   console.log(

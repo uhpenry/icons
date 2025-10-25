@@ -13,7 +13,7 @@ export const ZodIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <filter
-          id="icon_vewh3df_a"
+          id="icon_dxwnedf_a"
           width="105.2%"
           height="106.5%"
           x="-2.2%"
@@ -37,7 +37,7 @@ export const ZodIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <path
-          id="icon_vewh3df_b"
+          id="icon_dxwnedf_b"
           d="M200.42 0H53.63L0 53.355l121.76 146.624 9.714-10.9L252 53.857 200.42 0Zm-5.362 12.562 39.84 41.6-112.8 126.558L17 54.162l41.815-41.6h136.243Z"
         />
       </defs>
@@ -54,8 +54,8 @@ export const ZodIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="m225.56 43.834-147.382 85.09-19.226-24.051 114.099-65.877-2.096-3.631 30.391-17.546zM146.596 14.075 35.93 77.968 18.719 56.483l74.095-42.78z"
       />
       <g transform="translate(2 1.51)">
-        <use xlinkHref="#icon_vewh3df_b" filter="url(#icon_vewh3df_a)" />
-        <use xlinkHref="#icon_vewh3df_b" fill="#3068B7" />
+        <use xlinkHref="#icon_dxwnedf_b" filter="url(#icon_dxwnedf_a)" />
+        <use xlinkHref="#icon_dxwnedf_b" fill="#3068B7" />
       </g>
     </svg>
   ),

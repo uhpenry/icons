@@ -15,19 +15,19 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
     {...props}
   >
     <path
-      fill="url(#icon_hds05ap_a)"
+      fill="url(#icon_02q5kxk_a)"
       d="M9 33.545A6.545 6.545 0 0 1 15.546 27H39v11.727a3.273 3.273 0 0 1-3.273 3.272l-20.592-.005A6.136 6.136 0 0 1 9 35.858v-2.313Z"
     />
     <path
-      fill="url(#icon_hds05ap_b)"
+      fill="url(#icon_02q5kxk_b)"
       d="m25 14.5 14-.5v12.727A3.273 3.273 0 0 1 35.727 30H25V14.5Z"
     />
     <path
-      fill="url(#icon_hds05ap_c)"
+      fill="url(#icon_02q5kxk_c)"
       d="M9.005 11.999a6 6 0 0 1 6-5.999H35.5A3.5 3.5 0 0 1 39 9.5v5a3.5 3.5 0 0 1-3.5 3.5h-3a3.5 3.5 0 0 0-3.5 3.5v5a3.5 3.5 0 0 1-3.5 3.5H15a6 6 0 0 0-6 6l.005-24.001Z"
     />
     <path
-      fill="url(#icon_hds05ap_d)"
+      fill="url(#icon_02q5kxk_d)"
       d="M9.005 11.999a6 6 0 0 1 6-5.999H35.5A3.5 3.5 0 0 1 39 9.5v5a3.5 3.5 0 0 1-3.5 3.5h-3a3.5 3.5 0 0 0-3.5 3.5v5a3.5 3.5 0 0 1-3.5 3.5H15a6 6 0 0 0-6 6l.005-24.001Z"
     />
     <rect
@@ -35,7 +35,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
       height="16"
       x="4"
       y="23"
-      fill="url(#icon_hds05ap_e)"
+      fill="url(#icon_02q5kxk_e)"
       rx="3.25"
     />
     <rect
@@ -43,7 +43,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
       height="16"
       x="4"
       y="23"
-      fill="url(#icon_hds05ap_f)"
+      fill="url(#icon_02q5kxk_f)"
       fillOpacity=".8"
       rx="3.25"
     />
@@ -53,7 +53,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
     />
     <defs>
       <radialGradient
-        id="icon_hds05ap_a"
+        id="icon_02q5kxk_a"
         cx="0"
         cy="0"
         r="1"
@@ -64,7 +64,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
         <stop offset=".566" stopColor="#6E1996" />
       </radialGradient>
       <radialGradient
-        id="icon_hds05ap_d"
+        id="icon_02q5kxk_d"
         cx="0"
         cy="0"
         r="1"
@@ -75,7 +75,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
         <stop offset=".831" stopColor="#DE67FD" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_hds05ap_e"
+        id="icon_02q5kxk_e"
         cx="0"
         cy="0"
         r="1"
@@ -86,7 +86,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
         <stop offset=".879" stopColor="#580087" />
       </radialGradient>
       <radialGradient
-        id="icon_hds05ap_f"
+        id="icon_02q5kxk_f"
         cx="0"
         cy="0"
         r="1"
@@ -97,7 +97,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
         <stop offset=".969" stopColor="#D373FC" />
       </radialGradient>
       <linearGradient
-        id="icon_hds05ap_b"
+        id="icon_02q5kxk_b"
         x1="45.284"
         x2="28.013"
         y1="22.752"
@@ -108,7 +108,7 @@ export const MicrosoftOneNoteIcon = React.forwardRef<
         <stop offset=".888" stopColor="#691A90" />
       </linearGradient>
       <linearGradient
-        id="icon_hds05ap_c"
+        id="icon_02q5kxk_c"
         x1="40.327"
         x2="9.007"
         y1="13.764"

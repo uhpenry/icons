@@ -17,7 +17,7 @@ export const IntelliJIDEAIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="51%"
           x2="178.1%"
           y2="41.9%"
-          id="icon_j3w0gy2_a"
+          id="icon_h6lp3ss_a"
         >
           <stop stopColor="#FC801D" offset="9%" />
           <stop stopColor="#B07F61" offset="23%" />
@@ -30,7 +30,7 @@ export const IntelliJIDEAIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="114.8%"
           x2="35.6%"
           y2="1.1%"
-          id="icon_j3w0gy2_b"
+          id="icon_h6lp3ss_b"
         >
           <stop stopColor="#FE2857" offset="0%" />
           <stop stopColor="#CB3979" offset="8%" />
@@ -48,7 +48,7 @@ export const IntelliJIDEAIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="23.6%"
           x2="81.8%"
           y2="129.8%"
-          id="icon_j3w0gy2_c"
+          id="icon_h6lp3ss_c"
         >
           <stop stopColor="#FE2857" offset="0%" />
           <stop stopColor="#FE295F" offset="8%" />
@@ -61,16 +61,16 @@ export const IntelliJIDEAIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_j3w0gy2_a)"
+        fill="url(#icon_h6lp3ss_a)"
         d="M40.5 180.6 2.9 150.8l22.1-41 33.3 11.1z"
       />
       <path fill="#087CFA" d="m256 68.2-4.6 148.3-98.6 39.5-53.7-34.7z" />
       <path
-        fill="url(#icon_j3w0gy2_b)"
+        fill="url(#icon_h6lp3ss_b)"
         d="m256 68.2-48.8 47.6L144.5 39l31-34.8z"
       />
       <path
-        fill="url(#icon_j3w0gy2_c)"
+        fill="url(#icon_h6lp3ss_c)"
         d="m99.1 221.3-78.5 28.4 16.5-57.5 21.2-71.3L0 101.4 37.1 0l83.8 9.9 86.3 105.9z"
       />
       <path d="M49.1 48h160v160h-160z" />

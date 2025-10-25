@@ -1,5 +1,6 @@
-import { IconType } from '../types';
+import { IconType, SvgEntry } from '../types';
 import { iconEntry } from '../library/iconEntry';
+import { svgEntry } from '../library/svgEntry';
 
 /**
  * Escape special regex characters in a string
@@ -42,6 +43,59 @@ export function getIcon(
       message: `@uhpenry/icons: ${error?.message}. Default icon was used.`,
     });
     return defaultIcon || iconEntry[0].icon;
+  }
+}
+
+/**
+ * Retrieves the SVG entry (raw SVG content + aliases) for a given icon name.
+ *
+ * @param {string} name - The name or alias of the icon to retrieve.
+ * @returns {SvgEntry | undefined} The matching SVG entry object if found, otherwise the default (first) icon entry.
+ *
+ * @description
+ * - Matches both primary names and aliases (case-insensitive).
+ * - Falls back to the first icon in `svgEntry` if no match is found or an error occurs.
+ * - Logs meaningful messages in case of invalid input or unexpected errors.
+ */
+export function getSvg(name: string): SvgEntry | undefined {
+  try {
+    if (!name || typeof name !== 'string') {
+      console.log({
+        message:
+          '@uhpenry/icons: No valid icon name provided. Default icon has been used instead.',
+      });
+      return svgEntry[0];
+    }
+
+    const search = name.toLowerCase();
+
+    // Escape special characters and create a case-insensitive exact match regex
+    const regex = new RegExp(`^${escapeRegex(search)}$`, 'i');
+
+    for (const entry of svgEntry) {
+      // Match main name
+      if (regex.test(entry.name.toLowerCase())) {
+        return entry;
+      }
+
+      // Match aliases
+      if (
+        entry.aliases.some((alias: string) => regex.test(alias.toLowerCase()))
+      ) {
+        return entry;
+      }
+    }
+
+    // If no match found, use default icon
+    console.log({
+      message: `@uhpenry/icons: No icon found for "${name}". Default icon has been used instead.`,
+    });
+    return svgEntry[0];
+  } catch (error: any) {
+    console.log({
+      message: `@uhpenry/icons: An unexpected error occurred while retrieving the icon — ${error?.message}. Default icon has been used instead.`,
+    });
+    return svgEntry[0];
   }
 }
 

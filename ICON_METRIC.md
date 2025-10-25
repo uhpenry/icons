@@ -1,12 +1,12 @@
 # Icon Metrics
 
-This file was automatically generated on **10/23/2025, 5:06:46 PM**.
+This file was automatically generated on **10/25/2025, 11:12:32 AM**.
 
 ## Summary
 
 - **Total icons available:** 559
 - **Total icons generated:** 559
-- **Total icons checked / optimized:** 3
+- **Total icons checked / optimized:** 41
 - **Dual-mode icons (light + dark):** 131
 - **Single-mode icons (light only):** 428
 

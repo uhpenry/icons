@@ -15,7 +15,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
   >
     <defs>
       <radialGradient
-        id="icon_vet2y2n_b"
+        id="icon_bx0bt5i_b"
         cx="-699.58"
         cy="815.89"
         r="12.5"
@@ -29,7 +29,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset=".6" stopColor="#560b14" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_vet2y2n_d"
+        id="icon_bx0bt5i_d"
         cx="-707.25"
         cy="815.89"
         r="12.5"
@@ -43,7 +43,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset=".75" stopColor="#560b14" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_vet2y2n_f"
+        id="icon_bx0bt5i_f"
         cx="-714.92"
         cy="815.89"
         r="12.5"
@@ -57,7 +57,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset=".63" stopColor="#ff9fb2" stopOpacity="0" />
       </radialGradient>
       <radialGradient
-        id="icon_vet2y2n_h"
+        id="icon_bx0bt5i_h"
         cx="-699.09"
         cy="798.2"
         r="12.5"
@@ -71,7 +71,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset=".94" stopColor="#aa1d2d" />
       </radialGradient>
       <radialGradient
-        id="icon_vet2y2n_i"
+        id="icon_bx0bt5i_i"
         cx="-682.94"
         cy="855.76"
         r="12.5"
@@ -85,7 +85,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset=".97" stopColor="#ff9fb2" />
       </radialGradient>
       <linearGradient
-        id="icon_vet2y2n_a"
+        id="icon_bx0bt5i_a"
         x1="437.5"
         x2="62.5"
         y1="95.75"
@@ -99,7 +99,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset="1" stopColor="#8a1421" />
       </linearGradient>
       <linearGradient
-        id="icon_vet2y2n_c"
+        id="icon_bx0bt5i_c"
         x1="437.5"
         x2="62.5"
         y1="220.75"
@@ -113,7 +113,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset="1" stopColor="#ca2134" />
       </linearGradient>
       <linearGradient
-        id="icon_vet2y2n_e"
+        id="icon_bx0bt5i_e"
         x1="437.5"
         x2="62.5"
         y1="345.75"
@@ -127,7 +127,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
         <stop offset="1" stopColor="#f83f54" />
       </linearGradient>
       <linearGradient
-        id="icon_vet2y2n_g"
+        id="icon_bx0bt5i_g"
         x1="271.29"
         x2="223.89"
         y1="519.33"
@@ -142,31 +142,31 @@ export const MicrosoftAccessIcon = React.forwardRef<
     </defs>
     <path
       d="M437.5 312.5v125c0 34.52-83.96 62.5-187.5 62.5S62.5 472.02 62.5 437.5v-125h375Z"
-      style={{ fill: "url(#icon_vet2y2n_a)" }}
+      style={{ fill: "url(#icon_bx0bt5i_a)" }}
     />
     <path
       d="M437.5 312.5v125c0 34.52-83.96 62.5-187.5 62.5S62.5 472.02 62.5 437.5v-125h375Z"
-      style={{ fill: "url(#icon_vet2y2n_b)", fillOpacity: ".7" }}
+      style={{ fill: "url(#icon_bx0bt5i_b)", fillOpacity: ".7" }}
     />
     <path
       d="M437.5 187.5v125c0 34.52-83.96 62.5-187.5 62.5S62.5 347.02 62.5 312.5v-125h375Z"
-      style={{ fill: "url(#icon_vet2y2n_c)" }}
+      style={{ fill: "url(#icon_bx0bt5i_c)" }}
     />
     <path
       d="M437.5 187.5v125c0 34.52-83.96 62.5-187.5 62.5S62.5 347.02 62.5 312.5v-125h375Z"
-      style={{ fill: "url(#icon_vet2y2n_d)", fillOpacity: ".3" }}
+      style={{ fill: "url(#icon_bx0bt5i_d)", fillOpacity: ".3" }}
     />
     <path
       d="M437.5 62.5v125c0 34.52-83.96 62.5-187.5 62.5S62.5 222.02 62.5 187.5v-125h375Z"
-      style={{ fill: "url(#icon_vet2y2n_e)" }}
+      style={{ fill: "url(#icon_bx0bt5i_e)" }}
     />
     <path
       d="M437.5 62.5v125c0 34.52-83.96 62.5-187.5 62.5S62.5 222.02 62.5 187.5v-125h375Z"
-      style={{ fill: "url(#icon_vet2y2n_f)", fillOpacity: ".4" }}
+      style={{ fill: "url(#icon_bx0bt5i_f)", fillOpacity: ".4" }}
     />
     <path
       d="M250 125C146.45 125 62.5 97.02 62.5 62.5S146.45 0 250 0s187.5 27.98 187.5 62.5S353.55 125 250 125Z"
-      style={{ fill: "url(#icon_vet2y2n_g)" }}
+      style={{ fill: "url(#icon_bx0bt5i_g)" }}
     />
     <rect
       width="200"
@@ -174,7 +174,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
       y="237.5"
       rx="40.62"
       ry="40.62"
-      style={{ fill: "url(#icon_vet2y2n_h)" }}
+      style={{ fill: "url(#icon_bx0bt5i_h)" }}
     />
     <rect
       width="200"
@@ -182,7 +182,7 @@ export const MicrosoftAccessIcon = React.forwardRef<
       y="237.5"
       rx="40.62"
       ry="40.62"
-      style={{ fill: "url(#icon_vet2y2n_i)", fillOpacity: ".5" }}
+      style={{ fill: "url(#icon_bx0bt5i_i)", fillOpacity: ".5" }}
     />
     <path
       d="m44.2 394.63 40.97-114.31h30.53l40.02 114.31h-27.1l-7.89-22.88H78.8l-7.73 22.88H44.21Zm40.5-43.92h29.89l-12.2-39.93c-.43-1.43-.82-2.74-1.2-3.91a74.27 74.27 0 0 1-1.12-4.22h-.64c-.32 1.33-.67 2.63-1.04 3.91-.37 1.27-.8 2.66-1.28 4.15l-12.43 40.01Z"

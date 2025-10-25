@@ -12,26 +12,26 @@ export const CanvaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_3aqsnge_clip0_905_1790)">
+      <g clipPath="url(#icon_79u2aj3_clip0_905_1790)">
         <path
           d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z"
           fill="#7D2AE7"
         />
         <path
           d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z"
-          fill="url(#icon_3aqsnge_paint0_radial_905_1790)"
+          fill="url(#icon_79u2aj3_paint0_radial_905_1790)"
         />
         <path
           d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z"
-          fill="url(#icon_3aqsnge_paint1_radial_905_1790)"
+          fill="url(#icon_79u2aj3_paint1_radial_905_1790)"
         />
         <path
           d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z"
-          fill="url(#icon_3aqsnge_paint2_radial_905_1790)"
+          fill="url(#icon_79u2aj3_paint2_radial_905_1790)"
         />
         <path
           d="M40 80C62.0914 80 80 62.0914 80 40C80 17.9086 62.0914 0 40 0C17.9086 0 0 17.9086 0 40C0 62.0914 17.9086 80 40 80Z"
-          fill="url(#icon_3aqsnge_paint3_radial_905_1790)"
+          fill="url(#icon_79u2aj3_paint3_radial_905_1790)"
         />
         <path
           d="M57.2691 48.2052C56.939 48.2052 56.6485 48.484 56.3462 49.0928C52.9323 56.0153 47.0358 60.9134 40.2125 60.9134C32.3228 60.9134 27.437 53.7913 27.437 43.9522C27.437 27.2855 36.7232 17.6491 44.8796 17.6491C48.691 17.6491 51.0186 20.0443 51.0186 23.8559C51.0186 28.3796 48.4485 30.7748 48.4485 32.3702C48.4485 33.0864 48.8939 33.5201 49.7773 33.5201C53.3264 33.5201 57.4918 29.4419 57.4918 23.6808C57.4918 18.0947 52.63 13.9888 44.4737 13.9888C30.994 13.9888 19.0142 26.4858 19.0142 43.777C19.0142 57.1614 26.6572 66.0061 38.45 66.0061C50.9668 66.0061 58.2043 53.5526 58.2043 49.5105C58.2043 48.6153 57.7466 48.2052 57.2691 48.2052Z"
@@ -40,7 +40,7 @@ export const CanvaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </g>
       <defs>
         <radialGradient
-          id="icon_3aqsnge_paint0_radial_905_1790"
+          id="icon_79u2aj3_paint0_radial_905_1790"
           cx="0"
           cy="0"
           r="1"
@@ -51,7 +51,7 @@ export const CanvaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#6420FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_3aqsnge_paint1_radial_905_1790"
+          id="icon_79u2aj3_paint1_radial_905_1790"
           cx="0"
           cy="0"
           r="1"
@@ -62,7 +62,7 @@ export const CanvaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#00C4CC" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_3aqsnge_paint2_radial_905_1790"
+          id="icon_79u2aj3_paint2_radial_905_1790"
           cx="0"
           cy="0"
           r="1"
@@ -73,7 +73,7 @@ export const CanvaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#6420FF" stopOpacity="0" />
         </radialGradient>
         <radialGradient
-          id="icon_3aqsnge_paint3_radial_905_1790"
+          id="icon_79u2aj3_paint3_radial_905_1790"
           cx="0"
           cy="0"
           r="1"
@@ -84,7 +84,7 @@ export const CanvaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0.0001" stopColor="#00C4CC" />
           <stop offset="1" stopColor="#00C4CC" stopOpacity="0" />
         </radialGradient>
-        <clipPath id="icon_3aqsnge_clip0_905_1790">
+        <clipPath id="icon_79u2aj3_clip0_905_1790">
           <rect width="80" height="80" fill="white" />
         </clipPath>
       </defs>

@@ -40,3 +40,13 @@ export type GetIconType = {
   name: string;
   aliases: string[];
 };
+
+export interface SvgEntry {
+  name: string;
+  aliases: string[];
+  svg: {
+    light: string | null;
+    dark: string | null;
+  };
+}
+

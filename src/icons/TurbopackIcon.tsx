@@ -21,20 +21,20 @@ export const TurbopackIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           clipRule="evenodd"
         />
         <path
-          fill="url(#icon_6t6bm9k_a)"
+          fill="url(#icon_1cxw9u2_a)"
           d="M0 51.064v36.17c0 2.427.677 4.696 1.853 6.627l13.04-13.04V51.064H0Z"
         />
         <path
-          fill="url(#icon_6t6bm9k_b)"
+          fill="url(#icon_1cxw9u2_b)"
           d="m5.946 98.028 12.93-12.93c.09.005.181.008.273.008H47.64V100H12.766c-2.508 0-4.847-.723-6.82-1.972Z"
         />
         <path
-          fill="url(#icon_6t6bm9k_c)"
+          fill="url(#icon_1cxw9u2_c)"
           d="M53.481 100h33.753C94.284 100 100 94.284 100 87.234V12.766C100 5.716 94.284 0 87.234 0h-36.17v14.894H80.85a4.255 4.255 0 0 1 4.255 4.255V80.85a4.255 4.255 0 0 1-4.255 4.255h-27.37V100Z"
         />
         <defs>
           <linearGradient
-            id="icon_6t6bm9k_a"
+            id="icon_1cxw9u2_a"
             x1="54.917"
             x2="5.699"
             y1="7.031"
@@ -45,7 +45,7 @@ export const TurbopackIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <stop offset="1" stopColor="#FF1E56" />
           </linearGradient>
           <linearGradient
-            id="icon_6t6bm9k_b"
+            id="icon_1cxw9u2_b"
             x1="54.917"
             x2="5.699"
             y1="7.031"
@@ -56,7 +56,7 @@ export const TurbopackIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <stop offset="1" stopColor="#FF1E56" />
           </linearGradient>
           <linearGradient
-            id="icon_6t6bm9k_c"
+            id="icon_1cxw9u2_c"
             x1="54.917"
             x2="5.699"
             y1="7.031"
@@ -85,20 +85,20 @@ export const TurbopackIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           clipRule="evenodd"
         />
         <path
-          fill="url(#icon_se8w355_a)"
+          fill="url(#icon_yl1ocee_a)"
           d="M0 51.064v36.17c0 2.427.677 4.696 1.853 6.627l13.04-13.04V51.064H0Z"
         />
         <path
-          fill="url(#icon_se8w355_b)"
+          fill="url(#icon_yl1ocee_b)"
           d="m5.946 98.028 12.93-12.93c.09.005.181.008.273.008H47.64V100H12.766c-2.508 0-4.847-.723-6.82-1.972Z"
         />
         <path
-          fill="url(#icon_se8w355_c)"
+          fill="url(#icon_yl1ocee_c)"
           d="M53.481 100h33.753C94.284 100 100 94.284 100 87.234V12.766C100 5.716 94.284 0 87.234 0h-36.17v14.894H80.85a4.255 4.255 0 0 1 4.255 4.255V80.85a4.255 4.255 0 0 1-4.255 4.255h-27.37V100Z"
         />
         <defs>
           <linearGradient
-            id="icon_se8w355_a"
+            id="icon_yl1ocee_a"
             x1="54.917"
             x2="5.699"
             y1="7.031"
@@ -109,7 +109,7 @@ export const TurbopackIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <stop offset="1" stopColor="#FF1E56" />
           </linearGradient>
           <linearGradient
-            id="icon_se8w355_b"
+            id="icon_yl1ocee_b"
             x1="54.917"
             x2="5.699"
             y1="7.031"
@@ -120,7 +120,7 @@ export const TurbopackIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             <stop offset="1" stopColor="#FF1E56" />
           </linearGradient>
           <linearGradient
-            id="icon_se8w355_c"
+            id="icon_yl1ocee_c"
             x1="54.917"
             x2="5.699"
             y1="7.031"
