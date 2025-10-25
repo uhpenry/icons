@@ -14,13 +14,13 @@ export const ReplicateIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_4x27byd_clip0_1_3)">
+        <g clipPath="url(#icon_f0xfqdd_clip0_1_3)">
           <path d="M726 310.438V392.476H438.068V726H346.302V310.438H726Z" />
           <path d="M726 155.219V237.402H264.845V726H173.078V155.219H726Z" />
           <path d="M726 0V82.1832H91.7664V726H0V0H726Z" />
         </g>
         <defs>
-          <clipPath id="icon_4x27byd_clip0_1_3">
+          <clipPath id="icon_f0xfqdd_clip0_1_3">
             <rect width="726" height="726" />
           </clipPath>
         </defs>
@@ -34,13 +34,13 @@ export const ReplicateIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         ref={ref}
         {...props}
       >
-        <g clipPath="url(#icon_ila0ze6_clip0_1_3)">
+        <g clipPath="url(#icon_ej91jrx_clip0_1_3)">
           <path d="M726 310.438V392.476H438.068V726H346.302V310.438H726Z" />
           <path d="M726 155.219V237.402H264.845V726H173.078V155.219H726Z" />
           <path d="M726 0V82.1832H91.7664V726H0V0H726Z" />
         </g>
         <defs>
-          <clipPath id="icon_ila0ze6_clip0_1_3">
+          <clipPath id="icon_ej91jrx_clip0_1_3">
             <rect width="726" height="726" />
           </clipPath>
         </defs>

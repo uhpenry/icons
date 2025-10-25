@@ -13,7 +13,7 @@ export const JetbrainsSpaceIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_46032wa_a"
+          id="icon_xzgyu3o_a"
           x1="45.082%"
           x2="55.522%"
           y1="-1.343%"
@@ -25,7 +25,7 @@ export const JetbrainsSpaceIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#07C3F2" />
         </linearGradient>
         <linearGradient
-          id="icon_46032wa_b"
+          id="icon_xzgyu3o_b"
           x1="-2.942%"
           x2="100.445%"
           y1="38.992%"
@@ -35,7 +35,7 @@ export const JetbrainsSpaceIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#087CFA" />
         </linearGradient>
         <linearGradient
-          id="icon_46032wa_c"
+          id="icon_xzgyu3o_c"
           x1="-3.308%"
           x2="111.745%"
           y1="71.807%"
@@ -49,15 +49,15 @@ export const JetbrainsSpaceIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_46032wa_a)"
+        fill="url(#icon_xzgyu3o_a)"
         d="M46.36 255.991c91.075-7.978 170.982-63.92 209.64-146.768C208.12 40.799 129.873.033 46.36 0c-7.44 0-14.915.33-22.424.99C-14.676 83.893-6.128 181.099 46.36 255.99Z"
       />
       <path
-        fill="url(#icon_46032wa_b)"
+        fill="url(#icon_xzgyu3o_b)"
         d="M24.209 1.024a301.387 301.387 0 0 1 134.685 108.199H256C208.263 40.76 130.062-.03 46.6 0c-7.441 0-14.905.341-22.391 1.024Z"
       />
       <path
-        fill="url(#icon_46032wa_c)"
+        fill="url(#icon_xzgyu3o_c)"
         d="M158.894 109.223C147.187 186.6 46.258 255.99 46.258 255.99c91.781-8.67 172.23-63.622 209.742-146.768h-97.106Z"
       />
     </svg>

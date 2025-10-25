@@ -13,11 +13,11 @@ export const PitchIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <style>
         {
-          ".st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#icon_4onrv8g_SVGID_1_);}"
+          ".st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#icon_nu8jgh5_SVGID_1_);}"
         }
       </style>
       <linearGradient
-        id="icon_4onrv8g_SVGID_1_"
+        id="icon_nu8jgh5_SVGID_1_"
         gradientUnits="userSpaceOnUse"
         x1="63.1868"
         y1="171.8843"

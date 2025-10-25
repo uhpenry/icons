@@ -13,7 +13,7 @@ export const BNBIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_w8o18gz_bnb-c"
+          id="icon_ldb56m4_bnb-c"
           x1="50%"
           x2="50%"
           y1="0%"
@@ -22,9 +22,9 @@ export const BNBIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="0%" stopColor="#FFF" stopOpacity=".5" />
           <stop offset="100%" stopOpacity=".5" />
         </linearGradient>
-        <circle id="icon_w8o18gz_bnb-b" cx="16" cy="15" r="15" />
+        <circle id="icon_ldb56m4_bnb-b" cx="16" cy="15" r="15" />
         <filter
-          id="icon_w8o18gz_bnb-a"
+          id="icon_ldb56m4_bnb-a"
           width="111.7%"
           height="111.7%"
           x="-5.8%"
@@ -49,11 +49,11 @@ export const BNBIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </filter>
         <path
-          id="icon_w8o18gz_bnb-e"
+          id="icon_ldb56m4_bnb-e"
           d="M12.1158217,13.4042 L15.99981,9.5203 L19.8857983,13.4062 L22.1457916,11.1462 L15.99981,5 L9.85592843,11.1442 L12.1158217,13.4042 Z M6,14.99969 L8.26006322,12.73962 L10.5199764,14.99955 L8.25993322,17.2596 L6,14.99969 Z M12.1158217,16.5958 L15.99981,20.4797 L19.8856983,16.5939 L22.1468916,18.8527 L22.1457916,18.8539 L15.99981,25 L9.85572843,18.856 L9.85252844,18.8528 L12.1158217,16.5958 Z M21.4800236,15.00093 L23.7400868,12.74087 L26,15.00079 L23.7399468,17.26086 L21.4800236,15.00093 Z M18.2921031,14.9988 L18.2942031,14.9999 L18.2931031,15.0012 L15.99981,17.2945 L13.7086169,15.0032 L13.7054169,14.9999 L13.7086169,14.9968 L14.1102157,14.5951 L14.3049151,14.4003 L14.3050151,14.4003 L15.99981,12.7055 L18.2931031,14.9988 L18.2921031,14.9988 Z"
         />
         <filter
-          id="icon_w8o18gz_bnb-d"
+          id="icon_ldb56m4_bnb-d"
           width="117.5%"
           height="117.5%"
           x="-8.8%"
@@ -76,28 +76,28 @@ export const BNBIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         <g fillRule="nonzero">
           <use
             fill="#000"
-            filter="url(#icon_w8o18gz_bnb-a)"
-            xlinkHref="#icon_w8o18gz_bnb-b"
+            filter="url(#icon_ldb56m4_bnb-a)"
+            xlinkHref="#icon_ldb56m4_bnb-b"
           />
           <use
             fill="#F3BA2F"
             fillRule="evenodd"
-            xlinkHref="#icon_w8o18gz_bnb-b"
+            xlinkHref="#icon_ldb56m4_bnb-b"
           />
           <use
-            fill="url(#icon_w8o18gz_bnb-c)"
+            fill="url(#icon_ldb56m4_bnb-c)"
             fillRule="evenodd"
-            xlinkHref="#icon_w8o18gz_bnb-b"
+            xlinkHref="#icon_ldb56m4_bnb-b"
           />
           <circle cx="16" cy="15" r="14.5" stroke="#000" strokeOpacity=".097" />
         </g>
         <g fillRule="nonzero">
           <use
             fill="#000"
-            filter="url(#icon_w8o18gz_bnb-d)"
-            xlinkHref="#icon_w8o18gz_bnb-e"
+            filter="url(#icon_ldb56m4_bnb-d)"
+            xlinkHref="#icon_ldb56m4_bnb-e"
           />
-          <use fill="#FFF" fillRule="evenodd" xlinkHref="#icon_w8o18gz_bnb-e" />
+          <use fill="#FFF" fillRule="evenodd" xlinkHref="#icon_ldb56m4_bnb-e" />
         </g>
       </g>
     </svg>

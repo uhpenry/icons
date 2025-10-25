@@ -17,7 +17,7 @@ export const SpinnakerIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="6%"
           x2="34.6%"
           y2="106.1%"
-          id="icon_lhie7tq_a"
+          id="icon_xlvu67l_a"
         >
           <stop stopColor="#2B3990" offset="0%" />
           <stop stopColor="#1E62A7" offset="16%" />
@@ -32,7 +32,7 @@ export const SpinnakerIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="78954%"
           x2="-19806%"
           y2="78954%"
-          id="icon_lhie7tq_b"
+          id="icon_xlvu67l_b"
         >
           <stop stopColor="#2B3990" offset="0%" />
           <stop stopColor="#1E62A7" offset="16%" />
@@ -45,11 +45,11 @@ export const SpinnakerIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="M22 218.3c98.8 9.8 178.2-48.6 198-73.7C239.8 119.6 209.8 0 209.8 0 177.2 80 118 201.1 21.9 218.4Z"
-        fill="url(#icon_lhie7tq_a)"
+        fill="url(#icon_xlvu67l_a)"
       />
       <path
         d="M67.7 186.4C126 188.6 170.4 152 181 136.7c10.7-15.2-5.7-83.7-5.7-83.7-16.2 47.5-61.3 116.6-107.7 133.4Z"
-        fill="url(#icon_lhie7tq_b)"
+        fill="url(#icon_xlvu67l_b)"
       />
       <path
         d="M3.8 270a21 21 0 0 0 6.3 4.4c2.4 1.1 5 1.7 7.6 1.7a12 12 0 0 0 7.7-2.2 7.1 7.1 0 0 0 2.8-5.9 7 7 0 0 0-2.4-5.5c-.8-.6-1.7-1.2-2.7-1.6l-3.2-1.6-7.2-3c-1.3-.6-2.5-1.2-3.6-1.9-1.2-.7-2.3-1.6-3.3-2.6s-1.8-2.2-2.4-3.5A12.4 12.4 0 0 1 7 234c1.4-1.2 3.1-2.1 5-2.7a20.4 20.4 0 0 1 21.1 5.1l-3.5 4a15.4 15.4 0 0 0-11.4-4.7 11 11 0 0 0-6.8 2 6.3 6.3 0 0 0-2.6 5.4c0 1 .3 2 .8 3 .5.8 1.2 1.6 2 2.1a49.6 49.6 0 0 0 5.7 3l7 3 4.2 2.1c1.2.8 2.3 1.7 3.3 2.8a11.8 11.8 0 0 1 3 8.4 12.9 12.9 0 0 1-4.7 9.9 16.3 16.3 0 0 1-5.3 3A24.4 24.4 0 0 1 0 274.3l3.8-4.4Z"

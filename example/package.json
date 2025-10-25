@@ -11,9 +11,9 @@
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.16",
     "@radix-ui/react-slot": "^1.2.3",
-    "@uhpenry/icons": "link:../../../AppData/Local/pnpm/global/5/node_modules/@uhpenry/icons",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "icons": "link:../../../AppData/Local/pnpm/global/5/node_modules/@uhpenry/icons",
     "lucide-react": "^0.545.0",
     "next": "15.5.5",
     "next-themes": "^0.4.6",

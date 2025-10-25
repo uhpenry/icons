@@ -13,7 +13,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_vy2ngn2_a"
+          id="icon_0lf5r3z_a"
           x1=".025"
           y1=".079"
           x2="1"
@@ -25,8 +25,8 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" style={{ stopColor: "#fcb200", stopOpacity: "1" }} />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_vy2ngn2_a"
-          id="icon_vy2ngn2_b"
+          xlinkHref="#icon_0lf5r3z_a"
+          id="icon_0lf5r3z_b"
           x1="19.063"
           y1="0"
           x2="19"
@@ -34,7 +34,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
           gradientTransform="matrix(1.40188 0 0 1.34821 21.364 -32.96)"
         />
-        <clipPath clipPathUnits="userSpaceOnUse" id="icon_vy2ngn2_c">
+        <clipPath clipPathUnits="userSpaceOnUse" id="icon_0lf5r3z_c">
           <path
             d="M14.813 26.75 19 15.945l4.187 10.805L19 43.25Z"
             style={{
@@ -50,7 +50,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           />
         </clipPath>
         <filter
-          id="icon_vy2ngn2_d"
+          id="icon_0lf5r3z_d"
           x="-.096"
           width="1.192"
           y="-.074"
@@ -82,7 +82,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           d="M43.093-32.96h9.814l21.729 53.928h-9.112L48-20.221 30.476 20.968h-9.112z"
           style={{
             clipRule: "evenodd",
-            fill: "url(#icon_vy2ngn2_b)",
+            fill: "url(#icon_0lf5r3z_b)",
             fillOpacity: "1",
             fillRule: "evenodd",
             stroke: "url(#linearGradient10962)",
@@ -97,7 +97,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
         <path
           transform="matrix(1.3912 0 0 1.33794 5.567 6.716)"
-          clipPath="url(#icon_vy2ngn2_c)"
+          clipPath="url(#icon_0lf5r3z_c)"
           style={{
             clipRule: "evenodd",
             fill: "#fff",
@@ -112,7 +112,7 @@ export const AlacrittyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             strokeDashoffset: "0",
             strokeOpacity: "1",
             paintOrder: "markers fill stroke",
-            filter: "url(#icon_vy2ngn2_d)",
+            filter: "url(#icon_0lf5r3z_d)",
           }}
           d="M19 32.395 31.5 0 6.5.133Z"
         />

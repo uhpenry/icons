@@ -13,7 +13,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <path
-          id="icon_2w92vze_s"
+          id="icon_z5rgmvq_s"
           fill="#2e3436"
           fillRule="evenodd"
           stroke="#000"
@@ -24,7 +24,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           style={{ marker: "none" }}
         />
         <path
-          id="icon_2w92vze_u"
+          id="icon_z5rgmvq_u"
           fill="#fff"
           fillRule="evenodd"
           d="M23.157747 20.953165a1.767767 1.767767 0 1 1-3.535534 0 1.767767 1.767767 0 1 1 3.535534 0z"
@@ -32,7 +32,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           style={{ marker: "none" }}
         />
         <path
-          id="icon_2w92vze_z"
+          id="icon_z5rgmvq_z"
           fill="#fff"
           d="M8.8749989 37.75a1.2499999 1.2499999 0 1 1-2.4999997 0 1.2499999 1.2499999 0 1 1 2.4999997 0z"
           opacity=".52777782"
@@ -41,25 +41,25 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </defs>
       <defs>
-        <linearGradient id="icon_2w92vze_k">
+        <linearGradient id="icon_z5rgmvq_k">
           <stop offset="0" stopColor="#5b676b" />
           <stop offset="1" stopColor="#141718" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_f">
+        <linearGradient id="icon_z5rgmvq_f">
           <stop offset="0" />
           <stop offset="1" stopOpacity="0" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_e">
+        <linearGradient id="icon_z5rgmvq_e">
           <stop offset="0" stopColor="#fff" />
           <stop offset="1" stopColor="#fff" stopOpacity="0" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_a">
+        <linearGradient id="icon_z5rgmvq_a">
           <stop offset="0" stopColor="#fff" />
           <stop offset="1" stopColor="#fff" stopOpacity="0" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_2w92vze_a"
-          id="icon_2w92vze_A"
+          xlinkHref="#icon_z5rgmvq_a"
+          id="icon_z5rgmvq_A"
           x1="13.236155"
           x2="7.7521091"
           y1="37.752247"
@@ -67,19 +67,19 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientTransform="rotate(27.62097 -26.24365974 -49.44033909) scale(.852298)"
           gradientUnits="userSpaceOnUse"
         />
-        <linearGradient id="icon_2w92vze_h">
+        <linearGradient id="icon_z5rgmvq_h">
           <stop offset="0" stopColor="#696969" />
           <stop offset="1" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_b">
+        <linearGradient id="icon_z5rgmvq_b">
           <stop offset="0" stopColor="#bdbdbd" />
           <stop offset=".33333334" stopColor="#e2e2e2" />
           <stop offset=".66666669" stopColor="#a3a3a3" />
           <stop offset="1" stopColor="#ddd" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_2w92vze_b"
-          id="icon_2w92vze_x"
+          xlinkHref="#icon_z5rgmvq_b"
+          id="icon_z5rgmvq_x"
           x1="19.394735"
           x2="23.109331"
           y1="30.001331"
@@ -87,15 +87,15 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientTransform="translate(-46.40695 -1.802856)"
           gradientUnits="userSpaceOnUse"
         />
-        <linearGradient id="icon_2w92vze_c">
+        <linearGradient id="icon_z5rgmvq_c">
           <stop offset="0" stopColor="#6e3d09" />
           <stop offset=".24242425" stopColor="#ea8113" />
           <stop offset=".62121212" stopColor="#5c3307" />
           <stop offset="1" stopColor="#e07c12" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_2w92vze_c"
-          id="icon_2w92vze_w"
+          xlinkHref="#icon_z5rgmvq_c"
+          id="icon_z5rgmvq_w"
           x1="37.017639"
           x2="27.753893"
           y1="19.239889"
@@ -103,29 +103,29 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientTransform="translate(-49.30496 1.877723)"
           gradientUnits="userSpaceOnUse"
         />
-        <linearGradient id="icon_2w92vze_l">
+        <linearGradient id="icon_z5rgmvq_l">
           <stop offset="0" stopColor="#857c63" />
           <stop offset="1" stopColor="#221f19" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_j">
+        <linearGradient id="icon_z5rgmvq_j">
           <stop offset="0" />
           <stop offset="1" stopOpacity="0" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_g">
+        <linearGradient id="icon_z5rgmvq_g">
           <stop offset="0" />
           <stop offset="1" stopOpacity="0" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_i">
+        <linearGradient id="icon_z5rgmvq_i">
           <stop offset="0" stopColor="#fff" />
           <stop offset="1" stopColor="#b9b9b0" />
         </linearGradient>
-        <linearGradient id="icon_2w92vze_d">
+        <linearGradient id="icon_z5rgmvq_d">
           <stop offset="0" stopColor="#fff" />
           <stop offset="1" stopColor="#fff" stopOpacity="0" />
         </linearGradient>
         <linearGradient
-          xlinkHref="#icon_2w92vze_d"
-          id="icon_2w92vze_t"
+          xlinkHref="#icon_z5rgmvq_d"
+          id="icon_z5rgmvq_t"
           x1="6.3051529"
           x2="5.9846287"
           y1="23.362427"
@@ -133,8 +133,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <linearGradient
-          xlinkHref="#icon_2w92vze_e"
-          id="icon_2w92vze_p"
+          xlinkHref="#icon_z5rgmvq_e"
+          id="icon_z5rgmvq_p"
           x1="14.96875"
           x2="39.524544"
           y1="19.110678"
@@ -142,8 +142,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <linearGradient
-          xlinkHref="#icon_2w92vze_f"
-          id="icon_2w92vze_B"
+          xlinkHref="#icon_z5rgmvq_f"
+          id="icon_z5rgmvq_B"
           x1="26.162951"
           x2="24.328892"
           y1="30.543303"
@@ -151,8 +151,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <linearGradient
-          xlinkHref="#icon_2w92vze_g"
-          id="icon_2w92vze_o"
+          xlinkHref="#icon_z5rgmvq_g"
+          id="icon_z5rgmvq_o"
           x1="32.350136"
           x2="21.213203"
           y1="28.083355"
@@ -161,8 +161,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <radialGradient
-          xlinkHref="#icon_2w92vze_h"
-          id="icon_2w92vze_y"
+          xlinkHref="#icon_z5rgmvq_h"
+          id="icon_z5rgmvq_y"
           cx="15.415101"
           cy="35.356506"
           r="7.5791559"
@@ -172,8 +172,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <radialGradient
-          xlinkHref="#icon_2w92vze_i"
-          id="icon_2w92vze_v"
+          xlinkHref="#icon_z5rgmvq_i"
+          id="icon_z5rgmvq_v"
           cx="69.473244"
           cy="19.597878"
           r="3.5153139"
@@ -183,8 +183,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <radialGradient
-          xlinkHref="#icon_2w92vze_j"
-          id="icon_2w92vze_m"
+          xlinkHref="#icon_z5rgmvq_j"
+          id="icon_z5rgmvq_m"
           cx="23"
           cy="33.9375"
           r="18.25"
@@ -194,8 +194,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <radialGradient
-          xlinkHref="#icon_2w92vze_k"
-          id="icon_2w92vze_r"
+          xlinkHref="#icon_z5rgmvq_k"
+          id="icon_z5rgmvq_r"
           cx="6.0242186"
           cy="25.271027"
           r="4.8310289"
@@ -205,8 +205,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <radialGradient
-          xlinkHref="#icon_2w92vze_l"
-          id="icon_2w92vze_n"
+          xlinkHref="#icon_z5rgmvq_l"
+          id="icon_z5rgmvq_n"
           cx="18.557627"
           cy="22.300018"
           r="19.2292"
@@ -216,8 +216,8 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           gradientUnits="userSpaceOnUse"
         />
         <radialGradient
-          xlinkHref="#icon_2w92vze_i"
-          id="icon_2w92vze_q"
+          xlinkHref="#icon_z5rgmvq_i"
+          id="icon_z5rgmvq_q"
           cx="69.473244"
           cy="19.597878"
           r="3.5153139"
@@ -229,7 +229,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <g color="#000">
         <path
-          fill="url(#icon_2w92vze_m)"
+          fill="url(#icon_z5rgmvq_m)"
           fillRule="evenodd"
           d="M41.25 33.9375a18.25 5.1875 0 1 1-36.5 0 18.25 5.1875 0 1 1 36.5 0z"
           overflow="visible"
@@ -237,7 +237,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="matrix(1 0 0 1.53012 .125 -19.99096)"
         />
         <path
-          fill="url(#icon_2w92vze_n)"
+          fill="url(#icon_z5rgmvq_n)"
           fillRule="evenodd"
           stroke="#2e3436"
           strokeMiterlimit="10"
@@ -247,7 +247,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           style={{ marker: "none" }}
         />
         <path
-          fill="url(#icon_2w92vze_o)"
+          fill="url(#icon_z5rgmvq_o)"
           fillRule="evenodd"
           d="M15.73779 30.066049c6.7389 1.347837 10.170691.098093 12.179175-1.452776-.53033-.68501-1.43631-1.436311-1.43631-1.436311s2.353317.653942 3.18198 1.723573c.82629 1.066568.306808 1.723707.090561 3.08837-.481411-1.198599-1.379981-1.648092-1.501634-2.124332-1.806268 2.496927-6.306442 2.3932-12.513772.201476z"
           overflow="visible"
@@ -255,7 +255,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
         <path
           fill="none"
-          stroke="url(#icon_2w92vze_p)"
+          stroke="url(#icon_z5rgmvq_p)"
           strokeMiterlimit="10"
           strokeWidth=".9999997"
           d="M36.96875 11.84375c-.561978.926895-1.406492 2.033166-2.6875 3.09375C31.649332 17.116542 27.230687 19.099847 20 19.28125c-4.224373.105049-6.952741-1.934149-8.625-3.75L11.25 20c.136107.418802.415455 1.390498-.0625 2.71875-.514314 1.429296-2.154514 2.891363-4.96875 4 .2503304.522033.4954845 1.04362 1.25 1.78125 1.0279503 1.004945 2.4570333 2.088049 4.15625 3.0625 3.398433 1.948902 7.801583 3.493212 11.90625 3.5625 4.104667.069288 7.857126-1.23455 10.4375-5 2.378744-3.471218 3.682473-9.347943 3-18.28125z"
@@ -264,7 +264,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           style={{ marker: "none" }}
         />
         <path
-          fill="url(#icon_2w92vze_q)"
+          fill="url(#icon_z5rgmvq_q)"
           fillRule="evenodd"
           stroke="#888a85"
           strokeMiterlimit="10"
@@ -275,7 +275,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="translate(-75.12661 -6.507784) scale(1.277778)"
         />
         <path
-          fill="url(#icon_2w92vze_r)"
+          fill="url(#icon_z5rgmvq_r)"
           fillRule="evenodd"
           stroke="#000"
           strokeMiterlimit="10"
@@ -286,7 +286,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="rotate(-35.80785 3.36287611 26.34483917)"
         />
         <use
-          xlinkHref="#icon_2w92vze_s"
+          xlinkHref="#icon_z5rgmvq_s"
           fillRule="evenodd"
           strokeMiterlimit="10"
           strokeWidth="1.17391276"
@@ -296,7 +296,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
         <path
           fill="none"
-          stroke="url(#icon_2w92vze_t)"
+          stroke="url(#icon_z5rgmvq_t)"
           strokeMiterlimit="10"
           strokeWidth="1.00000012"
           d="M6.09375 22.15625c-.7982492 0-1.5531304.446171-2.1875 1.34375-.6343696.897579-1.09375 2.234204-1.09375 3.71875s.4593804 2.821171 1.09375 3.71875c.6343696.897579 1.3892511 1.34375 2.1875 1.34375.7982492 0 1.5772839-.476389 2.21875-1.375.6414661-.898611 1.09375-2.206186 1.09375-3.6875 0-1.481314-.4522838-2.788889-1.09375-3.6875-.6414662-.898611-1.4205011-1.375-2.21875-1.375z"
@@ -313,14 +313,14 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           style={{ marker: "none" }}
         />
         <use
-          xlinkHref="#icon_2w92vze_u"
+          xlinkHref="#icon_z5rgmvq_u"
           fillRule="evenodd"
           overflow="visible"
           style={{ marker: "none" }}
           transform="translate(-2.556414 5.029841) scale(.766666)"
         />
         <path
-          fill="url(#icon_2w92vze_v)"
+          fill="url(#icon_z5rgmvq_v)"
           fillRule="evenodd"
           stroke="#888a85"
           strokeMiterlimit="10"
@@ -331,7 +331,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="matrix(1.5 0 0 1.5 -82.16821 -10.91852)"
         />
         <use
-          xlinkHref="#icon_2w92vze_s"
+          xlinkHref="#icon_z5rgmvq_s"
           fillRule="evenodd"
           strokeMiterlimit="10"
           strokeWidth=".9999997"
@@ -340,14 +340,14 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="translate(1.414216 .707108)"
         />
         <use
-          xlinkHref="#icon_2w92vze_u"
+          xlinkHref="#icon_z5rgmvq_u"
           fillRule="evenodd"
           overflow="visible"
           style={{ marker: "none" }}
           transform="matrix(.9 0 0 .9 3.022883 2.625648)"
         />
         <path
-          fill="url(#icon_2w92vze_w)"
+          fill="url(#icon_z5rgmvq_w)"
           stroke="#673907"
           strokeLinecap="round"
           strokeWidth="2.46045303"
@@ -357,7 +357,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="matrix(-.114852 -.389864 .389864 -.114852 24.71507 29.68942)"
         />
         <path
-          fill="url(#icon_2w92vze_x)"
+          fill="url(#icon_z5rgmvq_x)"
           stroke="#888a85"
           strokeLinecap="round"
           strokeWidth="2.46045303"
@@ -378,27 +378,27 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="matrix(-.114852 -.389864 .389864 -.114852 24.71507 29.68942)"
         />
         <path
-          fill="url(#icon_2w92vze_y)"
+          fill="url(#icon_z5rgmvq_y)"
           d="M-45.341208 42.769835c10.443958 0 18.370039 1.24373 19.870605-6.354738 1.209249-6.123314-7.210534-9.057368-11.38287-3.590861-4.019277 5.265971-8.487735 9.945599-8.487735 9.945599z"
           overflow="visible"
           style={{ marker: "none" }}
           transform="matrix(-.114852 -.389864 .389864 -.114852 24.71507 29.68942)"
         />
         <use
-          xlinkHref="#icon_2w92vze_z"
+          xlinkHref="#icon_z5rgmvq_z"
           opacity=".52777782"
           overflow="visible"
           style={{ marker: "none" }}
           transform="rotate(-106.414712 26.2449128 20.83923957) scale(.84126959)"
         />
         <use
-          xlinkHref="#icon_2w92vze_z"
+          xlinkHref="#icon_z5rgmvq_z"
           overflow="visible"
           style={{ marker: "none" }}
           transform="rotate(-106.414712 26.04110726 15.7329477) scale(.56764745)"
         />
         <path
-          fill="url(#icon_2w92vze_A)"
+          fill="url(#icon_z5rgmvq_A)"
           d="M-38.543723 40.909242s3.72152.0943 6.116538-1.411995c.847351-.532923 1.515774.649985.493819 1.087367-2.207394.944732-6.610357.324628-6.610357.324628z"
           opacity=".42777776"
           overflow="visible"
@@ -406,7 +406,7 @@ export const GimpIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           transform="matrix(-.114852 -.389864 .389864 -.114852 24.71507 29.68942)"
         />
         <path
-          fill="url(#icon_2w92vze_B)"
+          fill="url(#icon_z5rgmvq_B)"
           fillRule="evenodd"
           d="M23.003067 31.736544c1.497372.143092 2.849629-.272213 3.411893-.474047.098225-.555386.536552-1.621257 2.046088-1.691468l-.53033-.928077s-1.966641 1.347921-4.065864 1.745669l-.861787 1.347923z"
           overflow="visible"

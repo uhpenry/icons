@@ -17,7 +17,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="111.4%"
           x2="58.3%"
           y2="64.6%"
-          id="icon_xct0j1h_a"
+          id="icon_94zexzj_a"
         >
           <stop stopColor="#FB7655" offset="0%" />
           <stop stopColor="#FB7655" offset="0%" />
@@ -30,7 +30,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="60.9%"
           x2="1.7%"
           y2="19.3%"
-          id="icon_xct0j1h_b"
+          id="icon_94zexzj_b"
         >
           <stop stopColor="#871101" offset="0%" />
           <stop stopColor="#871101" offset="0%" />
@@ -42,7 +42,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="219.3%"
           x2="39%"
           y2="7.8%"
-          id="icon_xct0j1h_c"
+          id="icon_94zexzj_c"
         >
           <stop stopColor="#871101" offset="0%" />
           <stop stopColor="#871101" offset="0%" />
@@ -54,7 +54,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="7.2%"
           x2="66.5%"
           y2="79.1%"
-          id="icon_xct0j1h_d"
+          id="icon_94zexzj_d"
         >
           <stop stopColor="#FFF" offset="0%" />
           <stop stopColor="#FFF" offset="0%" />
@@ -68,7 +68,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="16.3%"
           x2="49.9%"
           y2="83%"
-          id="icon_xct0j1h_e"
+          id="icon_94zexzj_e"
         >
           <stop stopColor="#FFF" offset="0%" />
           <stop stopColor="#FFF" offset="0%" />
@@ -82,7 +82,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="15.6%"
           x2="49.5%"
           y2="92.5%"
-          id="icon_xct0j1h_f"
+          id="icon_94zexzj_f"
         >
           <stop stopColor="#FFF" offset="0%" />
           <stop stopColor="#FFF" offset="0%" />
@@ -96,7 +96,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="58.3%"
           x2="85.8%"
           y2="-46.7%"
-          id="icon_xct0j1h_g"
+          id="icon_94zexzj_g"
         >
           <stop stopColor="#FFF" offset="0%" />
           <stop stopColor="#FFF" offset="0%" />
@@ -109,7 +109,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="21.1%"
           x2="50.7%"
           y2="79.1%"
-          id="icon_xct0j1h_h"
+          id="icon_94zexzj_h"
         >
           <stop stopColor="#FFF" offset="0%" />
           <stop stopColor="#FFF" offset="0%" />
@@ -122,7 +122,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="122.3%"
           x2="104.2%"
           y2="-6.3%"
-          id="icon_xct0j1h_i"
+          id="icon_94zexzj_i"
         >
           <stop stopColor="#BD0012" offset="0%" />
           <stop stopColor="#BD0012" offset="0%" />
@@ -140,7 +140,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="65.2%"
           x2="12%"
           y2="50.1%"
-          id="icon_xct0j1h_j"
+          id="icon_94zexzj_j"
         >
           <stop stopColor="#8C0C01" offset="0%" />
           <stop stopColor="#8C0C01" offset="0%" />
@@ -153,7 +153,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="62.8%"
           x2="23.1%"
           y2="17.9%"
-          id="icon_xct0j1h_k"
+          id="icon_94zexzj_k"
         >
           <stop stopColor="#7E110B" offset="0%" />
           <stop stopColor="#7E110B" offset="0%" />
@@ -165,7 +165,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="74.1%"
           x2="59.8%"
           y2="39.7%"
-          id="icon_xct0j1h_l"
+          id="icon_94zexzj_l"
         >
           <stop stopColor="#79130D" offset="0%" />
           <stop stopColor="#79130D" offset="0%" />
@@ -177,7 +177,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="101.7%"
           x2="3.1%"
           y2="12%"
-          id="icon_xct0j1h_o"
+          id="icon_94zexzj_o"
         >
           <stop stopColor="#8B2114" offset="0%" />
           <stop stopColor="#8B2114" offset="0%" />
@@ -190,7 +190,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           y1="35.6%"
           x2="92.5%"
           y2="100.7%"
-          id="icon_xct0j1h_p"
+          id="icon_94zexzj_p"
         >
           <stop stopColor="#B31000" offset="0%" />
           <stop stopColor="#B31000" offset="0%" />
@@ -204,7 +204,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           fx="32%"
           fy="40.2%"
           r="69.6%"
-          id="icon_xct0j1h_m"
+          id="icon_94zexzj_m"
         >
           <stop stopColor="#A80D00" offset="0%" />
           <stop stopColor="#A80D00" offset="0%" />
@@ -217,7 +217,7 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           fx="13.5%"
           fy="40.9%"
           r="88.4%"
-          id="icon_xct0j1h_n"
+          id="icon_94zexzj_n"
         >
           <stop stopColor="#A30C00" offset="0%" />
           <stop stopColor="#A30C00" offset="0%" />
@@ -227,32 +227,32 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </defs>
       <path
         d="M197.5 167.8 51.9 254.2l188.5-12.8 14.5-190-57.4 116.4Z"
-        fill="url(#icon_xct0j1h_a)"
+        fill="url(#icon_94zexzj_a)"
       />
       <path
         d="m240.7 241.3-16.2-111.8-44.1 58.2 60.3 53.6Z"
-        fill="url(#icon_xct0j1h_b)"
+        fill="url(#icon_94zexzj_b)"
       />
       <path
         d="m240.9 241.3-118.7-9.4-69.6 22 188.3-12.6Z"
-        fill="url(#icon_xct0j1h_c)"
+        fill="url(#icon_94zexzj_c)"
       />
       <path
         d="m52.7 254 29.7-97.1-65.2 13.9L52.7 254Z"
-        fill="url(#icon_xct0j1h_d)"
+        fill="url(#icon_94zexzj_d)"
       />
       <path
         d="M180.4 188 153 81.3l-78 73.2L180.3 188Z"
-        fill="url(#icon_xct0j1h_e)"
+        fill="url(#icon_94zexzj_e)"
       />
       <path
         d="m248.7 82.7-73.8-60.2-20.5 66.4 94.3-6.2Z"
-        fill="url(#icon_xct0j1h_f)"
+        fill="url(#icon_94zexzj_f)"
       />
-      <path d="m214.2 1-43.4 24L143.4.7l70.8.3Z" fill="url(#icon_xct0j1h_g)" />
+      <path d="m214.2 1-43.4 24L143.4.7l70.8.3Z" fill="url(#icon_94zexzj_g)" />
       <path
         d="m0 203.4 18.2-33.2-14.7-39.5L0 203.4Z"
-        fill="url(#icon_xct0j1h_h)"
+        fill="url(#icon_94zexzj_h)"
       />
       <path
         d="m2.5 129.5 14.8 42L81.6 157 155 88.8 175.7 23 143 0 87.6 20.8C70.1 37 36.3 69 35 69.8c-1.2.6-22.4 40.6-32.5 59.7Z"
@@ -260,19 +260,19 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M54.4 54c37.9-37.4 86.7-59.6 105.4-40.7 18.8 18.9-1 64.8-39 102.3-37.8 37.5-86 61-104.7 42-18.8-18.8.5-66 38.3-103.5Z"
-        fill="url(#icon_xct0j1h_i)"
+        fill="url(#icon_94zexzj_i)"
       />
       <path
         d="m52.7 254 29.5-97.5 97.6 31.4c-35.3 33.1-74.6 61-127 66Z"
-        fill="url(#icon_xct0j1h_j)"
+        fill="url(#icon_94zexzj_j)"
       />
       <path
         d="m155 88.6 25.2 99.3c29.5-31 56-64.3 68.9-105.6l-94 6.3Z"
-        fill="url(#icon_xct0j1h_k)"
+        fill="url(#icon_94zexzj_k)"
       />
       <path
         d="M248.8 82.8c10-30.2 12.4-73.7-35-81.8l-38.7 21.5 73.7 60.3Z"
-        fill="url(#icon_xct0j1h_l)"
+        fill="url(#icon_94zexzj_l)"
       />
       <path
         d="M0 203c1.4 50 37.4 50.7 52.8 51.1l-35.5-82.9L0 203Z"
@@ -280,19 +280,19 @@ export const RubyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="m155.2 88.8 69.3 42.4c1.4.8 19.7-30.8 23.8-48.6l-93 6.2Z"
-        fill="url(#icon_xct0j1h_m)"
+        fill="url(#icon_94zexzj_m)"
       />
       <path
         d="m82.1 156.5 39.3 75.9c23.3-12.7 41.5-28 58.1-44.5l-97.4-31.4Z"
-        fill="url(#icon_xct0j1h_n)"
+        fill="url(#icon_94zexzj_n)"
       />
       <path
         d="m17.2 171.3-5.6 66.4c10.5 14.3 25 15.6 40.1 14.5-11-27.4-32.9-82-34.5-80.9Z"
-        fill="url(#icon_xct0j1h_o)"
+        fill="url(#icon_94zexzj_o)"
       />
       <path
         d="m174.8 22.7 78.1 11C248.8 16 236 4.5 214.1 1l-39.3 21.7Z"
-        fill="url(#icon_xct0j1h_p)"
+        fill="url(#icon_94zexzj_p)"
       />
     </svg>
   ),

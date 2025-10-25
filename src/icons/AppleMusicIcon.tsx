@@ -12,7 +12,7 @@ export const AppleMusicIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <linearGradient
-        id="icon_425lv9z_a"
+        id="icon_h9ku8ow_a"
         x1="180"
         x2="180"
         y1="358.605"
@@ -27,7 +27,7 @@ export const AppleMusicIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         style={{
           fillRule: "evenodd",
           clipRule: "evenodd",
-          fill: "url(#icon_425lv9z_a)",
+          fill: "url(#icon_h9ku8ow_a)",
         }}
       />
       <path

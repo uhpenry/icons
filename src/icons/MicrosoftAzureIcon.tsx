@@ -13,7 +13,7 @@ export const MicrosoftAzureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_ck8me76_a"
+          id="icon_vjxt7vp_a"
           x1="-1032.17"
           x2="-1059.21"
           y1="145.31"
@@ -25,7 +25,7 @@ export const MicrosoftAzureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopColor="#0669bc" />
         </linearGradient>
         <linearGradient
-          id="icon_ck8me76_b"
+          id="icon_vjxt7vp_b"
           x1="-1023.73"
           x2="-1029.98"
           y1="108.08"
@@ -40,7 +40,7 @@ export const MicrosoftAzureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="1" stopOpacity="0" />
         </linearGradient>
         <linearGradient
-          id="icon_ck8me76_c"
+          id="icon_vjxt7vp_c"
           x1="-1027.16"
           x2="-997.48"
           y1="147.64"
@@ -53,7 +53,7 @@ export const MicrosoftAzureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_ck8me76_a)"
+        fill="url(#icon_vjxt7vp_a)"
         d="M33.34 6.54h26.04l-27.03 80.1a4.15 4.15 0 0 1-3.94 2.81H8.15a4.14 4.14 0 0 1-3.93-5.47L29.4 9.38a4.15 4.15 0 0 1 3.94-2.83z"
       />
       <path
@@ -61,11 +61,11 @@ export const MicrosoftAzureIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         d="M71.17 60.26H29.88a1.91 1.91 0 0 0-1.3 3.31l26.53 24.76a4.17 4.17 0 0 0 2.85 1.13h23.38z"
       />
       <path
-        fill="url(#icon_ck8me76_b)"
+        fill="url(#icon_vjxt7vp_b)"
         d="M33.34 6.54a4.12 4.12 0 0 0-3.95 2.88L4.25 83.92a4.14 4.14 0 0 0 3.91 5.54h20.79a4.44 4.44 0 0 0 3.4-2.9l5.02-14.78 17.91 16.7a4.24 4.24 0 0 0 2.67.97h23.29L71.02 60.26H41.24L59.47 6.55z"
       />
       <path
-        fill="url(#icon_ck8me76_c)"
+        fill="url(#icon_vjxt7vp_c)"
         d="M66.6 9.36a4.14 4.14 0 0 0-3.93-2.82H33.65a4.15 4.15 0 0 1 3.93 2.82l25.18 74.62a4.15 4.15 0 0 1-3.93 5.48h29.02a4.15 4.15 0 0 0 3.93-5.48z"
       />
     </svg>

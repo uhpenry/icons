@@ -4,4 +4,4 @@ onlyBuiltDependencies:
   - unrs-resolver
 
 overrides:
-  '@uhpenry/icons': link:../../../AppData/Local/pnpm/global/5/node_modules/@uhpenry/icons
+  icons: link:../../../AppData/Local/pnpm/global/5/node_modules/@uhpenry/icons

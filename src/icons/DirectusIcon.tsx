@@ -12,7 +12,7 @@ export const DirectusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_hztxr1c_clip0_1255_4057)">
+      <g clipPath="url(#icon_4tm9czh_clip0_1255_4057)">
         <rect width="1024" height="1028" fill="#6644FF" />
         <path
           d="M0 856.177V0H1024V1028H987.478C944.858 1005.08 881.857 978.413 792.583 956.099C706.535 934.591 579.091 924.288 443.621 913.336C289.815 900.902 125.662 887.631 0 856.177Z"
@@ -34,7 +34,7 @@ export const DirectusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           d="M170.96 0H1024V278.073C1008.47 260.248 941.186 192.346 771.386 130.624C688.04 100.328 562.349 76.8867 428.741 51.9689C343.042 35.9861 254.087 19.396 170.96 0Z"
           fill="#B36EEE"
         />
-        <g filter="url(#icon_hztxr1c_filter0_dd_1255_4057)">
+        <g filter="url(#icon_4tm9czh_filter0_dd_1255_4057)">
           <path
             fillRule="evenodd"
             clipRule="evenodd"
@@ -45,7 +45,7 @@ export const DirectusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       </g>
       <defs>
         <filter
-          id="icon_hztxr1c_filter0_dd_1255_4057"
+          id="icon_4tm9czh_filter0_dd_1255_4057"
           x="52"
           y="222"
           width="920"
@@ -83,7 +83,7 @@ export const DirectusIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             result="shape"
           />
         </filter>
-        <clipPath id="icon_hztxr1c_clip0_1255_4057">
+        <clipPath id="icon_4tm9czh_clip0_1255_4057">
           <rect width="1024" height="1028" fill="white" />
         </clipPath>
       </defs>

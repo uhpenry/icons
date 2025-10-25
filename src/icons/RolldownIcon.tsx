@@ -13,7 +13,7 @@ export const RolldownIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       {...props}
     >
       <path
-        fill="url(#icon_mx18xgu_a)"
+        fill="url(#icon_2nmunxq_a)"
         d="M50 100c27.614 0 50-22.386 50-50S77.614 0 50 0 0 22.386 0 50s22.386 50 50 50Z"
       />
       <path
@@ -22,7 +22,7 @@ export const RolldownIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <defs>
         <linearGradient
-          id="icon_mx18xgu_a"
+          id="icon_2nmunxq_a"
           x1="50"
           x2="50"
           y1="0"

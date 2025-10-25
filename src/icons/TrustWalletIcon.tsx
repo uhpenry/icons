@@ -18,11 +18,11 @@ export const TrustWalletIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       />
       <path
         d="M443.62 72.41L222.17 0.109985V500.63C380.35 433.89 443.62 305.98 443.62 233.69V72.41Z"
-        fill="url(#icon_014jncb_paint0_linear_3_10)"
+        fill="url(#icon_inak0jo_paint0_linear_3_10)"
       />
       <defs>
         <linearGradient
-          id="icon_014jncb_paint0_linear_3_10"
+          id="icon_inak0jo_paint0_linear_3_10"
           x1="385.26"
           y1="-34.78"
           x2="216.61"

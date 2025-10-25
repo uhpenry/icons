@@ -12,7 +12,7 @@ export const AfterEffectsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       ref={ref}
       {...props}
     >
-      <g clipPath="url(#icon_s5oglo8_a)">
+      <g clipPath="url(#icon_rx1ghlj_a)">
         <path
           d="M67.521 0H14.53C6.505 0 0 6.505 0 14.53v50.94C0 73.495 6.505 80 14.53 80h52.99c8.025 0 14.53-6.505 14.53-14.53V14.53C82.051 6.505 75.546 0 67.521 0"
           fill="#00005B"
@@ -23,7 +23,7 @@ export const AfterEffectsIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         />
       </g>
       <defs>
-        <clipPath id="icon_s5oglo8_a">
+        <clipPath id="icon_rx1ghlj_a">
           <path fill="#fff" d="M0 0h82.051v80H0z" />
         </clipPath>
       </defs>

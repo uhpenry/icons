@@ -13,7 +13,7 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_p976oul_d"
+          id="icon_e9cv521_d"
           x1="16"
           x2="16"
           y1="0"
@@ -24,7 +24,7 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopOpacity=".5" />
         </linearGradient>
         <filter
-          id="icon_p976oul_b"
+          id="icon_e9cv521_b"
           width="1.08"
           height="1.097"
           x="-.04"
@@ -48,22 +48,22 @@ export const AlgorandIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
             values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.199473505 0"
           />
         </filter>
-        <circle id="icon_p976oul_a" cx="16" cy="15" r="15" />
+        <circle id="icon_e9cv521_a" cx="16" cy="15" r="15" />
       </defs>
       <use
-        xlinkHref="#icon_p976oul_a"
-        filter="url(#icon_p976oul_b)"
+        xlinkHref="#icon_e9cv521_a"
+        filter="url(#icon_e9cv521_b)"
         style={{ fillRule: "evenodd" }}
       />
       <use
-        xlinkHref="#icon_p976oul_a"
+        xlinkHref="#icon_e9cv521_a"
         fill="#627eea"
         style={{ fill: "#e5e5e5", fillOpacity: "1", fillRule: "evenodd" }}
       />
       <use
-        xlinkHref="#icon_p976oul_a"
-        fill="url(#icon_p976oul_d)"
-        style={{ fill: "url(#icon_p976oul_d)", fillRule: "evenodd" }}
+        xlinkHref="#icon_e9cv521_a"
+        fill="url(#icon_e9cv521_d)"
+        style={{ fill: "url(#icon_e9cv521_d)", fillRule: "evenodd" }}
       />
       <circle
         cx="16"

@@ -13,11 +13,11 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <style>
         {
-          ".st0{fill:url(#icon_xcmznes_SVGID_1_)}.st1{opacity:.16;fill:url(#icon_xcmznes_SVGID_2_)}.st2{fill:url(#icon_xcmznes_SVGID_3_)}.st3{opacity:.16;fill:url(#icon_xcmznes_SVGID_4_)}.st4{fill:url(#icon_xcmznes_SVGID_5_)}.st5{opacity:.15;fill:url(#icon_xcmznes_SVGID_6_)}.st6{fill:url(#icon_xcmznes_SVGID_7_)}"
+          ".st0{fill:url(#icon_wrruxty_SVGID_1_)}.st1{opacity:.16;fill:url(#icon_wrruxty_SVGID_2_)}.st2{fill:url(#icon_wrruxty_SVGID_3_)}.st3{opacity:.16;fill:url(#icon_wrruxty_SVGID_4_)}.st4{fill:url(#icon_wrruxty_SVGID_5_)}.st5{opacity:.15;fill:url(#icon_wrruxty_SVGID_6_)}.st6{fill:url(#icon_wrruxty_SVGID_7_)}"
         }
       </style>
       <linearGradient
-        id="icon_xcmznes_SVGID_1_"
+        id="icon_wrruxty_SVGID_1_"
         x1="260.967"
         x2="919.184"
         y1="871.181"
@@ -32,7 +32,7 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st0"
       />
       <linearGradient
-        id="icon_xcmznes_SVGID_2_"
+        id="icon_wrruxty_SVGID_2_"
         x1="553.505"
         x2="626.647"
         y1="617.828"
@@ -47,7 +47,7 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st1"
       />
       <linearGradient
-        id="icon_xcmznes_SVGID_3_"
+        id="icon_wrruxty_SVGID_3_"
         x1="114.663"
         x2="334.091"
         y1="744.528"
@@ -62,7 +62,7 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st2"
       />
       <linearGradient
-        id="icon_xcmznes_SVGID_4_"
+        id="icon_wrruxty_SVGID_4_"
         x1="260.948"
         x2="187.806"
         y1="744.528"
@@ -77,7 +77,7 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st3"
       />
       <linearGradient
-        id="icon_xcmznes_SVGID_5_"
+        id="icon_wrruxty_SVGID_5_"
         x1="114.663"
         x2="553.503"
         y1="237.793"
@@ -92,7 +92,7 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st4"
       />
       <linearGradient
-        id="icon_xcmznes_SVGID_6_"
+        id="icon_wrruxty_SVGID_6_"
         x1="370.656"
         x2="297.509"
         y1="301.128"
@@ -107,7 +107,7 @@ export const TabbyIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         className="st5"
       />
       <linearGradient
-        id="icon_xcmznes_SVGID_7_"
+        id="icon_wrruxty_SVGID_7_"
         x1="78.091"
         x2="736.337"
         y1="554.498"

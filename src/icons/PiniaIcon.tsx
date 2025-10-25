@@ -13,7 +13,7 @@ export const PiniaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
     >
       <defs>
         <linearGradient
-          id="icon_jotbho1_a"
+          id="icon_rbbmk4p_a"
           x1="55.342%"
           x2="42.817%"
           y1="0%"
@@ -23,7 +23,7 @@ export const PiniaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#51A256" />
         </linearGradient>
         <linearGradient
-          id="icon_jotbho1_b"
+          id="icon_rbbmk4p_b"
           x1="55.349%"
           x2="42.808%"
           y1="0%"
@@ -33,7 +33,7 @@ export const PiniaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#51A256" />
         </linearGradient>
         <linearGradient
-          id="icon_jotbho1_c"
+          id="icon_rbbmk4p_c"
           x1="50%"
           x2="50%"
           y1="0%"
@@ -43,7 +43,7 @@ export const PiniaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
           <stop offset="100%" stopColor="#52CE63" />
         </linearGradient>
         <linearGradient
-          id="icon_jotbho1_d"
+          id="icon_rbbmk4p_d"
           x1="51.378%"
           x2="44.585%"
           y1="17.473%"
@@ -54,22 +54,22 @@ export const PiniaIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         </linearGradient>
       </defs>
       <path
-        fill="url(#icon_jotbho1_a)"
+        fill="url(#icon_rbbmk4p_a)"
         d="M67.56 173.328c30.366-2.985 41.08-27.648 44.735-64.823 3.654-37.175-21.174-70.814-31.502-69.799-10.328 1.015-43.15 40.322-46.805 77.497-3.654 37.175 3.205 60.11 33.572 57.125Z"
         transform="rotate(-38 72.877 106.136)"
       />
       <path
-        fill="url(#icon_jotbho1_b)"
+        fill="url(#icon_rbbmk4p_b)"
         d="M184.454 186.277c30.367 2.986 36.394-20.032 32.74-57.207-3.655-37.175-35.645-76.4-45.973-77.415-10.328-1.015-35.989 32.542-32.334 69.717 3.654 37.175 15.201 61.92 45.567 64.905Z"
         transform="rotate(52 178.34 119.085)"
       />
       <path
-        fill="url(#icon_jotbho1_c)"
+        fill="url(#icon_rbbmk4p_c)"
         d="M129.232 151.601c27.341 0 34.878-26.184 34.878-67.013 0-40.83-25.579-80.843-34.878-80.843S93.605 43.758 93.605 84.588c0 40.829 8.286 67.013 35.627 67.013Z"
         transform="rotate(7 128.858 77.673)"
       />
       <path
-        fill="url(#icon_jotbho1_d)"
+        fill="url(#icon_rbbmk4p_d)"
         d="M113.386 330.307c56.896 0 103.038-16.528 103.038-91.482 0-74.955-46.142-136.462-103.038-136.462-56.897 0-103.002 61.507-103.002 136.462 0 74.954 46.105 91.482 103.002 91.482Z"
       />
       <ellipse

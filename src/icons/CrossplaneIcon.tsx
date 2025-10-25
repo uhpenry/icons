@@ -14,15 +14,15 @@ export const CrossplaneIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
       <defs>
         <path
           d="M.137 122.022c-.18 4.155-.172 8.316.027 12.47C.11 135.557 0 136.61 0 137.69v210.042c0 40.169 32.785 73.036 72.858 73.036h109.65c40.058 0 72.857-32.867 72.857-73.036V137.691c0-1.23-.136-2.407-.191-3.61.199-4.017.204-8.041.014-12.059C252.098 54.1 196.179 0 127.669 0 59.145 0 3.227 54.1.137 122.009v.013Z"
-          id="icon_r6d5cc9_a"
+          id="icon_8u9tpum_a"
         />
         <path
           d="M.137 122.022c-.18 4.155-.172 8.316.027 12.47C.11 135.557 0 136.61 0 137.69v210.042c0 40.169 32.785 73.036 72.858 73.036h109.65c40.058 0 72.857-32.867 72.857-73.036V137.691c0-1.23-.136-2.407-.191-3.61.199-4.017.204-8.041.014-12.059C252.098 54.1 196.179 0 127.669 0 59.145 0 3.227 54.1.137 122.009v.013Z"
-          id="icon_r6d5cc9_c"
+          id="icon_8u9tpum_c"
         />
         <path
           d="M.137 122.022c-.18 4.155-.172 8.316.027 12.47C.11 135.557 0 136.61 0 137.69v210.042c0 40.169 32.785 73.036 72.858 73.036h109.65c40.058 0 72.857-32.867 72.857-73.036V137.691c0-1.23-.136-2.407-.191-3.61.199-4.017.204-8.041.014-12.059C252.098 54.1 196.179 0 127.669 0 59.145 0 3.227 54.1.137 122.009v.013Z"
-          id="icon_r6d5cc9_e"
+          id="icon_8u9tpum_e"
         />
       </defs>
       <path
@@ -34,32 +34,32 @@ export const CrossplaneIcon = React.forwardRef<SVGSVGElement, SVGIconProps>(
         fill="#FF9234"
       />
       <g transform="translate(.635 .014)">
-        <mask id="icon_r6d5cc9_b" fill="#fff">
-          <use xlinkHref="#icon_r6d5cc9_a" />
+        <mask id="icon_8u9tpum_b" fill="#fff">
+          <use xlinkHref="#icon_8u9tpum_a" />
         </mask>
         <path
           fill="#FFCD3C"
-          mask="url(#icon_r6d5cc9_b)"
+          mask="url(#icon_8u9tpum_b)"
           d="M331.874 126.028 15.19 443.465l-93.79-94.023L238.07 32.006z"
         />
       </g>
       <g transform="translate(.635 .014)">
-        <mask id="icon_r6d5cc9_d" fill="#fff">
-          <use xlinkHref="#icon_r6d5cc9_c" />
+        <mask id="icon_8u9tpum_d" fill="#fff">
+          <use xlinkHref="#icon_8u9tpum_c" />
         </mask>
         <path
           fill="#F3807B"
-          mask="url(#icon_r6d5cc9_d)"
+          mask="url(#icon_8u9tpum_d)"
           d="m237.783 31.705-316.67 317.437-116.704-116.992L121.052-85.286z"
         />
       </g>
       <g transform="translate(.635 .014)">
-        <mask id="icon_r6d5cc9_f" fill="#fff">
-          <use xlinkHref="#icon_r6d5cc9_e" />
+        <mask id="icon_8u9tpum_f" fill="#fff">
+          <use xlinkHref="#icon_8u9tpum_e" />
         </mask>
         <path
           fill="#35D0BA"
-          mask="url(#icon_r6d5cc9_f)"
+          mask="url(#icon_8u9tpum_f)"
           d="m425.964 220.351-316.67 317.423-93.79-94.022 316.671-317.423z"
         />
       </g>
