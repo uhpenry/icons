@@ -57,14 +57,10 @@ export function getIcon(
  * - Falls back to the first icon in `svgEntry` if no match is found or an error occurs.
  * - Logs meaningful messages in case of invalid input or unexpected errors.
  */
-export function getSvg(name: string): SvgEntry | undefined {
+export function getSvg(name: string): SvgEntry | null {
   try {
     if (!name || typeof name !== 'string') {
-      console.log({
-        message:
-          '@uhpenry/icons: No valid icon name provided. Default icon has been used instead.',
-      });
-      return svgEntry[0];
+      return null;
     }
 
     const search = name.toLowerCase();
@@ -85,17 +81,9 @@ export function getSvg(name: string): SvgEntry | undefined {
         return entry;
       }
     }
-
-    // If no match found, use default icon
-    console.log({
-      message: `@uhpenry/icons: No icon found for "${name}". Default icon has been used instead.`,
-    });
-    return svgEntry[0];
+    return null;
   } catch (error: any) {
-    console.log({
-      message: `@uhpenry/icons: An unexpected error occurred while retrieving the icon — ${error?.message}. Default icon has been used instead.`,
-    });
-    return svgEntry[0];
+    return null;
   }
 }
 
